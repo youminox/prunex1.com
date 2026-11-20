@@ -1,0 +1,60 @@
+{
+  "slug": "mucilago-de-linaza",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/mucilago-de-linaza/",
+  "isPillar": false,
+  "primaryKeyword": "mucílago de linaza en Prunex1",
+  "title": "Mucílago de linaza en Prunex1: la fibra viscosa de la semilla",
+  "seoTitle": "Mucílago de linaza en Prunex1: qué es y qué aporta",
+  "metaDescription": "Mucílago de linaza en Prunex1: qué es esta fibra viscosa, de dónde viene su uso tradicional y en qué se diferencia de la semilla entera de linaza.",
+  "excerpt": "Esa textura ligeramente sedosa que recuerda al emoliente tiene una explicación: el mucílago de linaza. Te contamos qué es y en qué se diferencia de la semilla.",
+  "quickAnswer": "El mucílago de linaza en Prunex1 es la fracción viscosa que recubre la semilla de lino: una fibra soluble que, al hidratarse, forma un gel suave. Figura en séptimo lugar entre los 16 ingredientes. No equivale a la semilla entera, porque no aporta su aceite ni su parte insoluble, y su cantidad por stick no está declarada.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass mug of warm reddish-amber drink on a light wooden table beside a small ceramic bowl of golden and brown flaxseeds and a wooden spoon with a glossy translucent gel, soft late afternoon light in a simple Lima kitchen, natural minimal style, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de vidrio con bebida ámbar junto a un cuenco de semillas de linaza y una cuchara con gel brillante"
+  },
+  "blocks": [
+    { "type": "p", "text": "Pocas cosas son tan limeñas como el emolientero de la esquina en una mañana de invierno húmedo. Quien ha probado un emoliente conoce esa textura un poco espesa y resbalosa que deja en la boca; buena parte de ella viene de la linaza hervida. Esa sustancia gelatinosa que se libera de la semilla tiene nombre técnico: **mucílago**." },
+    { "type": "p", "text": "Prunex1 incluye precisamente esa fracción, y no la semilla completa. En las siguientes secciones explicamos qué es el mucílago, cómo se comporta en el agua, de dónde viene su uso tradicional y por qué no conviene confundirlo con comer linaza. Para ver dónde encaja dentro de la fórmula completa, revisa la guía de [ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "Qué es el mucílago de linaza en Prunex1" },
+    { "type": "p", "text": "La semilla de linaza (*Linum usitatissimum*) tiene una capa externa rica en polisacáridos que, al entrar en contacto con el agua, se hinchan y forman un gel. Ese material es el mucílago: una mezcla de carbohidratos complejos, principalmente arabinoxilanos y ramnogalacturonanos, que el intestino delgado no digiere y que se clasifica como **fibra soluble**." },
+    { "type": "p", "text": "En la etiqueta aparece simplemente como \"Mucílago de Linaza\", en séptimo lugar, después del alga kelp y de las frutas deshidratadas, y antes del sorbitol. La marca lo menciona en el frente del empaque entre sus ingredientes destacados, pero, como ocurre con las demás fibras, la etiqueta peruana no indica qué cantidad aporta por stick." },
+    { "type": "callout", "variant": "etiqueta", "title": "Dato de etiqueta", "text": "La tabla nutricional declara **1.7 g de fibra dietaria por porción** (1 stick de 5 g en 180 ml de agua caliente). Ese total reúne el aporte de todas las fibras de la mezcla: psyllium, inulina de achicoria, mucílago de linaza y otras. No existe un desglose por ingrediente." },
+    { "type": "h2", "text": "Una fibra viscosa: cómo se comporta en tu taza" },
+    { "type": "p", "text": "Lo que distingue a las fibras mucilaginosas es su **viscosidad**: retienen agua y aumentan la consistencia del líquido. Por eso, si dejas reposar la preparación unos minutos, notarás que se vuelve más densa. En Prunex1 ese efecto no depende solo del mucílago; el psyllium y la goma xantán también contribuyen, y juntos explican la textura algo espesa de la bebida." },
+    { "type": "p", "text": "Esta propiedad tiene una consecuencia práctica: la etiqueta indica revolver bien y consumir la preparación en su totalidad una vez lista. Si la textura te resulta extraña o se te forman grumos, en [cómo preparar Prunex1](/como-preparar-prunex1/) encontrarás trucos para lograr una mezcla uniforme." },
+    { "type": "h3", "text": "Qué hace la fibra viscosa en general" },
+    { "type": "p", "text": "En términos fisiológicos generales, las fibras solubles viscosas absorben agua, aumentan el volumen y la suavidad del contenido intestinal y pueden enlentecer el vaciamiento gástrico. Son mecanismos descritos para este tipo de fibras en la literatura científica, con dosis propias de cada estudio; no son resultados medidos con Prunex1 ni con la cantidad de mucílago que contiene." },
+    { "type": "h2", "text": "De dónde viene su uso tradicional" },
+    { "type": "p", "text": "La linaza se cultiva desde la Antigüedad, tanto por su fibra textil como por sus semillas. Diversas tradiciones populares han usado el agua de linaza como bebida suavizante para la garganta y el estómago, y en el Perú forma parte del emoliente junto con la cebada, la cola de caballo y otras hierbas que cada emolientero combina a su manera." },
+    { "type": "p", "text": "Que un uso sea tradicional no lo convierte en prueba de eficacia, pero sí explica por qué la linaza resulta un ingrediente familiar para muchas familias peruanas. En Prunex1 el mucílago se presenta ya separado y en polvo, sin necesidad de hervir ni colar." },
+    { "type": "cta", "text": "Si quieres conocer el precio vigente del doypack y comprar por el canal oficial, revisa la tienda del distribuidor." },
+    { "type": "h2", "text": "Mucílago de linaza vs semilla entera: no son lo mismo" },
+    { "type": "p", "text": "Este es el punto que más confusión genera. Cuando alguien lee \"linaza\" en una etiqueta suele pensar en todo lo que se asocia a la semilla: omega-3, lignanos, proteína. Pero el mucílago es **solo una fracción** de la semilla, la que forma el gel, y deja fuera gran parte de lo demás." },
+    { "type": "table", "caption": "Diferencias entre la semilla de linaza y su mucílago", "headers": ["Componente", "Semilla entera o molida", "Mucílago (como en Prunex1)"], "rows": [
+      ["Fibra soluble viscosa", "Sí, en la cubierta", "Sí, es su componente principal"],
+      ["Fibra insoluble", "Sí, en cantidad relevante", "No es su función"],
+      ["Aceite (ácido alfa-linolénico, omega-3)", "Sí, es una de las grasas que más la caracterizan", "No; la tabla de Prunex1 declara 0 g de grasa por porción"],
+      ["Lignanos y proteína", "Sí", "No se declaran en el producto"],
+      ["Preparación", "Moler, remojar o hervir", "Ya viene integrado al polvo"] ] },
+    { "type": "p", "text": "El detalle de la grasa es revelador: si el producto aportara aceite de linaza en cantidad significativa, la tabla nutricional no podría declarar 0 g de grasa por porción. Por eso no tiene sentido tomar Prunex1 pensando en el omega-3 de la linaza; su papel en la fórmula es el de una fibra viscosa más." },
+    { "type": "p", "text": "Si lo que quieres es comparar la bebida con preparar tu propia agua de linaza o añadir semillas molidas a la avena, lo analizamos aparte en [Prunex1 vs linaza casera](/comparativas-prunex1/vs-linaza-casera/), con costos, practicidad y fibra por porción." },
+    { "type": "callout", "variant": "aviso", "title": "Prudencia con las fibras viscosas", "text": "Las fibras que forman gel necesitan agua suficiente durante el día. Consulta con tu médico antes de tomar Prunex1 si tienes dificultad para tragar, antecedentes de obstrucción intestinal, enfermedades digestivas crónicas o tomas medicación, porque la fibra puede retrasar la absorción de algunos fármacos. Busca atención si notas dolor intenso, sangre en las heces o cambios bruscos en tu hábito intestinal." },
+    { "type": "h2", "text": "Cómo encaja con el resto de la fórmula" },
+    { "type": "p", "text": "El mucílago no trabaja solo. En Prunex1 convive con el [psyllium](/ingredientes-prunex1/psyllium/), otra fibra formadora de gel, y con la inulina de achicoria, una fibra soluble no viscosa que se fermenta en el colon. La lógica de la fórmula es combinar fibras con comportamientos distintos dentro de una bebida de 18 kcal y 0 g de azúcares añadidos." },
+    { "type": "p", "text": "FuXion comunica que el producto en conjunto ayuda a tener un adecuado tránsito intestinal y a sentirte más liviano sin las molestias de la hinchazón abdominal. Son afirmaciones de la marca sobre la fórmula completa, no del mucílago por separado. Si después de leer todo esto quieres probarlo, puedes [comprar Prunex1 en la tienda oficial](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿El mucílago de linaza en Prunex1 tiene gluten?", "a": "La linaza no es un cereal con gluten y Prunex1 lleva el sello sin gluten en su empaque. Ten en cuenta que la etiqueta advierte que se elabora en equipos donde se procesan leche, huevos y soya." },
+    { "q": "¿Por qué la bebida se pone más espesa si la dejo en la mesa?", "a": "Porque el mucílago, el psyllium y la goma xantán siguen absorbiendo agua mientras pasa el tiempo. Por eso la etiqueta indica consumir la preparación en su totalidad una vez lista, en lugar de dejarla para después." },
+    { "q": "¿Tomar Prunex1 reemplaza comer linaza en mi dieta?", "a": "No. El mucílago es solo una parte de la semilla y el producto no aporta su aceite ni su fibra insoluble. Si te gusta la linaza, puedes seguir incluyéndola en tus comidas como parte de una dieta variada." },
+    { "q": "¿La linaza cruda tiene algún riesgo?", "a": "Las semillas crudas contienen de forma natural compuestos que se reducen con el procesamiento y la cocción, motivo por el que suelen recomendarse moderación y preparación adecuada. En Prunex1 el ingrediente es un mucílago procesado, no semilla cruda entera. Ante cualquier duda puntual, consulta con un profesional de salud." }
+  ],
+  "sources": [
+    { "label": "NCCIH (NIH) – Flaxseed and Flaxseed Oil", "url": "https://www.nccih.nih.gov/health/flaxseed-and-flaxseed-oil" },
+    { "label": "Autoridad Europea de Seguridad Alimentaria (EFSA)", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/comparativas-prunex1/vs-linaza-casera/", "/ingredientes-prunex1/psyllium/", "/ingredientes-prunex1/fibra-soluble-e-insoluble/", "/que-es-prunex1/sabor-y-textura/"]
+}

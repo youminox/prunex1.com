@@ -1,0 +1,87 @@
+{
+  "slug": "contraindicaciones",
+  "pillar": "opiniones-prunex1",
+  "path": "/opiniones-prunex1/contraindicaciones/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 contraindicaciones",
+  "title": "Prunex1 contraindicaciones: quiénes no deberían tomarlo",
+  "seoTitle": "Prunex1 contraindicaciones: quién no debe tomarlo",
+  "metaDescription": "Prunex1 contraindicaciones: quién no debería tomarlo según la ficha oficial y cuándo consultar antes (niños, riñón, medicación, alergias o disfagia).",
+  "excerpt": "Reunimos en un solo lugar quiénes no deberían tomar Prunex1 según su ficha oficial y en qué situaciones de salud conviene hablar antes con el médico.",
+  "quickAnswer": "Prunex1 tiene contraindicaciones claras en su ficha oficial: no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal. Además, por sus ingredientes, conviene evitarlo o consultar antes en niños, obstrucción intestinal, dificultad para tragar, enfermedad renal, medicación crónica, problemas de tiroides y alergias, por ejemplo al carmín.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A ceramic cup of warm reddish-amber drink on a tidy kitchen counter next to a tall glass of water and a pair of reading glasses resting on a blank folded sheet of paper, soft natural daylight in a calm Lima home, minimal style. No packaging, no sachets, no pills, no text, no logos, no faces.",
+    "alt": "Taza de bebida rojiza junto a un vaso de agua y unos lentes de lectura sobre un mostrador de cocina ordenado"
+  },
+  "blocks": [
+    { "type": "p", "text": "Cualquier medicamento que compras en una botica trae un prospecto con su sección de contraindicaciones. Prunex1 no la tiene en ese formato, porque es un alimento y no un fármaco. Eso no significa que lo pueda tomar cualquiera: su ficha oficial ya excluye a algunos grupos, y sus ingredientes (fibras que absorben agua, magnesio, kelp, carmín) justifican prudencia en otros casos." },
+    { "type": "p", "text": "Esta guía reúne quiénes no deberían tomarlo y quiénes deben consultar antes. Es orientativa: tu médico, que conoce tu historia clínica, tiene la última palabra." },
+    { "type": "h2", "text": "Lo que dice la ficha oficial de FuXion" },
+    { "type": "callout", "variant": "fabricante", "title": "Restricciones según la ficha oficial", "text": "No apto para embarazadas, madres en lactancia o personas con tránsito intestinal normal. Elaborado en equipos donde se procesa leche, productos lácteos, huevos y soya. FuXion recuerda además que sus fórmulas no buscan tratar ni prevenir enfermedades." },
+    { "type": "p", "text": "Son tres exclusiones directas. Sobre embarazo y lactancia basta con lo que indica la ficha: no es apto, y cualquier molestia digestiva en esas etapas se conversa con el obstetra o el médico tratante." },
+    { "type": "p", "text": "La tercera suele pasarse por alto: si tu tránsito intestinal es normal, la propia marca indica que el producto no es para ti. Prunex1 se plantea para molestias de tránsito lento, no como bebida de rutina para todo el mundo. Tomarlo “por si acaso” no tiene respaldo en lo que comunica FuXion y puede traerte gases o heces más blandas sin necesidad." },
+    { "type": "h2", "text": "Prunex1 contraindicaciones y precauciones por situación" },
+    { "type": "table", "caption": "Resumen de situaciones en las que no conviene tomar Prunex1 o hay que consultar antes", "headers": ["Situación", "Recomendación", "Motivo principal"], "rows": [
+      ["Embarazo y lactancia", "No tomar", "Restricción de la ficha oficial"],
+      ["Tránsito intestinal normal", "No tomar", "Restricción de la ficha oficial"],
+      ["Niños", "No dar sin indicación del pediatra", "La etiqueta no tiene indicación pediátrica"],
+      ["Sospecha de obstrucción o impactación fecal", "No tomar; buscar atención médica", "La fibra que forma gel puede empeorar un bloqueo"],
+      ["Dificultad para tragar", "Consultar antes", "El psyllium espesa el líquido"],
+      ["Enfermedad renal o restricción de líquidos", "Consultar antes", "Magnesio en cantidad no declarada; 180 ml por porción"],
+      ["Medicación de uso diario", "Consultar y separar las tomas", "La fibra puede alterar la absorción de fármacos"],
+      ["Alergias conocidas a sus ingredientes", "Evitar", "Carmín, achicoria, psyllium, linaza, anís y trazas de equipos compartidos"],
+      ["Enfermedad de tiroides", "Consultar al endocrinólogo", "El kelp aporta yodo en cantidad no declarada"]
+    ] },
+    { "type": "h3", "text": "Niños" },
+    { "type": "p", "text": "La etiqueta no indica una porción para niños y la ficha no menciona uso pediátrico. El estreñimiento infantil tiene causas y manejos propios, como la alimentación, el hábito de ir al baño o el miedo a evacuar después de una deposición dolorosa, y debe evaluarlo el pediatra. Lo desarrollamos en [Prunex1 en niños](/como-preparar-prunex1/ninos/)." },
+    { "type": "h3", "text": "Obstrucción intestinal, estrechez o cirugía digestiva reciente" },
+    { "type": "p", "text": "Las fibras formadoras de gel, como el psyllium, aumentan el volumen del contenido intestinal. Eso es lo que se busca en un intestino que funciona, pero se vuelve un problema si hay un bloqueo, una estrechez (estenosis) o una impactación fecal." },
+    { "type": "p", "text": "Dolor abdominal fuerte con el vientre muy distendido, vómitos o la imposibilidad de eliminar gases son motivo de emergencia, no de preparar una bebida de fibra. Lo mismo aplica después de una cirugía abdominal: cuándo y cómo volver a la fibra lo indica el cirujano." },
+    { "type": "h3", "text": "Dificultad para tragar" },
+    { "type": "p", "text": "En Estados Unidos, la FDA exige que los productos de venta libre con psyllium y otras fibras que se hinchan adviertan del riesgo de atragantamiento si se toman sin suficiente líquido o en personas con dificultad para tragar. Prunex1 se toma ya disuelto en 180 ml, lo que reduce ese riesgo, pero la bebida espesa algo si se deja reposar." },
+    { "type": "p", "text": "Quienes tienen disfagia, secuelas de un derrame cerebral o enfermedades neurológicas que afectan la deglución deben consultar antes. Si el médico lo aprueba, lo prudente es tomarla recién preparada, sentados y sin apuro." },
+    { "type": "cta", "text": "Si ninguna de estas situaciones aplica a tu caso, revisa el precio actual y las presentaciones de Prunex1." },
+    { "type": "h3", "text": "Enfermedad renal o restricción de líquidos" },
+    { "type": "p", "text": "El magnesio figura en la lista de ingredientes, pero su cantidad no está declarada. Los riñones son los encargados de eliminar el exceso de magnesio, por lo que en la enfermedad renal crónica cualquier fuente adicional debe revisarla el nefrólogo. Además, quienes tienen indicada una restricción de líquidos, por ejemplo en diálisis o por insuficiencia cardiaca, deben contar los 180 ml de cada porción dentro de su límite diario." },
+    { "type": "h3", "text": "Si tomas medicamentos" },
+    { "type": "p", "text": "La fibra puede retrasar o reducir la absorción de algunos fármacos si coinciden en el tubo digestivo. Es una conversación necesaria si tomas a diario medicamentos para la tiroides, la diabetes, la presión, el corazón o anticoagulantes. Pregunta a tu médico o químico farmacéutico cómo espaciar las tomas; tenemos una guía específica sobre [Prunex1 y medicamentos](/como-preparar-prunex1/medicamentos/)." },
+    { "type": "h3", "text": "Alergias e intolerancias" },
+    { "type": "p", "text": "Revisa la lista completa de ingredientes antes de probar. Algunos puntos sensibles:" },
+    { "type": "ul", "items": [
+      "**Carmín:** colorante natural obtenido de la cochinilla, que puede provocar reacciones alérgicas en personas sensibilizadas.",
+      "**Achicoria:** pertenece a la familia de las asteráceas, la misma de la manzanilla; si eres alérgico a plantas de esa familia, coméntalo con tu médico.",
+      "**Psyllium, linaza y anís estrella:** poco frecuentes como alérgenos, pero relevantes si ya tuviste una reacción a alguno.",
+      "**Equipos compartidos:** se elabora donde se procesan leche, huevos y soya, algo importante si tu alergia es severa."
+    ] },
+    { "type": "p", "text": "Tienes el detalle completo en nuestra página de [alérgenos de Prunex1](/ingredientes-prunex1/alergenos/)." },
+    { "type": "h3", "text": "Tiroides" },
+    { "type": "p", "text": "El kelp es un alga que aporta yodo de forma natural, en una cantidad que la etiqueta no declara. Si tienes hipotiroidismo, hipertiroidismo o nódulos, consulta a tu endocrinólogo antes de tomarlo; lo ampliamos en [Prunex1 y tiroides](/opiniones-prunex1/tiroides/)." },
+    { "type": "h2", "text": "Otras situaciones que piden cautela" },
+    { "type": "p", "text": "No son contraindicaciones formales, pero sí casos en los que conviene pensarlo dos veces:" },
+    { "type": "ul", "items": [
+      "**Colon irritable:** la inulina y el sorbitol de la fórmula pueden empeorar gases, hinchazón o diarrea en algunas personas.",
+      "**Gastritis o estómago sensible:** la temperatura, el anís estrella y la llenura que da la fibra dependen de tu tolerancia.",
+      "**Diarrea activa:** no tiene sentido sumar fibra y sorbitol mientras dura el cuadro.",
+      "**Adultos mayores con varios medicamentos:** más interacciones posibles y, a veces, menor ingesta de agua.",
+      "**Enfermedad inflamatoria intestinal:** la alimentación en Crohn o colitis ulcerosa la define el gastroenterólogo, sobre todo si hay estrecheces."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Primero el médico, después cualquier bebida de fibra", "text": "Busca atención médica si tienes sangre en las heces, dolor abdominal intenso, fiebre, pérdida de peso sin explicación, un cambio brusco y persistente del hábito intestinal o la imposibilidad de eliminar gases. Prunex1 es un alimento: no reemplaza un diagnóstico ni un tratamiento." },
+    { "type": "h2", "text": "Cómo usar esta información en la consulta" },
+    { "type": "p", "text": "Un consejo práctico: tómale una foto al reverso del empaque, donde están la lista de ingredientes, las advertencias y el registro sanitario, y muéstrasela a tu médico. Es más útil que decir “es una bebida de fibra”, porque le permite ver el kelp, el magnesio, el sorbitol o el carmín y decidir con información real." },
+    { "type": "p", "text": "Para tener ese reverso completo y legible, compra el producto original por un canal autorizado desde nuestra página para [comprar Prunex1](/comprar-prunex1/). Y si quieres contrastar otras dudas sobre experiencias y expectativas, vuelve a la guía de [opiniones sobre Prunex1](/opiniones-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Prunex1 tiene contraindicaciones oficiales como un medicamento?", "a": "No tiene un prospecto como los fármacos, porque es un alimento. Lo más cercano son las restricciones de su ficha oficial: no apto para embarazadas, madres en lactancia o personas con tránsito intestinal normal, más la advertencia sobre equipos que procesan leche, huevos y soya." },
+    { "q": "¿Puedo tomarlo si tengo presión alta?", "a": "La hipertensión no figura entre sus restricciones y el producto es bajo en sodio: 2 mg por porción. Aun así, si tomas medicamentos para la presión, consulta cómo espaciarlos de la fibra y menciona al médico que la fórmula incluye kelp y magnesio." },
+    { "q": "¿Qué hago si tengo una reacción después de tomarlo?", "a": "Suspende la bebida. Si notas ronchas, hinchazón de labios o párpados, o dificultad para respirar, acude de inmediato a emergencias. Para molestias leves, como gases o heces blandas, coméntalo con tu médico antes de volver a tomarlo." },
+    { "q": "¿Los adultos mayores pueden tomar Prunex1?", "a": "La edad por sí sola no aparece como restricción en la ficha. Lo que conviene revisar con el médico es si hay dificultad para tragar, varios medicamentos diarios, enfermedad renal o poca ingesta de agua, situaciones más frecuentes en esta etapa." }
+  ],
+  "sources": [
+    { "label": "eCFR – 21 CFR 201.319: advertencias para gomas y mucílagos hidrófilos (psyllium)", "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-G/section-201.319" },
+    { "label": "NIH Office of Dietary Supplements – Magnesio", "url": "https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria", "url": "https://www.digesa.minsa.gob.pe/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/opiniones-prunex1/efectos-secundarios/", "/como-preparar-prunex1/medicamentos/", "/ingredientes-prunex1/alergenos/", "/opiniones-prunex1/gastritis/"]
+}

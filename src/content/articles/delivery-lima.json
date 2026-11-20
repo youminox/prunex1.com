@@ -1,0 +1,76 @@
+{
+  "slug": "delivery-lima",
+  "pillar": "precio-prunex1-peru",
+  "path": "/precio-prunex1-peru/delivery-lima/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 delivery Lima",
+  "title": "Prunex1 delivery Lima: pedido, distritos y entrega en casa",
+  "seoTitle": "Prunex1 delivery Lima y Callao: cómo pedirlo",
+  "metaDescription": "Prunex1 delivery Lima y Callao: cómo hacer el pedido en la tienda oficial, qué distritos considerar, cómo recibirlo y qué revisar del sello al llegar.",
+  "excerpt": "Cómo pedir Prunex1 con entrega a domicilio en Lima Metropolitana y el Callao, consejos por zona para que el repartidor llegue sin problemas y qué revisar al abrir el paquete.",
+  "quickAnswer": "El delivery de Prunex1 en Lima se pide en la tienda oficial del distribuidor: eliges el doypack de 28 o de 7 sticks, ingresas tu dirección en Lima Metropolitana o el Callao y el sistema calcula el envío antes de pagar. Al recibirlo, revisa que el doypack esté sellado y que el lote y el vencimiento se lean bien.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A glass mug of warm reddish-amber infusion on a small balcony table on an overcast grey Lima morning, soft diffused light from the typical coastal mist, blurred city rooftops and a distant Pacific coastline in the background, a few star anise pods on a saucer, calm urban atmosphere, no packaging, no sachets, no text, no logos, no people",
+    "alt": "Taza de infusión rojiza en un balcón limeño durante una mañana gris de garúa"
+  },
+  "blocks": [
+    { "type": "p", "text": "Entre el tráfico de la Javier Prado, las colas del fin de semana y el hecho de que Prunex1 no está en los anaqueles de las boticas, salir a buscarlo no tiene mucho sentido. Si vives en Lima o el Callao, lo práctico es pedirlo a domicilio desde la tienda oficial y recibirlo sellado en tu puerta." },
+    { "type": "p", "text": "Si te preguntas por qué no lo encuentras en tiendas físicas, lo explicamos en [Prunex1 en farmacias y supermercados](/precio-prunex1-peru/farmacias-y-supermercados/). Aquí nos centramos en cómo hacer el pedido, cómo facilitarle la vida al repartidor y qué revisar cuando llega." },
+    { "type": "h2", "text": "Cómo pedir Prunex1 con delivery en Lima" },
+    { "type": "steps", "items": [
+      { "name": "Abre la tienda oficial", "text": "Entra desde la [página de compra de Prunex1](/comprar-prunex1/) o directamente a la [tienda del distribuidor](https://carlos-lingan.site.fuxion.com/prunex1/)." },
+      { "name": "Elige tu presentación", "text": "Doypack de 28 sticks (S/ 76.00 de catálogo) o de 7 sticks (S/ 21.00). Agrégalo al carrito." },
+      { "name": "Ingresa la dirección completa", "text": "Distrito, avenida o calle, número, departamento o interior, urbanización y una referencia. Agrega un celular que vayas a contestar." },
+      { "name": "Revisa el resumen", "text": "Antes de pagar verás el subtotal, el costo de envío calculado para tu distrito y el plazo estimado. Si algo no te cuadra, corrige la dirección en ese momento." },
+      { "name": "Paga y guarda el número de pedido", "text": "Completa el pago con tarjeta y conserva el correo de confirmación para hacer seguimiento." }
+    ] },
+    { "type": "p", "text": "Para el detalle de medios de pago y del comprobante, revisa [cómo comprar Prunex1 con tarjeta](/precio-prunex1-peru/formas-de-pago/)." },
+    { "type": "h2", "text": "¿A qué distritos de Lima y Callao llega el delivery?" },
+    { "type": "p", "text": "Lima Metropolitana tiene 43 distritos y la Provincia Constitucional del Callao, siete. El pedido se hace de la misma forma desde cualquiera de ellos; la cobertura exacta, el costo y el plazo para tu dirección te los confirma el sistema al momento de ingresarla. No publicamos tarifas por distrito porque cambian y preferimos no darte cifras desactualizadas." },
+    { "type": "p", "text": "Lo que sí podemos darte son consejos por zona para que la entrega salga a la primera:" },
+    { "type": "table", "caption": "Consejos para recibir Prunex1 según tu zona de Lima y Callao", "headers": ["Zona", "Distritos de ejemplo", "Consejo para la entrega"], "rows": [
+      ["Lima Moderna", "Miraflores, San Isidro, Surco, San Borja, Jesús María, Lince, Magdalena", "En edificios con conserjería, autoriza al conserje a recibir o indica el número de departamento y torre"],
+      ["Lima Norte", "Los Olivos, Comas, Independencia, San Martín de Porres, Puente Piedra", "Usa como referencia una avenida principal o un paradero conocido"],
+      ["Lima Este", "San Juan de Lurigancho, Ate, Santa Anita, La Molina, El Agustino", "Si vives en una calle con reja o tranquera, anota quién abre y en qué horario"],
+      ["Lima Sur", "Chorrillos, San Juan de Miraflores, Villa María del Triunfo, Villa El Salvador", "En zonas en crecimiento, describe la fachada y la manzana y lote"],
+      ["Callao", "Callao Cercado, Bellavista, La Perla, La Punta, Ventanilla", "Selecciona bien el distrito: muchas direcciones se confunden entre Callao Cercado y Bellavista"]
+    ] },
+    { "type": "cta", "text": "Ingresa tu dirección en la tienda oficial y mira cuánto cuesta el delivery a tu distrito antes de pagar." },
+    { "type": "h2", "text": "Recibir el pedido en casa, en la oficina o con el conserje" },
+    { "type": "p", "text": "Elige la dirección donde realmente vas a estar. Si de lunes a viernes pasas el día en una oficina de San Isidro, quizás te convenga recibirlo ahí: deja tu nombre completo en recepción y avisa en el campo de referencias que se trata de un edificio corporativo." },
+    { "type": "p", "text": "Si lo vas a recibir en casa y no siempre hay alguien, indica en las referencias quién puede firmar por ti. Y mantén el celular a la mano: una llamada perdida suele ser la diferencia entre recibir hoy o reprogramar." },
+    { "type": "h2", "text": "Revisa el sello antes de abrir el doypack" },
+    { "type": "p", "text": "Comprar en la tienda oficial reduce mucho los riesgos, pero un paquete puede golpearse en el camino. Antes de abrir, comprueba:" },
+    { "type": "ul", "items": [
+      "Que el doypack esté sellado y el cierre no muestre cortes ni pegamento extraño.",
+      "Que el lote y la fecha de vencimiento estén impresos y se lean con claridad.",
+      "Que el empaque no esté inflado, mojado ni con manchas de humedad.",
+      "Que, al palpar los sticks, el polvo se sienta suelto y no en bloques duros."
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Datos que debes encontrar en el empaque", "text": "Denominación «bebida instantánea en polvo a base de fibras y extractos vegetales», sabor guindón; contenido de 28 sticks x 5 g (140 g) o de 7 sticks; modo de empleo de 1 stick en 180 ml de agua caliente; lista de ingredientes que empieza por tapioca en polvo; fabricante FuXion Biotech S.A.C. (Lurín, Lima) y el registro sanitario impreso en el reverso." },
+    { "type": "p", "text": "Si quieres saber cómo leer y verificar el código sanitario, revisa [el registro sanitario de Prunex1](/que-es-prunex1/registro-sanitario/). Ante cualquier problema, toma fotos antes de abrir y comunícate con tu número de pedido." },
+    { "type": "h2", "text": "Primeros cuidados en casa con la humedad limeña" },
+    { "type": "p", "text": "Lima no es una ciudad seca. En invierno, con la garúa y paredes que sudan, y en verano, con el calor pegajoso, un empaque mal cerrado absorbe humedad y el polvo se apelmaza. La etiqueta pide guardarlo en un lugar fresco y seco." },
+    { "type": "p", "text": "En la práctica: cierra bien el zip después de sacar cada stick, guárdalo en una alacena y no lo dejes al lado del hervidor ni sobre la refrigeradora, que despide calor. Más detalles en [cómo conservar Prunex1](/como-preparar-prunex1/conservar-y-vencimiento/)." },
+    { "type": "callout", "variant": "aviso", "title": "Un recordatorio de salud", "text": "Prunex1 es un alimento con 1.7 g de fibra por porción, no un medicamento. Si tomas medicación, tienes una enfermedad crónica o presentas dolor abdominal intenso, sangre en las heces o pérdida de peso sin causa aparente, consulta con un médico. Según la ficha oficial de FuXion, no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." },
+    { "type": "p", "text": "Y si todavía estás comparando presentaciones o quieres ver el panorama completo de costos, vuelve a la [guía del precio de Prunex1 en Perú](/precio-prunex1-peru/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo pedir Prunex1 para que lo reciba alguien en otro distrito?", "a": "Sí. Paga desde tu cuenta y escribe la dirección y el celular de la persona que lo va a recibir. Avísale con tiempo para que esté pendiente de la llamada del repartidor." },
+    { "q": "¿Qué pasa si no estoy cuando llega el repartidor?", "a": "Lo habitual es que se intente coordinar por teléfono. Por eso conviene dejar un celular activo y, si es posible, a otra persona autorizada para recibir en la misma dirección." },
+    { "q": "¿Me conviene más el doypack de 28 sticks si voy a pagar delivery?", "a": "En términos de precio, sí: el envío se paga por pedido y el doypack de 28 sale a S/ 2.71 por stick frente a S/ 3.00 en el de 7. Si solo quieres probar el sabor, el de 7 sticks sigue siendo una opción válida." },
+    { "q": "¿Puedo recoger el pedido en persona para ahorrar el envío?", "a": "La tienda online está pensada para entrega a domicilio y las opciones disponibles aparecen en el checkout. Si ves una alternativa de recojo, el propio sistema te indicará dónde y cómo." }
+  ],
+  "sources": [
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" },
+    { "label": "DIGESA – registro sanitario de alimentos", "url": "https://www.digesa.minsa.gob.pe/" },
+    { "label": "Indecopi – protección al consumidor", "url": "https://www.gob.pe/indecopi" }
+  ],
+  "related": [
+    "/precio-prunex1-peru/envio-a-provincias/",
+    "/precio-prunex1-peru/formas-de-pago/",
+    "/que-es-prunex1/original-vs-falsificado/",
+    "/como-preparar-prunex1/conservar-y-vencimiento/"
+  ]
+}

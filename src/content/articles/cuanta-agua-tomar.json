@@ -1,0 +1,80 @@
+{
+  "slug": "cuanta-agua-tomar",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/cuanta-agua-tomar/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 y agua",
+  "title": "Prunex1 y agua: cuánta tomar durante el día y por qué importa",
+  "seoTitle": "Prunex1 y agua: cuánta tomar en el día y por qué",
+  "metaDescription": "Prunex1 y agua: por qué su fibra necesita líquido durante todo el día, cómo saber si te hidratas bien e ideas para el verano y el invierno de Lima.",
+  "excerpt": "La taza de 180 ml es solo el comienzo. Te contamos por qué la fibra de Prunex1 necesita agua repartida en el día y cómo lograrlo con el clima de Lima.",
+  "quickAnswer": "Prunex1 y agua van de la mano: además de los 180 ml para preparar cada stick, su fibra necesita líquido repartido durante el día para formar un gel suave. No hay una cifra única para todos; guíate por tu sed, el color de tu orina, el calor y tu actividad. Si tienes indicación médica de restringir líquidos, consulta primero.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A tall clear glass carafe of water with lemon slices next to a small ceramic cup of reddish-amber drink on a sunny balcony table, summer afternoon light, a bowl of watermelon cubes and cucumber, coastal Lima rooftops softly blurred in the background, fresh and minimal, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Jarra de agua con limón, taza de bebida ámbar y sandía en una terraza soleada de Lima"
+  },
+  "blocks": [
+    { "type": "p", "text": "Piensa en una esponja seca de cocina. Si le echas apenas un chorrito de agua, queda rígida y áspera; si la dejas empaparse, se vuelve blanda y flexible. La fibra soluble que contiene Prunex1 se comporta de un modo parecido, y por eso hablar de Prunex1 sin hablar de agua es contar solo la mitad de la historia." },
+    { "type": "p", "text": "En este artículo no repasamos cómo preparar la taza, que ya explicamos en la [guía para preparar Prunex1 paso a paso](/como-preparar-prunex1/). Aquí nos enfocamos en el agua que tomas antes, después y alrededor de esa taza." },
+    { "type": "h2", "text": "Prunex1 y agua: dos cantidades distintas que no debes confundir" },
+    { "type": "p", "text": "Cuando alguien pregunta cuánta agua necesita con Prunex1, en realidad suele estar mezclando dos cosas:" },
+    { "type": "ul", "items": [
+      "**El agua de la preparación**: la que indica la etiqueta, 180 ml de agua caliente por cada stick de 5 g. Esa cantidad es fija y sirve para que el polvo se disuelva y tenga la textura prevista. Si no tienes medidor, mira [cómo calcular 180 ml en casa](/como-preparar-prunex1/cuanto-es-180-ml/).",
+      "**El agua del resto del día**: la que bebes en el desayuno, en la oficina, con el almuerzo y por la tarde. Esa no la fija la etiqueta, pero es la que más influye en cómo se lleva la fibra con tu organismo."
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que indica la etiqueta", "text": "Disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente y revolver bien. Una vez preparado, consumir en su totalidad. La etiqueta no establece una cantidad de agua adicional para el resto del día." },
+    { "type": "h2", "text": "Por qué la fibra necesita agua durante todo el día" },
+    { "type": "p", "text": "Entre los ingredientes de Prunex1 están el psyllium, el mucílago de linaza y la goma xantán, que tienen en común algo muy concreto: retienen agua y forman un gel. Ese gel es el que aporta volumen y suavidad al contenido del intestino. Para formarse bien necesita líquido disponible, y no solo el de la taza." },
+    { "type": "p", "text": "Si el cuerpo anda corto de agua, la fibra compite por el poco líquido que hay. El resultado puede ser una sensación de pesadez o deposiciones más secas, que es justo lo contrario de lo que se busca. Por eso, en las indicaciones generales de productos con fibras tipo psyllium se insiste en acompañarlos con suficiente líquido." },
+    { "type": "p", "text": "La inulina de achicoria funciona distinto: es una fibra que fermenta la microbiota del colon. Aun así, una buena hidratación general ayuda a que el aumento de fibra en la dieta resulte más cómodo. Puedes profundizar en esa diferencia en [fibra soluble e insoluble en Prunex1](/ingredientes-prunex1/fibra-soluble-e-insoluble/)." },
+    { "type": "h2", "text": "¿Cuánta agua tomar en general?" },
+    { "type": "p", "text": "No existe una cifra mágica válida para todos. Las necesidades cambian según tu peso, tu edad, el calor, cuánto sudas, tu actividad física y lo que comes: un plato de sopa o una porción de sandía también hidratan. Las autoridades de nutrición publican valores de referencia de agua total, pero incluyen la que viene de los alimentos y son promedios poblacionales, no una orden individual." },
+    { "type": "p", "text": "En la práctica, estas señales sirven más que contar vasos con angustia:" },
+    { "type": "ul", "items": [
+      "**Orina de color amarillo pálido** durante la mayor parte del día suele indicar una hidratación adecuada; muy oscura sugiere que te falta líquido.",
+      "**Sed frecuente, boca seca o dolor de cabeza** a media tarde pueden ser avisos de que bebiste poco.",
+      "**Repartir es mejor que concentrar**: varios vasos a lo largo de la jornada funcionan mejor que una botella entera de golpe al llegar a casa.",
+      "**Más calor o más ejercicio, más agua**: un día de playa en Punta Hermosa no se parece a una tarde de escritorio."
+    ] },
+    { "type": "cta", "text": "¿Ya tienes tu botella lista? Revisa el precio actual del doypack de 28 sticks y pide tu Prunex1 original." },
+    { "type": "h2", "text": "Ideas para hidratarte en el verano de Lima" },
+    { "type": "p", "text": "Entre enero y marzo, el calor húmedo limeño hace que sudes incluso sin darte cuenta, sobre todo si te mueves en transporte público o caminas al mediodía. Algunas ideas sencillas:" },
+    { "type": "ul", "items": [
+      "Lleva una botella reutilizable en la mochila y rellénala en la oficina, en lugar de esperar a tener sed.",
+      "Prepara una jarra de agua con rodajas de limón, hierbabuena o pepino y déjala en la refrigeradora; se toma con más ganas.",
+      "Suma frutas con mucha agua: sandía, piña, papaya o naranja en el desayuno o como media tarde.",
+      "Si almuerzas cebiche o un menú salado, acompáñalo con agua y no solo con gaseosa.",
+      "Modera las bebidas azucaradas y la chicha muy dulce: hidratan, pero suman azúcar que quizás no buscas."
+    ] },
+    { "type": "h2", "text": "Ideas para el invierno húmedo y la garúa" },
+    { "type": "p", "text": "En invierno pasa lo contrario: el cielo gris y la humedad hacen que casi no sientas sed, y muchas personas pasan horas con apenas un café. Ahí la hidratación se descuida sin que lo notes." },
+    { "type": "ul", "items": [
+      "Aprovecha las infusiones calientes sin azúcar o con poca: manzanilla, hierba luisa, anís o muña cuentan como líquido. Si quieres combinarlas con tu taza, revisa [cómo tomar Prunex1 con infusiones](/como-preparar-prunex1/con-infusiones/).",
+      "La sopa o el caldo del menú del día también suman agua.",
+      "Pon una alarma suave en el celular a media mañana y a media tarde para recordar un vaso de agua tibia.",
+      "Ten en cuenta que el café y el alcohol no reemplazan al agua; si los tomas, acompáñalos con un vaso adicional."
+    ] },
+    { "type": "h2", "text": "Quién debe tener cuidado con aumentar el agua" },
+    { "type": "p", "text": "Beber más agua es buena idea para la mayoría, pero no para todos. Algunas personas tienen indicación médica de controlar los líquidos y otras deben vigilar la combinación de fibra y medicación." },
+    { "type": "callout", "variant": "aviso", "title": "Consulta antes de cambiar tu hidratación", "text": "Si tienes insuficiencia cardíaca, enfermedad renal u otra condición con restricción de líquidos, habla con tu médico antes de aumentar el agua o sumar fibra. También consulta si tienes dificultad para tragar, dolor abdominal intenso, sangre en las heces o un cambio brusco del hábito intestinal. Prunex1 es un alimento, no un medicamento." },
+    { "type": "p", "text": "Los adultos mayores merecen una mención aparte, porque la sensación de sed disminuye con la edad. Si vas a preparar Prunex1 para tus padres o abuelos, conviene estar atento a que beban a lo largo del día y a su medicación; lo explicamos en [Prunex1 en adultos mayores](/como-preparar-prunex1/adultos-mayores/). Y si ya decidiste probarlo, puedes hacerlo desde nuestra [página oficial de compra de Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo preparar Prunex1 con más de 180 ml para hidratarme más?", "a": "La etiqueta indica 180 ml por stick, y esa proporción da la textura y el sabor previstos. Si quieres más líquido, es mejor tomar un vaso de agua aparte que diluir la taza. Así respetas el modo de empleo y además sumas hidratación." },
+    { "q": "¿El agua de la taza de Prunex1 cuenta para mi hidratación diaria?", "a": "Sí, esos 180 ml son líquido que entra a tu organismo. Pero es una cantidad pequeña frente a lo que necesitas en todo el día. Considérala parte del total, no un reemplazo del agua que bebes en las demás horas." },
+    { "q": "¿Sirve el agua con gas o el agua de la botella del dispensador?", "a": "Cualquier agua segura para beber cuenta para la hidratación del día, con o sin gas. Para preparar la taza, la etiqueta pide agua caliente, así que el dispensador de la oficina con salida caliente funciona bien si el agua es potable." },
+    { "q": "¿Qué pasa si tomo Prunex1 y casi no bebo agua ese día?", "a": "La fibra puede sentirse más pesada y algunas personas notan incomodidad o deposiciones más secas. No es peligroso en la mayoría de casos puntuales, pero conviene corregirlo. Si aparecen dolor intenso o distensión marcada, suspende y consulta a un médico." }
+  ],
+  "sources": [
+    { "label": "EFSA – Scientific Opinion on Dietary Reference Values for water", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/1459" },
+    { "label": "NIDDK – Salud digestiva", "url": "https://www.niddk.nih.gov/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": [
+    "/como-preparar-prunex1/cuanto-es-180-ml/",
+    "/como-preparar-prunex1/errores-al-prepararlo/",
+    "/ingredientes-prunex1/fibra-soluble-e-insoluble/",
+    "/como-preparar-prunex1/cuanto-tarda-en-hacer-efecto/"
+  ]
+}

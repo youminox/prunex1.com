@@ -1,0 +1,75 @@
+{
+  "slug": "con-infusiones",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/con-infusiones/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 con manzanilla",
+  "title": "Prunex1 con manzanilla y otras infusiones: sabor y precauciones",
+  "seoTitle": "Prunex1 con manzanilla: cómo mezclarlo con infusiones",
+  "metaDescription": "¿Prunex1 con manzanilla, hierba luisa o anís? Cómo prepararlo con una infusión de 180 ml, qué cambia en el sabor y qué precauciones conviene tener.",
+  "excerpt": "Preparar Prunex1 con manzanilla, hierba luisa o anís en vez de agua sola es posible como variante casera. Te contamos cómo hacerlo bien, qué cambia en el sabor y qué cuidar con cada hierba.",
+  "quickAnswer": "Puedes preparar Prunex1 con manzanilla u otra infusión de hierbas como variante casera: usa la infusión como si fuera los 180 ml de agua caliente que indica la etiqueta, retira la bolsita antes de añadir el stick y revuelve de inmediato. Cambia el sabor, no lo que aporta el producto, y algunas hierbas exigen precauciones.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass cup of warm reddish-amber drink on a rustic wooden tray beside a small bowl of dried chamomile flowers, a few lemongrass leaves and two star anise pods, a ceramic teapot slightly out of focus, grey drizzly afternoon light from a window in a cozy Lima home, calm minimal style, shallow depth of field. NO packaging, NO sachets, NO tea bags with labels, NO text, NO logos, NO visible faces.",
+    "alt": "Taza de vidrio con bebida rojiza ámbar junto a flores secas de manzanilla, hojas de hierba luisa y anís estrella"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas limeñas la tetera no descansa entre junio y septiembre. Con la garúa pegada a las ventanas, una agüita de manzanilla o de hierba luisa es casi un ritual familiar. Por eso es lógico que mucha gente pregunte si puede preparar **Prunex1 con manzanilla** u otra infusión en lugar de agua sola." },
+    { "type": "p", "text": "La respuesta corta: se puede hacer como variante casera, pero conviene saber qué cambia en la taza, qué dice exactamente la etiqueta y qué cuidados pide cada hierba. Aquí lo revisamos sin inflar beneficios, porque la infusión modifica el sabor, no lo que el producto es." },
+    { "type": "h2", "text": "¿Se puede preparar Prunex1 con manzanilla en lugar de agua?" },
+    { "type": "p", "text": "La etiqueta de Prunex1 indica disolver un stick de 5 g en una taza de 180 ml de **agua caliente**. No menciona infusiones, así que usar manzanilla es una **variante no oficial**: el empaque no la prohíbe, pero tampoco es lo que indica el fabricante. Si quieres la referencia exacta, la tienes en nuestra [guía completa para preparar Prunex1](/como-preparar-prunex1/)." },
+    { "type": "p", "text": "En la práctica, una infusión de hierbas sin azúcar es agua caliente con aroma. Sus calorías son prácticamente nulas, así que los datos declarados siguen siendo tu referencia: **18 kcal, 1.7 g de fibra dietaria y 0 g de azúcares añadidos** por porción. Lo que sí cambia es el sabor y, según la hierba, las precauciones que debes tener en cuenta." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que indica el empaque", "text": "Modo de empleo: «Disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente, y revolver bien. Una vez preparado consumir en su totalidad». Cualquier otra base líquida, incluida la manzanilla, es una adaptación casera." },
+    { "type": "h2", "text": "Cómo hacer tu taza con infusión, paso a paso" },
+    { "type": "p", "text": "La clave es que la infusión **reemplace** al agua, no que se sume a ella. Si preparas un tazón grande de manzanilla y luego echas el stick, la bebida queda más diluida que lo indicado y el sabor a guindón se pierde entre tanta hierba." },
+    { "type": "steps", "items": [
+      { "name": "Mide el líquido", "text": "Calienta el equivalente a una taza de 180 ml. Si no tienes medidor, revisa [cuánto son 180 ml con las tazas de casa](/como-preparar-prunex1/cuanto-es-180-ml/)." },
+      { "name": "Prepara una infusión suave", "text": "Deja reposar la bolsita o un puñadito de hojas entre 3 y 5 minutos. Una infusión ligera acompaña mejor al guindón que una muy cargada." },
+      { "name": "Retira la hierba", "text": "Saca la bolsita o cuela las hojas antes de añadir el polvo. Si la dejas dentro, la fibra se le pega y aparecen grumos." },
+      { "name": "Añade el stick y revuelve", "text": "Vierte el contenido completo del stick y revuelve de inmediato, sin pausas, hasta que no queden partículas flotando." },
+      { "name": "Tómalo completo", "text": "Como indica la etiqueta, consume toda la preparación. Con el reposo la bebida espesa por el psyllium y la goma xantán de la fórmula." }
+    ] },
+    { "type": "h2", "text": "Manzanilla, hierba luisa o anís: cómo cambia el sabor" },
+    { "type": "p", "text": "Prunex1 tiene sabor guindón con notas de anís estrella y limón, y un dulzor suave que viene de la estevia y el sorbitol. Cada hierba conversa distinto con ese perfil:" },
+    { "type": "table", "caption": "Infusiones frecuentes en Perú combinadas con Prunex1", "headers": ["Infusión", "Cómo queda el sabor", "A tener en cuenta"], "rows": [
+      ["Manzanilla", "Floral y suave; redondea el dulzor del guindón sin taparlo", "Familia de la margarita (asteráceas); posibles interacciones con algunos medicamentos"],
+      ["Hierba luisa", "Fresca y alimonada; combina con el limón deshidratado de la fórmula", "Prepárala ligera: si está muy concentrada domina sobre la fruta"],
+      ["Anís", "Refuerza la nota anisada que el producto ya tiene", "Puede resultar intenso; compra el anís en un lugar confiable"]
+    ] },
+    { "type": "p", "text": "Un consejo práctico: si recién empiezas, prueba una primera taza solo con agua para conocer el sabor original. Así sabrás si la infusión de verdad te gusta más o si estás tapando algo que no te molestaba. Lo describimos con detalle en [cómo sabe Prunex1 y qué textura tiene](/que-es-prunex1/sabor-y-textura/)." },
+    { "type": "cta", "text": "¿Quieres probar tu combinación favorita? Mira el precio vigente del doypack de 28 sticks en la tienda del distribuidor autorizado." },
+    { "type": "h2", "text": "Precauciones al mezclar Prunex1 con infusiones" },
+    { "type": "h3", "text": "Manzanilla y alergia a plantas de la familia de la margarita" },
+    { "type": "p", "text": "La manzanilla pertenece a la familia de las asteráceas, la misma de la margarita, el crisantemo y la ambrosía. La achicoria, de donde proviene la inulina de Prunex1, también es de esa familia. Si alguna vez tuviste reacción a estas plantas, consulta antes con tu médico: añadir manzanilla suma otra posible fuente de alérgenos a la misma taza." },
+    { "type": "h3", "text": "Anís: ojo con lo que compras a granel" },
+    { "type": "p", "text": "La fórmula ya incluye anís estrella en polvo y su aceite esencial, así que una infusión de anís intensifica esa nota. Si compras anís estrella suelto en el mercado, elige un puesto o marca de confianza: existe una especie japonesa muy parecida (*Illicium anisatum*) que no es apta para consumo y que se ha llegado a confundir con la culinaria. Lo explicamos en el artículo sobre el [anís estrella de la fórmula](/ingredientes-prunex1/anis-estrella/)." },
+    { "type": "h3", "text": "Medicamentos y condiciones de salud" },
+    { "type": "p", "text": "Algunas hierbas, como la manzanilla, se han señalado por posibles interacciones con ciertos fármacos, por ejemplo anticoagulantes. A eso se suma que la fibra puede retrasar la absorción de algunos medicamentos. Si tomas medicación diaria, revisa nuestras pautas sobre [Prunex1 y medicamentos](/como-preparar-prunex1/medicamentos/) y pregunta a tu médico o químico farmacéutico." },
+    { "type": "h3", "text": "Endulzantes, temperatura y cafeína" },
+    { "type": "ul", "items": [
+      "No hace falta azúcar ni miel: la fórmula ya trae estevia y sorbitol. Endulzar suma calorías y azúcares que el producto, con sello sin azúcares, no tiene.",
+      "Deja que la taza baje un poco de temperatura antes de tomarla para no quemarte. Servirla hirviendo no cambia lo que hace la fibra.",
+      "Este artículo trata de infusiones de hierbas. El té negro, el té verde y otras bebidas con cafeína son otra historia; si eres sensible a la cafeína, mejor no mezclarlas."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar a un médico", "text": "Prunex1 es un alimento, no un medicamento, y ninguna infusión lo convierte en tratamiento. Consulta si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación o cambios bruscos en tu hábito intestinal. Según la ficha oficial de FuXion, no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." },
+    { "type": "h2", "text": "¿Vale la pena cambiar el agua por una infusión?" },
+    { "type": "p", "text": "Depende de por qué lo hagas. Si el sabor guindón solo no te termina de convencer, una manzanilla suave o una hierba luisa pueden hacer la taza más agradable y ayudarte a terminarla completa, que es justo lo que pide la etiqueta." },
+    { "type": "p", "text": "Si lo haces pensando que la hierba refuerza el producto, no hay evidencia de eso: lo que aporta Prunex1 está en el stick, no en la bolsita. Tampoco conviene convertir la taza en una mezcla de cinco hierbas; cuanto más simple, más fácil es saber qué te cae bien y qué no." },
+    { "type": "p", "text": "Hay, además, un punto cultural que no hay que subestimar. Tomar algo caliente en la oficina de San Isidro o al volver a casa en una tarde húmeda es un hábito muy nuestro. Si ese gesto te ayuda a ser constante con tu taza, adelante, respetando siempre la porción. Cuando quieras reponer, puedes [comprar Prunex1 original](/comprar-prunex1/) en la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo usar manzanilla con miel o azúcar para prepararlo?", "a": "Puedes, pero no lo recomendamos. Prunex1 ya viene endulzado con estevia y sorbitol, y tiene 0 g de azúcares añadidos. La miel o el azúcar suman calorías y azúcares libres que cambian por completo el perfil de la bebida." },
+    { "q": "¿Sirve una infusión fría o al tiempo?", "a": "La etiqueta indica agua caliente, y en líquido frío el polvo se dispersa peor y tiende a formar grumos. Si prefieres beberlo menos caliente, prepáralo con la infusión caliente y deja que se entibie unos minutos, sin olvidar que sigue espesando." },
+    { "q": "¿Cambian las calorías si uso una infusión en vez de agua?", "a": "Una infusión de hierbas sin endulzar aporta una cantidad de energía insignificante. Por eso los valores de la etiqueta, 18 kcal y 1.7 g de fibra por porción, siguen siendo la referencia válida." },
+    { "q": "¿Puedo mezclar dos hierbas en la misma taza?", "a": "Sí, por ejemplo manzanilla con un poco de hierba luisa, siempre que el total siga siendo una taza de 180 ml. Si tienes alergias o tomas medicamentos, es mejor quedarte con una sola hierba que ya sepas que toleras." },
+    { "q": "¿La manzanilla hace que Prunex1 funcione mejor?", "a": "No hay estudios que lo demuestren. La infusión cambia el aroma y el sabor de la taza, pero la composición del producto es la misma. Elige la hierba por gusto, no por una expectativa de efecto." }
+  ],
+  "sources": [
+    { "label": "NCCIH (NIH) – Chamomile", "url": "https://www.nccih.nih.gov/health/chamomile" },
+    { "label": "U.S. Food and Drug Administration (FDA)", "url": "https://www.fda.gov/" },
+    { "label": "NIDDK – Salud digestiva", "url": "https://www.niddk.nih.gov/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/como-preparar-prunex1/sin-grumos/", "/como-preparar-prunex1/con-jugo/", "/que-es-prunex1/sabor-y-textura/", "/ingredientes-prunex1/anis-estrella/"]
+}

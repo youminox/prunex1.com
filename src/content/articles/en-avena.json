@@ -1,0 +1,76 @@
+{
+  "slug": "en-avena",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/en-avena/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 en avena",
+  "title": "Prunex1 en avena: cómo añadirlo y qué textura esperar",
+  "seoTitle": "Prunex1 en avena: variante casera paso a paso",
+  "metaDescription": "¿Se puede poner Prunex1 en avena? Cómo añadirlo a avena cocida o remojada, qué pasa con la textura y el sabor, y por qué la etiqueta indica agua caliente.",
+  "excerpt": "Mezclar Prunex1 con la avena del desayuno es una variante casera que mucha gente prueba. Te explicamos cómo hacerlo sin que quede gomoso, qué cambia respecto de la preparación oficial y qué cuidar.",
+  "quickAnswer": "Puedes añadir Prunex1 en avena como variante casera, no oficial: retira la avena cocida del fuego, espolvorea el stick en lluvia mientras revuelves y agrega un chorrito de agua caliente si espesa demasiado. En avena remojada, incorpóralo al momento de comer. La etiqueta indica disolverlo en 180 ml de agua caliente; esa sigue siendo la forma de referencia.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A rustic ceramic bowl of creamy warm oatmeal with a soft reddish-amber swirl, topped with thin apple slices, a cinnamon stick and two cloves, a spoon resting on the side, wooden breakfast table by a window with grey overcast winter light in a Lima home, steam rising, cozy minimal style, shallow depth of field. NO packaging, NO sachets, NO text, NO logos, NO visible faces.",
+    "alt": "Tazón de avena caliente con un remolino rojizo ámbar, rodajas de manzana, canela en rama y clavo de olor"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas del Perú la avena es casi una institución: con canela y clavo en las mañanas de invierno, con manzana picada o en la versión del carrito de la esquina, bien caliente antes de subir a la combi. No sorprende que, al tener un doypack en la cocina, alguien se pregunte si puede echar el stick directamente en el tazón." },
+    { "type": "p", "text": "Poner **Prunex1 en avena** es posible, pero conviene dejar algo claro desde el inicio: es una **variante casera, no oficial**. La etiqueta indica disolver un stick en agua caliente, y todo lo que se aleje de eso corre por tu cuenta. Aquí te contamos cómo hacerlo bien si decides probar, y en qué casos es mejor quedarse con la taza de siempre. La forma estándar está en la [guía oficial para preparar Prunex1](/como-preparar-prunex1/)." },
+    { "type": "h2", "text": "¿Se puede preparar Prunex1 en avena?" },
+    { "type": "p", "text": "Desde el punto de vista práctico, sí: el polvo se integra en una preparación caliente y húmeda, que es justamente lo que necesitan sus fibras. Desde el punto de vista de la etiqueta, la respuesta es más matizada, porque el fabricante solo describe una forma de uso." },
+    { "type": "callout", "variant": "etiqueta", "title": "Modo de empleo oficial", "text": "«Disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente, y revolver bien. Una vez preparado consumir en su totalidad. Conservar en un lugar fresco y seco.» La etiqueta no menciona avena, leche ni otras mezclas." },
+    { "type": "p", "text": "En la práctica, mezclarlo con avena cambia tres cosas: el líquido en el que se hidratan las fibras, la textura final del plato y el aporte nutricional total, que ya no es el de la bebida sola. El stick sigue aportando lo mismo; lo que cambia es todo lo que lo acompaña." },
+    { "type": "h2", "text": "Cómo añadir Prunex1 a la avena cocida" },
+    { "type": "p", "text": "La clave está en dos detalles: no hervir el polvo y no echarlo de golpe. La etiqueta no contempla cocinarlo, así que lo más prudente es añadirlo cuando la avena ya está lista y fuera del fuego." },
+    { "type": "steps", "items": [
+      { "name": "Cocina la avena como siempre", "text": "Prepárala con agua, canela o clavo si te gusta. Déjala un poco más suelta de lo habitual, porque el stick va a espesarla." },
+      { "name": "Retira del fuego y espera un minuto", "text": "Deja que deje de hervir. Así evitas que el polvo se pegue en la olla y que la superficie forme una capa gomosa." },
+      { "name": "Sirve en el tazón y espolvorea en lluvia", "text": "Vierte el contenido del stick despacio sobre la avena caliente mientras revuelves sin parar, como cuando disuelves cocoa en leche." },
+      { "name": "Ajusta con agua caliente", "text": "Si el tazón queda muy denso, agrega dos o tres cucharadas de agua caliente y vuelve a mezclar hasta lograr una crema pareja." },
+      { "name": "Come de inmediato y toma agua", "text": "No lo guardes para después: sigue espesando con los minutos. Acompaña el desayuno con un vaso de agua." }
+    ] },
+    { "type": "p", "text": "Hay una alternativa que respeta más la etiqueta: prepara el stick en 180 ml de agua caliente como indica el empaque y usa esa bebida para aflojar una avena espesa ya cocida, o tómala al lado del tazón. Así el polvo se disuelve tal como está previsto y la avena solo cambia el sabor del conjunto." },
+    { "type": "h2", "text": "Prunex1 en avena remojada: cuándo añadirlo" },
+    { "type": "p", "text": "La avena remojada, esa que dejas en la refrigeradora en un frasco para encontrarla lista al día siguiente, es otra historia. Si echas el stick en el frasco desde el inicio, el psyllium, el mucílago de linaza y la goma xantán tienen horas para absorber líquido, y el resultado suele ser una masa gelatinosa y compacta, poco agradable." },
+    { "type": "p", "text": "Además, la etiqueta pide consumir la preparación en su totalidad una vez hecha, no dejarla reposando. Lo razonable es remojar la avena sola y, al momento de comer, disolver el stick en un poco de agua caliente e incorporarlo, o bien acompañar el frasco con la taza preparada. Explicamos por qué no conviene adelantar la mezcla en [si se puede dejar Prunex1 preparado](/como-preparar-prunex1/dejar-preparado/)." },
+    { "type": "cta", "text": "¿Quieres probar tu propia versión en el desayuno? Revisa el precio actual de Prunex1 y pide tu doypack en la tienda oficial." },
+    { "type": "h2", "text": "Textura y sabor: qué esperar del tazón" },
+    { "type": "ul", "items": [
+      "**Textura**: la avena queda más cremosa y algo más gelatinosa. Si te gusta suelta, necesitarás más líquido del habitual.",
+      "**Color**: el carmín de la fórmula tiñe la avena de un tono rosado o rojizo. Es normal y no indica nada raro.",
+      "**Sabor**: domina el guindón con notas de anís y limón, y un dulzor suave de estevia y sorbitol. Combina bien con canela, clavo, manzana o plátano.",
+      "**Dulzor**: muchas personas notan que ya no necesitan añadir azúcar. Si agregas azúcar, miel o leche condensada, pierdes la ventaja de una bebida con 0 g de azúcares añadidos."
+    ] },
+    { "type": "h2", "text": "Lo que cambia respecto de la preparación oficial" },
+    { "type": "table", "caption": "Prunex1 en agua caliente frente a Prunex1 en avena", "headers": ["Aspecto", "En 180 ml de agua caliente (etiqueta)", "En avena (variante casera)"], "rows": [
+      ["Respaldo de la etiqueta", "Es el modo de empleo oficial", "No descrito por el fabricante"],
+      ["Calorías", "18 kcal por porción", "18 kcal del stick más las de la avena y lo que le agregues"],
+      ["Fibra", "1.7 g de fibra dietaria por stick", "La del stick más la propia de la avena"],
+      ["Textura", "Ligeramente espesa, se bebe", "Crema más densa, se come con cuchara"],
+      ["Practicidad", "Lista en un minuto, en casa o en la oficina", "Requiere cocinar o remojar la avena"]
+    ] },
+    { "type": "p", "text": "Si te interesa cómo se complementan la fibra de la avena y la mezcla de fibras de Prunex1, lo analizamos con más calma en [Prunex1 frente a la avena y el salvado](/comparativas-prunex1/vs-fibra-de-avena/). Y para ver cómo encajan las 18 kcal del stick dentro de tu desayuno, revisa [las calorías de Prunex1](/ingredientes-prunex1/calorias/)." },
+    { "type": "h2", "text": "Precauciones antes de mezclar Prunex1 con avena" },
+    { "type": "p", "text": "Sumar una preparación espesa a otra espesa tiene un efecto evidente: el plato pide más agua. Las fibras que forman gel necesitan líquido para cumplir su función, así que acompaña el tazón con agua y no olvides hidratarte durante el día; tienes ideas prácticas en [cuánta agua tomar con Prunex1](/como-preparar-prunex1/cuanta-agua-tomar/)." },
+    { "type": "callout", "variant": "aviso", "title": "Salud primero", "text": "Prunex1 es un alimento, no un medicamento, y no trata ni previene enfermedades. Según la ficha oficial de FuXion, no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal. Si tienes dificultad para tragar alimentos espesos, tomas medicamentos o vives con una enfermedad digestiva o crónica, consulta con tu médico. Ante dolor intenso, sangre en las heces o cambios bruscos del hábito intestinal, busca atención profesional." },
+    { "type": "p", "text": "Si después de probar prefieres la sencillez de la taza, es lo más coherente con el empaque. Y si se te acabaron los sticks, puedes [comprar Prunex1 original en la tienda del distribuidor](/comprar-prunex1/), con envío a Lima y provincias." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo cocinar el polvo junto con la avena desde el principio?", "a": "No es lo recomendable. La etiqueta indica disolverlo en agua caliente, no hervirlo, y cocinarlo varios minutos tiende a dejar la avena gomosa y pegada a la olla. Añádelo al final, fuera del fuego." },
+    { "q": "¿Sirve con avena instantánea?", "a": "Sí, y suele ser la opción más cómoda: preparas la avena instantánea con agua caliente, esperas a que se hidrate y luego incorporas el stick revolviendo. Si viene saborizada o azucarada, ten en cuenta que estarás sumando azúcar al tazón." },
+    { "q": "¿Puedo hacerlo con leche o bebida vegetal en lugar de agua?", "a": "Puedes, pero ya te alejas aún más de la etiqueta y las calorías del plato cambian según la leche que uses. Además, el producto declara que se elabora en equipos que procesan leche, huevos y soya, algo a considerar si tienes alergias." },
+    { "q": "¿Puedo llevar la avena con Prunex1 en un táper a la oficina?", "a": "Es mejor llevar la avena y el stick por separado y mezclarlos al momento de comer, con agua caliente del dispensador. Si los juntas en casa, a la hora del almuerzo tendrás una masa espesa y la etiqueta pide consumir la preparación apenas está lista." }
+  ],
+  "sources": [
+    { "label": "FuXion – Prunex1 (información oficial del producto)", "url": "https://www.fuxion.com/" },
+    { "label": "NIDDK – Información general sobre fibra y salud digestiva", "url": "https://www.niddk.nih.gov/" },
+    { "label": "EFSA – Valores dietéticos de referencia para fibra", "url": "https://www.efsa.europa.eu/" }
+  ],
+  "related": [
+    "/como-preparar-prunex1/en-smoothie/",
+    "/comparativas-prunex1/vs-fibra-de-avena/",
+    "/como-preparar-prunex1/dejar-preparado/",
+    "/como-preparar-prunex1/con-jugo/"
+  ]
+}

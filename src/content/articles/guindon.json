@@ -1,0 +1,69 @@
+{
+  "slug": "guindon",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/guindon/",
+  "isPillar": false,
+  "primaryKeyword": "guindón en Prunex1",
+  "title": "Guindón en Prunex1: fibra, sorbitol y lo que dice la ciencia",
+  "seoTitle": "Guindón en Prunex1: qué aporta y qué dice la ciencia",
+  "metaDescription": "Guindón en Prunex1: qué aporta la ciruela pasa deshidratada (fibra, sorbitol, polifenoles) y cómo leer el estudio guindón vs psyllium sin exagerar.",
+  "excerpt": "El guindón da nombre y sabor a Prunex1. Repasamos qué contiene la ciruela pasa, qué encontró el estudio de Attaluri de 2011 y por qué ese estudio no habla del producto.",
+  "quickAnswer": "El guindón en Prunex1 es ciruela pasa deshidratada que figura en la etiqueta junto al limón. El guindón aporta fibra, sorbitol natural y polifenoles, y un estudio de 2011 lo comparó con psyllium usando ciruelas enteras en personas con estreñimiento. La etiqueta no declara cuánto guindón hay por stick, así que esos resultados no son del producto.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A clear glass mug of warm reddish-amber drink on a dark wooden table beside a small clay bowl full of glossy dried prunes, one prune cut open, a lemon slice and a cinnamon stick, warm late afternoon light in a traditional Peruvian kitchen, cozy and rustic, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de vidrio con bebida rojiza junto a un cuenco de barro lleno de guindones brillantes y una rodaja de limón"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas peruanas el guindón tiene fama antes que ciencia. Está en la mazamorra morada de octubre, en algún queque de fiesta y, sobre todo, en ese vaso de agua con guindones remojados que alguna tía recomendaba con total seguridad. Prunex1 se apoya en esa familiaridad: el producto entero tiene sabor guindón." },
+    { "type": "p", "text": "Pero una cosa es la fruta que conoces y otra lo que realmente hay dentro de un stick. En esta guía separamos ambas: qué contiene el guindón, qué encontró el estudio más citado sobre él y qué se puede (y qué no se puede) concluir sobre la bebida. Si buscas la fórmula completa, revisa la [lista de ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "Dónde aparece el guindón en Prunex1 y cómo leerlo en la etiqueta" },
+    { "type": "p", "text": "En el Perú llamamos guindón a la ciruela seca o ciruela pasa (*Prunus domestica* deshidratada). En la etiqueta de Prunex1 aparece en el sexto lugar como **\"Deshidratado de frutas (limón, guindón)\"**, después de la tapioca, la achicoria, el psyllium, el anís estrella y el kelp." },
+    { "type": "p", "text": "Hay dos detalles que conviene notar. Primero, el guindón comparte ese ingrediente con el limón, y no se indica la proporción de cada uno. Segundo, más abajo en la lista figuran los **saborizantes (guindón, ciruela, panela)**: parte del sabor que reconoces en la taza viene de ahí, no solo de la fruta deshidratada. El sorbitol, además, se añade como ingrediente propio en el octavo puesto." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que declara la etiqueta", "text": "La etiqueta no declara la cantidad de guindón ni de sorbitol por stick. Por porción (1 stick de 5 g en 180 ml de agua caliente) sí declara 18 kcal, 1.7 g de fibra dietaria total, 0.2 g de azúcares totales y 0 g de azúcares añadidos." },
+    { "type": "h2", "text": "Tres componentes que explican la fama del guindón" },
+    { "type": "h3", "text": "Fibra" },
+    { "type": "p", "text": "El guindón entero aporta una mezcla de fibra soluble, como las pectinas, e insoluble, presente en la piel. En la fruta seca la fibra está concentrada porque se ha retirado buena parte del agua; por eso unos pocos guindones aportan más fibra que la misma cantidad de ciruela fresca." },
+    { "type": "h3", "text": "Sorbitol natural" },
+    { "type": "p", "text": "El guindón es una de las frutas más ricas en sorbitol, un poliol que el intestino absorbe de forma lenta e incompleta. La parte que no se absorbe retiene agua en el intestino, un efecto osmótico conocido que se suma al de la fibra. En exceso, ese mismo mecanismo puede dar gases o heces blandas. Lo desarrollamos en [sorbitol en Prunex1](/ingredientes-prunex1/sorbitol/)." },
+    { "type": "h3", "text": "Polifenoles" },
+    { "type": "p", "text": "La ciruela seca contiene compuestos fenólicos, entre ellos derivados del ácido clorogénico, que se estudian por su actividad antioxidante. Es un campo interesante, pero no hay base para atribuir efectos concretos a los polifenoles de una pequeña cantidad de fruta deshidratada dentro de una mezcla." },
+    { "type": "h2", "text": "El estudio de Attaluri (2011): guindón frente a psyllium" },
+    { "type": "p", "text": "Es el trabajo que más se cita cuando se habla del guindón y la función intestinal. Un equipo de la Universidad de Iowa, en Estados Unidos, comparó ciruelas secas con psyllium en **40 adultos con estreñimiento crónico**. Cada participante pasó por ambas etapas, de tres semanas cada una, en orden aleatorio." },
+    { "type": "ul", "items": [
+      "En la etapa con guindón, los participantes comieron unos 50 g de ciruelas secas enteras dos veces al día.",
+      "En la etapa con psyllium, tomaron una cantidad ajustada para aportar una fibra diaria parecida, alrededor de 6 g.",
+      "Con las ciruelas se observó una mejora mayor en el número de deposiciones espontáneas completas y en la consistencia de las heces que con el psyllium.",
+      "Ambas opciones fueron, en general, bien toleradas."
+    ] },
+    { "type": "p", "text": "Leído con calma, el estudio es interesante, pero tiene límites claros que cualquier lector debería conocer antes de sacar conclusiones." },
+    { "type": "table", "caption": "Por qué el estudio de 2011 no describe lo que ocurre con Prunex1", "headers": ["Aspecto", "Estudio Attaluri 2011", "Prunex1"], "rows": [
+      ["Qué se tomó", "Ciruelas secas enteras, unos 100 g al día", "Guindón deshidratado en polvo dentro de una mezcla, cantidad no declarada"],
+      ["Fibra diaria", "Alrededor de 6 g, solo del guindón", "1.7 g de fibra total por porción, de varias fuentes"],
+      ["Participantes", "40 adultos con estreñimiento crónico", "Producto de venta libre, sin estudios publicados que conozcamos"],
+      ["Duración", "Dos etapas de tres semanas", "La etiqueta no indica días de uso"]
+    ] },
+    { "type": "p", "text": "Además, fue un estudio pequeño, de un solo centro y sin posibilidad real de ocultar a los participantes qué estaban comiendo. Sus resultados apoyan la idea de que el guindón entero, en cantidades generosas, puede ayudar a algunas personas con estreñimiento; no dicen nada directo sobre una bebida que lleva guindón entre 16 ingredientes." },
+    { "type": "cta", "text": "Si te gusta la idea de una taza con sabor guindón y fibras en formato práctico, revisa el precio vigente y las presentaciones." },
+    { "type": "h2", "text": "Entonces, ¿qué aporta realmente el guindón en Prunex1?" },
+    { "type": "p", "text": "Con la información disponible, lo justo es decir que el guindón aporta **sabor, identidad y una contribución no cuantificada** a la fibra y al sorbitol de la bebida. Las fibras que aparecen antes en la lista, como la inulina y el psyllium, y el sorbitol añadido probablemente pesan más en la fórmula que la fruta por sí sola." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "En su descripción oficial, FuXion presenta Prunex1 como un \"té herbal\" a base de un mix de fibras solubles y extracto de guindón, orientado a molestias por tránsito intestinal lento. Es comunicación comercial; la etiqueta habla de \"deshidratado de frutas (limón, guindón)\" y define el producto como bebida instantánea en polvo a base de fibras y extractos vegetales." },
+    { "type": "p", "text": "Si lo que te atrae es el guindón en sí, la alternativa casera existe y es perfectamente válida. Comparamos ambas opciones, con sus pros y contras de fibra, azúcar natural y practicidad, en [Prunex1 vs agua de guindones](/comparativas-prunex1/vs-agua-de-guindones/)." },
+    { "type": "h2", "text": "Precauciones con el guindón y el sorbitol" },
+    { "type": "p", "text": "El guindón entero tiene bastante azúcar natural; en cambio, una porción de Prunex1 declara solo 0.2 g de azúcares totales. Aun así, la combinación de fibra y sorbitol puede no sentarle bien a todo el mundo: personas con intestino sensible, con intolerancia a polioles o con diagnóstico de colon irritable pueden notar gases o deposiciones más blandas." },
+    { "type": "callout", "variant": "aviso", "title": "Señales para consultar", "text": "Prunex1 es un alimento y no trata ni previene enfermedades. Consulta con un médico si tienes una enfermedad digestiva o crónica, tomas medicación o notas molestias persistentes. Acude de inmediato si hay dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación o un cambio brusco del hábito intestinal." },
+    { "type": "p", "text": "Si después de conocer el papel real del guindón decides probar la bebida, encontrarás el precio verificado y las presentaciones en stock en la [página para comprar Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo reemplazar Prunex1 por guindones enteros?", "a": "Son cosas distintas. El guindón entero aporta fibra y sorbitol propios de la fruta, además de su azúcar natural; Prunex1 es una mezcla de varias fibras y extractos con 0 g de azúcares añadidos. Elegir uno u otro depende de tus gustos, tu presupuesto y lo que tolere tu cuerpo." },
+    { "q": "¿El color rojizo de la bebida viene del guindón?", "a": "Solo en parte, como mucho. La etiqueta incluye color natural carmín, que es el que da el tono rojizo característico a la preparación." },
+    { "q": "¿Guindón, ciruela pasa y ciruela seca son lo mismo?", "a": "En el uso peruano, sí: guindón es el nombre popular de la ciruela deshidratada. En otros países de habla hispana se le llama ciruela pasa o ciruela seca." },
+    { "q": "¿El guindón de Prunex1 tiene pepa o trozos?", "a": "No. Aparece como deshidratado de fruta en polvo, integrado en la mezcla, por lo que no encontrarás trozos ni pepas en la taza." }
+  ],
+  "sources": [
+    { "label": "Attaluri A. et al. (2011). Randomised clinical trial: dried plums (prunes) vs. psyllium for constipation. Aliment Pharmacol Ther – PubMed", "url": "https://pubmed.ncbi.nlm.nih.gov/21323688/" },
+    { "label": "NIDDK – Estreñimiento: alimentación y fibra", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/comparativas-prunex1/vs-agua-de-guindones/", "/ingredientes-prunex1/sorbitol/", "/ingredientes-prunex1/psyllium/", "/ingredientes-prunex1/limon-y-saborizantes/"]
+}

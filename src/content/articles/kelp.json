@@ -1,0 +1,66 @@
+{
+  "slug": "kelp",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/kelp/",
+  "isPillar": false,
+  "primaryKeyword": "kelp en Prunex1",
+  "title": "Kelp en Prunex1: alga, alginatos, minerales y el yodo",
+  "seoTitle": "Kelp en Prunex1: qué aporta esta alga marina",
+  "metaDescription": "Kelp en Prunex1: qué es esta alga parda, qué son los alginatos, qué minerales aporta y por qué el yodo natural no declarado pide prudencia con la tiroides.",
+  "excerpt": "El quinto ingrediente de Prunex1 viene del mar. Explicamos qué es el kelp, qué aportan sus alginatos y minerales y por qué conviene tener presente su yodo.",
+  "quickAnswer": "El kelp en Prunex1 es un alga parda deshidratada que figura en el quinto lugar de la lista de ingredientes. Aporta alginatos, un tipo de polisacárido que forma geles con el agua, y minerales marinos, entre ellos yodo de forma natural. La etiqueta peruana no declara cuánto yodo contiene cada stick, por eso quien tiene problemas de tiroides debe consultar antes.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A ceramic cup of warm reddish-amber infusion on a grey stone surface next to a few dried strips of brown kelp seaweed and a small dish of sea salt, soft diffused light of an overcast coastal morning with a misty Pacific ocean view through a window, calm minimal style, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de bebida rojiza junto a tiras de alga parda seca frente a una ventana con vista al mar nublado"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si vives en Lima, el mar está presente aunque no lo veas: en la garúa que humedece la ropa tendida, en el cebiche del almuerzo y hasta en el yuyo que algunos huariques le ponen al plato. Por eso sorprende menos de lo que parece que una bebida con sabor a guindón lleve un ingrediente marino. En la lista de Prunex1 aparece como **alga deshidratada (kelp)**, en quinto lugar." },
+    { "type": "p", "text": "En este artículo vemos qué es exactamente ese alga, qué aporta a la mezcla, qué no se sabe sobre ella porque la etiqueta no lo declara y por qué el yodo es el punto que merece más atención. Si quieres ver todos los componentes juntos, la [lista completa de ingredientes de Prunex1](/ingredientes-prunex1/) es el mejor punto de partida." },
+    { "type": "h2", "text": "Qué es el kelp y por qué está en Prunex1" },
+    { "type": "p", "text": "\"Kelp\" es el nombre común de un grupo de **algas pardas** de gran tamaño que crecen en aguas frías, formando verdaderos bosques submarinos. Se usan desde hace siglos como alimento en Asia y como materia prima industrial en todo el mundo. No hay que confundirlas con el yuyo o cochayuyo del cebiche, que en la costa peruana suele ser un alga roja de otra familia." },
+    { "type": "p", "text": "En Prunex1 el kelp llega **deshidratado y molido**, integrado al polvo. La marca lo destaca en el frente del empaque junto con el psyllium, la inulina de achicoria, el guindón, el anís estrella y el mucílago de linaza. Su papel, según la descripción del ingrediente, es el de una fuente natural de alginatos y minerales; no es el componente principal de la fórmula." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice la etiqueta", "text": "El ingrediente figura como \"Alga Deshidratada (Kelp)\", en quinto lugar de 16, después de la tapioca, la achicoria, el psyllium y el anís estrella. Como las listas de ingredientes se ordenan de mayor a menor proporción, sabemos su posición relativa, pero **no su cantidad por stick**, que no está declarada." },
+    { "type": "h2", "text": "Alginatos: la fibra del alga" },
+    { "type": "p", "text": "Las paredes celulares de las algas pardas están formadas en buena parte por **alginatos**, polisacáridos que el intestino humano no digiere y que, en contacto con el agua, aumentan la viscosidad e incluso forman geles. Esa misma propiedad hace que la industria alimentaria los use como espesantes y estabilizantes, identificados en la Unión Europea con los códigos E400 a E404." },
+    { "type": "p", "text": "En la práctica, el alginato del kelp se suma al grupo de componentes que absorben agua dentro de la bebida, junto con el psyllium y el mucílago de linaza. Ahora bien, conviene no exagerar su aporte: la etiqueta solo declara **1.7 g de fibra dietaria total por porción** y no indica qué parte corresponde a cada ingrediente. Si te interesa la diferencia entre tipos de fibra, la tenemos explicada en [fibra soluble e insoluble en Prunex1](/ingredientes-prunex1/fibra-soluble-e-insoluble/)." },
+    { "type": "h3", "text": "Lo que no conviene atribuirle" },
+    { "type": "p", "text": "Hay estudios sobre alginatos aislados en contextos como la saciedad o el reflujo, pero se hacen con cantidades y formatos específicos que no tienen relación con un ingrediente minoritario dentro de una bebida de 5 g. Por eso aquí no le atribuimos ningún efecto propio: lo correcto es verlo como parte de una mezcla de fibras y extractos vegetales." },
+    { "type": "h2", "text": "Los minerales del kelp en Prunex1, empezando por el yodo" },
+    { "type": "p", "text": "Las algas pardas concentran minerales del agua de mar. En general se describen como fuente de **yodo, potasio, calcio, magnesio y hierro**, aunque la proporción cambia muchísimo según la especie, la zona de cosecha, la época del año y el procesamiento. Esa variabilidad es justamente lo que hace delicado al yodo." },
+    { "type": "p", "text": "El yodo es un mineral esencial: la glándula tiroides lo necesita para fabricar sus hormonas. Según la Oficina de Suplementos Dietéticos de los NIH de Estados Unidos, la ingesta recomendada para un adulto es de 150 microgramos al día y el nivel máximo tolerable es de 1,100 microgramos al día. Esas cifras son referencias generales de población, **no datos de Prunex1**." },
+    { "type": "ul", "items": [
+      "**Lo que sí sabemos:** el kelp aporta yodo de forma natural y forma parte de la fórmula.",
+      "**Lo que no sabemos:** cuánto yodo hay en cada stick; la tabla nutricional peruana no lo declara.",
+      "**Lo que se deduce:** no se puede calcular el aporte de yodo de una taza ni sumarlo con precisión al de la sal yodada, el pescado o los lácteos que consumes." ] },
+    { "type": "p", "text": "En el Perú la sal de mesa se yoda por norma, y muchas personas ya cubren sus necesidades con la dieta habitual. Para la mayoría, un ingrediente minoritario dentro de una bebida no cambia el panorama, pero para quien tiene una condición tiroidea cualquier fuente no cuantificada merece una conversación con su médico." },
+    { "type": "cta", "text": "¿Quieres revisar el precio actual y las presentaciones disponibles? Míralo en la tienda oficial del distribuidor." },
+    { "type": "h2", "text": "Precaución si tienes tiroides: el resumen" },
+    { "type": "p", "text": "Tanto el exceso como la falta de yodo pueden alterar el funcionamiento de la tiroides, y las personas con hipotiroidismo, hipertiroidismo, nódulos o enfermedad autoinmune tiroidea suelen ser más sensibles a los cambios en su ingesta. Si estás en ese grupo o tomas medicación tiroidea, consulta con tu endocrinólogo antes de incorporar Prunex1. Lo desarrollamos en detalle en la página sobre [Prunex1 y la tiroides](/opiniones-prunex1/tiroides/)." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar antes de tomarlo", "text": "Habla con tu médico si tienes cualquier enfermedad de la tiroides, tomas levotiroxina u otra medicación, tienes enfermedad renal o alguna condición crónica. Prunex1 es un alimento, no un medicamento: no trata ni previene enfermedades. Y recuerda que la fibra puede interferir con la absorción de algunos fármacos, tema que explicamos en [Prunex1 y medicamentos](/como-preparar-prunex1/medicamentos/)." },
+    { "type": "h2", "text": "Cómo leer este ingrediente sin caer en exageraciones" },
+    { "type": "p", "text": "En internet circula mucho contenido que presenta las algas como \"superalimentos\" capaces de acelerar el metabolismo o depurar el organismo. Nada de eso figura en la etiqueta de Prunex1 y no hay base para atribuírselo a un ingrediente presente en cantidad no declarada dentro de una porción de 5 g." },
+    { "type": "p", "text": "Lo que comunica FuXion sobre el producto en conjunto se limita a tres ideas: un adecuado tránsito intestinal, sentirte más liviano sin las molestias de la hinchazón abdominal y liberarte de desechos perjudiciales. Esas afirmaciones son de la marca y se refieren a la fórmula completa, no al kelp por separado." },
+    { "type": "table", "caption": "El kelp en Prunex1 de un vistazo", "headers": ["Aspecto", "Lo que se puede afirmar"], "rows": [
+      ["Tipo de ingrediente", "Alga parda deshidratada y molida"],
+      ["Posición en la lista", "5.º de 16 ingredientes"],
+      ["Componente destacado", "Alginatos (polisacáridos que forman gel con el agua)"],
+      ["Minerales", "Yodo, potasio, calcio y otros, en proporción variable según el alga"],
+      ["Cantidad por stick", "No declarada en la etiqueta peruana"],
+      ["Precaución principal", "Yodo no cuantificado: consulta si tienes problemas de tiroides"] ] },
+    { "type": "p", "text": "Con esa información tienes lo necesario para decidir con criterio. Si no tienes condiciones tiroideas y quieres probar la bebida, puedes ver cómo [comprar Prunex1 original](/comprar-prunex1/) a través del canal oficial; si las tienes, la decisión pasa primero por tu médico." }
+  ],
+  "faqs": [
+    { "q": "¿El kelp le da sabor a mar a la bebida?", "a": "La etiqueta define el producto como sabor guindón, y el perfil aromático lo marcan los saborizantes (guindón, ciruela, panela), el anís estrella y el limón, con dulzor de estevia y sorbitol. El kelp es uno más de 16 ingredientes, así que no está pensado para aportar sabor protagonista." },
+    { "q": "¿Puedo tomar Prunex1 si soy alérgico a los mariscos?", "a": "El kelp es un alga, no un marisco, y la alergia a mariscos suele deberse a proteínas de crustáceos y moluscos. Aun así, si tienes alergias alimentarias importantes, revisa la etiqueta completa, que también advierte trazas de leche, huevo y soya, y consulta con tu alergólogo." },
+    { "q": "¿El kelp de Prunex1 es el mismo yuyo del cebiche?", "a": "No. El yuyo o cochayuyo que se usa en la cocina costeña peruana suele ser un alga roja, mientras que el kelp pertenece al grupo de las algas pardas. Tienen composición y usos distintos." },
+    { "q": "¿Dónde verifico que mi empaque incluye kelp?", "a": "En el reverso del doypack, en la lista de ingredientes, figura como \"Alga Deshidratada (Kelp)\". Si compras por el canal oficial recibes el empaque sellado con su lista completa, lote, vencimiento y registro sanitario." }
+  ],
+  "sources": [
+    { "label": "NIH Office of Dietary Supplements – Iodine (Fact Sheet for Consumers)", "url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer/" },
+    { "label": "Autoridad Europea de Seguridad Alimentaria (EFSA)", "url": "https://www.efsa.europa.eu/" },
+    { "label": "Organización Mundial de la Salud (OMS)", "url": "https://www.who.int/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/opiniones-prunex1/tiroides/", "/ingredientes-prunex1/fibra-soluble-e-insoluble/", "/ingredientes-prunex1/magnesio/", "/opiniones-prunex1/hipertension/"]
+}

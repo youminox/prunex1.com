@@ -1,0 +1,78 @@
+{
+  "slug": "en-ayunas",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/en-ayunas/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 en ayunas",
+  "title": "Prunex1 en ayunas: tolerancia, etiqueta y qué tener en cuenta",
+  "seoTitle": "Prunex1 en ayunas: ¿te cae bien con el estómago vacío?",
+  "metaDescription": "¿Tomar Prunex1 en ayunas? Qué dice la etiqueta sobre el horario, cómo saber si tu estómago lo tolera vacío y cuándo conviene consultar antes.",
+  "excerpt": "La etiqueta de Prunex1 no fija horario. Te explicamos qué puede notar un estómago vacío, cómo escuchar a tu cuerpo y por qué los medicamentos en ayunas son el caso que más cuidado requiere.",
+  "quickAnswer": "Puedes tomar Prunex1 en ayunas si tu estómago lo tolera: la etiqueta no indica ningún horario, solo un stick de 5 g en 180 ml de agua caliente. Es una bebida suave y sin cafeína entre sus ingredientes, pero la fibra puede dar sensación de llenura o gases. Si tomas medicamentos en ayunas, consulta antes con tu médico.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A warm ceramic cup of reddish-amber infusion on a small kitchen table by a window at dawn, soft blue early-morning light over Lima rooftops, a glass of water and a folded linen napkin beside it, a commuter backpack softly blurred in the background, calm minimal style. NO packaging, NO sachets, NO text, NO logos, NO visible faces.",
+    "alt": "Taza de bebida rojiza ámbar y un vaso de agua junto a una ventana al amanecer en un departamento de Lima"
+  },
+  "blocks": [
+    { "type": "p", "text": "Son las seis y media de la mañana en Los Olivos o en Villa El Salvador y el día arranca a las carreras: ducha, mochila y la combi que no espera. El desayuno queda para la oficina, si es que llega. En ese escenario, la taza de Prunex1 termina siendo lo primero que entra al estómago, y aparece la duda: ¿está bien tomarlo así, sin nada antes?" },
+    { "type": "p", "text": "La respuesta corta es que depende más de ti que del producto. Aquí revisamos qué dice realmente la etiqueta, qué puede sentir un estómago vacío ante una bebida con fibra y en qué casos conviene pensarlo dos veces, sin convertir esto en una receta de horarios." },
+    { "type": "h2", "text": "¿Qué dice la etiqueta sobre tomar Prunex1 en ayunas?" },
+    { "type": "p", "text": "Nada. El modo de empleo describe cómo prepararlo, no cuándo. No dice «en ayunas», no dice «con las comidas» y no fija una hora del día. Cualquier indicación de horario que leas por ahí es una recomendación comercial o personal, no parte de la etiqueta." },
+    { "type": "callout", "variant": "etiqueta", "title": "Modo de empleo textual", "text": "«Disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente, y revolver bien. Una vez preparado consumir en su totalidad. Conservar en un lugar fresco y seco.» Es todo lo que indica el empaque sobre el uso: una porción, agua caliente y tomarla completa." },
+    { "type": "p", "text": "Eso significa que tomarlo con el estómago vacío no va «contra» las instrucciones, pero tampoco es un requisito. Si quieres repasar la preparación completa, con utensilios y trucos de textura, está en nuestra [guía para preparar Prunex1](/como-preparar-prunex1/)." },
+    { "type": "h2", "text": "Tolerancia gástrica: qué puede notar un estómago vacío" },
+    { "type": "p", "text": "Por composición, Prunex1 es una bebida poco agresiva: 18 kcal, 2 mg de sodio, sin grasa y sin ingredientes ácidos dominantes más allá del limón deshidratado. Entre sus 16 ingredientes no figura café ni otra fuente de cafeína. Aun así, con el estómago vacío todo se percibe con más intensidad." },
+    { "type": "p", "text": "Esto es lo que algunas personas pueden notar al tomarlo en ayunas:" },
+    { "type": "ul", "items": [
+      "**Sensación de llenura:** el psyllium, la goma xantán y el mucílago de linaza absorben agua y forman un gel suave. Sin otro alimento en el estómago, esa saciedad se nota más.",
+      "**Gases o ruidos intestinales:** la inulina de achicoria es una fibra fermentable; si no sueles consumir mucha fibra, es habitual notarlo al inicio, con o sin desayuno.",
+      "**Acidez o pesadez:** es menos frecuente, pero si tienes un estómago sensible, cualquier bebida caliente en ayunas puede incomodarte.",
+      "**Nada en particular:** muchas personas no perciben diferencia entre tomarlo en ayunas o después de comer."
+    ] },
+    { "type": "p", "text": "La temperatura también cuenta. La etiqueta pide agua caliente, no hirviendo: una taza que puedas sorber sin quemarte es más amable con un estómago vacío que una recién salida del hervidor." },
+    { "type": "h2", "text": "Escucha a tu cuerpo: señales para decidir" },
+    { "type": "p", "text": "Como la etiqueta no fija horario, la mejor guía es cómo responde tu organismo. Sin armar protocolos, basta con hacerte estas preguntas durante tus primeras tomas:" },
+    { "type": "ol", "items": [
+      "¿Sentiste ardor, náuseas o dolor en la boca del estómago después de tomarlo sin comer? Si fue así, prueba a tomarlo cuando ya tengas algo en el estómago.",
+      "¿Tuviste hinchazón o gases que te incomodaron en el trabajo o en el transporte? Puede ser la adaptación a la fibra más que la hora en sí.",
+      "¿Te quitó el apetito para el desayuno? La fibra sacia; procura no reemplazar una comida completa por la taza.",
+      "¿Tomaste suficiente agua durante el día? La fibra trabaja mejor con buena hidratación, sea cual sea el momento."
+    ] },
+    { "type": "p", "text": "Si en ayunas te cae bien, no hay razón para cambiarlo. Si te cae mal, tampoco hay razón para insistir: puedes tomarlo en otro momento del día. Ninguna de las dos opciones es «la correcta» según el empaque." },
+    { "type": "steps", "items": [
+      { "name": "Calienta el agua", "text": "Mide 180 ml de agua (una taza) y caliéntala sin llegar a que esté hirviendo a borbotones." },
+      { "name": "Vierte el stick", "text": "Añade el contenido de 1 stick (5 g) sobre el agua, no al revés, para que el polvo se disperse mejor." },
+      { "name": "Revuelve y toma completo", "text": "Revuelve de inmediato hasta disolver y toma toda la preparación a sorbos, sin dejarla reposar." }
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Un detalle práctico para las mañanas", "text": "Si vas a tomarlo apenas te levantas, deja la taza y la cuchara listas desde la noche y prepara la bebida al momento, nunca antes: la etiqueta pide consumirla completa una vez preparada y con los minutos se espesa." },
+    { "type": "cta", "text": "Si ya sabes que te va bien, consulta el precio vigente del doypack de 28 sticks y de la presentación de 7 en la tienda oficial." },
+    { "type": "h2", "text": "Medicamentos en ayunas: el caso que sí requiere cuidado" },
+    { "type": "p", "text": "Este es el punto más importante del artículo. Varios medicamentos se indican justamente en ayunas, como la levotiroxina para la tiroides o algunos tratamientos para el estómago. La fibra puede retrasar o reducir la absorción de ciertos fármacos si se toman juntos." },
+    { "type": "p", "text": "Si tu primera actividad del día es tomar una pastilla y luego tu Prunex1, pregunta a tu médico o farmacéutico cuánto tiempo separar ambas tomas. Lo explicamos en detalle en [Prunex1 y medicamentos](/como-preparar-prunex1/medicamentos/) y, si tu caso es la tiroides, también en [Prunex1 y tiroides](/opiniones-prunex1/tiroides/), porque el kelp aporta yodo de forma natural en una cantidad que la etiqueta no declara." },
+    { "type": "h2", "text": "Cuándo conviene consultar antes de tomarlo, en ayunas o no" },
+    { "type": "p", "text": "Más allá del horario, hay situaciones en las que es mejor hablar primero con un profesional de salud:" },
+    { "type": "ul", "items": [
+      "Gastritis, úlcera o reflujo diagnosticados: revisa lo que explicamos sobre [Prunex1 y gastritis](/opiniones-prunex1/gastritis/).",
+      "Dificultad para tragar o antecedentes de obstrucción intestinal.",
+      "Enfermedades crónicas, en especial renales, o tratamientos de largo plazo.",
+      "Embarazo o lactancia: la ficha oficial de FuXion indica que no es apto.",
+      "Tránsito intestinal normal: la misma ficha señala que no está dirigido a esas personas."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Señales de alarma", "text": "Prunex1 es un alimento, no un medicamento, y no trata ni previene enfermedades. Acude a un médico si tienes dolor abdominal intenso, sangre en las heces, vómitos, pérdida de peso sin explicación o un cambio brusco y persistente en tu hábito intestinal, tomes o no el producto." },
+    { "type": "p", "text": "Si decides incorporarlo, puedes [comprar Prunex1 en la tienda oficial](/comprar-prunex1/) del distribuidor autorizado en Lima. Con o sin desayuno, lo que no cambia es la porción de la etiqueta: un stick en una taza de agua caliente." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomar Prunex1 en ayunas y luego mi café?", "a": "Sí, no hay una incompatibilidad conocida entre ambos. Si tu estómago es sensible, quizá prefieras no encadenar dos bebidas calientes sin comer nada; observa cómo te sientes y ajusta." },
+    { "q": "¿Tomarlo en ayunas hace que funcione mejor?", "a": "La etiqueta no dice que el momento del día cambie el resultado y no hay datos del producto que lo respalden. La respuesta de cada persona depende más de su hidratación, su dieta y su propio organismo que de la hora." },
+    { "q": "¿Puedo tomarlo antes de un análisis de sangre en ayunas?", "a": "Mejor no. Cuando el laboratorio pide ayuno, por lo general se refiere a no consumir alimentos ni bebidas con calorías, y Prunex1 aporta 18 kcal y 4.5 g de carbohidratos. Sigue las indicaciones del laboratorio y tómalo después; lo detallamos en [¿Prunex1 rompe el ayuno?](/como-preparar-prunex1/rompe-el-ayuno/)." },
+    { "q": "¿La taza en ayunas puede reemplazar el desayuno?", "a": "No. Una porción tiene 18 kcal y 0 g de proteína, así que no aporta la energía ni los nutrientes de un desayuno. Úsalo como complemento y no te saltes la comida por la sensación de llenura." }
+  ],
+  "sources": [
+    { "label": "NIDDK – Salud digestiva", "url": "https://www.niddk.nih.gov/" },
+    { "label": "MedlinePlus – Información sobre medicamentos", "url": "https://medlineplus.gov/spanish/" },
+    { "label": "FDA – Interacciones entre alimentos y medicamentos", "url": "https://www.fda.gov/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/como-preparar-prunex1/rompe-el-ayuno/", "/como-preparar-prunex1/medicamentos/", "/opiniones-prunex1/gastritis/", "/como-preparar-prunex1/cuanta-agua-tomar/"]
+}

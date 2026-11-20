@@ -1,0 +1,70 @@
+{
+  "slug": "diabeticos",
+  "pillar": "opiniones-prunex1",
+  "path": "/opiniones-prunex1/diabeticos/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 diabéticos",
+  "title": "Prunex1 para diabéticos: carbohidratos, edulcorantes y precauciones",
+  "seoTitle": "Prunex1 diabéticos: carbohidratos, azúcar y precauciones",
+  "metaDescription": "¿Prunex1 para diabéticos? Aporta 4.5 g de carbohidratos y 0 g de azúcares añadidos por taza. Revisa estevia, sorbitol, tapioca y cuándo consultar.",
+  "excerpt": "Leemos la etiqueta de Prunex1 con ojos de persona con diabetes: carbohidratos que hay que contar, de dónde viene el dulzor y qué conversar con tu médico.",
+  "quickAnswer": "Prunex1 para diabéticos no está prohibido por su etiqueta, pero tampoco es un producto para la diabetes: cada taza aporta 4.5 g de carbohidratos (1.7 g son fibra), 0.2 g de azúcares totales y 0 g de azúcares añadidos, y se endulza con estevia y sorbitol. Si tienes diabetes, cuenta esos carbohidratos y consúltalo con tu médico.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A white ceramic mug of warm reddish-amber drink on a light kitchen counter beside a small plate of fresh green vegetables and a bowl of cooked quinoa, soft grey morning light from a window in a Lima apartment during humid winter, calm and minimal style. No packaging, no sachets, no text, no logos, no people.",
+    "alt": "Taza de bebida rojiza junto a verduras frescas y un bowl de quinua en una cocina limeña con luz de invierno"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si vives con diabetes, ya sabes que en el Perú casi todo viene con su yapa de azúcar: la chicha morada del menú, el pan de la tarde, la mazamorra del domingo. Por eso, antes de sumar cualquier bebida nueva, lo primero que haces es voltear el empaque y buscar la tabla. Con Prunex1 vale la pena hacer exactamente eso, y aquí lo hacemos contigo, número por número." },
+    { "type": "p", "text": "Una aclaración desde el inicio: Prunex1 es un alimento —una bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón—, no un medicamento. No controla la glucosa ni reemplaza tu tratamiento. Lo que sí podemos hacer es explicarte qué contiene, para que decidas con tu médico si encaja en tu plan." },
+    { "type": "h2", "text": "¿Prunex1 es apto para diabéticos? Lo que dice la tabla nutricional" },
+    { "type": "p", "text": "La etiqueta peruana declara estos valores por porción, es decir, 1 stick (5 g) disuelto en 180 ml de agua caliente:" },
+    { "type": "table", "caption": "Datos por porción de Prunex1 relevantes para una persona con diabetes", "headers": ["Nutriente", "Por porción", "Qué significa para ti"], "rows": [
+      ["Energía", "18 kcal", "Muy poca energía; casi no pesa en tu plan diario"],
+      ["Carbohidratos totales", "4.5 g", "El dato que debes contar"],
+      ["Fibra dietaria", "1.7 g", "Forma parte de los 4.5 g"],
+      ["Azúcares totales", "0.2 g", "Cantidad mínima"],
+      ["Azúcares añadidos", "0 g", "Por eso lleva el sello “sin azúcares”"],
+      ["Grasa y proteína", "0 g y 0 g", "No aporta ninguna de las dos"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Datos de la etiqueta", "text": "La información corresponde a la tabla nutricional oficial de FuXion Perú. La etiqueta no desglosa cuánto de los 4.5 g de carbohidratos viene de la tapioca, del sorbitol o de otros ingredientes, ni declara la cantidad de sorbitol por stick." },
+    { "type": "p", "text": "Para ponerlo en perspectiva: en el conteo de carbohidratos que enseñan muchos nutricionistas, una ración suele equivaler a entre 10 y 15 g. Una taza de Prunex1 queda bastante por debajo de eso. Aun así, 4.5 g no son cero, y si te aplicas insulina según lo que comes, ese número debe entrar en tu cuenta." },
+    { "type": "h3", "text": "¿Se pueden restar los 1.7 g de fibra?" },
+    { "type": "p", "text": "En algunos esquemas se habla de carbohidratos “netos”, restando la fibra al total, lo que daría alrededor de 2.8 g por taza. Es un cálculo orientativo, no un dato impreso en la etiqueta. Pregunta a tu nutricionista qué método usas tú, porque no todos los equipos de salud lo recomiendan." },
+    { "type": "h2", "text": "Sin azúcares añadidos no significa sin carbohidratos" },
+    { "type": "p", "text": "El sello “sin azúcares” es correcto: la fórmula no lleva azúcar de mesa ni jarabes, y los azúcares totales son apenas 0.2 g. Pero el primer ingrediente de la lista es la tapioca en polvo, un almidón de yuca. El almidón es un carbohidrato que el cuerpo convierte en glucosa, y es probable que explique buena parte de los 4.5 g. Lo detallamos en el artículo sobre [por qué la tapioca encabeza la lista](/ingredientes-prunex1/tapioca/)." },
+    { "type": "p", "text": "También aparecen saborizantes de guindón, ciruela y panela. La palabra panela suele alarmar, pero la tabla es clara: los azúcares totales siguen siendo 0.2 g por porción. Si quieres entender cómo se lee esa diferencia, revisa [qué azúcares tiene realmente Prunex1](/ingredientes-prunex1/tiene-azucar/)." },
+    { "type": "h2", "text": "Estevia y sorbitol: de dónde viene el dulzor" },
+    { "type": "ul", "items": [
+      "**Estevia (glicósidos de esteviol):** edulcorante sin calorías. En las cantidades que se usan en alimentos no aporta glucosa, y las agencias de seguridad alimentaria la consideran segura dentro de su ingesta diaria admisible.",
+      "**Sorbitol:** un poliol o alcohol de azúcar que también existe de forma natural en el guindón. Se absorbe de manera lenta e incompleta, por lo que eleva la glucosa bastante menos que el azúcar común, aunque no es del todo neutro. En cantidades altas puede ablandar las deposiciones."
+    ] },
+    { "type": "p", "text": "Un detalle práctico: muchas personas con diabetes ya consumen sorbitol en caramelos, chicles o galletas “sin azúcar”. Si es tu caso, ten en cuenta que los polioles se van sumando a lo largo del día. Hablamos de su tolerancia en la página dedicada al [sorbitol en Prunex1](/ingredientes-prunex1/sorbitol/)." },
+    { "type": "cta", "text": "¿Ya lo conversaste con tu médico y quieres probarlo? Revisa el precio actualizado y las presentaciones disponibles." },
+    { "type": "h2", "text": "La fibra y la glucosa: lo que se sabe en general" },
+    { "type": "p", "text": "La fibra soluble y viscosa, como la del psyllium, forma un gel en el intestino que puede hacer más lenta la absorción de los carbohidratos de una comida. En estudios clínicos con psyllium tomado junto a las comidas, en dosis de varios gramos al día, se ha observado una menor subida de la glucosa después de comer en algunas personas con diabetes tipo 2." },
+    { "type": "p", "text": "Ahora, el matiz honesto: esos resultados corresponden al ingrediente aislado, con sus propias dosis y condiciones, no a Prunex1. Una taza aporta 1.7 g de fibra dietaria total, repartida entre psyllium, inulina, mucílago de linaza y otros componentes cuyas cantidades no están declaradas. No es correcto esperar que una taza baje tu glucosa ni que reemplace tu medicación." },
+    { "type": "p", "text": "Lo que sí es razonable decir es que toda la fibra suma. Las recomendaciones generales para adultos hablan de 25 a 30 g diarios, y la mayor parte debería venir de la comida: un plato de lentejas, una porción de quinua o una fruta entera con cáscara pesan mucho más en tu fibra diaria que cualquier bebida." },
+    { "type": "h2", "text": "Antes de tomarlo: cuándo hablar con tu médico" },
+    { "type": "callout", "variant": "aviso", "title": "Consulta antes de empezar", "text": "Habla con tu endocrinólogo o médico de cabecera antes de tomar Prunex1 si te aplicas insulina, tomas metformina u otros antidiabéticos, tienes gastroparesia o digestión muy lenta, enfermedad renal, o si tus glucosas han estado inestables. Busca atención de inmediato ante dolor abdominal intenso, vómitos, sangre en las heces o pérdida de peso sin explicación." },
+    { "type": "p", "text": "La fibra puede retrasar la absorción de algunos medicamentos orales. La pauta general es separar las tomas unas dos horas, pero quien debe confirmarlo es tu médico o tu químico farmacéutico. Lo explicamos con más calma en [cómo combinar Prunex1 con tus medicamentos](/como-preparar-prunex1/medicamentos/)." },
+    { "type": "p", "text": "Recuerda además que la ficha oficial indica que no es apto para personas con tránsito intestinal normal. Si tu preocupación es solo la glucosa y vas al baño sin dificultad, no tiene sentido tomarlo. Y si decides probarlo con el visto bueno médico, anota en tu cuaderno o app de glucosa los días en que lo tomas: en tu próximo control habrá datos reales para evaluar si te conviene." },
+    { "type": "h2", "text": "Qué promete y qué no promete Prunex1" },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion presenta Prunex1 como una ayuda para un adecuado tránsito intestinal y para sentirte más liviano sin las molestias de la hinchazón abdominal. Ninguna de sus comunicaciones oficiales lo presenta como un producto para la diabetes, y la propia etiqueta aclara que sus fórmulas no buscan tratar ni prevenir enfermedades." },
+    { "type": "p", "text": "Visto así, Prunex1 puede ser una bebida compatible con un plan para diabetes, por sus pocos carbohidratos y la ausencia de azúcares añadidos, pero su papel es digestivo, no metabólico. Si quieres el panorama completo de dudas y experiencias, empieza por nuestra guía de [opiniones sobre Prunex1](/opiniones-prunex1/). Y si ya tienes luz verde de tu médico, puedes [comprar Prunex1 original](/comprar-prunex1/) en la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Prunex1 tiene índice glucémico declarado?", "a": "No. La etiqueta peruana no informa índice ni carga glucémica, y no conocemos un estudio publicado sobre el producto terminado. Lo único verificable es la tabla: 4.5 g de carbohidratos y 0.2 g de azúcares por taza. Si quieres conocer tu respuesta individual, mide tu glucosa antes y un par de horas después, con la guía de tu médico." },
+    { "q": "¿Y si tengo prediabetes o resistencia a la insulina?", "a": "Aplican las mismas cuentas: 4.5 g de carbohidratos por taza es una cantidad pequeña, pero Prunex1 no mejora la resistencia a la insulina. Lo que tiene respaldo es la alimentación, la actividad física, el descanso y el control médico. Coméntalo en tu próxima consulta." },
+    { "q": "¿Puedo prepararlo con leche para que llene más?", "a": "La etiqueta indica agua caliente. Si lo mezclas con leche, sumas la lactosa y los carbohidratos de la leche, y además cambias la textura. Para quien cuenta carbohidratos, el agua es la opción más simple y predecible." },
+    { "q": "¿Una taza de Prunex1 puede bajarme demasiado el azúcar?", "a": "No hay datos de que una taza cause hipoglucemia por sí sola. Lo que sí conviene vigilar es no usarlo en lugar de una comida: saltarte alimentos mientras usas insulina o ciertos antidiabéticos sí puede bajarte la glucosa. Prunex1 no reemplaza comidas." }
+  ],
+  "sources": [
+    { "label": "Asociación Americana de la Diabetes (ADA)", "url": "https://diabetes.org/" },
+    { "label": "NIDDK – Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales", "url": "https://www.niddk.nih.gov/" },
+    { "label": "OMS – Diabetes (nota descriptiva)", "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes" },
+    { "label": "Autoridad Europea de Seguridad Alimentaria (EFSA)", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/tiene-azucar/", "/ingredientes-prunex1/stevia/", "/ingredientes-prunex1/calorias/", "/opiniones-prunex1/contraindicaciones/"]
+}

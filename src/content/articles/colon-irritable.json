@@ -1,0 +1,77 @@
+{
+  "slug": "colon-irritable",
+  "pillar": "opiniones-prunex1",
+  "path": "/opiniones-prunex1/colon-irritable/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 colon irritable",
+  "title": "Prunex1 y colon irritable: inulina, sorbitol y tolerancia",
+  "seoTitle": "Prunex1 y colon irritable: qué revisar si tienes SII",
+  "metaDescription": "Prunex1 y colon irritable: por qué su inulina y su sorbitol pueden empeorar síntomas en algunas personas con SII y qué conversar con tu especialista.",
+  "excerpt": "La fórmula de Prunex1 combina inulina y sorbitol, dos FODMAP, con psyllium, una fibra que suele tolerarse mejor. Te explicamos qué significa eso si tienes SII.",
+  "quickAnswer": "Prunex1 y colon irritable pueden no llevarse bien: la bebida combina inulina de achicoria, un fructano de la familia FODMAP, y sorbitol, un poliol, dos componentes que en algunas personas con síndrome de intestino irritable aumentan gases, hinchazón o diarrea. También lleva psyllium, que suele tolerarse mejor. Consulta antes con tu gastroenterólogo o nutricionista.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A glass cup of warm reddish-amber drink on a linen napkin beside a blank open notebook and a pen, a small bowl of plain white rice and a few kiwi slices in the background, soft afternoon light in a quiet Lima apartment kitchen, calm minimal style. No packaging, no sachets, no text, no logos, no faces.",
+    "alt": "Vaso de bebida rojiza tibia junto a un cuaderno abierto, un bowl de arroz blanco y rodajas de kiwi en una cocina luminosa"
+  },
+  "blocks": [
+    { "type": "p", "text": "El colon irritable tiene algo de impredecible: un día el menú de la oficina te cae perfecto y al siguiente el mismo arroz con pollo te deja hinchado toda la tarde. Por eso, quienes viven con síndrome de intestino irritable (SII) suelen revisar cada etiqueta antes de sumar algo nuevo. Con Prunex1 esa revisión vale la pena, porque su fórmula tiene ingredientes que juegan a favor y otros que pueden jugar en contra." },
+    { "type": "p", "text": "En este artículo vamos ingrediente por ingrediente desde la óptica del SII, sin prometer nada y señalando con claridad lo que la etiqueta no declara." },
+    { "type": "h2", "text": "¿Qué es el colon irritable y por qué importa el tipo de fibra?" },
+    { "type": "p", "text": "El SII es un trastorno funcional del intestino: hay dolor abdominal recurrente asociado a cambios en las deposiciones, sin una lesión visible que lo explique. Se suele clasificar según el patrón predominante: con estreñimiento, con diarrea o mixto. El diagnóstico lo hace un médico, idealmente después de descartar otras causas." },
+    { "type": "p", "text": "La fibra es un tema central porque no toda fibra se comporta igual. Algunas fermentan rápido y producen gas; otras forman un gel y fermentan poco. Para una persona con SII, esa diferencia puede separar un día tranquilo de uno con distensión y cólicos." },
+    { "type": "h2", "text": "Prunex1 y colon irritable: los ingredientes que conviene mirar" },
+    { "type": "p", "text": "Prunex1 aporta **1.7 g de fibra dietaria por porción** (1 stick de 5 g en 180 ml de agua caliente), pero la etiqueta no detalla cuánto corresponde a cada fibra. Lo que sí sabemos es el orden: los ingredientes se listan de mayor a menor proporción, y la achicoria (fuente de inulina) figura en segundo lugar, justo después de la tapioca." },
+    { "type": "h3", "text": "Inulina de achicoria: un FODMAP" },
+    { "type": "p", "text": "La inulina es un fructano, uno de los carbohidratos fermentables agrupados bajo la sigla FODMAP (oligosacáridos, disacáridos, monosacáridos y polioles fermentables). Los fructanos fermentan rápido en el colon y atraen agua. En muchas personas eso pasa desapercibido; en alguien con SII, cuyo intestino suele ser más sensible a la distensión, puede traducirse en gases, hinchazón y dolor. Tienes más contexto en nuestra ficha de la [inulina de achicoria en Prunex1](/ingredientes-prunex1/inulina-de-achicoria/)." },
+    { "type": "h3", "text": "Sorbitol: la P de FODMAP" },
+    { "type": "p", "text": "El sorbitol es un poliol, o alcohol de azúcar, que se absorbe mal en el intestino delgado. Arrastra agua y también fermenta. En personas con SII, sobre todo cuando predomina la diarrea, puede ablandar las deposiciones o aumentar los gases. En Prunex1 aparece en octavo lugar, su cantidad no está declarada y, además, el guindón lo contiene de forma natural. Lo explicamos a fondo en [sorbitol en Prunex1](/ingredientes-prunex1/sorbitol/)." },
+    { "type": "h3", "text": "Psyllium y mucílago de linaza: los más amables" },
+    { "type": "p", "text": "El psyllium (*Plantago ovata*) es una fibra soluble que forma gel y fermenta poco. Por eso es la fibra que con más frecuencia mencionan las guías de gastroenterología como opción en el SII, a diferencia de las fibras muy fermentables. El mucílago de linaza también es viscoso. El detalle es que en Prunex1 estas fibras van acompañadas de inulina y sorbitol, así que no puedes asumir que la bebida se comporta como el psyllium solo. Comparamos ambas opciones en [Prunex1 vs psyllium](/comparativas-prunex1/vs-psyllium-generico/)." },
+    { "type": "table", "caption": "Ingredientes de Prunex1 desde la óptica del colon irritable", "headers": ["Ingrediente", "Tipo", "Lugar en la lista", "Lo que suele ocurrir en el SII"], "rows": [
+      ["Inulina de achicoria", "Fructano (FODMAP)", "2.º", "Fermenta rápido; puede aumentar gases e hinchazón en personas sensibles"],
+      ["Psyllium", "Fibra soluble formadora de gel", "3.º", "Fermenta poco; suele tolerarse mejor"],
+      ["Guindón deshidratado", "Fruta con sorbitol natural", "6.º, junto con limón", "Aporta polioles; cantidad no declarada"],
+      ["Mucílago de linaza", "Fibra viscosa", "7.º", "En general bien tolerado; respuesta individual"],
+      ["Sorbitol", "Poliol (FODMAP)", "8.º", "Puede ablandar las heces y dar gases, sobre todo en SII con diarrea"],
+      ["Estevia", "Edulcorante sin calorías", "13.º", "No es un FODMAP; tolerancia individual"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice y lo que no dice la etiqueta", "text": "Fibra dietaria total: 1.7 g por porción. Azúcares totales: 0.2 g; azúcares añadidos: 0 g. Contiene sorbitol y estevia. No se declara cuánto hay de inulina, psyllium, mucílago de linaza, guindón ni sorbitol por stick, por lo que no es posible calcular la carga de FODMAP de una porción." },
+    { "type": "cta", "text": "Si tu especialista te autoriza a probarlo, revisa aquí el precio vigente y compra por un canal autorizado." },
+    { "type": "h2", "text": "¿Depende del tipo de colon irritable?" },
+    { "type": "p", "text": "En parte sí, aunque la respuesta individual pesa más que el subtipo del diagnóstico:" },
+    { "type": "ul", "items": [
+      "**SII con estreñimiento:** es el perfil que más se interesa por una bebida de fibra. El psyllium juega a favor, pero la inulina puede generar distensión, que suele ser justamente el síntoma que más molesta en este grupo.",
+      "**SII con diarrea:** el sorbitol y la inulina pueden ablandar todavía más las deposiciones. Es el perfil donde más prudencia conviene.",
+      "**SII mixto:** la alternancia hace difícil predecir la respuesta, y sumar algo nuevo en una fase inestable complica saber qué está pasando."
+    ] },
+    { "type": "p", "text": "Si sigues una dieta baja en FODMAP con un nutricionista, ten en cuenta que Prunex1 introduce al menos dos grupos de FODMAP a la vez. En la fase de eliminación no encaja; en la de reintroducción, será tu nutricionista quien decida si tiene sentido y en qué momento." },
+    { "type": "h2", "text": "Si tu médico te da luz verde: cómo observar tu respuesta" },
+    { "type": "p", "text": "No existe una pauta oficial de Prunex1 para el SII y no vamos a inventarla. Sí podemos sugerir buenas prácticas generales para saber cómo te cae:" },
+    { "type": "ul", "items": [
+      "Prepara la porción como indica la etiqueta y no la mezcles con jugos de fruta u otros ingredientes ricos en FODMAP, para no sumar variables.",
+      "Elige una semana sin cambios grandes: no la del cumpleaños con parrilla ni la del viaje a provincia.",
+      "Lleva un registro sencillo de gases, hinchazón, dolor y consistencia de las deposiciones; la escala de Bristol, que usan muchos gastroenterólogos, ayuda a describirla.",
+      "Mantén una buena hidratación a lo largo del día.",
+      "Si los síntomas empeoran de forma clara, suspende y lleva tu registro a la consulta."
+    ] },
+    { "type": "p", "text": "Es común que la fibra cause algo de gases al inicio en cualquier persona; lo tratamos en [Prunex1 y gases](/opiniones-prunex1/da-gases/). En el SII, sin embargo, la línea entre una adaptación leve y un empeoramiento real es más fina, y por eso el seguimiento profesional es clave." },
+    { "type": "callout", "variant": "aviso", "title": "Señales que no deben atribuirse al colon irritable", "text": "Consulta pronto si notas sangre en las heces, pérdida de peso sin explicación, fiebre, anemia, síntomas que te despiertan en la noche, un cambio brusco del hábito intestinal después de los 50 años o antecedentes familiares de cáncer de colon o enfermedad celíaca. Estas señales requieren evaluación médica antes de cualquier cambio en tu alimentación." },
+    { "type": "h2", "text": "En resumen: ¿es buena opción si tienes SII?" },
+    { "type": "p", "text": "Prunex1 no está formulado pensando en el colon irritable y la marca no lo comunica para ese fin. Su combinación de inulina y sorbitol lo hace poco aconsejable para muchas personas con SII, aunque algunas pueden tolerarlo, en especial si su intestino no reacciona a esos componentes. El psyllium de la fórmula es un punto a favor, pero por sí solo no compensa lo demás." },
+    { "type": "p", "text": "Si ya sabes, por experiencia o por una dieta guiada, que toleras bien los fructanos y los polioles, la conversación con tu médico será más sencilla. Si no lo sabes, empieza por averiguarlo. Para contrastar con otras dudas frecuentes, revisa la guía de [opiniones y experiencias con Prunex1](/opiniones-prunex1/) y, si decides probarlo con aval profesional, encuéntralo en nuestra sección para [comprar Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Prunex1 sirve para tratar el colon irritable?", "a": "No. Es un alimento en polvo a base de fibras y extractos vegetales, no un medicamento, y FuXion no lo comunica para el SII. El manejo del colon irritable lo define tu médico según tu caso." },
+    { "q": "Si el ajo, la cebolla o el pan de trigo me inflaman, ¿Prunex1 también lo hará?", "a": "No necesariamente, pero es una pista. Esos alimentos son fuentes conocidas de fructanos, el mismo grupo al que pertenece la inulina. Si ya sabes que reaccionas a ellos, coméntalo con tu especialista antes de probar la bebida." },
+    { "q": "¿Prunex1 tiene gluten?", "a": "Prunex1 lleva el sello sin gluten y su lista de ingredientes no incluye trigo, cebada ni centeno. La etiqueta advierte que se elabora en equipos donde se procesan leche, productos lácteos, huevos y soya." },
+    { "q": "¿Puedo tomarlo si uso antiespasmódicos u otros medicamentos para el SII?", "a": "Consulta primero a tu médico o químico farmacéutico. La fibra puede modificar la absorción de algunos fármacos cuando se toman al mismo tiempo, por lo que suele recomendarse separarlos." }
+  ],
+  "sources": [
+    { "label": "NIDDK – Síndrome del intestino irritable", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome" },
+    { "label": "Monash University – Dieta baja en FODMAP", "url": "https://www.monashfodmap.com/" },
+    { "label": "American College of Gastroenterology", "url": "https://gi.org/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/inulina-de-achicoria/", "/ingredientes-prunex1/sorbitol/", "/comparativas-prunex1/vs-psyllium-generico/", "/opiniones-prunex1/da-gases/"]
+}

@@ -1,0 +1,69 @@
+{
+  "slug": "psyllium",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/psyllium/",
+  "isPillar": false,
+  "primaryKeyword": "psyllium en Prunex1",
+  "title": "Psyllium en Prunex1: qué hace el Plantago ovata en tu taza",
+  "seoTitle": "Psyllium en Prunex1: qué es y qué dice la evidencia",
+  "metaDescription": "Psyllium en Prunex1: cómo el Plantago ovata absorbe agua y forma gel, qué dice la evidencia europea y por qué su cantidad por stick no está declarada.",
+  "excerpt": "El psyllium es la fibra que da cuerpo a la bebida. Te explicamos qué es el Plantago ovata, cómo forma gel y qué parte de la evidencia aplica (y cuál no) a Prunex1.",
+  "quickAnswer": "El psyllium en Prunex1 es la cáscara deshidratada de la semilla de Plantago ovata, una fibra soluble que absorbe agua y forma un gel. Es el tercer ingrediente de la etiqueta. Los estudios sobre psyllium usan varios gramos al día; la etiqueta peruana no declara cuánto psyllium hay por stick, solo 1.7 g de fibra total.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Close-up of a glass cup of reddish-amber drink on a pale stone kitchen counter, a small wooden spoon with light beige psyllium husk flakes beside it and a few dried prunes, soft overcast morning light through a window in a Lima apartment, minimal and clean style, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de vidrio con bebida rojiza junto a una cuchara de madera con cáscara de psyllium y guindones sobre una encimera clara"
+  },
+  "blocks": [
+    { "type": "p", "text": "Si alguna vez preparaste tu taza, te distrajiste respondiendo un mensaje y al volver notaste la bebida más densa que al principio, ya viste trabajar al psyllium. Esa textura que se va espesando no es un defecto: es la firma de una fibra que atrapa agua y la convierte en gel." },
+    { "type": "p", "text": "En esta página nos enfocamos solo en ese ingrediente: de dónde viene, qué hace en términos generales, qué respalda la ciencia y, sobre todo, qué parte de esa ciencia se puede trasladar a una bebida como Prunex1 y qué parte no. Si quieres ver los 16 ingredientes juntos, tienes la [lista completa de ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "Qué es el psyllium en Prunex1 y dónde aparece en la etiqueta" },
+    { "type": "p", "text": "En el reverso del empaque figura como **\"Deshidratado de Plantago ovata (Psyllium)\"** y ocupa el tercer lugar, después de la tapioca en polvo y la achicoria en polvo. Por convención de etiquetado, los ingredientes se ordenan de mayor a menor proporción, así que hay más psyllium que anís estrella o kelp, pero menos que la base de tapioca." },
+    { "type": "p", "text": "El *Plantago ovata* es una planta herbácea pequeña que se cultiva sobre todo en el norte de la India. Lo que se aprovecha es la cáscara (el tegumento) de su semilla, muy rica en mucílago. En algunos textos lo encontrarás como ispágula; en el mercado peruano se vende a granel como \"cáscara de psyllium\" o \"psyllium husk\"." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que sí y lo que no dice la etiqueta", "text": "La etiqueta peruana nombra el psyllium entre los ingredientes y declara 1.7 g de fibra dietaria total por porción (1 stick de 5 g en 180 ml de agua caliente). No indica cuántos gramos de psyllium contiene cada stick: esa fibra total se reparte entre varias fuentes, como la inulina de achicoria y el mucílago de linaza." },
+    { "type": "h2", "text": "Cómo actúa: una fibra que absorbe agua y forma gel" },
+    { "type": "p", "text": "El mucílago del psyllium está formado principalmente por polisacáridos llamados arabinoxilanos. Al contacto con el agua se hidratan, se hinchan y forman un gel viscoso. Nuestro intestino delgado no tiene enzimas para digerirlo, así que ese gel avanza por el tubo digestivo casi intacto." },
+    { "type": "p", "text": "En términos generales, eso se traduce en tres comportamientos que la literatura describe una y otra vez:" },
+    { "type": "ul", "items": [
+      "**Retiene agua**: ayuda a que las heces no se resequen durante su paso por el colon.",
+      "**Aporta volumen**: el gel suma masa, lo que se relaciona con un tránsito más regular.",
+      "**Fermenta poco**: a diferencia de la inulina, las bacterias del colon lo aprovechan de forma limitada, por eso suele asociarse a menos gases que otras fibras."
+    ] },
+    { "type": "p", "text": "Ese mismo poder de gelificar explica por qué la etiqueta insiste en revolver bien y consumir la preparación en su totalidad. Si el polvo cae de golpe y no se mezcla, el psyllium se hidrata por fuera y deja un núcleo seco: el famoso grumo. Tienes trucos concretos en nuestra guía para [preparar Prunex1 sin grumos](/como-preparar-prunex1/sin-grumos/)." },
+    { "type": "h2", "text": "Qué dice la evidencia sobre el psyllium (y qué no dice del producto)" },
+    { "type": "p", "text": "El psyllium es una de las fibras más estudiadas para la función intestinal. En Europa, la EFSA lo ha evaluado dentro del marco de declaraciones de salud sobre función intestinal, y las referencias europeas sobre la cáscara de *Plantago ovata* (incluida la monografía de la Agencia Europea de Medicamentos para su uso como formador de volumen) trabajan con **varios gramos al día**, repartidos en tomas y siempre con abundante líquido." },
+    { "type": "p", "text": "Aquí viene el matiz que muchas webs omiten. Una taza de Prunex1 aporta 1.7 g de fibra en total, sumando todas sus fuentes. Por simple aritmética, el psyllium de cada stick es una fracción de esa cifra, y por tanto está por debajo de las cantidades con las que se ha estudiado el ingrediente. La evidencia es del psyllium en esos estudios, no de Prunex1." },
+    { "type": "table", "caption": "El psyllium en estudios frente al psyllium dentro de Prunex1", "headers": ["Aspecto", "Psyllium en estudios y referencias", "Psyllium en Prunex1"], "rows": [
+      ["Forma", "Cáscara de semilla, casi siempre sola", "Uno de 16 ingredientes de una mezcla"],
+      ["Cantidad", "Varios gramos al día", "No declarada; la fibra total es 1.7 g por porción"],
+      ["Líquido", "Abundante agua o líquido por toma", "180 ml de agua caliente por stick"],
+      ["Qué se evalúa", "El efecto del ingrediente aislado", "No conocemos estudios publicados del producto terminado"]
+    ] },
+    { "type": "cta", "text": "Si después de entender qué aporta el psyllium quieres probar la bebida, revisa el precio vigente y las presentaciones disponibles." },
+    { "type": "h2", "text": "Por qué FuXion combina psyllium con otras fibras" },
+    { "type": "p", "text": "Una lectura razonable de la fórmula es que cada fibra cubre un frente distinto: el psyllium aporta gel y volumen, la inulina de achicoria es fermentable y prebiótica, y el mucílago de linaza suma viscosidad. Combinarlas permite repartir la fibra entre fuentes con comportamientos diferentes en lugar de depender de una sola." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion describe Prunex1 como un \"té herbal\" a base de un mix de fibras solubles y extracto de guindón, y comunica beneficios como un adecuado tránsito intestinal y sentirte más liviano sin las molestias de la hinchazón abdominal. Son afirmaciones comerciales del fabricante; la etiqueta lo define como bebida instantánea en polvo a base de fibras y extractos vegetales." },
+    { "type": "p", "text": "Si te interesa la diferencia entre fibras solubles e insolubles y cuál predomina en la mezcla, la explicamos con calma en [qué tipo de fibra tiene Prunex1](/ingredientes-prunex1/fibra-soluble-e-insoluble/)." },
+    { "type": "h2", "text": "Psyllium y agua: el detalle que más se olvida" },
+    { "type": "p", "text": "Una fibra que absorbe agua necesita agua. Parece obvio, pero es el error más común: tomar la taza y luego pasar el resto del día con un cafecito en la mañana y una gaseosa con el menú. En verano limeño, con calor y sudor, la necesidad de líquidos sube; en invierno, con la garúa, simplemente nos da menos sed y bebemos menos sin notarlo." },
+    { "type": "p", "text": "No hace falta una cifra rígida, pero sí un hábito: tener una botella a la mano en la oficina o en la mochila. Lo desarrollamos en [Prunex1 y agua durante el día](/como-preparar-prunex1/cuanta-agua-tomar/)." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar antes o suspender", "text": "Consulta a un médico antes de usar productos con psyllium si tienes dificultad para tragar, antecedentes de estrechez u obstrucción intestinal, una enfermedad crónica o tomas medicación, porque la fibra puede retrasar la absorción de algunos fármacos. Y acude a consulta si aparece dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación o un cambio brusco del hábito intestinal." },
+    { "type": "p", "text": "Sobre el espaciado entre la fibra y las pastillas que tomas a diario, revisa nuestra guía de [Prunex1 y medicamentos](/como-preparar-prunex1/medicamentos/)." },
+    { "type": "h2", "text": "Prunex1 o psyllium puro: no compiten en lo mismo" },
+    { "type": "p", "text": "Quien compra cáscara de psyllium a granel busca, por lo general, una dosis alta de una sola fibra y no le importa el sabor. Prunex1 apuesta por otra cosa: una porción pequeña de una mezcla de fibras con extractos vegetales, sabor guindón y preparación en taza caliente. Son propuestas distintas, y la comparación honesta, con precio por porción incluido, está en [Prunex1 vs psyllium genérico](/comparativas-prunex1/vs-psyllium-generico/)." },
+    { "type": "p", "text": "Si después de todo esto el formato encaja contigo, puedes ver el precio verificado y las presentaciones en stock en nuestra [página para comprar Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿El psyllium de Prunex1 es el mismo que venden a granel en el mercado?", "a": "Es la misma planta, *Plantago ovata*, pero no el mismo formato. A granel compras cáscara pura en la cantidad que quieras; en Prunex1 el psyllium está mezclado con otros 15 ingredientes y en una cantidad que la etiqueta no especifica." },
+    { "q": "¿El psyllium tiene gluten?", "a": "No. El *Plantago ovata* no es un cereal y no contiene gluten. Además, el empaque de Prunex1 lleva el sello sin gluten, aunque se elabora en equipos que procesan leche, huevos y soya." },
+    { "q": "¿Puede el psyllium dar alergia?", "a": "Es poco frecuente, pero se han descrito reacciones alérgicas al psyllium, sobre todo en personas expuestas al polvo de forma habitual. Si notas picazón, ronchas o dificultad para respirar tras tomarlo, suspende y busca atención médica." },
+    { "q": "¿Por qué la bebida se pone espesa si la dejo reposar?", "a": "Porque el psyllium y la goma xantán siguen absorbiendo agua con el paso de los minutos. Por eso la etiqueta indica consumir la preparación en su totalidad una vez lista, en lugar de dejarla servida." }
+  ],
+  "sources": [
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" },
+    { "label": "EMA – Agencia Europea de Medicamentos (monografías de plantas medicinales)", "url": "https://www.ema.europa.eu/" },
+    { "label": "NIDDK – Estreñimiento: alimentación y fibra", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/fibra-soluble-e-insoluble/", "/comparativas-prunex1/vs-psyllium-generico/", "/como-preparar-prunex1/sin-grumos/", "/ingredientes-prunex1/mucilago-de-linaza/"]
+}

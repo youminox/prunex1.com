@@ -1,0 +1,72 @@
+{
+  "slug": "carmin",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/carmin/",
+  "isPillar": false,
+  "primaryKeyword": "carmín en Prunex1",
+  "title": "Carmín en Prunex1: el color de cochinilla explicado sin mitos",
+  "seoTitle": "Carmín en Prunex1: origen, seguridad y alergias (E120)",
+  "metaDescription": "Carmín en Prunex1: qué es este color natural de cochinilla (E120), por qué está en la fórmula, qué dicen las agencias sobre su seguridad y cuándo cuidarte.",
+  "excerpt": "El carmín es el ingrediente que le da a Prunex1 su tono rojizo. Te contamos de dónde sale, qué dicen las evaluaciones de seguridad y quiénes deben tener cuidado.",
+  "quickAnswer": "El carmín en Prunex1 es un colorante natural obtenido de la cochinilla, un insecto que vive en la tuna; en la Unión Europea se codifica como E120. Está para dar a la bebida su tono rojizo acorde al sabor guindón. Es un aditivo autorizado y evaluado, aunque de origen animal y, en casos raros, puede causar alergia.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass mug of warm reddish-amber infusion on a rustic clay surface beside a prickly pear cactus pad and a small ceramic dish of deep crimson natural pigment powder, soft afternoon light in an Andean courtyard in Ayacucho, earthy tones, minimal composition, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de bebida rojiza junto a una penca de tuna y un platito con pigmento carmesí natural"
+  },
+  "blocks": [
+    { "type": "p", "text": "Quien ha recorrido los campos de tuna en Ayacucho o en el valle del Colca seguramente ha visto unas manchitas blancas, como algodón, pegadas a las pencas. Si aplastas una entre los dedos, aparece un rojo intenso que no se borra fácil. Ese insecto es la cochinilla, y de ella sale el ingrediente que le da color a cada taza de Prunex1." },
+    { "type": "p", "text": "En la lista de la etiqueta figura casi al final, como **color natural carmín**. Es un ingrediente pequeño en cantidad, pero genera preguntas legítimas: ¿es seguro?, ¿es de origen animal?, ¿puede dar alergia? Aquí respondemos cada una con datos verificables. Si quieres ver la fórmula completa, revisa la [guía de ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "¿Qué hace el carmín en Prunex1?" },
+    { "type": "p", "text": "Su función es estética: dar a la bebida preparada ese tono **rojizo ámbar** que uno asocia al guindón. Sin colorante, la mezcla de tapioca, psyllium, achicoria y cáscara de arroz se vería beige o marrón grisáceo, algo poco apetecible para una bebida que promete sabor a ciruela pasa." },
+    { "type": "p", "text": "El carmín no aporta calorías relevantes, fibra ni ningún efecto sobre el tránsito intestinal. Tampoco indica que la bebida sea más concentrada o más eficaz: el color es solo eso, color." },
+    { "type": "callout", "variant": "etiqueta", "title": "Dónde aparece en la etiqueta", "text": "El carmín es el ingrediente 14 de 16 en la lista oficial, después de la estevia y antes del aceite esencial de anís estrella. Como los ingredientes se ordenan de mayor a menor cantidad, su proporción en cada stick de 5 g es pequeña, aunque la cifra exacta no está declarada." },
+    { "type": "h2", "text": "Carmín en Prunex1: un colorante de origen animal" },
+    { "type": "p", "text": "La cochinilla (*Dactylopius coccus*) es un insecto que se alimenta de la tuna (*Opuntia*). Las hembras se recolectan, se secan y se muelen; de ellas se extrae el **ácido carmínico**, el pigmento rojo. Luego, al combinarlo con sales de calcio o aluminio, se obtiene el carmín propiamente dicho, más estable frente a la luz y el calor." },
+    { "type": "p", "text": "No es un invento moderno. Los textiles de Paracas y Nasca ya usaban tintes de cochinilla, y durante la Colonia este rojo fue una de las mercancías más valiosas que salían de América. Hoy el Perú sigue siendo uno de los principales productores mundiales, con zonas de cultivo en Ayacucho, Arequipa, Huancavelica y la sierra de Lima." },
+    { "type": "p", "text": "Según el país o el producto, lo verás con distintos nombres:" },
+    { "type": "ul", "items": [
+      "**Carmín** o **color natural carmín**, como en Prunex1.",
+      "**Cochinilla** o **extracto de cochinilla**.",
+      "**Ácido carmínico**.",
+      "**E120** (Unión Europea) o **INS 120** (sistema del Codex Alimentarius)."
+    ] },
+    { "type": "p", "text": "Que sea de origen animal tiene una consecuencia práctica para quienes siguen una alimentación vegana; ese tema lo tratamos aparte en [¿Prunex1 es vegano?](/ingredientes-prunex1/es-vegano/)." },
+    { "type": "h2", "text": "¿Es seguro el carmín? Lo que dicen las evaluaciones" },
+    { "type": "p", "text": "El carmín es un **aditivo alimentario autorizado** en el Codex Alimentarius, en la Unión Europea y en Estados Unidos, donde la FDA lo incluye entre los colorantes exentos de certificación. La Autoridad Europea de Seguridad Alimentaria (EFSA) lo reevaluó en 2015, mantuvo una ingesta diaria admisible y concluyó que, con los usos y niveles reportados, la exposición de la población general no representa un problema de seguridad." },
+    { "type": "p", "text": "Un detalle que suele confundir: el carmín **no es un colorante azoico sintético**. No pertenece al grupo de colorantes artificiales (como la tartrazina o el rojo allura) que la Unión Europea obliga a acompañar de una advertencia específica en la etiqueta. Es un pigmento natural, aunque procesado industrialmente para purificarlo." },
+    { "type": "table", "caption": "Carmín en Prunex1: lo que se sabe y lo que no", "headers": ["Aspecto", "Situación"], "rows": [
+      ["Presencia en la fórmula", "Sí, declarado como color natural carmín"],
+      ["Cantidad por stick", "No declarada en la etiqueta peruana"],
+      ["Estatus regulatorio", "Aditivo autorizado (INS 120 / E120)"],
+      ["Aporte nutricional", "Irrelevante: su función es dar color"],
+      ["Origen", "Animal (insecto cochinilla)"],
+      ["Riesgo de alergia", "Poco frecuente, pero documentado"]
+    ] },
+    { "type": "cta", "text": "¿Ya revisaste la etiqueta y te convence la fórmula? Mira el precio vigente del doypack de 28 sticks en la tienda oficial." },
+    { "type": "h2", "text": "Alergia al carmín: rara, pero real" },
+    { "type": "p", "text": "La mayoría de personas consume carmín sin enterarse, porque está en yogures de fresa, embutidos, golosinas, helados y cosméticos. Sin embargo, la literatura médica describe **reacciones alérgicas mediadas por IgE**: urticaria, hinchazón de labios o párpados y, en casos muy aislados, anafilaxia. El culpable no sería el pigmento en sí, sino restos de proteínas del insecto que pueden quedar tras la extracción." },
+    { "type": "p", "text": "También se han descrito casos de asma ocupacional en trabajadores que manipulan polvo de cochinilla, y personas que se sensibilizaron primero con labiales o rubores y luego reaccionaron al ingerirlo. Por esos reportes, la FDA exige desde 2011 que los alimentos nombren el carmín o el extracto de cochinilla de forma explícita, en lugar de esconderlo bajo un genérico “colorante”." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo tener cuidado", "text": "Si alguna vez tuviste ronchas, picazón o hinchazón después de comer productos rojos o rosados, o al usar ciertos labiales, consulta a un alergólogo antes de probar Prunex1. Si tras tomarlo notas hinchazón de labios, lengua o garganta, o dificultad para respirar, suspéndelo y busca atención de emergencia de inmediato." },
+    { "type": "p", "text": "Recuerda además que el producto se elabora en equipos que procesan leche, huevo y soya. Si tienes alguna alergia alimentaria, revisa la página de [alérgenos de Prunex1](/ingredientes-prunex1/alergenos/) antes de decidir." },
+    { "type": "h2", "text": "Cómo reconocer el carmín en lo que ya comes" },
+    { "type": "p", "text": "Una buena forma de saber si lo toleras es revisar otros productos que ya tienes en la despensa. Busca en sus etiquetas las palabras carmín, cochinilla o E120. Si consumes con regularidad, por ejemplo, un yogur de fresa o una jamonada que lo contienen y nunca has tenido reacciones, es una pista tranquilizadora, aunque no reemplaza una evaluación médica." },
+    { "type": "p", "text": "Ojo con las confusiones: no todo lo rojo lleva carmín. La chicha morada casera, por ejemplo, debe su color a las antocianinas del maíz morado, y muchos refrescos industriales usan colorantes sintéticos. Lo que cuenta es lo que diga cada etiqueta." },
+    { "type": "h2", "text": "¿El color de tu taza dice algo sobre el producto?" },
+    { "type": "p", "text": "Una taza recién preparada debería verse rojiza o ámbar, con algo de turbidez por las fibras. Pequeñas diferencias de tono entre lotes son normales en ingredientes naturales. En cambio, si el polvo llega apelmazado, con olor raro o el color luce muy distinto al habitual, revisa el vencimiento y cómo lo has guardado; la humedad de Lima afecta a cualquier polvo. Tienes consejos en [cómo conservar Prunex1](/como-preparar-prunex1/conservar-y-vencimiento/)." },
+    { "type": "p", "text": "Si decides comprarlo, hazlo por un canal confiable para asegurar un empaque sellado y bien almacenado. En la página para [comprar Prunex1 original](/comprar-prunex1/) encontrarás el precio de catálogo y el acceso a la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿El carmín le cambia el sabor a Prunex1?", "a": "No de forma perceptible. En las cantidades usadas como colorante, el carmín no aporta sabor; lo que notas en la taza viene del guindón, el anís estrella, el limón y los edulcorantes." },
+    { "q": "¿El carmín es lo mismo que el colorante rojo 40?", "a": "No. El rojo 40 (rojo allura, E129) es un colorante sintético, mientras que el carmín se obtiene de un insecto. Prunex1 declara solo color natural carmín en su lista de ingredientes." },
+    { "q": "¿Existe una versión de Prunex1 sin carmín?", "a": "La etiqueta vigente del producto incluye carmín y no se comercializa una variante sin este ingrediente. Si tienes alergia comprobada a la cochinilla, lo prudente es no consumirlo y comentarlo con tu médico." },
+    { "q": "¿Puede manchar la taza o los dientes?", "a": "La cantidad es pequeña y queda diluida en 180 ml de agua, así que no suele dejar manchas notables. Enjuagar la taza poco después de tomar la bebida evita que queden restos de color o de fibra pegados." }
+  ],
+  "sources": [
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria (aditivos alimentarios)", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FDA – Color additives", "url": "https://www.fda.gov/" },
+    { "label": "Codex Alimentarius (FAO/OMS)", "url": "https://www.fao.org/fao-who-codexalimentarius/" },
+    { "label": "FuXion – sitio oficial", "url": "https://fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/es-vegano/", "/ingredientes-prunex1/alergenos/", "/que-es-prunex1/sabor-y-textura/", "/ingredientes-prunex1/stevia/"]
+}

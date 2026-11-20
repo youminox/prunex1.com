@@ -1,0 +1,84 @@
+{
+  "slug": "vale-la-pena",
+  "pillar": "precio-prunex1-peru",
+  "path": "/precio-prunex1-peru/vale-la-pena/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 vale la pena",
+  "title": "¿Prunex1 vale la pena? Costo-beneficio honesto por S/ 2.71",
+  "seoTitle": "Prunex1 vale la pena: costo-beneficio honesto en Perú",
+  "metaDescription": "¿Prunex1 vale la pena? Qué obtienes por S/ 2.71 por taza, qué no te da, cómo se compara con opciones caseras y para quién sí o no tiene sentido pagarlo.",
+  "excerpt": "Un análisis sin adornos de lo que pagas con cada stick de Prunex1, lo que no deberías esperar y los perfiles para los que tiene sentido, o no, frente a opciones caseras.",
+  "quickAnswer": "Prunex1 vale la pena si valoras la practicidad: por S/ 2.71 cada stick te da 1.7 g de fibra de una mezcla con psyllium, inulina y mucílago de linaza, extractos como anís estrella y guindón, 18 kcal y sabor listo en una taza. No vale la pena si buscas bajar de peso, si tu tránsito es normal o si prefieres obtener la fibra de alimentos más baratos.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A steaming cup of reddish-amber infusion on a light wooden kitchen table, next to a small paper bag of dried prunes, a bowl of rolled oats and a ripe papaya cut in half, warm late-afternoon light in a modest Lima apartment kitchen, honest everyday atmosphere, minimal style, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza humeante de infusión rojiza junto a guindones, avena y papaya en una cocina sencilla"
+  },
+  "blocks": [
+    { "type": "p", "text": "En cualquier mercado de Lima puedes comprar una bolsita de guindones, un poco de linaza y un kilo de avena por bastante menos de lo que cuesta un doypack de Prunex1. Entonces, ¿por qué alguien pagaría S/ 76.00? La pregunta es legítima y merece una respuesta que no suene a folleto." },
+    { "type": "p", "text": "Este análisis lo hace un distribuidor, así que lo justo es ser transparente: no vamos a decirte que es imprescindible. Vamos a separar lo que obtienes, lo que no obtienes y los perfiles para los que el precio tiene sentido, para que decidas con datos de la etiqueta y no con entusiasmo." },
+    { "type": "h2", "text": "Qué obtienes por S/ 2.71: el desglose de cada stick" },
+    { "type": "p", "text": "El doypack de 28 sticks cuesta S/ 76.00, lo que da S/ 2.71 por stick, y cada stick es una taza. Según la etiqueta peruana, esto es lo que hay dentro:" },
+    { "type": "ul", "items": [
+      "**1.7 g de fibra dietaria** por porción, de una mezcla que incluye psyllium (*Plantago ovata*), inulina de achicoria y mucílago de linaza. La etiqueta no declara cuánto aporta cada fibra por separado.",
+      "**Extractos y vegetales**: anís estrella, kelp, limón y guindón deshidratados, más aceite esencial de anís estrella para el aroma.",
+      "**18 kcal** por taza de 180 ml y **0 g de azúcares añadidos** (con 0.2 g de azúcares totales; el dulzor viene de sorbitol y estevia).",
+      "**Practicidad**: porción ya medida, stick sellado que puedes llevar a la oficina o al viaje en combi, sin remojar ni licuar nada.",
+      "**Sabor guindón** con notas de anís y limón, en una bebida caliente que se prepara en un minuto."
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice el empaque", "text": "Denominación: bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón. Primer ingrediente: tapioca en polvo. Modo de empleo: disolver un stick (5 g) en una taza (180 ml) de agua caliente, revolver bien y consumir en su totalidad. Sellos: No GMO, sin azúcares, sin gluten, bajo en sodio y Clean Label." },
+    { "type": "h2", "text": "Lo que no obtienes, aunque lo diga alguien en redes" },
+    { "type": "p", "text": "Parte de evaluar si algo vale lo que cuesta es saber qué no hace. Prunex1 es un alimento, no un medicamento: no trata ni previene enfermedades, y nadie puede prometerte un resultado en un plazo concreto." },
+    { "type": "ul", "items": [
+      "**No reemplaza tu alimentación.** Las recomendaciones generales para adultos rondan los 25 g de fibra al día; 1.7 g es una fracción pequeña de esa cifra. Las menestras, la fruta y las verduras siguen siendo la base.",
+      "**No es un producto para adelgazar.** Con 18 kcal no quema grasa, y sentirse «deshinchado» no equivale a perder grasa. Lo explicamos en [el mito de que Prunex1 adelgaza](/que-es-prunex1/adelgaza-mitos/).",
+      "**No sabrás la dosis de cada ingrediente.** La evidencia que existe sobre psyllium, inulina o guindón proviene de estudios con esos ingredientes y dosis propias, no de este producto."
+    ] },
+    { "type": "h2", "text": "¿Prunex1 vale la pena frente a las alternativas caseras?" },
+    { "type": "p", "text": "Aquí está el centro del asunto. Las opciones de cocina suelen ser más baratas por gramo de fibra, pero piden tiempo, preparación y tolerancia a su sabor o textura. Prunex1 cobra por ahorrarte ese trabajo y darte una fórmula combinada. Un resumen rápido, sin entrar en comparativas detalladas:" },
+    { "type": "table", "caption": "Resumen general: Prunex1 frente a opciones caseras de fibra", "headers": ["Opción", "Costo relativo", "Esfuerzo", "Lo que conviene saber"], "rows": [
+      ["Prunex1 (1 stick)", "S/ 2.71 por taza", "Bajo: agua caliente y revolver", "Mezcla de fibras y extractos; 1.7 g de fibra declarados"],
+      ["Agua de guindones remojados", "Bajo", "Medio: remojar con anticipación", "Aporta azúcar natural de la fruta; sabor variable"],
+      ["Linaza remojada o molida", "Bajo", "Medio: remojar o moler fresca", "Textura viscosa que no a todos les gusta"],
+      ["Avena, fruta y menestras", "Bajo", "Forma parte de las comidas", "Aportan fibra junto con otros nutrientes"]
+    ] },
+    { "type": "p", "text": "Si quieres ver cada comparación con números y matices, revisa la sección de [comparativas de Prunex1 con otras fibras](/comparativas-prunex1/). La conclusión general es que no compiten exactamente: una comida rica en fibra es la base, y un producto como Prunex1 es, a lo mucho, un apoyo práctico." },
+    { "type": "cta", "text": "Si después de este análisis te convence, revisa el precio vigente y las presentaciones." },
+    { "type": "h2", "text": "Para quién sí puede valer la pena" },
+    { "type": "ul", "items": [
+      "Personas con molestias por tránsito lento, que es el perfil al que FuXion orienta el producto, y que ya consultaron o descartaron otras causas.",
+      "Quien pasa el día fuera, almuerza menú en la calle y no tiene tiempo para remojar guindones o moler linaza.",
+      "Quien prefiere una bebida caliente con sabor definido antes que el sabor neutro o la textura de una fibra sola.",
+      "Quien valora tener la porción medida y lista, por ejemplo en el cajón del escritorio en una oficina de Miraflores."
+    ] },
+    { "type": "h2", "text": "Para quién probablemente no" },
+    { "type": "ul", "items": [
+      "Personas con **tránsito intestinal normal**: según la ficha oficial de FuXion, no es apto para ellas, como tampoco para embarazadas ni madres en lactancia.",
+      "Quien ya come suficiente fibra y no tiene molestias: estaría pagando por algo que no necesita.",
+      "Personas con colon irritable sensibles a la inulina o al sorbitol, que pueden empeorar síntomas en algunos casos. Lo tratamos en [Prunex1 y colon irritable](/opiniones-prunex1/colon-irritable/).",
+      "Quien tiene un presupuesto ajustado: con poco dinero, la fibra de alimentos del mercado rinde más.",
+      "Niños, o personas con dificultad para tragar o con enfermedades digestivas, sin indicación médica previa."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo el precio es lo de menos", "text": "Si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación, cambios bruscos del hábito intestinal, sospecha de obstrucción, tomas medicación o tienes una enfermedad crónica, la prioridad es consultar con un médico, no decidir qué producto comprar." },
+    { "type": "h2", "text": "Cómo decidir sin gastar de más" },
+    { "type": "p", "text": "Si estás en duda, no empieces por el formato grande. El doypack de 7 sticks cuesta S/ 21.00 (S/ 3.00 por stick) y te permite comprobar sabor, textura y tolerancia; lo analizamos en el artículo del [doypack de 7 sticks y su precio](/precio-prunex1-peru/doypack-7-sticks-precio/). Si te convence, el doypack de 28 baja el costo por taza." },
+    { "type": "p", "text": "El resumen de precios, puntos y envío está en la guía de [precio de Prunex1 en Perú](/precio-prunex1-peru/). Cuando decidas, puedes ver las presentaciones en la página para [comprar Prunex1 original](/comprar-prunex1/) o ir directo a https://carlos-lingan.site.fuxion.com/prunex1/." }
+  ],
+  "faqs": [
+    { "q": "¿Es caro Prunex1 comparado con lo que gasto en el día a día?", "a": "Cada taza cuesta S/ 2.71 con el doypack de 28, menos que muchas bebidas de cafetería y más que una infusión hecha en casa. Lo que encarece o abarata la decisión es cuántas tazas uses y si realmente lo necesitas." },
+    { "q": "¿Vale más la pena porque tiene varias fibras y no solo una?", "a": "Combinar psyllium, inulina y mucílago de linaza da una fórmula variada, pero la etiqueta solo declara el total: 1.7 g de fibra por porción. Más ingredientes no significan automáticamente más efecto; conviene valorarlo por lo que te aporta a ti." },
+    { "q": "¿Puedo saber si me sirve antes de gastar los S/ 76.00?", "a": "Sí: el doypack de 7 sticks a S/ 21.00 existe justamente para probar sabor y tolerancia con menos inversión. Si tienes una condición de salud o tomas medicamentos, consulta antes con tu médico." },
+    { "q": "¿Comprarlo fuera de la tienda oficial lo hace más rentable?", "a": "Un precio más bajo en redes o marketplaces puede esconder producto vencido, mal almacenado o sticks sueltos sin etiqueta para venta individual. El ahorro aparente se pierde si el producto no está en buen estado." }
+  ],
+  "sources": [
+    { "label": "EFSA – Scientific Opinion on Dietary Reference Values for carbohydrates and dietary fibre", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/1462" },
+    { "label": "NIDDK – Constipation", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": [
+    "/precio-prunex1-peru/precio-por-stick/",
+    "/comparativas-prunex1/vs-agua-de-guindones/",
+    "/opiniones-prunex1/funciona/",
+    "/que-es-prunex1/para-quien-es/"
+  ]
+}

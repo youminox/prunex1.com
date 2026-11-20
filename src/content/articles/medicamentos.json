@@ -1,0 +1,77 @@
+{
+  "slug": "medicamentos",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/medicamentos/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 y medicamentos",
+  "title": "Prunex1 y medicamentos: cómo separar las tomas con seguridad",
+  "seoTitle": "Prunex1 y medicamentos: separa tomas y consulta",
+  "metaDescription": "Prunex1 y medicamentos: por qué la fibra puede retrasar la absorción de algunos fármacos, cómo separar las tomas y cuándo consultar a tu médico.",
+  "excerpt": "La fibra puede interferir con la absorción de algunos fármacos. Te explicamos por qué conviene separar las tomas y en qué casos hablar antes con tu médico o farmacéutico.",
+  "quickAnswer": "Prunex1 y medicamentos pueden convivir, pero con cuidado: su fibra forma un gel que puede retrasar o reducir la absorción de algunos fármacos. El consenso general es separar las tomas unas 2 horas y, sobre todo si usas anticoagulantes, medicación para la tiroides o para la diabetes, consultar antes con tu médico o químico farmacéutico.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A ceramic cup of reddish-amber drink on a white kitchen counter next to a glass of water and an empty weekly pill organizer with its lids closed, soft morning daylight, tidy Lima apartment kitchen with a small potted herb, calm and minimal, no packaging, no sachets, no pill bottles with labels, no text, no logos, no visible faces",
+    "alt": "Taza de bebida rojiza junto a un vaso de agua y un pastillero semanal cerrado en una cocina luminosa"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas limeñas hay un rincón de la cocina dedicado a las pastillas: el pastillero de la semana, la caja de la presión de papá, el frasco de la tiroides de mamá. Cuando a ese rincón se suma un producto nuevo, aunque sea un alimento, aparece la duda lógica: ¿se pueden tomar juntos?" },
+    { "type": "p", "text": "En el caso de Prunex1, la respuesta pasa por entender qué hace la fibra en el intestino y por una regla práctica fácil de aplicar. Si es tu primera vez con el producto, la [guía para preparar Prunex1 correctamente](/como-preparar-prunex1/) te da la base; aquí nos concentramos en cómo convive con tu medicación." },
+    { "type": "h2", "text": "Prunex1 y medicamentos: por qué la fibra puede interferir" },
+    { "type": "p", "text": "Prunex1 contiene fibras como el psyllium, el mucílago de linaza, la goma xantán y la inulina de achicoria. Las tres primeras retienen agua y forman un gel viscoso en el intestino. Ese gel es útil para dar volumen y suavidad, pero tiene un efecto colateral: puede **atrapar parte de un medicamento o hacer más lenta su absorción** si ambos coinciden en el tubo digestivo." },
+    { "type": "p", "text": "Esto no significa que la fibra sea peligrosa ni que anule cualquier pastilla. Significa que, para algunos fármacos, una absorción más lenta o incompleta puede cambiar su efecto. Por eso las fichas de las fibras tipo psyllium suelen recomendar separar su consumo de la medicación oral." },
+    { "type": "callout", "variant": "etiqueta", "title": "Qué dice y qué no dice la etiqueta", "text": "La etiqueta de Prunex1 indica el modo de empleo (un stick de 5 g en 180 ml de agua caliente) y advierte que se elabora en equipos que procesan leche, huevos y soya. No incluye indicaciones sobre interacción con medicamentos ni cantidades de cada fibra por stick. Es un alimento, no un medicamento, y no reemplaza ningún tratamiento." },
+    { "type": "h2", "text": "La regla general: separar las tomas unas 2 horas" },
+    { "type": "p", "text": "El consenso general para fibras que forman gel es dejar un margen de **alrededor de 2 horas** entre la fibra y los medicamentos orales. Es una pauta de sentido común, no una prescripción: tu médico o químico farmacéutico puede indicarte un margen distinto según el fármaco." },
+    { "type": "steps", "items": [
+      { "name": "Haz tu lista de medicamentos", "text": "Anota todo lo que tomas por boca, incluidas vitaminas, suplementos y remedios de botica. Muchas personas olvidan el hierro, el calcio o el antiácido." },
+      { "name": "Identifica los que tienen horario fijo", "text": "Algunos fármacos deben tomarse en ayunas o con una comida concreta. Esos marcan el ritmo y Prunex1 se acomoda a ellos, no al revés." },
+      { "name": "Busca una ventana de unas 2 horas", "text": "Elige para tu taza un momento del día que quede separado de las pastillas por ese margen, antes o después." },
+      { "name": "Confírmalo con un profesional", "text": "Muestra tu lista a tu médico o al químico farmacéutico de tu botica de confianza y pregúntale si ese esquema es adecuado para tu caso." }
+    ] },
+    { "type": "p", "text": "Un ejemplo sencillo: si tomas una pastilla con el desayuno, a las 7:30, evita preparar tu taza de Prunex1 en ese mismo momento y elige otro momento del día que quede bien separado. Lo importante no es la hora exacta sino que no coincidan." },
+    { "type": "cta", "text": "Si ya hablaste con tu médico y puedes incluirlo en tu rutina, revisa el precio vigente de Prunex1 y cómo comprarlo original." },
+    { "type": "h2", "text": "Casos en los que conviene hablar con tu médico antes de empezar" },
+    { "type": "p", "text": "Hay tres grupos de medicación en los que la consulta previa no es un trámite, sino una precaución importante." },
+    { "type": "h3", "text": "Anticoagulantes" },
+    { "type": "p", "text": "Fármacos como la warfarina tienen un margen estrecho entre la dosis útil y la excesiva, y su control se ajusta con análisis periódicos. Cualquier cambio en la dieta o en los suplementos puede mover esos resultados, ya sea por la absorción o por otros componentes. Si usas anticoagulantes, informa a tu médico antes de sumar Prunex1 y no cambies tu rutina sin avisar." },
+    { "type": "h3", "text": "Medicación para la tiroides" },
+    { "type": "p", "text": "La levotiroxina es uno de los ejemplos más conocidos de fármaco cuya absorción puede disminuir con la fibra, y por eso suele indicarse en ayunas y separada de otros alimentos. Además, Prunex1 contiene kelp, un alga que aporta yodo de forma natural en una cantidad que la etiqueta no declara. Lo tratamos en detalle en [Prunex1 y tiroides](/opiniones-prunex1/tiroides/); la recomendación es consultar con tu endocrinólogo." },
+    { "type": "h3", "text": "Medicación para la diabetes" },
+    { "type": "p", "text": "La fibra soluble puede moderar la velocidad con que se absorbe la glucosa de las comidas. En una persona que usa metformina, insulina u otros antidiabéticos, cualquier cambio en la dieta puede influir en sus controles. Prunex1 aporta 4.5 g de carbohidratos y 0 g de azúcares añadidos por porción, con 0.2 g de azúcares totales, sorbitol y estevia. Revisa [Prunex1 en personas con diabetes](/opiniones-prunex1/diabeticos/) y conversa con tu médico sobre cómo vigilar tu glucosa." },
+    { "type": "table", "caption": "Resumen orientativo de precauciones por tipo de medicación", "headers": ["Tipo de medicación", "Por qué tener cuidado", "Qué hacer"], "rows": [
+      ["Anticoagulantes (por ejemplo, warfarina)", "Margen estrecho; cambios en la dieta pueden alterar los controles", "Consultar antes y avisar en el próximo control"],
+      ["Levotiroxina y otros tratamientos de tiroides", "La fibra puede reducir su absorción; el kelp aporta yodo no declarado", "Consultar al endocrinólogo y separar las tomas"],
+      ["Antidiabéticos e insulina", "La fibra puede modificar la respuesta de la glucosa", "Consultar y vigilar la glucosa al empezar"],
+      ["Otros fármacos de margen estrecho (digoxina, litio, carbamazepina)", "Se han descrito interacciones de fibras tipo psyllium con su absorción", "Consultar siempre al médico o farmacéutico"],
+      ["Hierro, calcio, vitaminas y otros suplementos", "La fibra puede retrasar su absorción", "Separar las tomas como regla general"]
+    ] },
+    { "type": "h2", "text": "Otras situaciones que vale la pena comentar" },
+    { "type": "ul", "items": [
+      "**Si tu medicación te estriñe**: algunos fármacos, como ciertos analgésicos opioides, el hierro o algunos antiácidos, pueden afectar el tránsito. Antes de compensarlo por tu cuenta, coméntalo con quien te los recetó.",
+      "**Si tomas varios medicamentos a la vez**, algo frecuente en adultos mayores, la organización de horarios se complica; revisa también [Prunex1 en adultos mayores](/como-preparar-prunex1/adultos-mayores/).",
+      "**Si tienes una enfermedad crónica** digestiva, renal o cardíaca, la consulta previa es lo recomendable aunque no tomes medicación diaria.",
+      "**Embarazo y lactancia**: la ficha oficial de FuXion indica que no es apto; si es tu caso, consulta con tu médico."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Nunca suspendas ni muevas un medicamento por tu cuenta", "text": "Si para encajar Prunex1 tendrías que cambiar el horario de una pastilla, primero pregunta a tu médico. Y busca atención médica si presentas dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación o un cambio brusco del hábito intestinal." },
+    { "type": "p", "text": "Con la consulta hecha y las tomas bien separadas, Prunex1 puede ser una forma práctica de sumar fibra a tu día. Para conseguir el producto original con un distribuidor autorizado, entra a la [página de compra de Prunex1](/comprar-prunex1/), y si quieres ver la lista completa de precauciones, revisa las [contraindicaciones de Prunex1](/opiniones-prunex1/contraindicaciones/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo tomar Prunex1 junto con mis vitaminas o suplementos?", "a": "Sí se puede, pero lo prudente es no tomarlos en el mismo momento. La fibra puede retrasar la absorción de minerales como el hierro o el calcio. Sepáralos unas 2 horas y, si tienes dudas, pregunta a tu farmacéutico." },
+    { "q": "¿Qué hago si un día tomé Prunex1 a la misma hora que mi pastilla?", "a": "En la mayoría de los casos, un descuido puntual no es motivo de alarma, pero no tomes una dosis extra del medicamento para compensar. Retoma la separación al día siguiente. Si se trata de un anticoagulante, de la levotiroxina o de un fármaco delicado, coméntalo con tu médico." },
+    { "q": "¿Mi farmacéutico puede orientarme o necesito ir al médico?", "a": "El químico farmacéutico de tu botica puede revisar tu lista de medicamentos y orientarte sobre cómo separar las tomas. Si tomas anticoagulantes, medicación para la tiroides o la diabetes, o tienes una enfermedad crónica, lo ideal es que también lo sepa el médico que te trata." },
+    { "q": "¿Prunex1 reemplaza a un laxante que me recetaron?", "a": "No. Prunex1 es un alimento a base de fibras y no sustituye ningún tratamiento indicado por un profesional. Si te recetaron algo para el tránsito intestinal, no lo cambies por tu cuenta; consulta primero con tu médico." }
+  ],
+  "sources": [
+    { "label": "MedlinePlus – Información sobre psyllium (Biblioteca Nacional de Medicina de EE. UU.)", "url": "https://medlineplus.gov/spanish/" },
+    { "label": "DIGEMID – Dirección General de Medicamentos, Insumos y Drogas (Perú)", "url": "https://www.digemid.minsa.gob.pe/" },
+    { "label": "NIDDK – Salud digestiva", "url": "https://www.niddk.nih.gov/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": [
+    "/opiniones-prunex1/tiroides/",
+    "/opiniones-prunex1/diabeticos/",
+    "/opiniones-prunex1/contraindicaciones/",
+    "/como-preparar-prunex1/adultos-mayores/"
+  ]
+}

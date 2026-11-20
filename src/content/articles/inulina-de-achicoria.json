@@ -1,0 +1,72 @@
+{
+  "slug": "inulina-de-achicoria",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/inulina-de-achicoria/",
+  "isPillar": false,
+  "primaryKeyword": "inulina de achicoria en Prunex1",
+  "title": "Inulina de achicoria en Prunex1: qué es, EFSA y gases al inicio",
+  "seoTitle": "Inulina de achicoria en Prunex1: qué es y qué esperar",
+  "metaDescription": "Inulina de achicoria en Prunex1: qué es esta fibra prebiótica, qué concluyó la EFSA en 2015 sobre los 12 g al día y por qué puede dar gases al empezar.",
+  "excerpt": "La achicoria es el segundo ingrediente de Prunex1. Explicamos qué es la inulina, por qué se considera prebiótica, qué dijo la EFSA y por qué al inicio puede dar gases.",
+  "quickAnswer": "La inulina de achicoria en Prunex1 es una fibra soluble prebiótica extraída de la raíz de la achicoria y es el segundo ingrediente de la etiqueta. La EFSA concluyó en 2015 que favorece la regularidad a razón de 12 gramos diarios; la etiqueta no declara cuánta inulina trae cada stick, que aporta 1.7 g de fibra total.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A ceramic cup of warm reddish-amber drink on a rustic wooden table at a Lima market stall, next to fresh chicory roots with leaves, a small bowl of dried prunes and a few star anise pods, soft diffused daylight, earthy natural tones, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de bebida rojiza tibia junto a raíces frescas de achicoria y guindones sobre una mesa rústica de mercado"
+  },
+  "blocks": [
+    { "type": "p", "text": "Cuando alguien escucha \"achicoria\", suele pensar en dos cosas: la hoja amarga que a veces aparece en una ensalada o el sustituto del café que tomaban algunos abuelos. Pocos saben que de la raíz de esa misma planta sale una de las fibras más usadas en la industria alimentaria: la inulina." },
+    { "type": "p", "text": "En Prunex1 ocupa un lugar destacado, así que vale la pena entenderla bien: qué es, por qué la llaman prebiótica, qué concluyó la autoridad europea de seguridad alimentaria y por qué puede hacerte sentir algo de gases las primeras veces. Para ver el resto de la fórmula, consulta los [ingredientes de Prunex1 uno por uno](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "Qué es la inulina de achicoria en Prunex1" },
+    { "type": "p", "text": "La inulina es un **fructano**: una cadena de moléculas de fructosa, normalmente rematada por una glucosa. Nuestro intestino delgado no puede romper esos enlaces, así que la inulina llega al colon prácticamente sin digerir. Por eso se clasifica como fibra dietaria soluble, aunque tenga un ligero sabor dulce." },
+    { "type": "p", "text": "La achicoria (*Cichorium intybus*) almacena inulina en su raíz como reserva de energía, en concentraciones mucho mayores que otros vegetales. En la etiqueta de Prunex1 figura como **\"Achicoria en polvo\"**, justo después de la tapioca, y en el frente del empaque se destaca como \"fibra de inulina de achicoria\". Como los ingredientes se listan de mayor a menor proporción, es la fibra que aparece en primer lugar dentro de la mezcla." },
+    { "type": "callout", "variant": "etiqueta", "title": "Dato de etiqueta", "text": "Cada porción (1 stick de 5 g en 180 ml de agua caliente) declara 1.7 g de fibra dietaria total y 0 g de azúcares añadidos. La etiqueta peruana no desglosa cuánta de esa fibra corresponde a la inulina, al psyllium o al mucílago de linaza." },
+    { "type": "h2", "text": "Por qué se la considera una fibra prebiótica" },
+    { "type": "p", "text": "Un prebiótico es, dicho de forma simple, un compuesto que ciertos microorganismos beneficiosos del intestino aprovechan de manera selectiva. La inulina es uno de los ejemplos clásicos: al llegar al colon, algunas bacterias la fermentan y producen ácidos grasos de cadena corta y gases como subproducto." },
+    { "type": "p", "text": "No vamos a profundizar aquí en la microbiota, porque ese tema tiene su propio espacio: en [Prunex1 como prebiótico](/que-es-prunex1/prebiotico-y-microbiota/) explicamos qué es la microbiota y qué se sabe de su relación con la fibra. Lo importante para esta página es retener que la inulina es fermentable, y eso tiene consecuencias prácticas que veremos más abajo." },
+    { "type": "h2", "text": "La declaración de la EFSA de 2015: qué dice exactamente" },
+    { "type": "p", "text": "En 2015, el panel de nutrición de la EFSA evaluó una solicitud sobre la **inulina nativa de achicoria** y concluyó que existe relación de causa y efecto entre su consumo y el mantenimiento de una defecación normal, por el aumento de la frecuencia de las deposiciones. Más tarde, la Comisión Europea autorizó esa declaración de salud." },
+    { "type": "p", "text": "Los detalles importan tanto como la conclusión:" },
+    { "type": "ul", "items": [
+      "Se refiere a inulina nativa: una mezcla no fraccionada extraída de la raíz de achicoria, no a cualquier fibra con nombre parecido.",
+      "La condición de uso es una ingesta de **12 gramos al día**.",
+      "Está pensada para la población adulta.",
+      "Es una conclusión sobre el ingrediente, no sobre ninguna bebida comercial en particular."
+    ] },
+    { "type": "table", "caption": "La condición de la EFSA comparada con lo que declara Prunex1", "headers": ["Aspecto", "Declaración EFSA 2015", "Prunex1 según su etiqueta"], "rows": [
+      ["Ingrediente", "Inulina nativa de achicoria", "Achicoria en polvo, junto a otras fibras"],
+      ["Cantidad", "12 gramos diarios", "No declarada; fibra total de 1.7 g por porción"],
+      ["Efecto evaluado", "Mayor frecuencia de deposiciones", "La marca comunica beneficios propios, no esta declaración"]
+    ] },
+    { "type": "p", "text": "La conclusión honesta: con 1.7 g de fibra total por taza, repartidos entre varias fuentes, la inulina de un stick queda muy por debajo de los 12 gramos diarios evaluados. Prunex1 no reproduce esa condición, y sería engañoso presentarle el respaldo de la EFSA como si fuera del producto." },
+    { "type": "cta", "text": "Si ya tienes claro qué aporta la inulina y quieres probar la bebida, revisa el precio actualizado y las presentaciones disponibles." },
+    { "type": "h2", "text": "Gases al inicio: el lado menos comentado de la inulina" },
+    { "type": "p", "text": "Que la inulina sea fermentable tiene una contracara. Cuando las bacterias del colon la procesan, producen gases. En personas que comen poca fibra, el cambio puede notarse como sensación de barriga llena, ruidos o flatulencia en los primeros usos. Suele depender de la cantidad y de la sensibilidad de cada persona." },
+    { "type": "p", "text": "Hay una ironía que conviene decir en voz alta: buscas sentirte más ligero y, al principio, una fibra fermentable puede darte lo contrario. No significa necesariamente que algo ande mal, pero sí que conviene observar cómo responde tu cuerpo." },
+    { "type": "ul", "items": [
+      "Prepara la taza tal como indica la etiqueta, sin duplicar la porción para \"acelerar\" nada.",
+      "Acompaña el día con agua suficiente; la fibra y la hidratación van juntas.",
+      "Observa si las molestias ceden o si, por el contrario, aumentan."
+    ] },
+    { "type": "p", "text": "Si las molestias son persistentes o intensas, suspende y consulta. Tienes más detalle sobre por qué ocurre y cómo manejarlo en [Prunex1 y gases](/opiniones-prunex1/da-gases/). Y si tienes diagnóstico de intestino irritable, ten en cuenta que la inulina es un FODMAP: lo explicamos en [Prunex1 y colon irritable](/opiniones-prunex1/colon-irritable/)." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "Entre los beneficios que FuXion comunica para Prunex1 está \"sentirte más liviano sin las molestias de la hinchazón abdominal\". Es una afirmación comercial del fabricante. Desde el punto de vista del ingrediente, la inulina puede generar gases en algunas personas, sobre todo al empezar." },
+    { "type": "h2", "text": "Inulina de achicoria frente a otras fuentes de inulina" },
+    { "type": "p", "text": "La inulina y sus parientes más cortos, los fructooligosacáridos (FOS), no son exclusivos de la achicoria. En la mesa peruana aparecen en la cebolla y el ajo del aderezo, en el espárrago que exporta la costa, en el plátano poco maduro y, de forma muy notable, en el **yacón** andino, rico en FOS. La diferencia es que la raíz de achicoria concentra mucha más inulina, por eso la industria la prefiere como fuente." },
+    { "type": "p", "text": "Comer esos alimentos con frecuencia es una forma sencilla de sumar este tipo de fibra sin depender de un producto. Si te preguntas si conviene más comprar inulina en polvo pura, revisa la comparación de [Prunex1 vs inulina pura](/comparativas-prunex1/vs-inulina-pura/), con dosis típicas y precio." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo hablar con un médico", "text": "Prunex1 es un alimento, no un medicamento: no trata ni previene enfermedades. Consulta antes de usarlo si tienes una condición digestiva diagnosticada, una enfermedad crónica o tomas medicación. Acude al médico si aparece dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación o un cambio brusco del hábito intestinal." },
+    { "type": "p", "text": "Si decides que la mezcla de fibras de Prunex1 encaja con tus hábitos, encontrarás el precio verificado y las presentaciones en stock en la [página para comprar Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿La inulina de achicoria eleva el azúcar en sangre?", "a": "La inulina no se digiere como un azúcar, por lo que se considera de bajo impacto en la glucosa. Aun así, la bebida aporta 4.5 g de carbohidratos por porción; si tienes diabetes, coméntalo con tu médico antes de incorporarla." },
+    { "q": "¿La achicoria de Prunex1 tiene cafeína?", "a": "No. La raíz de achicoria no contiene cafeína, aunque tostada se haya usado como sustituto del café. La etiqueta de Prunex1 tampoco incluye ingredientes con cafeína." },
+    { "q": "¿Inulina y achicoria son lo mismo?", "a": "No exactamente. La achicoria es la planta y la inulina es la fibra que se obtiene principalmente de su raíz. En la etiqueta figura como achicoria en polvo, y la marca la presenta como fibra de inulina de achicoria." },
+    { "q": "¿Puedo tomar más de un stick para llegar a los 12 gramos de la EFSA?", "a": "No es recomendable. La etiqueta indica 1 stick por porción y la declaración de la EFSA se refiere a inulina nativa aislada, no a Prunex1. Aumentar la cantidad por tu cuenta también puede incrementar los gases; si buscas más fibra, prioriza alimentos y consulta a un profesional." }
+  ],
+  "sources": [
+    { "label": "EFSA Journal (2015) – Inulina nativa de achicoria y defecación normal", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/3951" },
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" },
+    { "label": "NIDDK – Estreñimiento: alimentación y fibra", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/que-es-prunex1/prebiotico-y-microbiota/", "/opiniones-prunex1/da-gases/", "/comparativas-prunex1/vs-inulina-pura/", "/ingredientes-prunex1/psyllium/"]
+}

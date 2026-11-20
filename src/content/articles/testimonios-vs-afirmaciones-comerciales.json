@@ -1,0 +1,79 @@
+{
+  "slug": "testimonios-vs-afirmaciones-comerciales",
+  "pillar": "opiniones-prunex1",
+  "path": "/opiniones-prunex1/testimonios-vs-afirmaciones-comerciales/",
+  "isPillar": false,
+  "primaryKeyword": "testimonios de Prunex1",
+  "title": "Testimonios de Prunex1: cómo distinguir los reales del marketing",
+  "seoTitle": "Testimonios de Prunex1: reales vs. comerciales",
+  "metaDescription": "Aprende a leer testimonios de Prunex1: qué hace verificable una experiencia, cómo detectar reseñas falsas y cómo verificamos las opiniones en este sitio.",
+  "excerpt": "Una guía práctica para separar experiencias comprobables de mensajes publicitarios, reconocer reseñas infladas y entender cómo moderamos las opiniones.",
+  "quickAnswer": "Los testimonios de Prunex1 más fiables combinan una compra comprobable, detalles concretos de uso y matices, incluidos los aspectos negativos. Una afirmación comercial, en cambio, promete resultados generales con lenguaje entusiasta. Ningún testimonio, por sincero que sea, demuestra que el producto vaya a funcionar igual para ti.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A ceramic cup of steaming reddish-amber infusion on a small balcony table at dusk, a smartphone lying face down next to it, a folded paper note and a pen, warm string lights and a soft blurred Lima cityscape in the background, thoughtful atmosphere, no packaging, no sachets, no text, no logos, no faces",
+    "alt": "Taza humeante de infusión rojiza en una mesa de balcón al atardecer junto a un celular boca abajo y una nota de papel"
+  },
+  "blocks": [
+    { "type": "p", "text": "Abres TikTok y en quince segundos alguien con buena iluminación te asegura que una bebida le cambió la vida. Cierras la app, entras a un grupo de Facebook de mamás de Surco y lees a otra persona que dice que no notó nada y que el sabor a anís no le gustó. Ambas hablan del mismo producto. ¿A quién le crees?" },
+    { "type": "p", "text": "El problema no es que existan opiniones opuestas, eso es normal. El problema es que en internet un anuncio puede disfrazarse de experiencia personal, y una experiencia personal puede sonar a anuncio. Esta guía te da herramientas concretas para leer los testimonios de Prunex1 sin dejarte llevar por el entusiasmo ni por el escepticismo automático." },
+    { "type": "h2", "text": "Qué hace verificable a un testimonio de Prunex1" },
+    { "type": "p", "text": "Un testimonio verificable no es necesariamente positivo ni largo. Es uno que puedes contrastar con algo más que la palabra de quien lo escribe. Para eso suele reunir tres elementos:" },
+    { "type": "ol", "items": [
+      "**Origen de compra identificable.** Se sabe dónde compró: una tienda oficial, un distribuidor que da la cara, una plataforma que marca la compra. Si además existe un número de pedido comprobado, mucho mejor.",
+      "**Experiencia concreta.** Habla de cosas observables: cómo lo prepara, si se le formaron grumos, a qué le supo, si lo toma en casa o en la oficina, qué molestias tuvo al inicio.",
+      "**Contexto y límites.** Reconoce que su caso es suyo. Menciona si cambió otras cosas al mismo tiempo, como tomar más agua o comer más verduras, y no generaliza a todos."
+    ] },
+    { "type": "p", "text": "Fíjate que nada de esto mide si el producto \"funciona\". Un testimonio verificable te informa sobre la experiencia de una persona real, no sobre la eficacia del producto. Para esa otra pregunta, revisa nuestro análisis sobre [si Prunex1 funciona y qué respalda la evidencia](/opiniones-prunex1/funciona/)." },
+    { "type": "h2", "text": "Cómo reconocer una afirmación comercial" },
+    { "type": "p", "text": "Las afirmaciones comerciales no son malas por sí mismas: es normal que una marca o un vendedor destaque lo que ofrece. Lo que no está bien es presentarlas como si fueran la experiencia espontánea de un cliente. Compara estos dos estilos (ejemplos ilustrativos, no citas de personas reales):" },
+    { "type": "table", "caption": "Señales de un testimonio verificable frente a una afirmación comercial", "headers": ["Testimonio verificable", "Afirmación comercial"], "rows": [
+      ["\"Lo preparo con agua del hervidor y lo tomo despacio; al principio sentí algo de gases\"", "\"Resultados increíbles desde el primer día\""],
+      ["Menciona lo que no le gustó: precio, sabor, textura", "Solo elogios, sin un solo matiz"],
+      ["Se identifica la tienda o el pedido", "No hay forma de saber si la persona compró"],
+      ["Habla de su caso: \"a mí\", \"en mi rutina\"", "Generaliza: \"funciona para todos\", \"nadie se arrepiente\""],
+      ["Si vende el producto, lo dice", "Oculta que es distribuidor o que le pagaron"],
+      ["Describe sensaciones cotidianas", "Promete efectos de salud, plazos o kilos"]
+    ] },
+    { "type": "p", "text": "En el Perú, las normas de publicidad que supervisa Indecopi exigen que los anuncios no induzcan a error al consumidor. Una regla útil para ti: si un mensaje promete lo que ni la etiqueta ni el fabricante se atreven a prometer, desconfía." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca, tal cual", "text": "FuXion comunica que Prunex1 ayuda a tener un adecuado tránsito intestinal, a sentirte más liviano sin las molestias de la hinchazón abdominal y a liberarte de desechos perjudiciales. Es comunicación comercial del fabricante. Si un testimonio repite estas frases casi palabra por palabra, probablemente estás leyendo publicidad, no una experiencia." },
+    { "type": "h2", "text": "Señales de reseñas falsas o infladas" },
+    { "type": "p", "text": "Detectar una reseña fabricada no siempre es fácil, pero hay patrones que se repiten. Ninguno es prueba definitiva por sí solo; cuando aparecen varios juntos, conviene tomar distancia." },
+    { "type": "ul", "items": [
+      "**Capturas de chat sin contexto.** Pantallazos de WhatsApp con mensajes efusivos, sin fecha, sin nombre y sin forma de comprobar que no fueron escritos por el mismo vendedor.",
+      "**Antes y después que no cuadran.** Fotos de abdomen plano o de kilos perdidos: una bebida con 18 kcal y 1.7 g de fibra por porción no es un producto para adelgazar.",
+      "**Lenguaje de folleto.** Términos como \"desintoxica\", \"limpia por dentro\" o \"resultados garantizados\" suelen venir de un guion de ventas, no de alguien contando su semana.",
+      "**Comentarios desactivados o filtrados.** Si en una publicación solo se ven elogios y no hay manera de preguntar, falta la otra mitad de la historia.",
+      "**Ofertas que no calzan con el catálogo.** Testimonios entusiastas junto a precios muy por debajo de los S/ 76.00 del doypack de 28 sticks son una alerta. Puede tratarse de reventa sin respaldo; lo explicamos en [los riesgos de comprar en marketplaces](/precio-prunex1-peru/riesgos-de-comprar-en-marketplaces/).",
+      "**Reseñas sin producto visible o con empaques distintos.** Si dudas de lo que muestran, compara con la guía para [reconocer Prunex1 original](/que-es-prunex1/original-vs-falsificado/)."
+    ] },
+    { "type": "cta", "text": "¿Prefieres comprar donde el origen está claro? Revisa el precio de catálogo y compra con un distribuidor autorizado." },
+    { "type": "h2", "text": "Nuestra política de verificación de testimonios" },
+    { "type": "p", "text": "Este sitio lo administra un distribuidor autorizado independiente de FuXion en Lima. Tenemos un interés comercial, y por eso mismo lo decimos de frente. Nuestra forma de manejar las opiniones busca que ese interés no contamine lo que lees:" },
+    { "type": "ul", "items": [
+      "**No inventamos testimonios.** No publicamos experiencias escritas por nosotros con nombres ficticios, ni estrellas, promedios o porcentajes de satisfacción.",
+      "**Moderamos, no maquillamos.** Las experiencias llegan por un formulario y se revisan antes de publicarse. Retiramos datos personales sensibles o promesas de salud que puedan confundir, pero no cambiamos el sentido de lo que la persona cuenta.",
+      "**Publicamos también lo negativo.** Un comentario que diga que no notó diferencia o que el sabor no le gustó tiene el mismo derecho a aparecer que uno positivo.",
+      "**Compra verificada significa solo eso.** Si la persona comparte su número de pedido de la tienda oficial y lo confirmamos, su reseña lleva la insignia. Indica el origen de la compra, no que su resultado vaya a repetirse en ti.",
+      "**Consentimiento siempre.** Solo publicamos con permiso expreso, mostrando nombre, ciudad y mes de publicación. El correo nunca se muestra."
+    ] },
+    { "type": "p", "text": "Puedes conocer el detalle del formulario y de la insignia en la guía general de [opiniones de Prunex1](/opiniones-prunex1/). Si alguna vez una sección de reseñas aparece vacía, no es un error: preferimos no mostrar nada antes que rellenarla." },
+    { "type": "h2", "text": "Cómo aprovechar los testimonios sin que decidan por ti" },
+    { "type": "p", "text": "Bien leídos, los testimonios sí sirven, solo que para otras cosas. Son útiles para anticipar el sabor, la textura, si espesa rápido, si te resultará práctico en la oficina o en casa, o qué molestias comentan otras personas al empezar." },
+    { "type": "p", "text": "Para lo demás, la fuente es otra. Qué contiene el producto lo dice la etiqueta, que puedes revisar línea por línea en [la etiqueta de Prunex1 explicada](/que-es-prunex1/etiqueta-explicada/). Si te conviene o no, según tu salud, lo define un profesional que conozca tu caso, no un comentario en redes." },
+    { "type": "callout", "variant": "aviso", "title": "Ningún testimonio sustituye una consulta", "text": "Prunex1 es un alimento y no trata ni previene enfermedades. Si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación, cambios bruscos del hábito intestinal, una enfermedad crónica o tomas medicamentos, consulta con un médico antes de guiarte por experiencias ajenas." },
+    { "type": "p", "text": "Y si ya lo probaste, tu experiencia puede ayudar a otros siempre que sea honesta y concreta. Cuando quieras hacerlo, o si decides que quieres probarlo, puedes [comprar Prunex1 en la tienda oficial](/comprar-prunex1/) y, más adelante, contarnos cómo te fue." }
+  ],
+  "faqs": [
+    { "q": "¿Un testimonio de un distribuidor vale menos que el de un cliente?", "a": "No vale menos, pero tiene un interés comercial que debe declararse. Si un vendedor cuenta su experiencia sin decir que vende el producto, falta transparencia. Léelo con esa información en mente." },
+    { "q": "¿Puedo dejar una opinión si compré Prunex1 fuera de la tienda oficial?", "a": "Sí. Tu reseña puede publicarse tras la moderación, solo que no llevará la insignia de compra verificada porque no podemos confirmar el pedido. Te recomendamos indicar dónde lo compraste para dar contexto." },
+    { "q": "¿Por qué no muestran una calificación promedio con estrellas?", "a": "Porque un promedio sin reseñas reales detrás no informa nada y puede inducir a error. Preferimos mostrar opiniones completas, con sus matices, para que saques tus propias conclusiones." },
+    { "q": "¿Qué hago si veo un anuncio de Prunex1 con promesas exageradas?", "a": "Contrasta lo que dice con la etiqueta y con lo que comunica oficialmente la marca. Si promete tratar enfermedades, plazos exactos o pérdida de peso, no lo tomes como referencia. Puedes reportarlo en la plataforma donde lo viste." }
+  ],
+  "sources": [
+    { "label": "Indecopi – Protección al consumidor y publicidad", "url": "https://www.gob.pe/indecopi" },
+    { "label": "FTC – Endorsements, Influencers, and Reviews", "url": "https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews" },
+    { "label": "FuXion – Sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/opiniones-prunex1/funciona/", "/que-es-prunex1/original-vs-falsificado/", "/precio-prunex1-peru/riesgos-de-comprar-en-marketplaces/", "/opiniones-prunex1/preguntas-frecuentes/"]
+}

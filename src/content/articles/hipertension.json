@@ -1,0 +1,61 @@
+{
+  "slug": "hipertension",
+  "pillar": "opiniones-prunex1",
+  "path": "/opiniones-prunex1/hipertension/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 hipertensión",
+  "title": "Prunex1 e hipertensión: sodio, kelp y medicamentos",
+  "seoTitle": "Prunex1 e hipertensión: sodio, kelp y lo que debes saber",
+  "metaDescription": "Prunex1 e hipertensión: cada taza aporta solo 2 mg de sodio y tiene sello bajo en sodio. Te explicamos el kelp, el magnesio y cómo separarlo de tus pastillas.",
+  "excerpt": "Si tienes presión alta, Prunex1 casi no suma sodio. Pero hay otros puntos de su fórmula que conviene revisar con tu médico: kelp, magnesio, líquidos y pastillas.",
+  "quickAnswer": "Prunex1 e hipertensión no están reñidos en lo que respecta a la sal: cada taza aporta solo 2 mg de sodio y el producto lleva sello “bajo en sodio”. Aun así, contiene kelp, magnesio en cantidad no declarada y fibra que puede interferir con algunas pastillas, así que consúltalo con tu médico, sobre todo si tomas varios medicamentos.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass mug of warm reddish-amber drink on a rustic wooden dining table, next to a small bowl of fresh herbs and halved lemons, a ceramic salt cellar pushed far to the side and out of focus, soft late-afternoon light in a Lima home kitchen, calm minimal style. No packaging, no sachets, no text, no logos, no people.",
+    "alt": "Taza de bebida rojiza con hierbas frescas y limones, con el salero apartado al fondo de la mesa"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas limeñas el salero desapareció de la mesa el día en que a alguien le diagnosticaron presión alta. Se cambia el cubito por un caldo casero, se mira de reojo el sillao y se pregunta por cada cosa nueva que entra a la cocina: ¿y esto tiene sal? Si esa pregunta te trajo hasta aquí con Prunex1, la respuesta corta es tranquilizadora, pero la completa tiene un par de matices que vale la pena conocer." },
+    { "type": "p", "text": "Prunex1 es una bebida en polvo a base de fibras y extractos vegetales, no un medicamento. No baja la presión ni forma parte de ningún tratamiento para la hipertensión. Lo que analizamos aquí es si su composición es compatible con una dieta cuidada en sodio y qué otros puntos conviene revisar con tu médico." },
+    { "type": "h2", "text": "Prunex1 e hipertensión: cuánto sodio tiene realmente" },
+    { "type": "p", "text": "La tabla nutricional oficial declara **2.0 mg de sodio por porción** (1 stick de 5 g en 180 ml de agua caliente), lo que equivale al 0.1 % del valor diario. Por cada 100 ml preparados son 1.1 mg. Es una cantidad tan baja que, en la práctica, no mueve la aguja de tu consumo diario." },
+    { "type": "table", "caption": "El sodio de una taza de Prunex1 frente al límite diario de referencia", "headers": ["Referencia", "Sodio"], "rows": [
+      ["Una taza de Prunex1 (180 ml)", "2 mg"],
+      ["Límite diario que recomienda la OMS para adultos", "Menos de 2,000 mg (unos 5 g de sal)"],
+      ["Lo que representa una taza frente a ese límite", "Alrededor del 0.1 %"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que figura en el empaque", "text": "Sodio: 2.0 mg por porción y 1.1 mg por 100 ml. Sello frontal: “bajo en sodio”. El agua con que lo prepares aporta su propio sodio, que varía según la fuente, así que si tu médico te pidió un control muy estricto, ten en cuenta también ese detalle." },
+    { "type": "p", "text": "Para compararlo con la vida real: un pan con chicharrón con su salsa criolla, un tallarín saltado bien regado de sillao o una bolsa de canchita salada aportan, cada uno, muchísimo más sodio que una taza de Prunex1. Si tu médico te pidió reducir la sal, el esfuerzo está en el plato, no en esta bebida. Si quieres saber qué implica el sello, lo explicamos en [los sellos del empaque de Prunex1](/que-es-prunex1/sellos-sin-gluten-no-gmo/)." },
+    { "type": "h2", "text": "Más allá de la sal: otros puntos que revisar" },
+    { "type": "p", "text": "Que tenga poco sodio no significa que no haya nada que conversar con tu médico. Hay tres aspectos de la fórmula que, en una persona hipertensa, merecen una mirada." },
+    { "type": "h3", "text": "El kelp y el yodo" },
+    { "type": "p", "text": "El quinto ingrediente es el kelp, un alga marina deshidratada. Las algas aportan minerales de forma natural, entre ellos yodo, y la etiqueta no declara cuánto yodo hay por stick. El yodo no tiene relación directa con la presión arterial, pero sí con la tiroides, y las alteraciones tiroideas pueden influir en la frecuencia cardiaca y en la presión. Si además de hipertensión tienes algún problema tiroideo, lee nuestro artículo sobre [Prunex1 y la tiroides](/opiniones-prunex1/tiroides/)." },
+    { "type": "h3", "text": "El magnesio" },
+    { "type": "p", "text": "La lista incluye magnesio, pero la tabla peruana no indica la cantidad. En personas sanas, el magnesio de los alimentos no suele ser un problema. En cambio, quienes tienen enfermedad renal, algo frecuente cuando la hipertensión lleva años, eliminan peor algunos minerales, y su médico puede pedirles cuidar ese aporte. Más detalles en [el magnesio en Prunex1](/ingredientes-prunex1/magnesio/)." },
+    { "type": "h3", "text": "La fibra y los líquidos" },
+    { "type": "p", "text": "La fibra trabaja mejor con buena hidratación. Eso, que para la mayoría es un consejo sencillo, cambia si tu cardiólogo te restringió los líquidos por insuficiencia cardiaca o si tomas diuréticos que ya te hacen perder agua. En esos casos, pregunta cómo encaja una taza adicional de 180 ml en tu balance diario." },
+    { "type": "p", "text": "Además, si en algún momento las deposiciones se vuelven muy blandas, esa pérdida de líquidos se suma a la que provocan los diuréticos. Si te pasa, suspende y coméntalo con tu médico." },
+    { "type": "cta", "text": "Si tu médico está de acuerdo, puedes ver el precio de Prunex1 y sus presentaciones en la tienda del distribuidor autorizado." },
+    { "type": "h2", "text": "Pastillas para la presión y fibra: cómo organizarte" },
+    { "type": "p", "text": "La fibra soluble forma un gel que puede retrasar o disminuir la absorción de algunos medicamentos tomados al mismo tiempo. No existe una lista cerrada de antihipertensivos afectados, por eso la recomendación prudente es la misma que para otros fármacos: separar Prunex1 de tus pastillas, como referencia general unas dos horas, y confirmarlo con tu médico o químico farmacéutico. Profundizamos en eso en [Prunex1 y medicamentos](/como-preparar-prunex1/medicamentos/)." },
+    { "type": "p", "text": "Un ejemplo práctico: si tomas tu pastilla de la presión con el desayuno, antes de salir corriendo a tomar la combi, no la acompañes con la taza de Prunex1. Busca otro momento del día que te resulte cómodo y mantenlo estable, para que tus controles de presión sigan siendo comparables." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar sin esperar", "text": "Busca atención médica de inmediato si tienes la presión muy alta junto con dolor de cabeza intenso, dolor de pecho, falta de aire o visión borrosa. En lo digestivo, consulta ante dolor abdominal fuerte, sangre en las heces, cambios bruscos del hábito intestinal o pérdida de peso sin explicación. Ninguna bebida reemplaza tu tratamiento." },
+    { "type": "h2", "text": "Qué puedes esperar de Prunex1 si eres hipertenso" },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion orienta Prunex1 a un adecuado tránsito intestinal y a sentirte más liviano sin las molestias de la hinchazón abdominal. No lo presenta como un producto para la presión arterial." },
+    { "type": "p", "text": "En resumen: por sodio, Prunex1 es compatible con una dieta baja en sal. Sus puntos a revisar son otros, como el kelp, el magnesio, los líquidos y el horario de tus pastillas, y todos se resuelven con una conversación breve en tu próximo control. Recuerda también que, según la ficha oficial, no está pensado para personas con tránsito intestinal normal." },
+    { "type": "p", "text": "Para ver cómo evaluar las experiencias y dudas de otros usuarios sin caer en testimonios de marketing, visita la guía de [opiniones de Prunex1](/opiniones-prunex1/). Y cuando lo tengas claro, puedes [comprar Prunex1 en la tienda oficial](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Prunex1 contiene cafeína o algo que suba la presión?", "a": "Entre sus 16 ingredientes no figura café, té negro, guaraná ni otra fuente declarada de cafeína, y tampoco regaliz, que sí puede elevar la presión. Su perfil es de fibras, extractos vegetales, edulcorantes y aditivos de textura. Aun así, si notas palpitaciones o mareos al tomarlo, suspende y coméntalo con tu médico." },
+    { "q": "¿El sello “bajo en sodio” es lo mismo que “sin sodio”?", "a": "No. “Bajo en sodio” indica que el contenido está por debajo de un límite definido por la normativa, mientras que “sin sodio” exige cantidades prácticamente nulas. Con 2 mg por taza, el aporte de Prunex1 es irrelevante dentro de una dieta hiposódica." },
+    { "q": "¿Puedo tomarlo si uso losartán, enalapril o amlodipino?", "a": "No conocemos una interacción específica documentada con el producto, pero la fibra en general puede modificar la absorción de fármacos tomados al mismo tiempo. Lo prudente es separar las tomas y avisar a tu médico o químico farmacéutico antes de empezar." },
+    { "q": "¿Sirve para la retención de líquidos o la hinchazón de piernas?", "a": "No. La hinchazón de la que habla FuXion es abdominal y está relacionada con la digestión. La hinchazón de piernas o tobillos en una persona hipertensa puede deberse a medicamentos, al corazón o a los riñones, y debe evaluarla un médico." }
+  ],
+  "sources": [
+    { "label": "OMS – Reducción del consumo de sal (nota descriptiva)", "url": "https://www.who.int/news-room/fact-sheets/detail/salt-reduction" },
+    { "label": "NIH Office of Dietary Supplements – Magnesium (Fact Sheet for Consumers)", "url": "https://ods.od.nih.gov/factsheets/Magnesium-Consumer/" },
+    { "label": "Ministerio de Salud del Perú (MINSA)", "url": "https://www.gob.pe/minsa" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/tabla-nutricional/", "/ingredientes-prunex1/kelp/", "/como-preparar-prunex1/medicamentos/", "/opiniones-prunex1/contraindicaciones/"]
+}

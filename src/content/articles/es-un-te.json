@@ -1,0 +1,68 @@
+{
+  "slug": "es-un-te",
+  "pillar": "que-es-prunex1",
+  "path": "/que-es-prunex1/es-un-te/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 es un té",
+  "title": "¿Prunex1 es un té? Lo que dice la etiqueta frente al nombre comercial",
+  "seoTitle": "¿Prunex1 es un té? Té herbal vs lo que dice la etiqueta",
+  "metaDescription": "¿Prunex1 es un té? FuXion lo llama té herbal, pero la etiqueta lo define como bebida en polvo a base de fibras con tapioca. Te explicamos por qué importa.",
+  "excerpt": "FuXion habla de té herbal; la etiqueta habla de bebida instantánea en polvo a base de fibras y extractos vegetales. Aclaramos la diferencia y por qué cambia cómo lo preparas y lo evalúas.",
+  "quickAnswer": "Prunex1 es un té solo en el lenguaje comercial: FuXion lo presenta como “té herbal”, pero su etiqueta lo define como bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón, con tapioca en polvo como primer ingrediente. No se infusiona ni se cuela: se disuelve un stick en 180 ml de agua caliente y se toma completo.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Two warm drinks side by side on a rustic wooden table: a glass cup of pale golden herbal infusion with loose dried leaves beside it, and a ceramic mug of slightly thicker reddish-amber drink next to a few star anise pods and dried prunes, soft late-afternoon light in a cozy Lima kitchen, minimal style, no packaging, no sachets, no tea bags with labels, no text, no logos, no visible faces",
+    "alt": "Una infusión dorada con hojas secas junto a una taza de bebida rojiza más espesa, anís estrella y guindones sobre una mesa rústica"
+  },
+  "blocks": [
+    { "type": "p", "text": "En el Perú somos generosos con la palabra té. Le decimos “tecito” a la manzanilla de después del almuerzo, “mate” a la infusión de coca que nos invitan en Cusco y “agüita” al anís que preparaban en casa cuando dolía la barriga. Con ese vocabulario tan amplio, no sorprende que muchas personas den por hecho que Prunex1 es un té más." },
+    { "type": "p", "text": "La propia marca alimenta esa idea: en su comunicación comercial, FuXion lo describe como “té herbal”. Pero el empaque cuenta otra historia, y entenderla te ayuda a prepararlo bien y a evaluar con más criterio lo que estás tomando. Para el panorama completo del producto, consulta nuestra guía sobre [qué es Prunex1](/que-es-prunex1/)." },
+    { "type": "h2", "text": "¿Prunex1 es un té? La respuesta corta" },
+    { "type": "p", "text": "Desde el punto de vista de la etiqueta, no. Su denominación legal es **bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón**. En la lista de ingredientes no aparece la planta del té (*Camellia sinensis*) y el primer ingrediente, el que está en mayor proporción, es la **tapioca en polvo**." },
+    { "type": "callout", "variant": "etiqueta", "title": "La denominación oficial", "text": "Bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón. Primer ingrediente: tapioca en polvo. Modo de empleo: disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente, revolver bien y, una vez preparado, consumir en su totalidad." },
+    { "type": "p", "text": "Que se tome caliente y en taza explica la confusión, pero el formato de consumo no define qué es un alimento. Lo define su composición, y en este caso la etiqueta es explícita." },
+    { "type": "h2", "text": "Té, infusión herbal y bebida en polvo: tres cosas distintas" },
+    { "type": "p", "text": "Vale la pena separar los términos, porque en el habla cotidiana se usan como sinónimos:" },
+    { "type": "ul", "items": [
+      "**Té**, en sentido estricto, es la bebida hecha con hojas de *Camellia sinensis*: té negro, verde, blanco u oolong.",
+      "**Infusión herbal** (lo que solemos llamar mate o agüita) es cualquier planta remojada en agua caliente: manzanilla, hierba luisa, anís, muña. Se cuela o se retira el filtrante, y lo sólido se desecha.",
+      "**Bebida instantánea en polvo** es una mezcla que se disuelve por completo en el líquido. No hay nada que colar: lo que está en el sobre termina en tu taza."
+    ] },
+    { "type": "table", "caption": "Diferencias prácticas entre un té, una infusión filtrante y Prunex1", "headers": ["Aspecto", "Té o infusión filtrante", "Prunex1"], "rows": [
+      ["Cómo se prepara", "Se remoja la hoja o el filtrante y luego se retira", "Se disuelve 1 stick de 5 g en 180 ml de agua caliente"],
+      ["Qué se consume", "Solo el líquido", "Todo el contenido, incluidas las fibras"],
+      ["Calorías", "Prácticamente ninguna, si no se endulza", "18 kcal por porción"],
+      ["Fibra", "Prácticamente ninguna", "1.7 g de fibra dietaria por porción"],
+      ["Textura", "Líquida", "Algo espesa por el psyllium y la goma xantán"]
+    ] },
+    { "type": "h2", "text": "Por qué la marca lo llama té herbal" },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion describe Prunex1 como un “té herbal a base de mix de fibras solubles y extracto de guindón”, orientado a molestias por tránsito intestinal lento. Es la forma comercial de presentarlo; la denominación que manda es la de la etiqueta." },
+    { "type": "p", "text": "Hay razones comprensibles para ese nombre. Se toma caliente, en taza, y lleva componentes vegetales con tradición de infusión, como el anís estrella. Además, “té herbal” es una expresión familiar y amable, más fácil de recordar que “bebida instantánea en polvo a base de fibras”." },
+    { "type": "p", "text": "Un detalle curioso: la achicoria, segundo ingrediente de la lista, es una raíz que en otros países se tuesta para preparar un sustituto del café. En Prunex1 cumple otro papel, el de aportar inulina, una fibra soluble. Es un buen ejemplo de cómo un mismo vegetal puede leerse de formas muy distintas según el contexto." },
+    { "type": "p", "text": "También conviene notar un matiz: la descripción comercial habla de “extracto de guindón”, mientras que la etiqueta lista “deshidratado de frutas (limón, guindón)” y, más abajo, saborizantes de guindón, ciruela y panela. No es una contradicción grave, pero confirma que para saber exactamente qué hay en el sobre, lo que vale es la lista de ingredientes." },
+    { "type": "cta", "text": "¿Te convence una bebida de fibras con sabor a guindón? Revisa el precio actual de Prunex1 en la tienda oficial del distribuidor." },
+    { "type": "h2", "text": "Por qué importa al leer la etiqueta de Prunex1" },
+    { "type": "p", "text": "Podría parecer una discusión de palabras, pero tiene consecuencias prácticas:" },
+    { "type": "ol", "items": [
+      "**Cambia cómo lo preparas.** Si lo tratas como un filtrante, quizá lo dejes reposar mucho o no lo revuelvas. Como es un polvo con fibras, hay que disolverlo bien y tomarlo enseguida, porque espesa con los minutos.",
+      "**Cambia lo que esperas en calorías.** Un té sin azúcar casi no aporta energía. Prunex1 aporta 18 kcal y 4.5 g de carbohidratos por porción, en buena parte por su base de [tapioca en polvo](/ingredientes-prunex1/tapioca/). Si practicas ayuno intermitente, esta diferencia importa.",
+      "**Cambia cómo lo comparas.** Ponerlo al lado de una caja de filtrantes de supermercado no es una comparación justa: uno aporta fibra y el otro, sobre todo, sabor y aroma. Lo mismo pasa con las bebidas que se anuncian como detox; lo analizamos en [Prunex1 frente a las bebidas detox de supermercado](/comparativas-prunex1/vs-bebidas-detox-de-supermercado/).",
+      "**Cambia cómo lees los mensajes.** Si sabes que la etiqueta es la referencia legal, puedes distinguir mejor entre lo que es dato verificable y lo que es lenguaje de marketing."
+    ] },
+    { "type": "p", "text": "Si quieres seguir afinando la lectura del empaque, tenemos una [guía para leer la etiqueta de Prunex1 zona por zona](/que-es-prunex1/etiqueta-explicada/), con la denominación, los sellos, las advertencias y los datos del fabricante." },
+    { "type": "callout", "variant": "aviso", "title": "Que sea suave no lo hace apto para todos", "text": "Llamarlo té puede dar la impresión de algo inocuo para cualquiera, pero es una bebida con fibras pensada para un uso concreto. La ficha oficial de FuXion indica que no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal. Si tienes una enfermedad crónica, tomas medicación o presentas dolor intenso, sangre en las heces o cambios bruscos en tu hábito intestinal, consulta a un médico." },
+    { "type": "p", "text": "En resumen: puedes llamarlo té en una conversación de sobremesa, pero cuando se trate de decidir si te conviene, lee la etiqueta. Y si decides probarlo, puedes [comprar Prunex1 original en la tienda oficial](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Prunex1 tiene cafeína?", "a": "La lista de ingredientes no incluye té, café, guaraná ni otras fuentes conocidas de cafeína. Aun así, si eres sensible a algún componente, revisa la lista completa en tu empaque o consulta con tu médico." },
+    { "q": "¿Puedo prepararlo con una infusión de manzanilla en lugar de agua sola?", "a": "La etiqueta indica agua caliente, y esa es la preparación oficial. Mezclarlo con una infusión es una variante casera que cambia el sabor; si la pruebas, mantén la proporción de 180 ml y tómalo recién preparado." },
+    { "q": "¿Se puede tomar frío, como un té helado?", "a": "El modo de empleo habla de agua caliente, que además ayuda a que el polvo se disuelva mejor. Prepararlo frío no es la forma indicada en la etiqueta y la textura puede quedar menos uniforme." },
+    { "q": "Si no es un té, ¿por qué viene en sticks como los filtrantes?", "a": "Los sticks son sobres de polvo con una porción exacta de 5 g, no bolsitas para remojar. Se abren, se vacían en la taza y el contenido se disuelve por completo." }
+  ],
+  "sources": [
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria (MINSA)", "url": "https://www.digesa.minsa.gob.pe/" },
+    { "label": "Codex Alimentarius (FAO/OMS)", "url": "https://www.fao.org/fao-who-codexalimentarius/" }
+  ],
+  "related": ["/que-es-prunex1/etiqueta-explicada/", "/ingredientes-prunex1/tapioca/", "/que-es-prunex1/sabor-y-textura/", "/comparativas-prunex1/vs-bebidas-detox-de-supermercado/"]
+}

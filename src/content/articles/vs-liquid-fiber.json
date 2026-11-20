@@ -1,0 +1,88 @@
+{
+  "slug": "vs-liquid-fiber",
+  "pillar": "comparativas-prunex1",
+  "path": "/comparativas-prunex1/vs-liquid-fiber/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 vs Liquid Fiber",
+  "title": "Prunex1 vs Liquid Fiber: comparación honesta entre dos fibras FuXion",
+  "seoTitle": "Prunex1 vs Liquid Fiber: diferencias y cuál elegir",
+  "metaDescription": "Prunex1 vs Liquid Fiber: qué se puede comparar con datos reales, qué dice la etiqueta de Prunex1 y cómo elegir sin dejarte llevar solo por el nombre.",
+  "excerpt": "Dos productos de la misma marca con la fibra como protagonista. Te contamos qué se puede comparar con datos verificados y qué conviene revisar tú mismo en la etiqueta.",
+  "quickAnswer": "Prunex1 vs Liquid Fiber es una comparación entre dos productos FuXion vinculados a la fibra, pero aquí solo detallamos con cifras el que conocemos por etiqueta: Prunex1, una bebida en polvo sabor guindón con 1.7 g de fibra dietaria y 18 kcal por stick de 5 g en 180 ml de agua caliente. De Liquid Fiber no damos cifras no verificadas: revisa su propia etiqueta.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Two simple ceramic cups on a pale linen tablecloth, one filled with a warm reddish-amber drink with gentle steam, beside an open notebook with a pen and a small dish of dried prunes and star anise, soft grey morning light from a window in a Lima apartment during garua season, calm minimal composition, no packaging, no sachets, no text, no logos, no faces",
+    "alt": "Taza de bebida rojiza junto a una libreta abierta para comparar opciones de fibra en una mañana gris de Lima"
+  },
+  "blocks": [
+    { "type": "p", "text": "Pasa seguido: abres el catálogo de FuXion en el celular, mientras esperas la combi, y ves más de un producto con la palabra fibra encima. Uno es Prunex1; otro se llama Liquid Fiber. La pregunta lógica es cuál pedir, y la respuesta honesta empieza por reconocer qué datos tenemos y cuáles no." },
+    { "type": "p", "text": "En esta página usamos **Prunex1 como eje**, porque es el producto cuya etiqueta peruana conocemos al detalle. De Liquid Fiber hablamos solo en términos generales y públicos. Cuando no sabemos un dato, te lo decimos en lugar de rellenar el hueco con suposiciones." },
+    { "type": "h2", "text": "Prunex1 vs Liquid Fiber: qué se puede comparar con honestidad" },
+    { "type": "p", "text": "Lo único que se puede afirmar sin riesgo es que ambos pertenecen al catálogo de FuXion y que los dos se presentan comercialmente alrededor de la fibra. A partir de ahí, compararlos bien exige poner sus etiquetas una al lado de la otra: tipo de fibras, gramos por porción, edulcorantes, ingredientes adicionales, forma de preparación y precio por porción." },
+    { "type": "p", "text": "No es buena idea elegir solo por el nombre. Que un producto diga liquid no te dice cuánta fibra aporta, y que otro esté hecho con guindón tampoco te dice todo sobre su fórmula. Para eso existe la etiqueta, y es la que manda por encima de cualquier frase de catálogo." },
+    { "type": "h2", "text": "La ficha de Prunex1 que usamos como punto de referencia" },
+    { "type": "p", "text": "Estos son los datos de Prunex1 que figuran en su empaque y en la información oficial de FuXion Perú. Son los que deberías buscar también en cualquier otro producto que compares." },
+    { "type": "table", "caption": "Datos de Prunex1 según su etiqueta (por porción de 1 stick)", "headers": ["Dato", "Prunex1"], "rows": [
+      ["Denominación", "Bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón"],
+      ["Porción", "1 stick de 5 g en 180 ml de agua caliente"],
+      ["Fibra dietaria", "1.7 g"],
+      ["Energía", "18 kcal"],
+      ["Carbohidratos", "4.5 g"],
+      ["Azúcares", "0.2 g totales; 0 g añadidos"],
+      ["Fibras de la fórmula", "Inulina de achicoria, psyllium y mucílago de linaza (cantidad de cada una no declarada)"],
+      ["Otros ingredientes destacados", "Anís estrella, kelp, limón y guindón deshidratados, sorbitol, estevia, carmín"],
+      ["Precio de catálogo", "S/ 76.00 por 28 sticks (S/ 2.71 por stick)"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice el empaque", "text": "El primer ingrediente de Prunex1 es tapioca en polvo, seguido de achicoria y psyllium. La etiqueta peruana declara la fibra dietaria total (1.7 g por porción), pero no los gramos de cada fibra, ni de guindón, sorbitol o magnesio por stick." },
+    { "type": "p", "text": "Si quieres entender qué papel cumple cada una de esas fibras, en nuestra guía sobre [fibra soluble e insoluble en Prunex1](/ingredientes-prunex1/fibra-soluble-e-insoluble/) lo explicamos sin tecnicismos." },
+    { "type": "h2", "text": "Qué sabemos y qué no sabemos de Liquid Fiber" },
+    { "type": "p", "text": "Liquid Fiber es otro producto de FuXion orientado a la fibra, según su nombre y la forma en que la marca lo presenta. No tenemos aquí su etiqueta verificada, así que **no reproducimos su composición, sus gramos de fibra, su sabor ni su precio**. Tampoco vamos a afirmar si comparte ingredientes con Prunex1." },
+    { "type": "table", "caption": "Comparación: datos verificados frente a datos por confirmar", "headers": ["Criterio", "Prunex1", "Liquid Fiber"], "rows": [
+      ["Tipo de fibras", "Inulina, psyllium, mucílago de linaza", "No verificado aquí: revisa su etiqueta"],
+      ["Fibra por porción", "1.7 g", "No verificado aquí"],
+      ["Calorías por porción", "18 kcal", "No verificado aquí"],
+      ["Edulcorantes", "Estevia y sorbitol; 0 g de azúcares añadidos", "No verificado aquí"],
+      ["Extractos vegetales", "Anís estrella, kelp, guindón, limón", "No verificado aquí"],
+      ["Preparación", "1 stick en 180 ml de agua caliente", "Según su propio modo de empleo"],
+      ["Precio por porción", "S/ 2.71 (doypack de 28)", "Consulta la tienda oficial"]
+    ] },
+    { "type": "p", "text": "Esta tabla puede parecer incompleta, y lo es a propósito. Preferimos una columna honesta con datos por confirmar que una comparación bonita con números inventados." },
+    { "type": "cta", "text": "Si ya tienes claro que lo tuyo es Prunex1, revisa el precio actualizado y las presentaciones disponibles." },
+    { "type": "h2", "text": "Seis preguntas para comparar dos fibras de la misma marca" },
+    { "type": "p", "text": "Con las dos etiquetas en la mano, sea en la mesa de la cocina o en la oficina de San Isidro, estas preguntas te ayudan a decidir con criterio propio:" },
+    { "type": "ol", "items": [
+      "**¿Qué fibras lleva y en qué orden aparecen?** El orden de la lista indica qué ingredientes pesan más en la mezcla.",
+      "**¿Cuántos gramos de fibra dietaria aporta por porción?** Es el dato más directo para comparar.",
+      "**¿Cómo se endulza?** Busca azúcares añadidos, polioles como el sorbitol y edulcorantes como la estevia.",
+      "**¿Qué ingredientes extra incluye?** En Prunex1, por ejemplo, el kelp aporta yodo de forma natural y el carmín es de origen animal; eso importa si tienes condiciones o preferencias concretas.",
+      "**¿Cómo se prepara?** Agua caliente, agua fría o mezcla con otras bebidas cambian la practicidad del día a día.",
+      "**¿Cuánto cuesta cada porción?** Divide el precio entre el número de porciones; en Prunex1 son S/ 2.71 por stick en el doypack grande."
+    ] },
+    { "type": "h2", "text": "¿Para quién tiene más sentido Prunex1?" },
+    { "type": "p", "text": "Según lo que comunica FuXion, Prunex1 está pensado para personas con molestias por tránsito intestinal lento. Encaja mejor con quien:" },
+    { "type": "ul", "items": [
+      "Prefiere una bebida caliente, de sabor a guindón con notas de anís, para tomar en taza.",
+      "Busca una mezcla de varias fibras solubles junto con extractos vegetales, en lugar de una sola fibra.",
+      "Quiere 0 g de azúcares añadidos y pocas calorías por porción.",
+      "Valora la practicidad del stick individual para llevar al trabajo o de viaje a provincia."
+    ] },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion presenta Prunex1 como un apoyo para tener un adecuado tránsito intestinal, sentirte más liviano sin las molestias de la hinchazón abdominal y liberarte de desechos perjudiciales. Son afirmaciones comerciales del fabricante, no resultados garantizados." },
+    { "type": "h2", "text": "¿Cuándo conviene mirar con calma la otra opción?" },
+    { "type": "p", "text": "Puede tener sentido revisar la ficha de Liquid Fiber si algún ingrediente de Prunex1 no va contigo: por ejemplo, si te han pedido cuidar el yodo (por el kelp), si toleras mal el sorbitol o la inulina, o si evitas el carmín. Eso sí, **no des por hecho que la otra fórmula no los contiene**: compruébalo en su etiqueta o pregúntale al distribuidor." },
+    { "type": "p", "text": "También es razonable que el sabor o el formato de preparación inclinen la balanza. Una bebida que no te gusta tomar termina olvidada en la alacena, por mejor que se vea en el papel." },
+    { "type": "callout", "variant": "aviso", "title": "Antes de elegir cualquiera de los dos", "text": "Ninguno es un medicamento. La ficha oficial indica que Prunex1 no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal. Consulta a un médico si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación, cambios bruscos del hábito intestinal, tomas medicación o tienes una enfermedad crónica." },
+    { "type": "p", "text": "Si quieres ver cómo se compara Prunex1 con otras fuentes de fibra, desde el psyllium puro hasta la chía, la [guía de comparativas de Prunex1](/comparativas-prunex1/) reúne todos los criterios. Y cuando estés listo, puedes [comprar Prunex1 original](/comprar-prunex1/) a través del canal oficial del distribuidor." }
+  ],
+  "faqs": [
+    { "q": "¿Liquid Fiber y Prunex1 tienen la misma fórmula?", "a": "No podemos afirmarlo. Conocemos la etiqueta de Prunex1 al detalle, pero no hemos verificado la de Liquid Fiber. La forma correcta de saberlo es comparar las listas de ingredientes impresas en cada empaque." },
+    { "q": "¿Puedo tomar los dos productos el mismo día?", "a": "No conocemos una indicación oficial que los combine. Sumar dos productos con fibra aumenta la fibra total del día y puede causar gases o molestias si no estás acostumbrado. Consúltalo con tu médico, sobre todo si tomas medicación." },
+    { "q": "¿Cuál es más barato por porción?", "a": "Prunex1 cuesta S/ 2.71 por stick en el doypack de 28 (S/ 76.00) y S/ 3.00 en el de 7 sticks. El precio de Liquid Fiber no lo reproducimos aquí; consúltalo en la tienda oficial y divídelo entre sus porciones para comparar." },
+    { "q": "¿Dónde veo la etiqueta completa de Prunex1?", "a": "En el reverso del doypack figuran ingredientes, modo de empleo, advertencias y registro sanitario. En nuestra página de [precio por stick](/precio-prunex1-peru/precio-por-stick/) también encontrarás el detalle de costos por presentación." }
+  ],
+  "sources": [
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" },
+    { "label": "NIDDK – Estreñimiento (información general)", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/constipation" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria", "url": "https://www.digesa.minsa.gob.pe/" }
+  ],
+  "related": ["/comparativas-prunex1/vs-psyllium-generico/", "/comparativas-prunex1/vs-metamucil/", "/ingredientes-prunex1/fibra-soluble-e-insoluble/", "/comparativas-prunex1/vs-inulina-pura/"]
+}

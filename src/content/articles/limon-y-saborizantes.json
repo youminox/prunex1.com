@@ -1,0 +1,71 @@
+{
+  "slug": "limon-y-saborizantes",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/limon-y-saborizantes/",
+  "isPillar": false,
+  "primaryKeyword": "saborizantes de Prunex1",
+  "title": "Saborizantes de Prunex1: limón, guindón, ciruela y panela",
+  "seoTitle": "Saborizantes de Prunex1: limón, guindón y panela",
+  "metaDescription": "Saborizantes de Prunex1 explicados: qué aportan el limón, el guindón, la ciruela y la panela, y por qué la bebida declara solo 0.2 g de azúcares totales.",
+  "excerpt": "El sabor de Prunex1 combina fruta deshidratada y saborizantes de guindón, ciruela y panela. Te contamos qué aporta cada uno y por qué la panela no suma azúcares añadidos.",
+  "quickAnswer": "Los saborizantes de Prunex1 son guindón, ciruela y panela, y se suman al limón y al guindón deshidratados que también figuran en la etiqueta. Juntos dan un perfil frutal, ligeramente ácido y acaramelado. Pese a la panela, la bebida declara 0.2 g de azúcares totales y 0 g de azúcares añadidos por porción.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass mug of warm reddish-amber drink on a terracotta tile counter, surrounded by a halved Peruvian lime, a few dark dried prunes, a small broken piece of raw cane sugar block and one star anise pod, soft morning light from a market-style kitchen window, warm natural tones, minimal composition. NO packaging, NO sachets, NO text, NO logos, NO visible faces.",
+    "alt": "Bebida color ámbar rojizo junto a limón partido, guindones y un trozo de chancaca sobre losetas de terracota"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas peruanas el guindón tiene sabor a infancia: el que aparecía flotando en la mazamorra morada o el que la abuela dejaba remojando en un vaso. La panela, por su parte, es pariente cercana de la **chancaca** que se derrite para la miel de los picarones. Que ambos aparezcan en la etiqueta de una bebida sin azúcares añadidos despierta una duda lógica." },
+    { "type": "p", "text": "Aquí respondemos esa duda con la etiqueta en la mano. Vemos qué ingredientes dan sabor a la bebida, qué hace cada uno en la taza y por qué la palabra panela no significa que estés tomando azúcar. Para la composición completa, revisa [todos los ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "¿Qué saborizantes de Prunex1 figuran en la etiqueta?" },
+    { "type": "p", "text": "El sabor de la bebida no depende de un solo ingrediente. En la lista aparecen dos entradas distintas que conviene diferenciar:" },
+    { "type": "ul", "items": [
+      "**Deshidratado de frutas (limón, guindón)**, en el sexto lugar. Es la fruta misma, secada y pulverizada.",
+      "**Saborizantes (guindón, ciruela, panela)**, en el noveno lugar. Son preparaciones pensadas para aportar aroma y sabor en cantidades pequeñas."
+    ] },
+    { "type": "p", "text": "La etiqueta no especifica el origen ni la composición interna de esos saborizantes. Lo que sí sabemos por el orden de la lista es que están en menor proporción que la fruta deshidratada y que el sorbitol, que va justo antes." },
+    { "type": "table", "caption": "Quién aporta qué al sabor de la bebida", "headers": ["Ingrediente", "Lugar en la lista", "Lo que aporta en la taza"], "rows": [
+      ["Limón deshidratado", "6.º (con el guindón)", "Acidez suave y frescura que equilibran el dulzor"],
+      ["Guindón deshidratado", "6.º (con el limón)", "Base frutal oscura que da nombre al sabor"],
+      ["Saborizante de guindón", "9.º", "Refuerza el aroma característico a ciruela pasa"],
+      ["Saborizante de ciruela", "9.º", "Nota frutal más fresca y redonda"],
+      ["Saborizante de panela", "9.º", "Matiz acaramelado, tipo caña"]
+    ] },
+    { "type": "h2", "text": "El limón deshidratado: el contrapunto ácido" },
+    { "type": "p", "text": "Una bebida solo con guindón y edulcorantes podría resultar pesada, casi empalagosa. El limón cumple el papel que cumple en un buen cebiche: **despierta el resto de sabores** y evita que la taza se sienta plana." },
+    { "type": "p", "text": "Su presencia es discreta. No esperes el golpe ácido de una limonada; se nota más como un fondo fresco que acompaña al anís estrella. La etiqueta no declara vitamina C ni otro nutriente proveniente del limón, así que su función es de sabor, no nutricional." },
+    { "type": "h2", "text": "Guindón y ciruela: dos capas del mismo perfil" },
+    { "type": "p", "text": "El guindón aparece dos veces: como fruta deshidratada y como saborizante. Es una estrategia frecuente en bebidas instantáneas, porque la fruta en polvo aporta cuerpo pero pierde parte de su aroma al secarse, y el saborizante lo recupera." },
+    { "type": "p", "text": "El saborizante de ciruela añade una nota más brillante, menos licorosa que la del guindón. Si quieres saber qué más aporta el guindón aparte del sabor, como fibra y sorbitol natural, lo desarrollamos en [el guindón dentro de Prunex1](/ingredientes-prunex1/guindon/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que declara la tabla nutricional", "text": "Por porción (1 stick de 5 g en 180 ml de agua caliente): 0.2 g de azúcares totales y 0 g de azúcares añadidos. El empaque lleva además el sello «sin azúcares». El dulzor proviene de la estevia y del sorbitol, ambos declarados en la lista de ingredientes." },
+    { "type": "cta", "text": "Si el sabor guindón te convence, revisa el precio de catálogo y elige la presentación que mejor te acomode." },
+    { "type": "h2", "text": "¿Por qué la panela no suma azúcares añadidos relevantes?" },
+    { "type": "p", "text": "Es la pregunta más común sobre los saborizantes de Prunex1, y la respuesta está en tres datos que se leen en el propio empaque:" },
+    { "type": "ol", "items": [
+      "**La panela figura como saborizante.** Su objetivo es dar un matiz de caña, no endulzar. Para aromatizar basta una cantidad mínima.",
+      "**Está en la parte baja de la lista.** Va en el noveno lugar, después del sorbitol, y los ingredientes se ordenan de mayor a menor cantidad.",
+      "**La tabla manda.** Todo el azúcar que pudiera venir de la fruta o de la panela queda dentro de los 0.2 g de azúcares totales por porción, y la etiqueta declara 0 g de azúcares añadidos."
+    ] },
+    { "type": "p", "text": "Para dimensionarlo: una cucharadita de azúcar de mesa pesa unos 4 g. Los 0.2 g de azúcares totales de una taza equivalen aproximadamente a **una vigésima parte de esa cucharadita**. Es una cantidad pequeña incluso para quien vigila mucho su consumo." },
+    { "type": "p", "text": "Un matiz técnico: en las normas de etiquetado nutricional, los valores muy bajos se redondean. La FDA, por ejemplo, permite declarar 0 g cuando un nutriente está por debajo de 0.5 g por porción. Por eso lo correcto es leer «0 g de azúcares añadidos» como una cantidad nula o despreciable, tal como la declara el fabricante. Los detalles sobre el sello están en [si Prunex1 tiene azúcar](/ingredientes-prunex1/tiene-azucar/)." },
+    { "type": "h2", "text": "Cómo se perciben estos sabores al prepararlo" },
+    { "type": "p", "text": "Con el agua caliente que indica la etiqueta, los aromas se liberan mejor. Al acercar la taza se nota primero la fruta oscura; en boca aparece el dulzor y, al final, el anís estrella con un fondo cítrico." },
+    { "type": "p", "text": "El color rojizo no viene de los saborizantes sino del carmín, un colorante natural. Y la textura algo espesa se debe a las fibras y a la goma xantán. Si quieres una descripción completa de la experiencia en taza, revisa [el sabor y la textura de Prunex1](/que-es-prunex1/sabor-y-textura/)." },
+    { "type": "h2", "text": "Lo que los saborizantes no hacen" },
+    { "type": "p", "text": "Vale la pena decirlo claro: un saborizante sirve para que la bebida sea agradable, no para producir un efecto en el organismo. Que la taza sepa a guindón no significa que aporte lo mismo que comer varios guindones." },
+    { "type": "callout", "variant": "aviso", "title": "Si vigilas tu glucosa", "text": "Aunque la bebida declara 0 g de azúcares añadidos, cada porción aporta 4.5 g de carbohidratos e incluye sorbitol. Si tienes diabetes u otra condición metabólica, consulta con tu médico o nutricionista antes de incorporarla a tu rutina." },
+    { "type": "p", "text": "Si después de conocer su perfil de sabor decides probarlo, en [la página de compra de Prunex1](/comprar-prunex1/) verás las presentaciones de 28 y de 7 sticks con su precio actualizado." }
+  ],
+  "faqs": [
+    { "q": "¿Los saborizantes de Prunex1 son naturales o artificiales?", "a": "La etiqueta los declara solo como «Saborizantes (Guindón, Ciruela, Panela)», sin precisar su origen. El producto tiene el sello Clean Label, pero lo responsable es no afirmar más de lo que dice el empaque." },
+    { "q": "¿La panela es lo mismo que la chancaca?", "a": "Son productos muy parecidos: ambos se obtienen al evaporar el jugo de caña sin refinarlo. En Prunex1, sin embargo, la panela aparece como perfil de sabor dentro de los saborizantes y no como endulzante." },
+    { "q": "¿Puedo tomarlo si no me gusta el sabor a anís?", "a": "El anís estrella está presente como polvo y como aceite esencial, así que se nota. A algunas personas el limón y la fruta les suavizan esa nota; si el anís te desagrada mucho, probar primero la presentación de 7 sticks puede ser lo más práctico." },
+    { "q": "¿Agregarle limón fresco cambia algo?", "a": "No es parte del modo de empleo oficial, que solo indica agua caliente. Unas gotas de limón no añaden azúcar, pero la etiqueta y su información nutricional se refieren a la preparación con agua sola." }
+  ],
+  "sources": [
+    { "label": "FDA – Added Sugars on the Nutrition Facts Label", "url": "https://www.fda.gov/food/nutrition-facts-label/added-sugars-nutrition-facts-label" },
+    { "label": "Organización Mundial de la Salud – Alimentación sana", "url": "https://www.who.int/es/news-room/fact-sheets/detail/healthy-diet" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/guindon/", "/ingredientes-prunex1/stevia/", "/ingredientes-prunex1/tiene-azucar/", "/que-es-prunex1/sabor-y-textura/"]
+}

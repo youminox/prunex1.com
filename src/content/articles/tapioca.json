@@ -1,0 +1,66 @@
+{
+  "slug": "tapioca",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/tapioca/",
+  "isPillar": false,
+  "primaryKeyword": "tapioca en Prunex1",
+  "title": "Tapioca en Prunex1: por qué es el primer ingrediente",
+  "seoTitle": "Tapioca en Prunex1: el primer ingrediente explicado",
+  "metaDescription": "Tapioca en Prunex1: por qué el almidón de yuca encabeza la lista, qué función cumple como base del polvo, cuánto pesa en los carbohidratos y si tiene gluten.",
+  "excerpt": "Muchos se sorprenden al ver que la lista de Prunex1 empieza por tapioca y no por una fibra. Te explicamos qué es, qué función cumple y qué significa en la tabla.",
+  "quickAnswer": "La tapioca en Prunex1 es almidón extraído de la raíz de yuca y encabeza la lista de 16 ingredientes, lo que indica que es el componente en mayor proporción. Funciona como base y vehículo del polvo, aporta parte de los 4.5 g de carbohidratos por porción y es naturalmente libre de gluten. No es una fibra ni un ingrediente funcional.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A ceramic cup of warm reddish-amber drink on a rustic wooden market table next to a whole cassava root with one end cut showing its white flesh and a small clay bowl of fine white starch powder, warm natural daylight in a Peruvian market setting, simple composition, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de bebida rojiza junto a una raíz de yuca cortada y un cuenco de almidón blanco sobre una mesa de mercado"
+  },
+  "blocks": [
+    { "type": "p", "text": "En cualquier mercado de Lima la yuca es una presencia fija: sancochada al lado del chicharrón, frita con ocopa o en un buen sudado. Lo que pocos relacionan es que de esa misma raíz sale la **tapioca**, el almidón blanco y fino que encabeza la lista de ingredientes de Prunex1." },
+    { "type": "p", "text": "Para quien voltea el doypack esperando ver primero \"psyllium\" o \"guindón\", encontrar tapioca puede generar dudas: ¿es relleno?, ¿suma azúcar?, ¿tiene gluten? Aquí respondemos con lo que dice la etiqueta, sin adornos. Si quieres el panorama de toda la fórmula, empieza por la guía de [ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "Qué es la tapioca en Prunex1" },
+    { "type": "p", "text": "La tapioca es el **almidón de la yuca** (*Manihot esculenta*). Se obtiene rallando la raíz, lavándola con agua para separar el almidón, decantándolo y secándolo hasta obtener un polvo blanco, neutro de sabor y muy fino. Ese mismo almidón, en otra presentación, forma las perlitas del bubble tea que se ven en los centros comerciales." },
+    { "type": "p", "text": "En la etiqueta figura como \"Tapioca en Polvo\". Desde el punto de vista nutricional es casi en su totalidad carbohidrato en forma de almidón, sin grasa ni proteína relevantes. No es una fibra, no es un extracto vegetal funcional y la marca no le atribuye ningún beneficio propio." },
+    { "type": "callout", "variant": "etiqueta", "title": "Cómo se lee el orden de ingredientes", "text": "Las listas de ingredientes se ordenan de mayor a menor proporción. Que la tapioca figure primero indica que es el componente que más pesa en cada stick de 5 g, aunque la etiqueta **no declara su cantidad exacta**. Le siguen la achicoria (inulina) y el psyllium." },
+    { "type": "h2", "text": "Por qué la tapioca es el primer ingrediente" },
+    { "type": "p", "text": "Formular una bebida en polvo no consiste solo en elegir ingredientes interesantes; también hay que lograr que se mezclen bien, que se dosifiquen igual en cada sobre y que se disuelvan en una taza. Ahí entra la base. En Prunex1 la tapioca cumple varias funciones técnicas:" },
+    { "type": "ul", "items": [
+      "**Vehículo:** reparte de manera homogénea ingredientes que se usan en cantidades pequeñas, como el anís, el kelp, el magnesio o la estevia.",
+      "**Volumen y dosificación:** da cuerpo al polvo para que cada stick pese 5 g y contenga una mezcla uniforme.",
+      "**Dispersión:** ayuda a separar las partículas de las fibras que forman gel, lo que facilita mezclarlas en el agua.",
+      "**Sabor neutro:** no compite con el perfil de guindón, ciruela, anís y limón." ] },
+    { "type": "p", "text": "Es un recurso habitual en alimentos en polvo. La pregunta razonable no es si la tapioca sobra, sino qué implica para la tabla nutricional y para quien la consume, que es lo que vemos a continuación." },
+    { "type": "h2", "text": "Cuánto aporta a los 4.5 g de carbohidratos" },
+    { "type": "p", "text": "Según la tabla nutricional peruana, una porción (1 stick de 5 g disuelto en 180 ml de agua caliente) aporta **18 kcal y 4.5 g de carbohidratos**, de los cuales 1.7 g son fibra dietaria y 0.2 g azúcares totales, con 0 g de azúcares añadidos." },
+    { "type": "table", "caption": "Carbohidratos por porción de Prunex1 (según etiqueta)", "headers": ["Componente", "Por porción (180 ml)", "Por 100 ml"], "rows": [
+      ["Carbohidratos totales", "4.5 g", "2.5 g"],
+      ["Fibra dietaria", "1.7 g", "0.9 g"],
+      ["Azúcares totales", "0.2 g", "0.1 g"],
+      ["Azúcares añadidos", "0 g", "0 g"],
+      ["Energía", "18 kcal", "10 kcal"] ] },
+    { "type": "p", "text": "La etiqueta no desglosa de dónde sale cada gramo, pero es lógico pensar que la tapioca, al ser el ingrediente principal, aporta una parte importante de los carbohidratos que no son fibra ni azúcar. El sorbitol y otros componentes también podrían sumar ahí. Lo prudente es decir **\"parte de los 4.5 g\"**, sin asignarle una cifra que el fabricante no ha publicado." },
+    { "type": "p", "text": "Para dimensionarlo: 4.5 g de carbohidratos es una cantidad pequeña frente a la que aporta un pan francés del desayuno o la porción de arroz de un menú del día. Si quieres comparar las 18 kcal con otras bebidas habituales, lo detallamos en [calorías de Prunex1](/ingredientes-prunex1/calorias/)." },
+    { "type": "cta", "text": "Revisa el precio actualizado del doypack de 28 sticks y las demás presentaciones en la tienda oficial." },
+    { "type": "h3", "text": "¿Y si controlas tu glucosa?" },
+    { "type": "p", "text": "El almidón se digiere y se convierte en glucosa, como cualquier carbohidrato disponible. Aunque la cantidad por porción es baja, si tienes diabetes, resistencia a la insulina o sigues un plan alimentario con conteo de carbohidratos, inclúyelo en tus cálculos y consulta con tu médico o nutricionista. Ampliamos el tema en [Prunex1 para diabéticos](/opiniones-prunex1/diabeticos/)." },
+    { "type": "h2", "text": "Tapioca y gluten: lo que garantiza el sello" },
+    { "type": "p", "text": "La yuca es una raíz, no un cereal, así que la tapioca es **naturalmente libre de gluten**. Esto encaja con uno de los sellos que muestra el empaque de Prunex1: sin gluten. El resto de la fórmula tampoco incluye trigo, cebada ni centeno; incluso la cáscara de arroz, otro componente vegetal de la mezcla, procede de un cereal sin gluten." },
+    { "type": "p", "text": "Un matiz importante: la etiqueta advierte que el producto se elabora en equipos donde se procesan **leche, productos lácteos, huevos y soya**. Esa advertencia no se refiere al gluten, pero sí es relevante si tienes alergias alimentarias. Explicamos qué cubre cada sello en [Prunex1 sin gluten y sus sellos](/que-es-prunex1/sellos-sin-gluten-no-gmo/)." },
+    { "type": "callout", "variant": "aviso", "title": "Si tienes celiaquía o alergias", "text": "Si eres celíaco o tienes alergias alimentarias diagnosticadas, revisa siempre la etiqueta de tu propio empaque, porque las versiones pueden cambiar, y consulta con tu médico ante cualquier duda. Prunex1 es un alimento y no reemplaza indicaciones médicas." },
+    { "type": "h2", "text": "Lo que la tapioca no hace" },
+    { "type": "p", "text": "Conviene separar la función técnica de la funcional. La tapioca no es la responsable de lo que FuXion comunica sobre el producto, que gira en torno al tránsito intestinal y a sentirse más liviano; esas afirmaciones de la marca se apoyan en la mezcla de fibras y extractos vegetales, no en el almidón de base." },
+    { "type": "p", "text": "Tampoco tiene sentido verla como un \"relleno engañoso\": aparece declarada en primer lugar, a la vista de cualquiera. La información está en la etiqueta para que cada persona decida con datos. Si con esa información quieres probar la bebida, puedes ver cómo [comprar Prunex1 original](/comprar-prunex1/) por el canal autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿La tapioca de Prunex1 es lo mismo que la harina de yuca?", "a": "No exactamente. La harina de yuca se obtiene moliendo la raíz completa seca y conserva algo de su fibra, mientras que la tapioca es el almidón separado y purificado. En la etiqueta figura como \"Tapioca en Polvo\"." },
+    { "q": "¿La yuca no tiene compuestos tóxicos?", "a": "La yuca cruda contiene de forma natural compuestos cianogénicos, sobre todo las variedades amargas. El rallado, el lavado y el secado propios de la obtención del almidón reducen esos compuestos, y por eso la tapioca se usa ampliamente como ingrediente alimentario." },
+    { "q": "¿La tapioca hace que Prunex1 espese?", "a": "El almidón de tapioca necesita calor y cierta concentración para espesar de forma notoria, y en una taza de 180 ml su efecto es limitado. La textura algo densa de la bebida se debe sobre todo al psyllium, al mucílago de linaza y a la goma xantán." },
+    { "q": "¿Prunex1 rompe el ayuno por la tapioca?", "a": "Cualquier aporte de energía, aunque sea pequeño, rompe un ayuno estricto, y una porción tiene 18 kcal y 4.5 g de carbohidratos. Si practicas un ayuno flexible, la decisión depende de tus reglas; lo analizamos en la página sobre si Prunex1 rompe el ayuno." }
+  ],
+  "sources": [
+    { "label": "FDA – Gluten-Free Labeling of Foods", "url": "https://www.fda.gov/food/nutrition-food-labeling-and-critical-foods/gluten-free-labeling-foods" },
+    { "label": "Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO)", "url": "https://www.fao.org/" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria", "url": "https://www.digesa.minsa.gob.pe/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/calorias/", "/ingredientes-prunex1/tabla-nutricional/", "/ingredientes-prunex1/cascara-de-arroz/", "/como-preparar-prunex1/rompe-el-ayuno/"]
+}

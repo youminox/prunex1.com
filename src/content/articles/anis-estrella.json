@@ -1,0 +1,70 @@
+{
+  "slug": "anis-estrella",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/anis-estrella/",
+  "isPillar": false,
+  "primaryKeyword": "anís estrella en Prunex1",
+  "title": "Anís estrella en Prunex1: aroma, uso tradicional y calidad",
+  "seoTitle": "Anís estrella en Prunex1: qué aporta y cómo se controla",
+  "metaDescription": "Anís estrella en Prunex1: qué es Illicium verum, su uso tradicional carminativo, el aceite esencial y por qué no debe confundirse con el anís japonés.",
+  "excerpt": "El anís estrella aparece dos veces en la etiqueta de Prunex1: en polvo y como aceite esencial. Te explicamos qué aporta, qué dice la tradición y por qué el control de calidad importa.",
+  "quickAnswer": "El anís estrella en Prunex1 es el fruto de Illicium verum, una especia aromática de uso tradicional digestivo. Aparece como polvo (cuarto ingrediente) y como aceite esencial (penúltimo). Aporta sobre todo aroma y sabor anisado; la etiqueta no declara su cantidad y no debe confundirse con el anís estrella japonés, que es tóxico.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A ceramic cup of warm reddish-amber drink on a dark wooden table beside whole star anise pods, a cinnamon stick and a small bowl of dried prunes, soft morning light through a window of a Lima kitchen with a grey winter sky outside, shallow depth of field, cozy minimal style, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de bebida rojiza ámbar junto a estrellas de anís enteras, canela y guindones en una cocina limeña"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas cocinas limeñas el anís estrella tiene su momento de gloria cuando se prepara la miel de chancaca para los picarones, junto a la canela, el clavo y la cáscara de naranja. Esa estrellita leñosa de ocho puntas también forma parte de Prunex1, y es la razón de que cada taza tenga un fondo aromático que recuerda al anís." },
+    { "type": "p", "text": "En la etiqueta aparece dos veces: como **anís estrella en polvo**, cuarto de 16 ingredientes, y como **aceite esencial de anís estrella**, en el puesto 15. Aquí verás qué planta es, qué uso tradicional tiene, por qué existe un pariente tóxico con el que no se debe confundir y qué puedes esperar (y qué no) de este ingrediente. La fórmula completa está en la [lista de ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "¿Qué es el anís estrella en Prunex1?" },
+    { "type": "p", "text": "El anís estrella culinario es el fruto seco de *Illicium verum*, un árbol de hoja perenne originario del sur de China y el norte de Vietnam. Se cosecha antes de que madure del todo y se seca hasta tomar su color marrón rojizo. Cada estrella suele tener ocho carpelos, las puntas, y dentro de cada uno hay una semilla brillante." },
+    { "type": "p", "text": "Pese al nombre, no es pariente del anís que se cultiva en Curahuasi (Apurímac) y otras zonas andinas. Ese es *Pimpinella anisum*, de la familia del perejil y el hinojo. Lo que comparten es el **anetol**, el compuesto responsable del aroma dulce y anisado; por eso, aunque botánicamente sean muy distintos, en la taza se parecen." },
+    { "type": "callout", "variant": "etiqueta", "title": "Cómo figura en la etiqueta", "text": "La lista oficial declara 'Anís Estrella en Polvo' en cuarto lugar, después de la tapioca, la achicoria y el psyllium, y 'Aceite Esencial de Anís Estrella' en el puesto 15 de 16. La etiqueta no indica la cantidad de ninguno de los dos por stick de 5 g ni menciona el nombre botánico de la especie." },
+    { "type": "h2", "text": "Uso tradicional: un carminativo de cocina y de botica" },
+    { "type": "p", "text": "En la medicina tradicional china y en la herbolaria europea, el anís estrella se ha usado como **carminativo**, es decir, una planta a la que se atribuye ayudar a expulsar gases y aliviar la pesadez después de comer. Es la lógica de la tacita de anís que muchas abuelas ofrecen tras un almuerzo contundente." },
+    { "type": "p", "text": "La Agencia Europea de Medicamentos (EMA) cuenta con una monografía sobre el fruto de anís estrella que reconoce su **uso tradicional** en molestias digestivas leves, como hinchazón y flatulencia. Conviene entender el matiz: 'uso tradicional' significa que se acepta por su larga historia de empleo, no porque haya ensayos clínicos sólidos que lo demuestren." },
+    { "type": "p", "text": "En Prunex1, además, el anís estrella convive con varias fibras, así que no tiene sentido atribuirle a él solo un efecto concreto. FuXion comunica que el producto en conjunto ayuda a sentirte más liviano sin las molestias de la hinchazón abdominal; cómo leer esa frase con realismo lo explicamos en [Prunex1 y la hinchazón](/que-es-prunex1/hinchazon-abdominal/)." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion destaca el anís estrella en el frente del empaque junto con la fibra de psyllium, la inulina de achicoria, el guindón, el kelp y el mucílago de linaza. Es una afirmación comercial sobre la composición: no equivale a un efecto demostrado del producto ni de este ingrediente por separado." },
+    { "type": "h2", "text": "Anís estrella chino vs japonés: el pariente que no debe llegar a tu taza" },
+    { "type": "p", "text": "Esta es la parte que más preguntas genera. Existe otra especie, el **anís estrella japonés** (*Illicium anisatum*), cuyo fruto se parece muchísimo al chino pero contiene **anisatina** y otras sustancias neurotóxicas. No es apto para el consumo; en Japón se usa de forma ornamental y ceremonial, por ejemplo como incienso." },
+    { "type": "p", "text": "El riesgo no es teórico. A inicios de los años 2000 se reportaron en Europa y Estados Unidos intoxicaciones, sobre todo en bebés a quienes se dio infusiones de anís estrella, con irritabilidad, vómitos y convulsiones. Las investigaciones apuntaron a lotes adulterados o contaminados con la especie japonesa, y en 2003 la FDA emitió una advertencia al público sobre los tés de anís estrella." },
+    { "type": "table", "caption": "Diferencias entre el anís estrella chino y el japonés", "headers": ["Característica", "Chino (Illicium verum)", "Japonés (Illicium anisatum)"], "rows": [
+      ["Uso", "Culinario y como ingrediente alimentario", "No comestible; ornamental"],
+      ["Aroma", "Dulce y anisado, intenso", "Más débil, recuerda a alcanfor o cardamomo"],
+      ["Forma", "Estrella regular, carpelos robustos", "Más pequeña e irregular, puntas delgadas y curvadas"],
+      ["Compuesto clave", "Anetol (aroma)", "Anisatina (neurotóxica)"],
+      ["Cómo distinguirlos con certeza", "Análisis de laboratorio", "Análisis de laboratorio; a simple vista se confunden"]
+    ] },
+    { "type": "h3", "text": "¿Cómo se controla en un producto en polvo?" },
+    { "type": "p", "text": "Una vez molido, la forma de la estrella desaparece, así que el control no puede ser visual. La industria alimentaria trabaja con especificaciones de proveedor, certificados de análisis y técnicas como la microscopía y la cromatografía para identificar la especie y descartar anisatina. La etiqueta de Prunex1 no detalla qué controles aplica FuXion, por lo que no podemos afirmar uno en particular." },
+    { "type": "p", "text": "Lo que sí está en tus manos es comprar un producto con **registro sanitario** visible, fabricado por FuXion Biotech S.A.C. en Lurín, con lote, vencimiento y empaque sellado. Te contamos dónde mirar en [el registro sanitario de Prunex1](/que-es-prunex1/registro-sanitario/). Los sticks sueltos o los canales informales eliminan esa trazabilidad." },
+    { "type": "cta", "text": "¿Prefieres un empaque sellado, con registro, lote y vencimiento visibles? Revisa el precio vigente del doypack de 28 sticks en la tienda oficial." },
+    { "type": "h2", "text": "El aceite esencial de anís estrella: aroma concentrado" },
+    { "type": "p", "text": "El segundo componente se obtiene por destilación al vapor del fruto. Su compuesto mayoritario, con mucha diferencia, es el **trans-anetol**. Es tan concentrado que bastan cantidades mínimas para perfumar una preparación, y por eso figura casi al final de la lista." },
+    { "type": "p", "text": "Su papel en Prunex1 es aromático: refuerza la nota anisada que el polvo podría ir perdiendo con el tiempo y redondea el sabor guindón, el toque de limón y el dulzor de la estevia. Si te preguntas cómo se siente la taza en conjunto, lo describimos en [sabor y textura de Prunex1](/que-es-prunex1/sabor-y-textura/)." },
+    { "type": "p", "text": "Un detalle técnico interesante: los aceites no se mezclan con el agua. La fórmula incluye un emulsionante, cuya función general es justamente ayudar a dispersar grasas y aceites en un medio acuoso; lo explicamos en [goma xantán y lecitina de girasol](/ingredientes-prunex1/goma-xantan-y-lecitina/)." },
+    { "type": "h2", "text": "¿Quién debería tener precaución?" },
+    { "type": "ul", "items": [
+      "**Bebés y niños pequeños**: las infusiones de anís estrella no se recomiendan en lactantes, y Prunex1 tampoco está pensado para niños.",
+      "**Personas alérgicas a especias anisadas**: las reacciones son poco frecuentes, pero si alguna vez reaccionaste al anís, al hinojo o a productos con anetol, consulta antes.",
+      "**Quien toma medicamentos de forma regular**: no por el anís en particular, sino porque la fibra del producto puede interferir con la absorción de algunos fármacos; coméntalo con tu médico o farmacéutico.",
+      "**Embarazo y lactancia**: la ficha oficial de FuXion indica que el producto no es apto; consulta a tu médico."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Señales para consultar", "text": "Si después de tomar cualquier bebida con anís notas temblores, vómitos intensos, confusión o palpitaciones, suspende y busca atención médica. Y si tus molestias digestivas persisten, hay dolor intenso, sangre en las heces o pérdida de peso sin explicación, acude a un médico: ningún ingrediente aromático reemplaza una evaluación profesional." },
+    { "type": "p", "text": "Si decides probarlo, elige un canal que te asegure empaque sellado y datos de fabricación visibles. En [comprar Prunex1](/comprar-prunex1/) tienes el precio de catálogo, S/ 76.00 por el doypack de 28 sticks, y el acceso a la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo reemplazar Prunex1 con una infusión casera de anís estrella?", "a": "No son equivalentes. Una infusión de anís estrella aporta aroma pero prácticamente nada de fibra, mientras que una porción de Prunex1 declara 1.7 g de fibra dietaria de una mezcla de psyllium, inulina y mucílago, entre otros. Si preparas anís en casa, compra estrellas de proveedores confiables y no se lo des a bebés." },
+    { "q": "¿Es cierto que del anís estrella se obtiene un antiviral?", "a": "El ácido shikímico del anís estrella se ha usado como materia prima industrial para sintetizar un medicamento antiviral. Eso no significa que el anís estrella ni Prunex1 tengan efecto antiviral: se trata de un proceso químico de laboratorio, no de algo que ocurra al tomar una bebida." },
+    { "q": "¿Por qué a veces mi taza huele más a anís que otras?", "a": "La intensidad aromática puede variar un poco entre lotes de ingredientes naturales y según cuánto tiempo lleve abierto el empaque. Si el polvo está apelmazado o huele rancio, revisa el vencimiento y cómo lo estás guardando, porque la humedad de Lima afecta a cualquier producto en polvo." }
+  ],
+  "sources": [
+    { "label": "EMA – Agencia Europea de Medicamentos (monografías de plantas medicinales)", "url": "https://www.ema.europa.eu/" },
+    { "label": "FDA – Administración de Alimentos y Medicamentos de EE. UU.", "url": "https://www.fda.gov/" },
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" },
+    { "label": "PubMed – Biblioteca Nacional de Medicina de EE. UU.", "url": "https://pubmed.ncbi.nlm.nih.gov/" },
+    { "label": "FuXion – sitio oficial", "url": "https://fuxion.com/" }
+  ],
+  "related": ["/que-es-prunex1/hinchazon-abdominal/", "/que-es-prunex1/sabor-y-textura/", "/ingredientes-prunex1/limon-y-saborizantes/", "/ingredientes-prunex1/guindon/"]
+}

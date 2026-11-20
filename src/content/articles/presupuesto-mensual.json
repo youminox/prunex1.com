@@ -1,0 +1,81 @@
+{
+  "slug": "presupuesto-mensual",
+  "pillar": "precio-prunex1-peru",
+  "path": "/precio-prunex1-peru/presupuesto-mensual/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 cuánto gastar al mes",
+  "title": "Prunex1, cuánto gastar al mes: escenarios con S/ 2.71 por taza",
+  "seoTitle": "Prunex1: cuánto gastar al mes (cálculos en soles)",
+  "metaDescription": "Prunex1, cuánto gastar al mes: escenarios de gasto según cuántas tazas uses, con S/ 2.71 por stick, desembolso real, envío y errores al presupuestar.",
+  "excerpt": "Calculadora en palabras: cuánto representa Prunex1 en tu presupuesto mensual según el número de tazas, con el precio de catálogo y sin recomendar dosis.",
+  "quickAnswer": "Para saber Prunex1 cuánto gastar al mes, multiplica las tazas que prevés usar por S/ 2.71 (precio por stick del doypack de 28 a S/ 76.00). Así, 8 tazas suman S/ 21.68 y 16 tazas, S/ 43.36. Son escenarios de cálculo, no una recomendación de uso: la frecuencia la define tu necesidad y, si hace falta, tu médico.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A reddish-amber warm drink in a simple white mug on a kitchen counter next to an open paper notebook with handwritten numbers, a pencil, a few coins and a small dish of dried prunes, soft grey morning light from a window on a misty Lima day, minimal and calm style, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de bebida rojiza junto a un cuaderno con cuentas a mano y unas monedas sobre la encimera"
+  },
+  "blocks": [
+    { "type": "p", "text": "Fin de mes, quincena recién depositada y una lista en el celular: alquiler, recibo de luz, pasajes, mercado del sábado. Si Prunex1 forma parte de tus compras, tiene sentido darle una línea propia en ese presupuesto en lugar de tratarlo como un gasto que «aparece» cada cierto tiempo." },
+    { "type": "p", "text": "Aquí no vamos a decirte cuántas tazas tomar. Eso no lo indica la etiqueta y depende de cada persona. Lo que sí hacemos es darte **escenarios de cálculo**: si usas tantas tazas al mes, esto es lo que cuesta, cómo se traduce en compras reales y qué detalles suelen descuadrar la cuenta." },
+    { "type": "h2", "text": "La base del cálculo: S/ 2.71 por stick" },
+    { "type": "p", "text": "El doypack principal trae **28 sticks de 5 g** y su precio de catálogo es **S/ 76.00**. Dividido entre 28, cada stick sale a **S/ 2.71**. Como la etiqueta indica disolver un stick en una taza de 180 ml de agua caliente, un stick equivale a una taza preparada. El detalle de esta división, y cómo cambia con la presentación pequeña, está en la guía del [precio por stick de Prunex1](/precio-prunex1-peru/precio-por-stick/)." },
+    { "type": "p", "text": "Un apunte de exactitud: S/ 2.71 es un valor redondeado. Por eso 28 × 2.71 da S/ 75.88 y no S/ 76.00. Para presupuestar, esos centavos no cambian nada, pero conviene saber de dónde salen si haces la cuenta con calculadora." },
+    { "type": "h2", "text": "Prunex1: cuánto gastar al mes según el número de tazas" },
+    { "type": "p", "text": "La tabla muestra el gasto **prorrateado**, es decir, lo que te cuesta cada mes si repartes el precio del doypack entre las tazas que realmente usas. Las frecuencias son solo ejemplos para hacer números, no sugerencias." },
+    { "type": "table", "caption": "Escenarios de gasto mensual con el doypack de 28 sticks (S/ 2.71 por stick)", "headers": ["Tazas al mes (ejemplo)", "Cálculo", "Gasto mensual prorrateado", "Cuánto rinde un doypack de 28 a ese ritmo"], "rows": [
+      ["4", "4 × S/ 2.71", "S/ 10.84", "7 meses (ojo con el vencimiento)"],
+      ["8", "8 × S/ 2.71", "S/ 21.68", "3 meses y medio"],
+      ["12", "12 × S/ 2.71", "S/ 32.52", "Poco más de 2 meses"],
+      ["16", "16 × S/ 2.71", "S/ 43.36", "Casi 2 meses"],
+      ["20", "20 × S/ 2.71", "S/ 54.20", "Algo menos de un mes y medio"],
+      ["28", "28 × S/ 2.71", "S/ 75.88 (S/ 76.00 reales)", "Un mes"],
+      ["30", "30 × S/ 2.71", "S/ 81.30", "No alcanza: necesitas una compra adicional"]
+    ] },
+    { "type": "p", "text": "Si quieres llevarlo a un año, multiplica por 12. Con 4 tazas al mes el gasto anual ronda los S/ 130.08; con 8, unos S/ 260.16; con 12, unos S/ 390.24. Son cifras prorrateadas: en la práctica compras doypacks completos, así que el desembolso se concentra en ciertos meses." },
+    { "type": "callout", "variant": "aviso", "title": "Esto no es una pauta de consumo", "text": "La etiqueta indica 1 stick por porción y no establece un número de días de uso. Según la ficha oficial de FuXion, el producto no es apto para personas con tránsito intestinal normal, embarazadas ni madres en lactancia. Si notas que lo necesitas la mayor parte del mes, o si tienes dolor intenso, sangre en las heces, pérdida de peso sin explicación o un cambio brusco del hábito intestinal, lo sensato es consultar con un médico antes de seguir sumando tazas. Hablamos del uso continuo en [¿puedo tomar Prunex1 todos los días?](/opiniones-prunex1/todos-los-dias/)." },
+    { "type": "h2", "text": "Gasto prorrateado frente a desembolso real" },
+    { "type": "p", "text": "Que tu gasto prorrateado sea S/ 21.68 al mes no significa que pagarás esa cantidad cada mes. Lo que ocurre es que haces un pago de S/ 76.00 y luego pasan varios meses sin comprar. Para el flujo de caja de una casa, eso importa: es distinto separar S/ 22 cada quincena que encontrarte con S/ 76 de golpe la semana del recibo de agua." },
+    { "type": "p", "text": "Una forma práctica de resolverlo es «ahorrar el doypack»: apartar el monto prorrateado cada mes en una alcancía o en una cuenta aparte, de modo que cuando toque reponer ya tengas el dinero. Si al final del año tus cuentas no cuadran con la tabla, probablemente usaste más o menos tazas de las previstas, y eso también es información útil." },
+    { "type": "cta", "text": "Revisa el precio vigente y las presentaciones antes de armar tu presupuesto." },
+    { "type": "h2", "text": "¿Y si compras el doypack de 7 sticks?" },
+    { "type": "p", "text": "El doypack pequeño cuesta **S/ 21.00**, es decir, **S/ 3.00 por stick**. Con el mismo ejemplo de 8 tazas al mes, el gasto prorrateado sube a S/ 24.00, solo S/ 2.32 más que con el formato grande. Pero en un año, a ese mismo ritmo (96 tazas), la diferencia acumulada llega a S/ 27.84." },
+    { "type": "ul", "items": [
+      "**Usos esporádicos.** Con muy pocas tazas al mes, el doypack de 7 puede salir mejor aunque el stick cueste más, porque evitas abrir uno de 28 que tardarías muchos meses en terminar.",
+      "**Primera compra.** Si aún no sabes si te gusta el sabor, S/ 21.00 es una prueba más barata. Lo analizamos en el artículo del [doypack de 7 sticks y su precio](/precio-prunex1-peru/doypack-7-sticks-precio/).",
+      "**Uso más frecuente.** Cuantas más tazas uses, más pesa la diferencia de S/ 0.29 por stick a favor del doypack de 28."
+    ] },
+    { "type": "h2", "text": "Cuatro detalles que descuadran el presupuesto" },
+    { "type": "ol", "items": [
+      "**El envío.** El precio de catálogo no incluye la entrega. El costo se calcula en el checkout según tu dirección, así que súmalo prorrateado: no es lo mismo pagarlo en cada compra pequeña que una sola vez con un doypack grande.",
+      "**La humedad de Lima.** En invierno, con garúa y paredes que sudan, un doypack mal cerrado puede apelmazarse. Si el polvo se humedece y lo desechas, ese dinero se pierde. Revisa los consejos para [conservar Prunex1 y vigilar el vencimiento](/como-preparar-prunex1/conservar-y-vencimiento/).",
+      "**Los puntos no son vuelto.** El doypack de 28 suma 10 puntos y el de 7 suma 2, pero eso no reduce lo que pagas como cliente. No los restes de tu presupuesto.",
+      "**El precio puede actualizarse.** Usa siempre el precio que figura en la tienda el día que compras, no el que recuerdas de la última vez."
+    ] },
+    { "type": "h2", "text": "Arma tu propio cálculo en tres minutos" },
+    { "type": "p", "text": "Si ninguno de los escenarios se parece a tu caso, la fórmula es sencilla y la puedes hacer en la calculadora del celular mientras esperas el bus o haces cola en el mercado:" },
+    { "type": "ol", "items": [
+      "Estima cuántas tazas prevés usar en un mes típico (sin forzar una cifra: mira cuántas usaste el mes pasado).",
+      "Multiplica ese número por S/ 2.71 si compras el doypack de 28, o por S/ 3.00 si compras el de 7.",
+      "Suma el envío dividido entre los meses que te dura cada compra.",
+      "Revisa la fecha de vencimiento del empaque y confirma que lo terminarás antes."
+    ] },
+    { "type": "p", "text": "El panorama completo de precios, presentaciones y envíos está en la guía de [precio de Prunex1 en Perú](/precio-prunex1-peru/). Cuando tengas tu número, puedes ver las presentaciones disponibles en la página para [comprar Prunex1 en la tienda oficial](/comprar-prunex1/) o entrar directamente a https://carlos-lingan.site.fuxion.com/prunex1/." }
+  ],
+  "faqs": [
+    { "q": "¿El gasto mensual incluye el costo de envío?", "a": "No. Los escenarios usan solo el precio de catálogo del producto. El envío se calcula en el checkout según tu distrito o provincia, y conviene sumarlo dividido entre los meses que te dura cada compra." },
+    { "q": "¿Comprar dos doypacks de 28 a la vez me baja el precio por stick?", "a": "Con el precio de catálogo, cada doypack de 28 cuesta S/ 76.00 y el stick sigue saliendo a S/ 2.71. Lo que sí puedes ahorrar es en envíos si juntas compras, pero comprar mucho de golpe solo tiene sentido si lo vas a usar antes del vencimiento y puedes guardarlo en un lugar fresco y seco." },
+    { "q": "¿Puedo comprar sticks sueltos para ajustar el gasto exacto?", "a": "El propio empaque indica que los sticks no están etiquetados para venta individual. Si alguien los ofrece de a uno, no sabes cómo se almacenaron ni de qué lote vienen. Para ajustar el gasto, la opción oficial más pequeña es el doypack de 7 sticks." },
+    { "q": "¿Los 10 puntos del doypack se pueden usar para pagar el siguiente?", "a": "Los puntos funcionan dentro del programa de FuXion y sus reglas las define la marca. Como cliente, no se descuentan automáticamente de tu siguiente compra, por eso no conviene restarlos al planificar tu presupuesto." }
+  ],
+  "sources": [
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" },
+    { "label": "Tienda online del distribuidor autorizado – Prunex1", "url": "https://carlos-lingan.site.fuxion.com/prunex1/" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria", "url": "https://www.digesa.minsa.gob.pe/" }
+  ],
+  "related": [
+    "/precio-prunex1-peru/precio-por-stick/",
+    "/precio-prunex1-peru/doypack-7-sticks-precio/",
+    "/precio-prunex1-peru/vale-la-pena/",
+    "/precio-prunex1-peru/envio-a-provincias/"
+  ]
+}

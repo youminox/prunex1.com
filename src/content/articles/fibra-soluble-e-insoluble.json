@@ -1,0 +1,82 @@
+{
+  "slug": "fibra-soluble-e-insoluble",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/fibra-soluble-e-insoluble/",
+  "isPillar": false,
+  "primaryKeyword": "fibra de Prunex1",
+  "title": "Fibra de Prunex1: qué tipo aporta y qué significan sus 1.7 g",
+  "seoTitle": "Fibra de Prunex1: soluble, insoluble y 1.7 g por taza",
+  "metaDescription": "Fibra de Prunex1: 1.7 g por porción, sobre todo soluble (psyllium, inulina y mucílago de linaza). Qué la diferencia de la insoluble y qué esperar.",
+  "excerpt": "Prunex1 declara un solo número de fibra, 1.7 g por taza. Te explicamos de qué ingredientes sale, por qué predomina la soluble y en qué se diferencia de la insoluble.",
+  "quickAnswer": "La fibra de Prunex1 suma 1.7 g por porción, es decir, un stick de 5 g disuelto en 180 ml de agua. Proviene sobre todo de fuentes solubles, como el psyllium, la inulina de achicoria y el mucílago de linaza, con algo de fibra insoluble de la cáscara de arroz y la fruta deshidratada. La etiqueta no declara cuánto aporta cada tipo.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass of warm reddish-amber drink on a rustic wooden table at a Lima market stall, next to small clay bowls of psyllium husk, golden flaxseeds, dried chicory root pieces and a few dried prunes, soft overcast winter light typical of Lima garúa, earthy natural tones, shallow depth of field, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Vaso de bebida ámbar rojiza junto a cuencos de psyllium, linaza, raíz de achicoria y guindones en un mercado"
+  },
+  "blocks": [
+    { "type": "p", "text": "En un menú del día limeño la fibra llega sin que nadie la cuente: las lentejas del lunes, la ensalada que acompaña al arroz con pollo, la mandarina que te dan de postre. En una etiqueta, en cambio, todo se reduce a una línea de la tabla nutricional. En el caso de Prunex1, esa línea dice **1.7 g de fibra dietaria por porción**." },
+    { "type": "p", "text": "Ese número no dice de qué tipo es la fibra ni de dónde sale. Para responderlo hay que mirar la lista de ingredientes y conocer cómo se comporta cada uno. Si quieres ver la fórmula completa antes de seguir, revisa la [guía de ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "¿Cuánta fibra de Prunex1 hay en cada taza?" },
+    { "type": "p", "text": "La tabla oficial de FuXion Perú expresa la fibra de dos maneras. La que más te sirve es la de la porción, porque corresponde a lo que realmente tomas al preparar un stick." },
+    { "type": "table", "caption": "Fibra dietaria declarada en la etiqueta de Prunex1", "headers": ["Referencia", "Fibra dietaria", "Calorías"], "rows": [
+      ["Por porción (1 stick de 5 g en 180 ml de agua)", "1.7 g", "18 kcal"],
+      ["Por 100 ml de bebida preparada", "0.9 g", "10 kcal"]
+    ] },
+    { "type": "p", "text": "Para ponerlo en perspectiva, la EFSA considera adecuada una ingesta de unos 25 g de fibra al día para adultos. Una taza de Prunex1 cubre menos de una décima parte de esa cifra. Es un aporte complementario, no un sustituto de las menestras, frutas, verduras y granos enteros." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que la etiqueta declara y lo que no", "text": "La etiqueta peruana declara la fibra dietaria total: 1.7 g por porción. No declara cuánto aporta cada ingrediente (psyllium, inulina, mucílago de linaza) ni separa la fibra en soluble e insoluble. Cualquier cifra por ingrediente que veas en internet no proviene del empaque." },
+    { "type": "h2", "text": "Fibra soluble e insoluble: la diferencia en simple" },
+    { "type": "p", "text": "Toda la fibra comparte una característica: el intestino delgado no la digiere. Lo que cambia es cómo se comporta frente al agua y qué ocurre con ella al llegar al colon." },
+    { "type": "table", "caption": "Comparación general entre fibra soluble e insoluble", "headers": ["Característica", "Fibra soluble", "Fibra insoluble"], "rows": [
+      ["Con el agua", "Se dispersa y, en muchos casos, forma un gel o una textura espesa", "Casi no se disuelve; retiene algo de agua sin formar gel"],
+      ["En el colon", "Parte se fermenta por la microbiota", "Se fermenta poco"],
+      ["Rol general", "Ablanda y da consistencia al contenido intestinal", "Aporta volumen"],
+      ["Ejemplos cotidianos", "Avena, linaza, menestras, pulpa de frutas", "Salvado de trigo, cáscaras, verduras de hoja"]
+    ] },
+    { "type": "p", "text": "En la práctica, casi ningún alimento tiene un solo tipo. Un guindón entero, por ejemplo, combina pectinas solubles en la pulpa con fibra insoluble en la piel. Por eso hablar de fibra “soluble” o “insoluble” en un producto siempre se refiere a cuál **predomina**." },
+    { "type": "h2", "text": "De dónde sale la fibra de Prunex1, ingrediente por ingrediente" },
+    { "type": "h3", "text": "Fuentes principalmente solubles" },
+    { "type": "ul", "items": [
+      "**Psyllium (Plantago ovata)**: es el ejemplo clásico de fibra que absorbe agua y forma gel. Es mayoritariamente soluble, aunque tiene una fracción insoluble. Lo explicamos en [el psyllium de Prunex1](/ingredientes-prunex1/psyllium/).",
+      "**Inulina de achicoria**: fibra soluble que no espesa, pero que la microbiota fermenta; por eso se la considera prebiótica. Detalles en [la inulina de achicoria de Prunex1](/ingredientes-prunex1/inulina-de-achicoria/).",
+      "**Mucílago de linaza**: la parte viscosa de la semilla, la misma que da esa textura resbalosa al agua de linaza de los emolienteros.",
+      "**Goma xantán**: está como espesante, en cantidad pequeña, pero técnicamente también es una fibra soluble.",
+      "**Kelp**: el alga aporta alginatos, otra fibra soluble, aunque figura en quinto lugar y su cantidad no está declarada."
+    ] },
+    { "type": "h3", "text": "Fuentes con fibra insoluble" },
+    { "type": "ul", "items": [
+      "**Cáscara de arroz en polvo**: por naturaleza es mayormente insoluble. Aparece en el puesto 10 de la lista.",
+      "**Limón y guindón deshidratados**: aportan una mezcla de ambos tipos, como la fruta entera."
+    ] },
+    { "type": "p", "text": "Como psyllium, achicoria y mucílago de linaza están entre los siete primeros ingredientes, y las fuentes insolubles aparecen más abajo o en mezcla, lo razonable es concluir que **la fibra de Prunex1 es mayoritariamente soluble**. Lo que no se puede afirmar es una proporción exacta." },
+    { "type": "cta", "text": "Si ya tienes claro qué fibra aporta, consulta el precio vigente de Prunex1 y compra el original con un distribuidor autorizado." },
+    { "type": "h2", "text": "¿Por qué antes se hablaba de un mix soluble e insoluble?" },
+    { "type": "p", "text": "Si has visto empaques o materiales más antiguos, quizá recuerdes la mención a una mezcla de fibras solubles e insolubles. La descripción oficial que FuXion usa actualmente pone el acento en las fibras solubles." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion describe Prunex1 como un “té herbal a base de mix de fibras solubles y extracto de guindón”. Entre los beneficios que comunica están un adecuado tránsito intestinal y sentirte más liviano sin las molestias de la hinchazón abdominal. Son afirmaciones del fabricante, no resultados medidos sobre el producto." },
+    { "type": "p", "text": "Ambas descripciones no se contradicen tanto como parece. La fórmula sí contiene ingredientes con fibra insoluble, pero su peso es menor que el de las fuentes solubles. Describirla como “mix soluble e insoluble” era técnicamente correcto; describirla como “a base de fibras solubles” refleja mejor lo que predomina. Lo que manda para el consumidor es la lista de ingredientes de tu propio empaque." },
+    { "type": "h2", "text": "Qué significa el tipo de fibra al momento de tomarlo" },
+    { "type": "p", "text": "Conocer el tipo de fibra tiene consecuencias prácticas, sin necesidad de prometer resultados:" },
+    { "type": "ul", "items": [
+      "**Necesita líquido**: la fibra soluble trabaja captando agua. Por eso la porción de la etiqueta es de 180 ml y no una cucharada de polvo en seco. Tomar suficiente agua durante el día también ayuda.",
+      "**Puede dar gases al inicio**: la inulina se fermenta en el colon y, en algunas personas, eso produce gases o sensación de distensión. Lo tratamos en [si Prunex1 da gases](/opiniones-prunex1/da-gases/).",
+      "**La textura cambia si esperas**: el psyllium y el mucílago siguen espesando con el tiempo, por eso la etiqueta indica consumir la preparación en su totalidad una vez lista.",
+      "**No sustituye una dieta con fibra**: 1.7 g es un aporte modesto. Cómo encaja dentro de tu alimentación lo explicamos en [Prunex1 y el tránsito intestinal](/que-es-prunex1/fibra-y-transito-intestinal/)."
+    ] },
+    { "type": "p", "text": "La evidencia científica sobre psyllium o inulina proviene de estudios con esos ingredientes por separado y con dosis propias, generalmente de varios gramos al día. No se puede trasladar directamente a una bebida que reúne varias fibras en 1.7 g totales." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo hablar con un médico", "text": "Prunex1 es un alimento, no un medicamento, y no trata ni previene enfermedades. Consulta a un profesional si tomas medicación, porque la fibra puede interferir en su absorción, o si tienes una enfermedad crónica o antecedentes de obstrucción intestinal. Acude de inmediato ante dolor intenso, sangre en las heces, pérdida de peso inexplicada o cambios bruscos del hábito intestinal." },
+    { "type": "p", "text": "Si después de revisar estos datos decides probarlo, puedes ver presentaciones y precio en la [página de compra de Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿La fibra de Prunex1 cuenta para mi consumo diario de fibra?", "a": "Sí. Los 1.7 g por porción son fibra dietaria declarada y suman a la que obtienes de tus comidas. Solo ten presente que representan una parte pequeña de lo que se recomienda en un día." },
+    { "q": "¿El agua caliente afecta la fibra al preparar Prunex1?", "a": "En el tiempo que toma preparar y tomar la bebida, el agua caliente no hace desaparecer la fibra. Lo que cambia es la textura, porque las fibras solubles se hidratan y espesan un poco. Por eso conviene revolver bien y tomarla completa." },
+    { "q": "¿Por qué la etiqueta no dice cuánto psyllium o inulina tiene cada stick?", "a": "La normativa peruana exige declarar la fibra dietaria total, no el desglose por ingrediente, y FuXion no publica esas cantidades. Por eso cualquier cifra exacta de psyllium o inulina por stick debe tomarse con desconfianza si no viene del fabricante." },
+    { "q": "¿Prunex1 tiene la misma fibra que el agua de guindones casera?", "a": "No. El agua de guindones aporta sobre todo lo que la fruta suelta al remojo, mientras que Prunex1 combina varias fuentes de fibra soluble añadidas, con guindón deshidratado como uno de sus ingredientes. Son preparaciones diferentes y no conviene equipararlas." }
+  ],
+  "sources": [
+    { "label": "EFSA: valores dietéticos de referencia para carbohidratos y fibra dietaria", "url": "https://www.efsa.europa.eu/" },
+    { "label": "NIDDK (NIH): información sobre fibra y salud digestiva", "url": "https://www.niddk.nih.gov/" },
+    { "label": "FDA: definición de fibra dietaria en el etiquetado", "url": "https://www.fda.gov/" },
+    { "label": "FuXion: ficha oficial de Prunex1", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/tabla-nutricional/", "/ingredientes-prunex1/mucilago-de-linaza/", "/ingredientes-prunex1/cascara-de-arroz/", "/que-es-prunex1/prebiotico-y-microbiota/"]
+}

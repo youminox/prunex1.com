@@ -1,0 +1,128 @@
+{
+  "name": "Prunex1",
+  "brand": "FuXion",
+  "fullName": "Prunex1 de FuXion",
+  "sku": "142626",
+  "gtin": "",
+  "tagline": "Bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón",
+  "packDescription": "Bebida instantánea en polvo a base de fibras y extractos vegetales (base de tapioca), enriquecida con fibra de psyllium, fibra de inulina de achicoria, guindón, kelp, anís estrella y mucílago de linaza",
+  "flavor": "Sabor guindón (prune flavor)",
+  "presentation": "Doypack de 28 sticks x 5 g",
+  "netWeight": "140 g",
+  "sachets": 28,
+  "sachetGrams": 5,
+  "price": 76,
+  "currency": "PEN",
+  "formattedPrice": "S/ 76.00",
+  "pricePerSachet": 2.71,
+  "formattedPricePerSachet": "S/ 2.71",
+  "points": 10,
+  "priceValidFrom": "2026-11-19",
+  "priceVerified": "2026-11-19",
+  "shopUrl": "https://carlos-lingan.site.fuxion.com/prunex1/",
+  "presentations": [
+    { "sku": "142626", "name": "Doypack 28 sticks x 5 g (140 g)", "price": 76, "formattedPrice": "S/ 76.00", "perStick": "S/ 2.71", "points": 10, "inStock": true, "main": true },
+    { "sku": "149138", "name": "Doypack 7 sticks x 5 g (35 g)", "price": 21, "formattedPrice": "S/ 21.00", "perStick": "S/ 3.00", "points": 2, "inStock": true, "main": false },
+    { "sku": "144137", "name": "Caja 7 sticks x 5 g", "price": 21, "formattedPrice": "S/ 21.00", "perStick": "S/ 3.00", "points": 2, "inStock": false, "main": false }
+  ],
+  "images": {
+    "hero": "/img/producto/prunex1-fuxion-doypack-sticks-taza-transparente.webp",
+    "pack28": "/img/producto/prunex1-fuxion-doypack-28-sticks.webp",
+    "pack28Cup": "/img/producto/prunex1-fuxion-doypack-taza-guindon.webp",
+    "pack7": "/img/producto/prunex1-fuxion-doypack-7-sticks.webp",
+    "pack7Cup": "/img/producto/prunex1-fuxion-doypack-7-sticks-taza.webp",
+    "back7": "/img/producto/prunex1-reverso-etiqueta-7-sticks.webp",
+    "back28": "/img/producto/prunex1-reverso-etiqueta-28-sticks.webp",
+    "label": "/img/producto/prunex1-informacion-nutricional-etiqueta.webp",
+    "lifestyle": "/img/producto/prunex1-ambiente-cocina-doypack.webp",
+    "seals": "/img/producto/sellos-fuxion.webp"
+  },
+  "officialImage": "/img/producto/prunex1-fuxion-doypack-28-sticks.webp",
+  "labelImage": "/img/producto/prunex1-informacion-nutricional-etiqueta.webp",
+  "video": {
+    "provider": "Vimeo",
+    "id": "277172488",
+    "embedUrl": "https://player.vimeo.com/video/277172488",
+    "contentUrl": "https://vimeo.com/277172488",
+    "title": "Prunex1 de FuXion – video oficial",
+    "note": "Video oficial de FuXion alojado en Vimeo"
+  },
+  "line": "Línea Limpieza y Detox (catálogo FuXion Perú)",
+  "packClaims": ["Fibra de psyllium", "Fibra de inulina de achicoria", "Guindón", "Kelp", "Anís estrella", "Mucílago de linaza"],
+  "seals": ["No GMO", "Sin azúcares (0 g de azúcares añadidos)", "Sin gluten", "Bajo en sodio", "Clean Label"],
+  "officialBenefits": [
+    "Tener un adecuado tránsito intestinal.",
+    "Sentirte más liviano sin las molestias de la hinchazón abdominal.",
+    "Liberarte de desechos perjudiciales para tu organismo."
+  ],
+  "officialDescription": "Té herbal a base de mix de fibras solubles y extracto de guindón, los cuales representan una alternativa eficaz en casos de molestias por tránsito intestinal lento que retrasan la respuesta saludable de tu organismo.",
+  "officialRestrictions": "No apto para embarazadas, madres en lactancia o personas con tránsito intestinal normal. Elaborado en equipos donde se procesa leche, productos lácteos, huevos y soya.",
+  "preparation": {
+    "serving": "1 stick (5 g)",
+    "water": "180 ml (1 taza) de agua caliente",
+    "steps": [
+      "Calienta 180 ml de agua (1 taza).",
+      "Vierte el contenido de 1 stick (5 g) en la taza.",
+      "Revuelve bien hasta disolver y consume la preparación en su totalidad."
+    ],
+    "labelText": "Disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente, y revolver bien. Una vez preparado consumir en su totalidad. Conservar en un lugar fresco y seco.",
+    "storage": "Conservar en un lugar fresco y seco."
+  },
+  "nutrition": {
+    "servingSize": "5 g (1 stick para diluir en 1 taza de agua)",
+    "servingsPerPack": 28,
+    "per100ml": { "kcal": 10.0, "kj": 42.6, "fat": 0.0, "satFat": 0.0, "transFat": 0.0, "cholesterolMg": 0.0, "sodiumMg": 1.1, "carbs": 2.5, "fiber": 0.9, "sugars": 0.1, "addedSugars": 0.0, "protein": 0.0 },
+    "perServing": { "kcal": 18.0, "kj": 76.7, "fat": 0.0, "satFat": 0.0, "transFat": 0.0, "cholesterolMg": 0.0, "sodiumMg": 2.0, "carbs": 4.5, "fiber": 1.7, "sugars": 0.2, "addedSugars": 0.0, "protein": 0.0 },
+    "dailyValuePct": { "kcal": 0.9, "fat": 0, "satFat": 0, "cholesterol": 0, "sodium": 0.1, "carbs": 1.6, "fiber": 0, "addedSugars": 0, "protein": 0 },
+    "dvBasis": "Valores diarios basados en una dieta de 2000 kcal (8380 kJ) para mayores de 4 años según CODEX / FDA",
+    "fusionGrams": 5.0,
+    "labelVersion": "Información nutricional oficial FuXion Perú (ficha IN_PE_6458, enero 2024)"
+  },
+  "ingredients": [
+    { "name": "Tapioca en polvo", "slug": "tapioca", "role": "Primer ingrediente de la lista: base del polvo y vehículo de la mezcla" },
+    { "name": "Achicoria en polvo (inulina de achicoria)", "slug": "inulina-de-achicoria", "role": "Fibra soluble prebiótica (inulina)" },
+    { "name": "Deshidratado de Plantago ovata (psyllium)", "slug": "psyllium", "role": "Fibra que absorbe agua y forma gel" },
+    { "name": "Anís estrella en polvo", "slug": "anis-estrella", "role": "Extracto vegetal aromático de uso tradicional digestivo" },
+    { "name": "Alga deshidratada (kelp)", "slug": "kelp", "role": "Alga marina; fuente natural de alginatos y minerales (incluye yodo de forma natural)" },
+    { "name": "Deshidratado de frutas (limón, guindón)", "slug": "guindon", "role": "Fruta deshidratada; el guindón (ciruela pasa) da nombre y sabor al producto" },
+    { "name": "Mucílago de linaza", "slug": "mucilago-de-linaza", "role": "Fibra mucilaginosa (viscosa) de la semilla de linaza" },
+    { "name": "Sorbitol", "slug": "sorbitol", "role": "Poliol (alcohol de azúcar) de sabor dulce; también presente de forma natural en el guindón" },
+    { "name": "Saborizantes (guindón, ciruela, panela)", "slug": "saborizantes", "role": "Sabor" },
+    { "name": "Cáscara de arroz en polvo", "slug": "cascara-de-arroz", "role": "Componente vegetal de la mezcla" },
+    { "name": "Espesante (goma xantán)", "slug": "goma-xantan", "role": "Espesante / textura" },
+    { "name": "Magnesio", "slug": "magnesio", "role": "Mineral (cantidad no declarada en la tabla nutricional peruana)" },
+    { "name": "Edulcorante (glicósidos de esteviol de estevia)", "slug": "stevia", "role": "Edulcorante sin calorías" },
+    { "name": "Color natural carmín", "slug": "carmin", "role": "Colorante natural de origen animal (cochinilla)" },
+    { "name": "Aceite esencial de anís estrella", "slug": "aceite-de-anis", "role": "Aroma" },
+    { "name": "Emulsionante (lecitina de girasol)", "slug": "lecitina-de-girasol", "role": "Emulsionante" }
+  ],
+  "ingredientsText": "Tapioca en Polvo, Achicoria en Polvo, Deshidratado de Plantago ovata (Psyllium), Anís Estrella en Polvo, Alga Deshidratada (Kelp), Deshidratado de Frutas (Limón, Guindón), Mucílago de Linaza, Sorbitol, Saborizantes (Guindón, Ciruela, Panela), Cáscara de Arroz en Polvo, Espesante (Goma Xantán), Magnesio, Edulcorante (Glicósidos de Esteviol de Estevia), Color Natural Carmín, Aceite Esencial de Anís Estrella, Emulsionante (Lecitina de Girasol).",
+  "warnings": [
+    "Elaborado en equipos donde se procesan leche y productos lácteos, huevos y soya.",
+    "Los productos FuXion son fórmulas alimenticias científicamente desarrolladas que no tratan de curar, tratar ni prevenir alguna enfermedad.",
+    "Los sticks contenidos en este empaque no están etiquetados para su venta individual.",
+    "Según la ficha oficial de FuXion: no apto para embarazadas, madres en lactancia o personas con tránsito intestinal normal."
+  ],
+  "notDeclared": [
+    "La cantidad exacta de cada fibra (psyllium, inulina, mucílago de linaza) y de guindón por stick no está declarada en la etiqueta peruana; solo se declara la fibra dietaria total: 1.7 g por porción.",
+    "La cantidad de sorbitol, magnesio y yodo (aportado de forma natural por el kelp) no está declarada en la tabla nutricional peruana.",
+    "La etiqueta no declara un número de días de uso; solo indica 1 stick por porción."
+  ],
+  "registroSanitario": {
+    "value": "P2963923N NAFXBO",
+    "source": "Reverso del empaque vigente (doypack de 7 sticks, versión 2025)",
+    "note": "Verifica siempre el código impreso en el reverso de tu propio empaque, ya que puede variar según la versión del envase."
+  },
+  "manufacturer": {
+    "name": "FuXion Biotech S.A.C.",
+    "address": "Calle Los Eucaliptos Lt. 1 C2, Urb. Santa Genoveva, Lurín, Lima, Perú",
+    "since": "2006",
+    "countries": "más de 35 países (según FuXion)"
+  },
+  "distributor": {
+    "name": "CARLOS EDEN LINGAN BORJA",
+    "role": "Distribuidor autorizado (independiente) FuXion",
+    "city": "Lima, Perú",
+    "store": "https://carlos-lingan.site.fuxion.com/"
+  }
+}

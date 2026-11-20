@@ -1,0 +1,70 @@
+{
+  "slug": "cascara-de-arroz",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/cascara-de-arroz/",
+  "isPillar": false,
+  "primaryKeyword": "cáscara de arroz en Prunex1",
+  "title": "Cáscara de arroz en Prunex1: qué es y por qué está en la mezcla",
+  "seoTitle": "Cáscara de arroz en Prunex1: qué es y para qué sirve",
+  "metaDescription": "Qué es la cáscara de arroz en Prunex1, para qué se usa en las mezclas en polvo y qué tiene que ver con el sello sin gluten. Lectura honesta de la etiqueta.",
+  "excerpt": "La cáscara de arroz ocupa el décimo lugar en la lista de ingredientes de Prunex1. Te explicamos qué es, qué papel suele cumplir en un polvo instantáneo y por qué no contiene gluten.",
+  "quickAnswer": "La cáscara de arroz en Prunex1 es un polvo vegetal obtenido de la envoltura externa del grano y figura en el décimo lugar de sus 16 ingredientes. En las mezclas en polvo suele usarse para dar fluidez y evitar que el polvo se apelmace. No contiene gluten y su cantidad por stick no está declarada en la etiqueta.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A steaming glass cup of reddish-amber infusion on a rustic wooden table, next to a small linen pouch spilling golden rice husks and a few raw rice grains, warm late afternoon light, blurred green rice paddies of northern Peru in the background through an open window, natural minimal style, shallow depth of field. NO packaging, NO sachets, NO text, NO logos, NO visible faces.",
+    "alt": "Taza de bebida rojiza junto a cascarilla dorada de arroz y granos crudos sobre una mesa rústica"
+  },
+  "blocks": [
+    { "type": "p", "text": "Quien ha pasado por los molinos de Lambayeque, Piura o San Martín en temporada de pilado conoce la escena: cerros de **cascarilla dorada** amontonados junto a la carretera. Esa envoltura dura que protege el grano suele terminar como cama para granjas o combustible para ladrilleras. Por eso llama la atención encontrarla, convertida en polvo fino, en la etiqueta de una bebida." },
+    { "type": "p", "text": "En esta página leemos con lupa ese ingrediente: qué es exactamente, qué función suele cumplir en un polvo instantáneo y qué significa para quien evita el gluten. Lo hacemos sin atribuirle propiedades que la etiqueta no declara. Si buscas el panorama general, la lista completa está en [la guía de ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "¿Qué es la cáscara de arroz en Prunex1?" },
+    { "type": "p", "text": "El grano de arroz recién cosechado viene envuelto en una capa externa dura, la **cáscara** o cascarilla. En el molino se retira primero esa cáscara y queda el arroz integral; luego, al pulirlo, se quita el salvado y queda el arroz blanco que compras en el mercado." },
+    { "type": "p", "text": "La cáscara está formada sobre todo por celulosa, hemicelulosa y lignina, es decir, materiales fibrosos que el cuerpo no digiere como tal. También contiene de forma natural una proporción notable de sílice, un mineral que le da su dureza característica." },
+    { "type": "p", "text": "Para uso alimentario, la cáscara se limpia, se procesa y se muele hasta obtener un polvo muy fino. No tiene nada que ver con la cascarilla agrícola de los costales del molino: es un ingrediente de grado alimentario, preparado para mezclarse con otros polvos." },
+    { "type": "table", "caption": "Las tres partes del arroz que conviene no confundir", "headers": ["Parte del grano", "Qué es", "Uso habitual"], "rows": [
+      ["Cáscara (cascarilla)", "Capa externa dura, fibrosa y rica en sílice", "Molida y procesada, como ingrediente técnico en mezclas en polvo"],
+      ["Salvado", "Capa intermedia entre la cáscara y el grano, con aceite y fibra", "Harinas integrales, cereales, aceite de salvado"],
+      ["Endospermo", "El corazón del grano, casi todo almidón", "El arroz blanco del almuerzo de cada día"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice la etiqueta", "text": "El ingrediente figura como «Cáscara de Arroz en Polvo» y ocupa el décimo lugar de 16, entre los saborizantes (guindón, ciruela, panela) y el espesante goma xantán. La etiqueta no indica ni su cantidad por stick ni su función específica dentro de la fórmula." },
+    { "type": "h2", "text": "¿Para qué se usa la cáscara de arroz en mezclas en polvo?" },
+    { "type": "p", "text": "Como FuXion no detalla en la etiqueta por qué la incluyó, lo honesto es explicar los usos habituales de este ingrediente en la industria de alimentos en polvo. Son estos:" },
+    { "type": "ul", "items": [
+      "**Fluidez y efecto antiapelmazante.** Las fibras como el psyllium o la inulina atraen la humedad y tienden a formar terrones. Las partículas finas de cáscara de arroz se interponen entre ellas y ayudan a que el polvo corra suelto.",
+      "**Dosificación pareja.** Un polvo que fluye bien se reparte con más uniformidad en la máquina que llena los sticks de 5 g, así cada porción sale más parecida a la anterior.",
+      "**Alternativa vegetal a aditivos sintéticos.** En fórmulas de etiqueta limpia se usa a menudo en lugar de antiaglomerantes como el dióxido de silicio, algo coherente con el sello Clean Label del producto.",
+      "**Componente vegetal de la mezcla.** Así la describe la ficha del producto, sin atribuirle un papel nutricional concreto."
+    ] },
+    { "type": "p", "text": "Un ejemplo cotidiano ayuda. La sal del salero en una cocina de Chorrillos no se convierte en piedra pese a la garúa porque lleva un antiaglomerante. En muchos polvos con fibra, la cáscara de arroz suele cumplir un papel parecido, solo que con un origen vegetal." },
+    { "type": "p", "text": "Eso sí, ningún ingrediente reemplaza una buena conservación. En el invierno húmedo de Lima conviene cerrar bien el doypack y guardarlo lejos de la cocina y del baño. Tienes más detalles en [cómo conservar Prunex1 y revisar su vencimiento](/como-preparar-prunex1/conservar-y-vencimiento/)." },
+    { "type": "cta", "text": "¿Quieres revisar la lista de ingredientes en tu propio empaque? Mira el precio actualizado y las presentaciones disponibles." },
+    { "type": "h2", "text": "¿La cáscara de arroz de Prunex1 tiene gluten?" },
+    { "type": "p", "text": "No. El gluten es un conjunto de proteínas presentes en el trigo, la cebada y el centeno. El arroz no lo contiene, y tampoco su cáscara. Lo mismo ocurre con la tapioca, el primer ingrediente de la lista, que proviene de la yuca." },
+    { "type": "p", "text": "Por eso el producto lleva el **sello sin gluten** en el empaque. Si quieres entender qué garantiza exactamente ese sello y qué no, lo explicamos en [qué significan los sellos de Prunex1](/que-es-prunex1/sellos-sin-gluten-no-gmo/)." },
+    { "type": "callout", "variant": "aviso", "title": "Si tienes celiaquía o alergias", "text": "La etiqueta advierte que el producto se elabora en equipos donde se procesan leche y productos lácteos, huevos y soya. Si eres celíaco o tienes alergias alimentarias, revisa el reverso de tu propio empaque y consulta con tu gastroenterólogo o alergólogo antes de incorporarlo." },
+    { "type": "h2", "text": "¿Aporta fibra o nutrientes que debas contar?" },
+    { "type": "p", "text": "La cáscara de arroz es, por naturaleza, mayormente fibra insoluble. Pero en Prunex1 la etiqueta solo declara la **fibra dietaria total: 1.7 g por porción**, sin desglosar cuánto viene de cada ingrediente." },
+    { "type": "p", "text": "Como los ingredientes se listan de mayor a menor cantidad y este aparece después de los saborizantes, lo razonable es pensar que su proporción es pequeña. Las fibras protagonistas de la fórmula son otras, sobre todo solubles: psyllium, inulina de achicoria y mucílago de linaza. La diferencia entre ambos tipos está en [la fibra soluble e insoluble de Prunex1](/ingredientes-prunex1/fibra-soluble-e-insoluble/)." },
+    { "type": "p", "text": "Con la sílice pasa algo similar: está presente en la cáscara, pero la etiqueta no declara silicio ni ningún mineral derivado de ella. No es un dato que puedas sumar a tu alimentación diaria." },
+    { "type": "h2", "text": "Cómo leer este ingrediente sin caer en mitos" },
+    { "type": "ul", "items": [
+      "**Ni relleno ni superalimento.** Es un ingrediente técnico con una función concreta en el polvo, no una fuente de beneficios propios ni un truco para abaratar.",
+      "**El orden importa.** El décimo lugar de 16 indica que su presencia es menor que la de la tapioca, las fibras o el guindón.",
+      "**No es salvado de arroz.** El salvado es otra capa del grano, con aceite y nutrientes distintos.",
+      "**No cambia el modo de empleo.** La porción sigue siendo 1 stick de 5 g en 180 ml de agua caliente, revolviendo bien y tomando todo."
+    ] },
+    { "type": "p", "text": "Entender cada línea de la etiqueta es la mejor defensa frente a promesas exageradas. Si ya revisaste la composición y quieres el producto original, en [la página para comprar Prunex1](/comprar-prunex1/) encontrarás las presentaciones vigentes y el precio de catálogo." }
+  ],
+  "faqs": [
+    { "q": "¿Es seguro consumir cáscara de arroz en polvo?", "a": "Como ingrediente de grado alimentario, procesado y molido, se usa en distintos productos en polvo. En Prunex1 aparece en pequeña proporción dentro de un producto con registro sanitario. Si tienes una enfermedad digestiva o sigues una dieta médica, consulta con tu médico antes de tomar cualquier bebida con fibra." },
+    { "q": "¿Cuántos gramos de cáscara de arroz tiene cada stick?", "a": "No se sabe: la etiqueta peruana no declara la cantidad de este ingrediente. Desconfía de cualquier página que dé una cifra exacta, porque no proviene del empaque." },
+    { "q": "¿La cáscara de arroz cambia el sabor de la bebida?", "a": "Su sabor es prácticamente neutro. Lo que percibes en la taza viene sobre todo del guindón, el anís estrella, el limón y los saborizantes, además del dulzor de la estevia y el sorbitol." },
+    { "q": "Tengo alergia al arroz, ¿puedo tomarlo?", "a": "La alergia al arroz es poco frecuente, pero existe. Si la tienes diagnosticada, lo prudente es no tomarlo sin antes consultar con tu alergólogo, ya que la cáscara de arroz forma parte de la fórmula." }
+  ],
+  "sources": [
+    { "label": "FDA – Gluten-Free Labeling of Foods", "url": "https://www.fda.gov/food/food-labeling-nutrition/gluten-free-labeling-foods" },
+    { "label": "Codex Alimentarius (FAO/OMS)", "url": "https://www.fao.org/fao-who-codexalimentarius/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/tapioca/", "/ingredientes-prunex1/goma-xantan-y-lecitina/", "/que-es-prunex1/sellos-sin-gluten-no-gmo/", "/ingredientes-prunex1/alergenos/"]
+}

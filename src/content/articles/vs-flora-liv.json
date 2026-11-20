@@ -1,0 +1,73 @@
+{
+  "slug": "vs-flora-liv",
+  "pillar": "comparativas-prunex1",
+  "path": "/comparativas-prunex1/vs-flora-liv/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 vs Flora Liv",
+  "title": "Prunex1 vs Flora Liv: fibra o probiótico, ¿qué enfoque buscas?",
+  "seoTitle": "Prunex1 vs Flora Liv: fibra frente a probiótico",
+  "metaDescription": "Prunex1 vs Flora Liv: uno aporta fibras y el otro se presenta como probiótico. Entiende la diferencia de enfoque y elige con la etiqueta en la mano.",
+  "excerpt": "No son dos versiones del mismo producto: Prunex1 es una bebida con fibras y Flora Liv se presenta como probiótico. Aquí explicamos qué cambia entre un enfoque y otro.",
+  "quickAnswer": "Prunex1 vs Flora Liv no es una comparación entre iguales: Prunex1 es una bebida en polvo con fibras (inulina de achicoria, psyllium y mucílago de linaza) que aporta 1.7 g de fibra por stick, mientras que Flora Liv es el producto de FuXion que se presenta como probiótico. Uno aporta fibra; el otro, microorganismos. Sus cepas y cantidades se revisan en su propia etiqueta.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A warm reddish-amber drink in a clear glass mug on a rustic wooden kitchen counter, next to a small bowl of plain yogurt, a few dried prunes and a sprig of fresh mint, soft late afternoon light in a Peruvian home kitchen, shallow depth of field, natural and minimal, no packaging, no sachets, no text, no logos, no faces",
+    "alt": "Bebida de color ámbar en taza de vidrio junto a un pocillo de yogur natural y guindones en una cocina peruana"
+  },
+  "blocks": [
+    { "type": "p", "text": "Imagina que en el almuerzo de la oficina, entre el menú del día y el refresco de maracuyá, una compañera comenta que tiene la barriga pesada. Alguien le recomienda una bebida con fibra; otra persona, un probiótico. Las dos sugerencias suenan parecidas, pero apuntan a cosas distintas." },
+    { "type": "p", "text": "Eso es justamente lo que ocurre con Prunex1 y Flora Liv dentro del catálogo de FuXion. En esta página tomamos **Prunex1 como eje**, porque es el producto cuya etiqueta conocemos al detalle, y explicamos en qué se diferencia de un enfoque probiótico sin inventar datos del otro producto." },
+    { "type": "h2", "text": "Prunex1 vs Flora Liv: fibra frente a probiótico" },
+    { "type": "p", "text": "La diferencia de fondo es conceptual. Una **fibra** es un componente vegetal que el cuerpo no digiere del todo; parte de ella retiene agua y parte sirve de alimento a las bacterias del intestino. Un **probiótico**, en cambio, es un microorganismo vivo. La definición de referencia, adoptada por la FAO y la OMS, habla de microorganismos vivos que, administrados en cantidades adecuadas, confieren un beneficio a la salud de quien los consume." },
+    { "type": "p", "text": "Dicho en criollo: la fibra es parte de la comida que llega al intestino; el probiótico pretende ser parte de los habitantes. Por eso compararlos como si fueran dos marcas de lo mismo lleva a confusiones." },
+    { "type": "h2", "text": "Lo que aporta Prunex1, según su etiqueta" },
+    { "type": "p", "text": "Prunex1 se define en su empaque como bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón. Cada stick de 5 g se disuelve en 180 ml de agua caliente y aporta:" },
+    { "type": "ul", "items": [
+      "**1.7 g de fibra dietaria** total por porción, a partir de inulina de achicoria, psyllium y mucílago de linaza.",
+      "**18 kcal**, 4.5 g de carbohidratos y 0 g de grasa.",
+      "**0 g de azúcares añadidos** (0.2 g de azúcares totales), endulzado con estevia y con sorbitol entre sus ingredientes.",
+      "Extractos vegetales como anís estrella, kelp, limón y guindón deshidratados."
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Un dato que no figura", "text": "La etiqueta peruana de Prunex1 no declara cuántos gramos de inulina, psyllium o mucílago hay en cada stick; solo la fibra total. Tampoco contiene probióticos declarados entre sus 16 ingredientes." },
+    { "type": "p", "text": "La inulina de achicoria es una fibra con efecto **prebiótico**: sirve de sustrato para ciertas bacterias intestinales. Si te interesa ese ángulo, lo desarrollamos en [Prunex1 como prebiótico y la microbiota](/que-es-prunex1/prebiotico-y-microbiota/). Ojo: la evidencia sobre inulina proviene de estudios con dosis propias, no del producto." },
+    { "type": "h2", "text": "Qué podemos decir de Flora Liv sin inventar" },
+    { "type": "p", "text": "Flora Liv es el producto de FuXion que se presenta como probiótico. No tenemos aquí su etiqueta verificada, así que **no indicamos sus cepas, su cantidad de microorganismos, su formato, su sabor ni su precio**. Si estás evaluándolo, esos son exactamente los datos que debes buscar en su empaque." },
+    { "type": "table", "caption": "Diferencia de enfoque entre ambos productos", "headers": ["Criterio", "Prunex1", "Flora Liv"], "rows": [
+      ["Enfoque principal", "Fibras y extractos vegetales", "Probiótico, según cómo lo presenta la marca"],
+      ["Qué aporta", "1.7 g de fibra dietaria por porción", "Microorganismos; cepas y cantidad: revisa su etiqueta"],
+      ["Componente prebiótico", "Inulina de achicoria (cantidad no declarada)", "No verificado aquí"],
+      ["Preparación", "1 stick en 180 ml de agua caliente", "Según su propio modo de empleo"],
+      ["Lo que comunica FuXion", "Adecuado tránsito intestinal y sensación de ligereza", "Consulta su ficha oficial"],
+      ["Precio", "S/ 76.00 por 28 sticks (S/ 2.71 por stick)", "Consulta la tienda oficial"]
+    ] },
+    { "type": "p", "text": "Un detalle práctico que vale para cualquier probiótico: como contiene organismos vivos, sus condiciones de conservación y de preparación pueden ser distintas de las de una bebida de fibra. No asumas que se prepara igual que Prunex1; sigue lo que indique su etiqueta." },
+    { "type": "cta", "text": "Si lo que buscas es una bebida con fibras de sabor guindón, mira aquí el precio y las presentaciones de Prunex1." },
+    { "type": "h2", "text": "¿Compiten o pueden convivir?" },
+    { "type": "p", "text": "En nutrición se usa el término **simbiótico** para describir la combinación de un prebiótico y un probiótico. La idea general tiene lógica: la fibra puede servir de alimento a las bacterias. Pero que un concepto sea razonable no significa que una combinación concreta de productos tenga respaldo propio." },
+    { "type": "p", "text": "No conocemos un estudio que evalúe juntos Prunex1 y Flora Liv, ni una indicación oficial que los combine. Si estás pensando en tomar ambos, lo prudente es consultarlo con tu médico o nutricionista, sobre todo si tienes una condición digestiva. Para la comparación general entre fibra y alimentos fermentados como el yogur o el kéfir, revisa [Prunex1 frente a los probióticos](/comparativas-prunex1/vs-probioticos/)." },
+    { "type": "h2", "text": "Cómo orientarte según lo que buscas" },
+    { "type": "p", "text": "Sin reemplazar la opinión de un profesional, este razonamiento te ayuda a ordenar ideas:" },
+    { "type": "ul", "items": [
+      "**Si tu dieta tiene poca fibra** (mucho pan blanco, arroz y poca fruta o menestra), el enfoque de Prunex1 tiene más sentido, ya que suma fibra de forma práctica. Recuerda que 1.7 g es un complemento: no reemplaza frutas, verduras ni legumbres.",
+      "**Si te interesa específicamente un probiótico**, por recomendación profesional, Prunex1 no lo es: no declara microorganismos en su fórmula.",
+      "**Si tienes síndrome de intestino irritable**, ten en cuenta que la inulina y el sorbitol pueden empeorar síntomas en algunas personas; lo explicamos en [Prunex1 y colon irritable](/opiniones-prunex1/colon-irritable/).",
+      "**Si buscas una bebida caliente** para la tarde de invierno húmedo limeño, el formato de Prunex1 encaja bien en esa rutina."
+    ] },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca sobre Prunex1", "text": "FuXion lo presenta como un apoyo para un adecuado tránsito intestinal, para sentirte más liviano sin las molestias de la hinchazón y para liberarte de desechos perjudiciales. Son afirmaciones del fabricante, no promesas de resultado." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar primero", "text": "Prunex1 es un alimento, no un medicamento: no trata ni previene enfermedades. La ficha oficial indica que no es apto para embarazadas, madres en lactancia ni personas con tránsito normal. Acude al médico ante dolor intenso, sangre en las heces, pérdida de peso inexplicada, cambios bruscos del hábito intestinal, si tomas medicación o si tienes las defensas bajas." },
+    { "type": "p", "text": "Para ver a Prunex1 frente a otras alternativas de fibra con los mismos criterios, entra a la [guía de comparativas de Prunex1](/comparativas-prunex1/). Y si ya decidiste, puedes [comprar Prunex1 en el canal oficial](/comprar-prunex1/) del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Prunex1 contiene probióticos?", "a": "No. Su lista de 16 ingredientes no incluye microorganismos declarados. Lo que sí lleva es inulina de achicoria, una fibra con efecto prebiótico, aunque la etiqueta no indica su cantidad por stick." },
+    { "q": "¿Flora Liv aporta fibra como Prunex1?", "a": "No lo podemos confirmar, porque no hemos verificado su etiqueta. Si te interesa saberlo, revisa en su empaque si declara fibra dietaria en la tabla nutricional y qué ingredientes la aportan." },
+    { "q": "¿Es mejor una fibra o un probiótico?", "a": "Depende de lo que necesites y de tu situación; no hay un ganador universal. La fibra suele ser deficiente en muchas dietas y se puede cubrir en gran parte con alimentos. Un probiótico concreto tiene sentido cuando un profesional lo indica para un objetivo específico." },
+    { "q": "¿Puedo tomar Prunex1 si ya consumo yogur o kéfir?", "a": "En general no hay incompatibilidad conocida entre una bebida con fibra y los alimentos fermentados. Aun así, si tienes alguna condición digestiva o tomas medicamentos, conviene consultarlo antes con tu médico." }
+  ],
+  "sources": [
+    { "label": "OMS – Organización Mundial de la Salud", "url": "https://www.who.int/" },
+    { "label": "NCCIH – Probiotics: What You Need To Know", "url": "https://www.nccih.nih.gov/health/probiotics-what-you-need-to-know" },
+    { "label": "EFSA – Autoridad Europea de Seguridad Alimentaria", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/comparativas-prunex1/vs-probioticos/", "/que-es-prunex1/prebiotico-y-microbiota/", "/ingredientes-prunex1/inulina-de-achicoria/", "/opiniones-prunex1/colon-irritable/"]
+}

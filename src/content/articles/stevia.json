@@ -1,0 +1,69 @@
+{
+  "slug": "stevia",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/stevia/",
+  "isPillar": false,
+  "primaryKeyword": "stevia en Prunex1",
+  "title": "Stevia en Prunex1: cómo endulza sin sumar azúcares añadidos",
+  "seoTitle": "Stevia en Prunex1: dulzor sin calorías y 0 g de azúcar",
+  "metaDescription": "Stevia en Prunex1: qué son los glicósidos de esteviol, por qué la bebida marca 0 g de azúcares añadidos, qué dicen las agencias y cómo influye en el sabor.",
+  "excerpt": "Prunex1 sabe dulce, pero su etiqueta marca 0 g de azúcares añadidos. La explicación está en la stevia y en cómo se combina con el resto de la fórmula.",
+  "quickAnswer": "La stevia en Prunex1 aparece como glicósidos de esteviol de estevia, un edulcorante de origen vegetal que endulza cientos de veces más que el azúcar y prácticamente no aporta calorías. Junto con el sorbitol explica por qué la bebida sabe dulce y aun así declara 0 g de azúcares añadidos y solo 0.2 g de azúcares totales.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A white ceramic cup of steaming reddish-amber drink on a wooden breakfast table next to a small potted stevia plant with fresh green leaves and a few dried prunes on a linen napkin, soft morning light through a window in a Lima apartment, calm and minimal, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza humeante de bebida ámbar junto a una planta de stevia y guindones sobre una mesa de desayuno"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas limeñas el café con leche del desayuno todavía lleva sus dos cucharaditas de azúcar rubia, y el emoliente de la esquina viene bien dulce por defecto. Por eso sorprende probar una taza de Prunex1, notar que es dulce y luego leer en la etiqueta **0 g de azúcares añadidos**. No hay truco: hay stevia, y un poco de química de etiquetas que vale la pena entender." },
+    { "type": "p", "text": "En este artículo nos enfocamos en ese ingrediente: qué es exactamente, por qué no cuenta como azúcar, qué tan seguro es y cómo se nota en el sabor. Para ver el resto de la fórmula, revisa la [lista completa de ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "¿Qué es la stevia en Prunex1?" },
+    { "type": "p", "text": "La etiqueta la declara como **Edulcorante (glicósidos de esteviol de estevia)**, en el puesto 13 de 16 ingredientes. No se trata de hoja seca molida, sino de un extracto purificado de la planta *Stevia rebaudiana*, un arbusto originario de la zona fronteriza entre Paraguay y Brasil, donde los guaraníes la usaban desde hace siglos para endulzar el mate." },
+    { "type": "p", "text": "Las hojas contienen compuestos llamados **glicósidos de esteviol**, como el esteviósido y el rebaudiósido A. Son responsables del dulzor y resultan unas 200 a 300 veces más dulces que el azúcar de mesa. Por eso basta una cantidad mínima para endulzar una taza entera, y por eso aparece tan al final de la lista." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice la etiqueta", "text": "Edulcorante: glicósidos de esteviol de estevia. Por porción (1 stick de 5 g en 180 ml de agua caliente): 0.2 g de azúcares totales y 0 g de azúcares añadidos. La cantidad de stevia por stick no está declarada." },
+    { "type": "p", "text": "En otros países lo verás como **E960** (Unión Europea) o **INS 960** (Codex Alimentarius). Son nombres distintos para el mismo tipo de edulcorante." },
+    { "type": "h2", "text": "Por qué Prunex1 marca 0 g de azúcares añadidos" },
+    { "type": "p", "text": "En nutrición, “azúcares añadidos” son los azúcares y jarabes que se agregan durante la elaboración: sacarosa, glucosa, miel, jarabe de maíz y similares. Los glicósidos de esteviol no son azúcares desde el punto de vista químico ni nutricional, así que no entran en esa casilla." },
+    { "type": "p", "text": "Pero la stevia no trabaja sola. El dulzor de la taza resulta de varias fuentes, y cada una se declara de forma distinta:" },
+    { "type": "table", "caption": "Fuentes de dulzor en Prunex1 y cómo se reflejan en la etiqueta", "headers": ["Ingrediente", "Tipo", "¿Cuenta como azúcar añadido?", "Aporte de energía"], "rows": [
+      ["Glicósidos de esteviol", "Edulcorante de alta intensidad", "No", "Prácticamente nulo"],
+      ["Sorbitol", "Poliol (alcohol de azúcar)", "No", "Menor que el del azúcar"],
+      ["Guindón y limón deshidratados", "Fruta", "No; sus azúcares son naturales", "Parte de los 0.2 g de azúcares totales"],
+      ["Saborizantes (guindón, ciruela, panela)", "Aroma", "No se declaran azúcares añadidos", "Mínimo"]
+    ] },
+    { "type": "p", "text": "Así se explica que el producto lleve el sello **sin azúcares** y, a la vez, contenga 0.2 g de azúcares totales: son los que vienen de la fruta. Si quieres el análisis detallado de esos matices, lo tienes en [¿Prunex1 tiene azúcar?](/ingredientes-prunex1/tiene-azucar/), y el poliol que acompaña a la stevia tiene su propia ficha en [sorbitol en Prunex1](/ingredientes-prunex1/sorbitol/)." },
+    { "type": "h2", "text": "¿La stevia tiene calorías?" },
+    { "type": "p", "text": "Prácticamente no. Los glicósidos de esteviol no se absorben en el intestino delgado; llegan al colon, donde las bacterias los convierten en esteviol, que luego el hígado procesa y se elimina por la orina. En ese recorrido el cuerpo no obtiene energía útil de ellos." },
+    { "type": "p", "text": "Entonces, ¿de dónde salen las **18 kcal por porción** de Prunex1? Principalmente de la tapioca, de la parte fermentable de las fibras y del sorbitol, que en conjunto suman los 4.5 g de carbohidratos declarados. La stevia aporta el dulzor, no las calorías." },
+    { "type": "cta", "text": "¿Buscas una bebida con fibra que no sume azúcar a tu día? Revisa el precio actual de Prunex1 en la tienda oficial." },
+    { "type": "h2", "text": "Seguridad de la stevia: qué dicen JECFA, EFSA y la FDA" },
+    { "type": "p", "text": "Los glicósidos de esteviol están entre los edulcorantes más revisados de los últimos años. El comité mixto FAO/OMS de expertos en aditivos (JECFA) y la EFSA establecieron una **ingesta diaria admisible de 4 mg por kg de peso corporal**, expresada como equivalentes de esteviol. Para que te hagas una idea, una persona de 60 kg tendría un margen diario de 240 mg de equivalentes de esteviol, una cantidad muy superior a la que se usa para endulzar una taza." },
+    { "type": "p", "text": "En Estados Unidos, la FDA no ha objetado el uso de glicósidos de esteviol de alta pureza como ingrediente reconocido como seguro. En cambio, la hoja entera y los extractos crudos no tienen esa misma aprobación como aditivo, una distinción que conviene conocer cuando ves “stevia” en productos muy distintos." },
+    { "type": "callout", "variant": "aviso", "title": "Si tienes diabetes u otras condiciones", "text": "La stevia por sí sola no eleva la glucosa como el azúcar, pero una porción de Prunex1 contiene 4.5 g de carbohidratos y sorbitol. Si tienes diabetes, toma medicación o sigues un plan de alimentación indicado, consulta a tu médico; amplía el tema en [Prunex1 para diabéticos](/opiniones-prunex1/diabeticos/). Además, la stevia y la achicoria pertenecen a la familia de las asteráceas: si tienes alergia conocida a plantas de esa familia, coméntalo con tu alergólogo." },
+    { "type": "h2", "text": "Cómo se nota la stevia en el sabor" },
+    { "type": "p", "text": "La stevia tiene un perfil particular: su dulzor tarda un instante en aparecer y se queda un poco más en la boca que el del azúcar. En concentraciones altas puede dejar un fondo ligeramente amargo o con notas a regaliz, algo que muchas personas detectan en gaseosas o yogures “cero”." },
+    { "type": "p", "text": "En Prunex1 ese rasgo queda bastante integrado por tres razones:" },
+    { "type": "ul", "items": [
+      "**El sorbitol redondea el dulzor** y suaviza el final que a veces deja la stevia sola.",
+      "**El anís estrella** tiene un aroma anisado que se lleva bien con ese toque a regaliz, en lugar de chocar con él.",
+      "**Los saborizantes de guindón, ciruela y panela** y el limón deshidratado aportan cuerpo frutal, así que el dulzor no se percibe aislado."
+    ] },
+    { "type": "p", "text": "La temperatura también influye: las bebidas tibias suelen percibirse algo más dulces que las frías. Por eso la misma taza puede parecerte distinta si la tomas recién preparada o si la dejas enfriar mientras contestas un correo en la oficina. Más detalles sobre el perfil sensorial en [sabor y textura de Prunex1](/que-es-prunex1/sabor-y-textura/)." },
+    { "type": "h3", "text": "¿Y si te parece muy dulce o poco dulce?" },
+    { "type": "p", "text": "Lo recomendable es respetar la preparación de la etiqueta: 1 stick en 180 ml de agua caliente. Agregar azúcar, miel o chancaca anularía justamente la ventaja de no sumar azúcares añadidos. Si el dulzor te resulta intenso, unas gotas de limón fresco equilibran el sabor sin cambiar la fórmula, aunque es un ajuste personal y no una indicación del fabricante." },
+    { "type": "p", "text": "Cuando quieras probarlo, puedes revisar presentaciones y precio en la página para [comprar Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿La stevia de Prunex1 es lo mismo que la sucralosa?", "a": "No. La sucralosa es un edulcorante obtenido por modificación química del azúcar, mientras que los glicósidos de esteviol se extraen de una planta. Prunex1 declara solo estevia como edulcorante, además del sorbitol." },
+    { "q": "¿Por qué la etiqueta dice “estevia” y no “stevia”?", "a": "Es la forma castellanizada del nombre. Stevia, estevia y glicósidos de esteviol se refieren al mismo edulcorante; la etiqueta peruana usa la grafía en español." },
+    { "q": "¿La stevia afecta la microbiota intestinal?", "a": "Las bacterias del colon participan en su metabolismo, y hay estudios explorando posibles efectos, pero la evidencia en personas todavía es limitada y no concluyente. Con la información actual no se puede afirmar un efecto positivo ni negativo a las dosis habituales." },
+    { "q": "¿Puedo endulzar más la bebida con mi propia stevia?", "a": "Técnicamente sí, pero no hace falta: la fórmula ya viene endulzada. Si lo haces, usa poca cantidad, porque el exceso de stevia acentúa su fondo amargo." }
+  ],
+  "sources": [
+    { "label": "EFSA – Opinión científica sobre la seguridad de los glicósidos de esteviol", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FDA – Aspartame and Other Sweeteners in Food", "url": "https://www.fda.gov/food/food-additives-petitions/aspartame-and-other-sweeteners-food" },
+    { "label": "JECFA – Comité mixto FAO/OMS de expertos en aditivos alimentarios", "url": "https://www.who.int/" },
+    { "label": "FuXion – sitio oficial", "url": "https://fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/tiene-azucar/", "/ingredientes-prunex1/sorbitol/", "/ingredientes-prunex1/calorias/", "/ingredientes-prunex1/limon-y-saborizantes/"]
+}

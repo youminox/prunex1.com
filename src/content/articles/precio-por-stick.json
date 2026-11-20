@@ -1,0 +1,95 @@
+{
+  "slug": "precio-por-stick",
+  "pillar": "precio-prunex1-peru",
+  "path": "/precio-prunex1-peru/precio-por-stick/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 precio por stick",
+  "title": "Prunex1 precio por stick: cuánto cuesta cada taza en Perú",
+  "seoTitle": "Prunex1 precio por stick: S/ 2.71 por taza en Perú",
+  "metaDescription": "Prunex1 precio por stick: S/ 2.71 en el doypack de 28 y S/ 3.00 en el de 7. Mira el cálculo, el ahorro real y cómo se compara con un café en Lima.",
+  "excerpt": "Cada stick de Prunex1 cuesta S/ 2.71 en el doypack de 28 y S/ 3.00 en el de 7. Aquí está el cálculo y una comparación honesta con lo que gastas en una cafetería limeña.",
+  "quickAnswer": "El Prunex1 precio por stick es de S/ 2.71 si compras el doypack de 28 sticks a S/ 76.00 (precio de catálogo) y de S/ 3.00 si eliges el doypack de 7 sticks a S/ 21.00. Como cada stick es una porción para una taza de 180 ml, ese es también el costo de cada preparación.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A steaming ceramic mug of reddish-amber infusion beside a small espresso cup on a light oak table by a window, soft overcast Lima morning light, a few dried prunes and a star anise pod on a linen napkin, calm minimal kitchen style, shallow depth of field. NO packaging, NO sachets, NO text, NO logos, NO coins, NO visible faces.",
+    "alt": "Taza de bebida color ámbar rojizo junto a una pequeña taza de café sobre una mesa de madera clara"
+  },
+  "blocks": [
+    { "type": "p", "text": "En Lima solemos sacar cuentas por unidad: cuánto sale el menú del día, cuánto el pasaje de la combi, cuánto el cafecito de media mañana. Con Prunex1 pasa lo mismo. El precio de la bolsa importa, pero la pregunta útil es otra: **cuánto me cuesta cada taza que preparo**." },
+    { "type": "p", "text": "En esta guía hacemos ese cálculo con el precio de catálogo vigente, vemos cuánto cambia según la presentación y lo ponemos al lado de gastos cotidianos que todos conocemos. Sin adornos y sin cifras que no estén respaldadas por la ficha del producto." },
+    { "type": "h2", "text": "Cómo se calcula el Prunex1 precio por stick" },
+    { "type": "p", "text": "La cuenta es una simple división: precio del empaque entre número de sticks. El doypack principal trae **28 sticks de 5 g (140 g)** y cuesta **S/ 76.00**, así que cada stick sale a **S/ 2.71**. El doypack pequeño trae 7 sticks de 5 g (35 g) por **S/ 21.00**, lo que da exactamente **S/ 3.00 por stick**." },
+    {
+      "type": "table",
+      "caption": "Precio de catálogo de Prunex1 por presentación y por stick",
+      "headers": ["Presentación", "Precio de catálogo", "Sticks", "Precio por stick", "Puntos FuXion"],
+      "rows": [
+        ["Doypack 28 sticks x 5 g (140 g)", "S/ 76.00", "28", "S/ 2.71", "10"],
+        ["Doypack 7 sticks x 5 g (35 g)", "S/ 21.00", "7", "S/ 3.00", "2"],
+        ["Caja 7 sticks x 5 g (agotada)", "S/ 21.00", "7", "S/ 3.00", "2"]
+      ]
+    },
+    { "type": "callout", "variant": "etiqueta", "title": "Un stick es una porción completa", "text": "Según el modo de empleo de la etiqueta, cada stick (5 g) se disuelve en una taza de 180 ml de agua caliente y se consume en su totalidad. Por eso el precio por stick equivale al precio por taza. Ojo: el empaque también indica que los sticks no están etiquetados para su venta individual; el precio por stick es un cálculo, no una forma de compra." },
+    { "type": "h2", "text": "¿Cuánto ahorras con el doypack de 28 frente al de 7?" },
+    { "type": "p", "text": "La diferencia por unidad es de **S/ 0.29 por stick**. Parece poco, pero se nota cuando juntas el mismo número de sticks: cuatro doypacks de 7 suman S/ 84.00, mientras que un doypack de 28 cuesta S/ 76.00. Son **S/ 8.00 de diferencia**, casi un 10 % menos por el formato grande." },
+    { "type": "p", "text": "También cambian los puntos del programa FuXion: el doypack de 28 suma 10 puntos y cuatro de 7 sumarían 8. Recuerda que los puntos no son un descuento directo en tu boleta; tienen sentido dentro del programa de la marca." },
+    { "type": "p", "text": "Ahora bien, el formato más barato por unidad no siempre es la mejor compra. Si nunca has probado el producto, pagar S/ 21.00 para conocer el sabor y la textura puede ser más sensato que desembolsar S/ 76.00 de golpe. Lo explicamos con detalle en la página del [doypack de 7 sticks y su precio](/precio-prunex1-peru/doypack-7-sticks-precio/)." },
+    { "type": "ul", "items": [
+      "**Te conviene el de 28** si ya conoces el producto, te gusta y quieres el menor costo por taza.",
+      "**Te conviene el de 7** si es tu primera compra, si quieres un empaque más pequeño para la cartera o la mochila, o si prefieres un gasto inicial menor.",
+      "**En ambos casos** el contenido de cada stick es el mismo: 5 g de la misma fórmula."
+    ] },
+    { "type": "cta", "text": "Revisa el precio actualizado y las presentaciones disponibles antes de decidir." },
+    { "type": "h2", "text": "Prunex1 por stick frente a un café o una infusión en Lima" },
+    { "type": "p", "text": "Comparar una bebida con fibra con un café no es comparar productos equivalentes: cumplen funciones distintas. Pero sirve como termómetro de gasto, porque muchos limeños pagan a diario una bebida caliente en la calle o en una cafetería sin pensarlo dos veces." },
+    {
+      "type": "table",
+      "caption": "Referencias orientativas de gasto por bebida en Lima (los precios de terceros varían según local y distrito)",
+      "headers": ["Bebida", "Costo aproximado por unidad", "Comentario"],
+      "rows": [
+        ["Taza de Prunex1 (doypack de 28)", "S/ 2.71", "Precio de catálogo dividido entre 28"],
+        ["Taza de Prunex1 (doypack de 7)", "S/ 3.00", "Precio de catálogo dividido entre 7"],
+        ["Emoliente de carretilla", "Aprox. S/ 1.50 a S/ 3.00", "Suele costar lo mismo o menos"],
+        ["Infusión en cafetería (manzanilla, anís, hierba luisa)", "Aprox. S/ 6 a S/ 10", "Depende mucho del local"],
+        ["Café americano en cadena (Miraflores, San Isidro)", "Aprox. S/ 9 a S/ 14", "Varía por tamaño y marca"]
+      ]
+    },
+    { "type": "p", "text": "La lectura honesta es esta: una taza de Prunex1 cuesta bastante menos que un café de cadena o una infusión servida en una cafetería de San Isidro, pero no es más barata que un emoliente de esquina en una mañana de garúa. Ni es un reemplazo del café ni pretende serlo; simplemente te da una idea de en qué rango de gasto se ubica." },
+    { "type": "h2", "text": "Qué obtienes realmente por S/ 2.71" },
+    { "type": "p", "text": "Más allá del precio, conviene saber qué hay dentro de cada stick según la etiqueta peruana, para valorar si el costo tiene sentido para ti:" },
+    { "type": "ul", "items": [
+      "**1.7 g de fibra dietaria** por porción, de una mezcla que incluye psyllium, inulina de achicoria y mucílago de linaza (la etiqueta no declara cuánto aporta cada una).",
+      "**18 kcal** por taza de 180 ml.",
+      "**0 g de azúcares añadidos**, con 0.2 g de azúcares totales; el dulzor viene de sorbitol y estevia.",
+      "Sabor guindón con anís estrella y limón, en un formato de stick que no necesitas medir."
+    ] },
+    { "type": "p", "text": "Si haces la cuenta por gramo de fibra declarada, cada gramo te sale a unos S/ 1.59. Un plato de menestras o una fruta del mercado aportan fibra a menor costo, y Prunex1 no reemplaza una alimentación variada. Lo que pagas es practicidad, sabor y una fórmula lista para preparar. Si quieres el análisis completo de costo-beneficio, revisa [si Prunex1 vale la pena](/precio-prunex1-peru/vale-la-pena/), y para ver la tabla completa, la [información nutricional de Prunex1](/ingredientes-prunex1/tabla-nutricional/)." },
+    { "type": "callout", "variant": "aviso", "title": "Un alimento, no un medicamento", "text": "Prunex1 es una bebida instantánea en polvo a base de fibras y extractos vegetales. No trata ni previene enfermedades. Si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación o un cambio brusco en tu hábito intestinal, consulta primero con un médico. Según la ficha oficial de FuXion, no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." },
+    { "type": "h2", "text": "Errores frecuentes al sacar el costo por stick" },
+    { "type": "ul", "items": [
+      "**Olvidar el envío.** El precio de catálogo no incluye la entrega; el costo de envío se calcula en el checkout según tu dirección.",
+      "**Confundir puntos con descuento.** Los 10 o 2 puntos no rebajan el precio de la compra como cliente.",
+      "**Buscar sticks sueltos más baratos.** Los sticks no están etiquetados para venta individual; si alguien los vende de a uno, no sabes cómo se almacenaron.",
+      "**Usar precios viejos.** El precio de catálogo puede actualizarse; confírmalo siempre en la tienda antes de pagar."
+    ] },
+    { "type": "p", "text": "Si quieres proyectar cuánto representaría en tu presupuesto según distintas frecuencias de uso, tenemos ejemplos de cálculo en la guía de [cuánto gastar al mes en Prunex1](/precio-prunex1-peru/presupuesto-mensual/)." },
+    { "type": "h2", "text": "Dónde confirmar el precio actualizado" },
+    { "type": "p", "text": "El resumen completo de precios, presentaciones y envío está en la guía de [precio de Prunex1 en Perú](/precio-prunex1-peru/). Cuando quieras comprar, en la página para [comprar Prunex1 en la tienda oficial](/comprar-prunex1/) verás las presentaciones disponibles, o puedes ir directo a la tienda online del distribuidor: https://carlos-lingan.site.fuxion.com/prunex1/." }
+  ],
+  "faqs": [
+    { "q": "¿El precio por stick incluye el costo de envío?", "a": "No. Los S/ 2.71 y S/ 3.00 por stick salen de dividir el precio de catálogo entre el número de sticks. El envío se calcula aparte en el checkout, según tu dirección de entrega." },
+    { "q": "¿Puedo comprar un solo stick de Prunex1?", "a": "No es una forma de venta prevista. El empaque indica que los sticks no están etiquetados para su venta individual, así que lo recomendable es comprar el doypack cerrado de 7 o de 28 sticks." },
+    { "q": "¿Los sticks del doypack de 7 son más pequeños que los del de 28?", "a": "No. En ambas presentaciones cada stick pesa 5 g y contiene la misma fórmula. Lo único que cambia es la cantidad de sticks por empaque y, por tanto, el precio por unidad." },
+    { "q": "¿Por qué el precio por stick podría ser distinto al que veo en otra web?", "a": "Porque el precio de catálogo puede actualizarse y algunos revendedores fijan precios propios. La referencia confiable es la tienda oficial al momento de pagar." }
+  ],
+  "sources": [
+    { "label": "Tienda online FuXion del distribuidor (Prunex1)", "url": "https://carlos-lingan.site.fuxion.com/prunex1/" },
+    { "label": "FuXion - sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": [
+    "/precio-prunex1-peru/",
+    "/precio-prunex1-peru/doypack-7-sticks-precio/",
+    "/precio-prunex1-peru/presupuesto-mensual/",
+    "/precio-prunex1-peru/vale-la-pena/"
+  ]
+}

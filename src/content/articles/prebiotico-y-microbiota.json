@@ -1,0 +1,71 @@
+{
+  "slug": "prebiotico-y-microbiota",
+  "pillar": "que-es-prunex1",
+  "path": "/que-es-prunex1/prebiotico-y-microbiota/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 prebiótico",
+  "title": "Prunex1 prebiótico: inulina de achicoria y tu microbiota",
+  "seoTitle": "Prunex1 prebiótico: qué aporta a tu microbiota",
+  "metaDescription": "Prunex1 prebiótico: qué es la microbiota, por qué la inulina de achicoria es fibra prebiótica, qué dice la EFSA y qué no declara la etiqueta peruana.",
+  "excerpt": "La inulina de achicoria es el segundo ingrediente de Prunex1 y una fibra prebiótica conocida. Te contamos qué significa eso para tu microbiota y dónde están los límites.",
+  "quickAnswer": "Prunex1 prebiótico: la bebida contiene inulina de achicoria, una fibra que sirve de alimento a bacterias beneficiosas del intestino. La EFSA reconoce un efecto sobre la regularidad con 12 g diarios de inulina nativa de achicoria, pero la etiqueta peruana no declara cuánta inulina trae cada stick; solo indica 1.7 g de fibra total por porción.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A ceramic cup of warm reddish-amber drink on a rustic wooden table next to a small glass vase with pale blue chicory flowers, a sliced yacon root, a few dried prunes and a ripe banana, soft afternoon light filtering through linen curtains in a quiet Lima home, natural muted colors, no packaging, no sachets, no text, no logos, no people",
+    "alt": "Taza con bebida rojiza ámbar junto a flores de achicoria, yacón en rodajas, guindones y plátano sobre mesa de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "Hace unos años, hablar de bacterias en el intestino sonaba a infección. Hoy la palabra *microbiota* aparece en envases de yogur, en conversaciones de sobremesa y en consultas de nutrición en Lima. Con ella llegó otra palabra que genera confusión: *prebiótico*, que muchos confunden con *probiótico*." },
+    { "type": "p", "text": "Si miras la lista de ingredientes de Prunex1, verás en segundo lugar la **achicoria en polvo (inulina de achicoria)**, una de las fibras prebióticas más estudiadas. En este artículo explicamos qué significa que Prunex1 tenga un ingrediente prebiótico, qué respalda la evidencia y qué no podemos afirmar porque la etiqueta no lo declara." },
+    { "type": "h2", "text": "Qué es la microbiota intestinal, en pocas palabras" },
+    { "type": "p", "text": "La microbiota intestinal es el conjunto de microorganismos, sobre todo bacterias, que viven en tu tubo digestivo, con mayor densidad en el colon. No son intrusos: participan en la fermentación de restos de alimentos que no digerimos, en la producción de algunos compuestos útiles para el organismo y en la interacción con el sistema inmunitario." },
+    { "type": "p", "text": "Su composición cambia de persona a persona y se ve influida por la dieta, los antibióticos, la edad, el estrés y el sueño. Una alimentación variada en plantas suele asociarse con una microbiota más diversa, aunque la ciencia todavía está definiendo qué es exactamente una microbiota \"saludable\"." },
+    { "type": "h2", "text": "Por qué la inulina de Prunex1 se considera prebiótica" },
+    { "type": "p", "text": "Un prebiótico, según el consenso de la Asociación Científica Internacional de Probióticos y Prebióticos (ISAPP), es un sustrato que los microorganismos del huésped utilizan de forma selectiva y que aporta un beneficio para la salud. Traducido: no es una bacteria, sino **comida para ciertas bacterias** que ya viven en ti." },
+    { "type": "p", "text": "La inulina de achicoria cumple ese perfil. Es una fibra soluble formada por cadenas de fructosa que el intestino delgado no digiere; llega intacta al colon, donde la fermentan bacterias como las bifidobacterias. De esa fermentación salen ácidos grasos de cadena corta y también gases, algo que conviene tener presente. Si te interesa la parte técnica (estructura, origen, grado de polimerización), la desarrollamos en la ficha de [inulina de achicoria en Prunex1](/ingredientes-prunex1/inulina-de-achicoria/)." },
+    { "type": "table", "caption": "Prebiótico y probiótico: no son lo mismo", "headers": ["", "Prebiótico", "Probiótico"], "rows": [
+      ["Qué es", "Un sustrato, generalmente fibra", "Microorganismos vivos"],
+      ["Ejemplo", "Inulina de achicoria, presente en Prunex1", "Bacterias de algunos yogures y kéfir"],
+      ["Cómo actúa", "Alimenta a bacterias que ya tienes", "Aporta bacterias desde fuera"],
+      ["En Prunex1", "Sí: inulina como segundo ingrediente", "No: la etiqueta no declara cultivos vivos"]
+    ] },
+    { "type": "p", "text": "Ambos conceptos pueden complementarse en una dieta. Si quieres profundizar en esa diferencia, revisa la comparativa [Prunex1 frente a los probióticos](/comparativas-prunex1/vs-probioticos/)." },
+    { "type": "h2", "text": "Qué dice la evidencia: la EFSA y los 12 g diarios" },
+    { "type": "p", "text": "La Autoridad Europea de Seguridad Alimentaria (EFSA) evaluó en 2015 la inulina nativa de achicoria y concluyó que existe una relación de causa y efecto entre su consumo y el mantenimiento de una defecación normal, por un aumento de la frecuencia de las deposiciones. La condición es clave: el efecto se observó con **12 g diarios de inulina nativa de achicoria** en adultos." },
+    { "type": "p", "text": "Esa es evidencia del ingrediente, estudiado en una cantidad concreta, no del producto terminado. Nadie ha publicado un ensayo con Prunex1 que permita trasladar automáticamente esa conclusión a una taza de la bebida." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que declara (y no declara) la etiqueta peruana", "text": "La tabla nutricional indica 1.7 g de fibra dietaria por porción (1 stick de 5 g en 180 ml de agua caliente). Esa cifra suma todas las fibras de la mezcla: inulina, psyllium, mucílago de linaza y las de otros componentes. La cantidad de inulina por stick no está declarada." },
+    { "type": "p", "text": "Hay una conclusión que sí se puede sacar con lógica: si la fibra total por porción es 1.7 g, la inulina que aporta un stick es necesariamente menor que esa cifra. Por tanto, **una porción de Prunex1 no se acerca a la cantidad diaria usada por la EFSA**. Eso no anula el papel de la inulina en la mezcla, pero sí impide decir que una taza reproduce el efecto descrito en esa evaluación." },
+    { "type": "cta", "text": "Si quieres incorporar una bebida con fibra prebiótica a tu rutina, consulta el precio vigente y compra en el canal oficial." },
+    { "type": "h2", "text": "Cómo encaja Prunex1 en una dieta que cuide la microbiota" },
+    { "type": "p", "text": "La forma más sólida de alimentar tu microbiota es variar las fuentes vegetales a lo largo de la semana. En Perú la despensa ayuda: cebolla y ajo en el aderezo, espárragos, plátano no muy maduro, menestras como lentejas o frejoles, avena en el desayuno y el yacón que se consigue en muchos mercados, conocido por sus fructooligosacáridos." },
+    { "type": "ul", "items": [
+      "**Prunex1 es un complemento**, no la base: aporta una fracción de la fibra diaria que suelen recomendar las guías (alrededor de 25 a 30 g para adultos).",
+      "**La variedad cuenta más que un ingrediente aislado**: distintas fibras alimentan a distintas bacterias.",
+      "**El agua acompaña a la fibra**: sobre todo en verano limeño, cuando se suda más, conviene no olvidarla.",
+      "**La tolerancia es individual**: hay quien se adapta bien a la inulina y quien nota molestias con poco."
+    ] },
+    { "type": "p", "text": "Piensa en un día típico: café con pan con chicharrón al paso, menú del día con arroz y poco verde, y algo rápido en la noche. Una taza caliente con fibra puede sumar en un día así, pero no reemplaza la ensalada que faltó ni las menestras de la semana." },
+    { "type": "h2", "text": "Gases y sensibilidad: el otro lado del prebiótico" },
+    { "type": "p", "text": "Que la inulina se fermente es justo lo que la hace prebiótica, y también lo que puede producir gases o sensación de distensión, sobre todo al principio o en personas sensibles. No es señal de que algo ande mal, pero tampoco hay que forzarlo: si la molestia es marcada, lo razonable es suspender y consultar. Lo tratamos en detalle en [Prunex1 y los gases](/opiniones-prunex1/da-gases/)." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar antes o en lugar de tomarlo", "text": "La inulina es un FODMAP y el sorbitol, un poliol: ambos pueden empeorar los síntomas en personas con síndrome de intestino irritable. Consulta a un médico si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación, cambios bruscos del hábito intestinal o una enfermedad digestiva crónica, o si tomas medicamentos. Según la ficha oficial, no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." },
+    { "type": "p", "text": "En resumen, Prunex1 contiene una fibra prebiótica reconocida, pero la etiqueta no permite saber cuánta, y la evidencia europea se refiere a una cantidad que una porción no alcanza. Para ver el producto en conjunto, visita nuestra guía de [qué es Prunex1](/que-es-prunex1/); si decides probarlo, hazlo desde la página oficial de [compra de Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Prunex1 contiene probióticos?", "a": "No. La etiqueta no declara bacterias vivas ni cultivos. Lo que contiene es inulina de achicoria, que es un prebiótico: alimento para las bacterias que ya habitan tu intestino." },
+    { "q": "¿Cuánta inulina tiene cada stick de Prunex1?", "a": "La etiqueta peruana no lo declara. Solo informa 1.7 g de fibra dietaria total por porción, cifra que incluye todas las fibras de la mezcla, así que la inulina de un stick es inferior a ese total." },
+    { "q": "¿El calor del agua destruye la inulina?", "a": "La etiqueta indica preparar con agua caliente, y la inulina es una fibra que tolera bien las temperaturas de una bebida caliente de uso doméstico. No hace falta hervir la mezcla; basta con disolver y revolver bien." },
+    { "q": "¿Puedo obtener prebióticos solo con la comida?", "a": "Sí. Cebolla, ajo, espárragos, plátano poco maduro, menestras, avena y yacón aportan fibras fermentables. Una dieta variada en vegetales es la base; una bebida como Prunex1 solo complementa." }
+  ],
+  "sources": [
+    { "label": "EFSA – Scientific Opinion on chicory inulin and maintenance of normal defecation (2015)", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/3951" },
+    { "label": "ISAPP – International Scientific Association for Probiotics and Prebiotics", "url": "https://isappscience.org/" },
+    { "label": "NIDDK – Digestive diseases information", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": [
+    "/ingredientes-prunex1/inulina-de-achicoria/",
+    "/comparativas-prunex1/vs-probioticos/",
+    "/ingredientes-prunex1/fibra-soluble-e-insoluble/",
+    "/opiniones-prunex1/colon-irritable/"
+  ]
+}

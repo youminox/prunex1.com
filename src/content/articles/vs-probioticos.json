@@ -1,0 +1,75 @@
+{
+  "slug": "vs-probioticos",
+  "pillar": "comparativas-prunex1",
+  "path": "/comparativas-prunex1/vs-probioticos/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 vs probióticos",
+  "title": "Prunex1 vs probióticos: prebiótico y bacterias vivas",
+  "seoTitle": "Prunex1 vs probióticos: diferencias y cómo combinarlos",
+  "metaDescription": "Prunex1 vs probióticos: en qué se diferencia la inulina prebiótica de las bacterias vivas del yogur y el kéfir, y cómo pueden complementarse bien.",
+  "excerpt": "Prebiótico y probiótico se parecen en el nombre, no en lo que son. Te explicamos qué aporta la inulina de Prunex1 y qué aportan el yogur, el kéfir y los suplementos.",
+  "quickAnswer": "Prunex1 vs probióticos compara dos cosas distintas: Prunex1 es una bebida de fibras que incluye inulina de achicoria, una fibra prebiótica que sirve de alimento a bacterias que ya viven en tu intestino. Los probióticos son microorganismos vivos presentes en algunos yogures, el kéfir o ciertos suplementos. No se reemplazan entre sí; pueden complementarse.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A ceramic cup of warm reddish-amber drink next to a small glass bowl of plain yogurt and a glass jar of homemade kefir on a light wooden breakfast table, a few chicory leaves and dried prunes nearby, soft diffused morning light in a quiet Lima apartment, natural minimal style, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de bebida ámbar junto a un tazón de yogur natural y un frasco de kéfir casero en una mesa de desayuno"
+  },
+  "blocks": [
+    { "type": "p", "text": "Basta pararse frente a la sección de refrigerados de cualquier supermercado de Lima para encontrar yogures que prometen \"probióticos\", botellitas de leche fermentada y, cada vez más, kombucha artesanal. En casa, muchos además cuidan los granos de kéfir que les pasó una tía o una vecina. Con tanta oferta, es fácil confundir términos, sobre todo cuando prebiótico y probiótico se diferencian por una sola letra." },
+    { "type": "p", "text": "Esa letra cambia todo. En este artículo ubicamos a Prunex1 en el mapa: qué tiene de prebiótico, qué no tiene de probiótico y cómo encajar ambos en tu rutina sin pagar por algo que no necesitas." },
+    { "type": "h2", "text": "Prunex1 vs probióticos: la diferencia en pocas palabras" },
+    { "type": "p", "text": "Según la definición que usan la FAO y la OMS, los **probióticos** son microorganismos vivos que, consumidos en cantidades adecuadas, aportan un beneficio a la salud. Un **prebiótico**, en cambio, es un sustrato que las bacterias de tu propio organismo usan de forma selectiva, también con un beneficio para la salud. La inulina de achicoria es el ejemplo clásico de prebiótico." },
+    { "type": "p", "text": "Una imagen ayuda: si tu intestino fuera una chacra, los probióticos serían semillas que siembras y el prebiótico sería el abono que alimenta lo que ya crece ahí. Cuando ambos se formulan juntos en un mismo producto, se habla de un simbiótico. Prunex1 no es un simbiótico ni un probiótico: es una bebida de fibras con un componente prebiótico." },
+    { "type": "h2", "text": "Qué aporta Prunex1 en este tema y qué no" },
+    { "type": "p", "text": "La achicoria en polvo, fuente de inulina, es el segundo ingrediente de Prunex1, justo después de la tapioca. A su lado hay otras fibras que actúan de forma diferente, como el psyllium y el mucílago de linaza, que retienen agua, además de guindón deshidratado y anís estrella. Profundizamos en el papel de la inulina en [Prunex1 como prebiótico y la microbiota](/que-es-prunex1/prebiotico-y-microbiota/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que la etiqueta confirma y lo que no", "text": "La lista de ingredientes de Prunex1 no incluye cultivos, fermentos ni bacterias vivas. La etiqueta peruana tampoco declara cuánta inulina contiene cada stick: solo informa 1.7 g de fibra dietaria total por porción, sumando todas las fibras de la mezcla." },
+    { "type": "p", "text": "Sobre la evidencia, conviene ser preciso. La Autoridad Europea de Seguridad Alimentaria (EFSA) aceptó que la inulina nativa de achicoria contribuye a una defecación normal al aumentar la frecuencia de las deposiciones, pero con una ingesta de 12 g al día. Esa es la dosis del ingrediente en los estudios, no la de un stick. Si quieres más detalle técnico, revisa [la inulina de achicoria de la fórmula](/ingredientes-prunex1/inulina-de-achicoria/)." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion describe Prunex1 como un \"té herbal a base de mix de fibras solubles y extracto de guindón\" y comunica que ayuda a tener un adecuado tránsito intestinal, a sentirte más liviano sin las molestias de la hinchazón abdominal y a liberarte de desechos perjudiciales. En ningún caso lo presenta como un probiótico." },
+    { "type": "h2", "text": "Probióticos en tu mesa: yogur, kéfir y suplementos" },
+    { "type": "ul", "items": [
+      "**Yogur.** Se elabora fermentando la leche con bacterias lácticas. Busca en la etiqueta la mención de cultivos vivos o activos, porque algunos productos se someten a calor después de fermentar. Y revisa los octógonos: muchos yogures saborizados llevan el sello \"Alto en azúcar\".",
+      "**Kéfir.** Se obtiene con granos que contienen una comunidad de bacterias y levaduras, por lo que suele tener más variedad de microorganismos que el yogur. El kéfir casero es muy variable: no hay forma de saber cuántos microorganismos tiene cada vaso.",
+      "**Otros fermentados.** El chucrut sin pasteurizar o la kombucha contienen microorganismos, pero no todos los alimentos fermentados cumplen la definición estricta de probiótico, que exige cepas identificadas y cantidades con efecto demostrado.",
+      "**Suplementos probióticos.** Indican cepas concretas y su cantidad en unidades formadoras de colonias. Su efecto depende de la cepa y del uso; lo que se demuestra para una no vale automáticamente para otra."
+    ] },
+    { "type": "h2", "text": "Tabla: el prebiótico de Prunex1 frente a los probióticos" },
+    { "type": "table", "caption": "Diferencias generales entre Prunex1 y los probióticos", "headers": ["Aspecto", "Prunex1 (inulina y otras fibras)", "Probióticos (yogur, kéfir, suplementos)"], "rows": [
+      ["Qué es", "Fibras que no digieres; la inulina la fermentan bacterias del colon", "Microorganismos vivos"],
+      ["Papel general", "Sustrato para tus propias bacterias, más fibras que retienen agua", "Pasan por el tubo digestivo e interactúan de forma transitoria con la microbiota"],
+      ["Relación con el calor", "Se prepara con agua caliente, según su etiqueta", "El calor puede destruir las bacterias vivas"],
+      ["Conservación", "Lugar fresco y seco", "Muchos requieren refrigeración"],
+      ["Al empezar", "La inulina puede generar gases o hinchazón", "Algunas personas notan molestias leves"],
+      ["Información en etiqueta", "1.7 g de fibra total; la inulina no se cuantifica", "Algunos indican cepa y cantidad; muchos alimentos no"],
+      ["Calorías por porción", "18 kcal", "Variable; un yogur azucarado puede aportar bastante"]
+    ] },
+    { "type": "cta", "text": "Si lo que buscas es una bebida de fibras con inulina, revisa el precio actualizado de Prunex1." },
+    { "type": "h2", "text": "¿Se complementan? Cómo combinarlos con sentido" },
+    { "type": "p", "text": "Conceptualmente sí: unos aportan microorganismos y el otro, fibra que sirve de alimento a las bacterias. En la práctica, lo razonable es tomarlos por separado. Un yogur natural con fruta en el desayuno y tu taza de Prunex1 en otro momento del día es una combinación sencilla." },
+    { "type": "p", "text": "Lo que conviene evitar es mezclarlos en el mismo recipiente. Prunex1 se prepara con agua caliente, y verter esa bebida sobre un yogur o un kéfir puede dañar las bacterias vivas que buscabas. Tampoco tiene sentido disolver el stick en kéfir en lugar de agua: cambias la preparación de la etiqueta y no ganas nada." },
+    { "type": "p", "text": "Dos detalles prácticos. La inulina es fermentable y, sobre todo al inicio, puede producir gases; lo tratamos en [¿Prunex1 da gases?](/opiniones-prunex1/da-gases/). Además, Prunex1 se elabora en equipos que procesan leche, huevos y soya, algo que debe considerar quien tenga alergia a esos alimentos. Si quieres comparar Prunex1 con el probiótico del propio catálogo de FuXion, lo vemos aparte en [Prunex1 vs Flora Liv](/comparativas-prunex1/vs-flora-liv/)." },
+    { "type": "h2", "text": "Cuándo una fibra, cuándo un probiótico y cuándo el médico" },
+    { "type": "ul", "items": [
+      "**Tu alimentación tiene poca fibra:** lo primero es sumar verduras, frutas, menestras y granos enteros. Una bebida como Prunex1 puede ser un complemento práctico, no el reemplazo.",
+      "**Acabas de terminar antibióticos:** es un momento en que suele hablarse de probióticos; pregunta a tu médico qué tiene sentido en tu caso.",
+      "**Tienes el sistema inmune debilitado, un catéter o una enfermedad grave:** no tomes suplementos probióticos sin supervisión médica.",
+      "**Tienes colon irritable:** la inulina es un fructano y en algunas personas empeora los síntomas; conviene evaluarlo con un profesional.",
+      "**Tu tránsito intestinal es normal:** la ficha oficial de FuXion indica que Prunex1 no es apto para ti, ni para embarazadas o madres en lactancia."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Señales que piden consulta médica", "text": "Prunex1 es un alimento: no trata ni previene enfermedades; lo mismo aplica al yogur o al kéfir. Acude al médico si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación, cambios bruscos en tu hábito intestinal, sospecha de obstrucción, si tomas medicamentos o si convives con una enfermedad crónica." },
+    { "type": "p", "text": "En resumen: los probióticos traen bacterias y Prunex1 trae fibra, parte de ella prebiótica. Elegir uno no obliga a dejar el otro. Para ver cómo se ubica frente a otras fibras, visita la [guía de comparativas de Prunex1](/comparativas-prunex1/), y si decides probarlo, encuentras presentaciones y precio en [la página de compra de Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Prunex1 contiene probióticos?", "a": "No. Su lista de 16 ingredientes no incluye bacterias vivas ni fermentos. Lo que sí incluye es achicoria en polvo, fuente de inulina, una fibra con carácter prebiótico." },
+    { "q": "¿Puedo tomar Prunex1 el mismo día que un yogur o un kéfir?", "a": "Sí, no hay incompatibilidad conocida entre ellos. Lo recomendable es consumirlos por separado y no mezclar la bebida caliente con el yogur o el kéfir, para no afectar a sus bacterias vivas." },
+    { "q": "¿El kéfir casero es mejor que un suplemento probiótico?", "a": "Son cosas distintas. El kéfir aporta variedad de microorganismos, pero en cantidades desconocidas y cambiantes; un suplemento indica cepas y dosis concretas. Si buscas un efecto específico, consulta con tu médico cuál tiene respaldo para tu caso." },
+    { "q": "¿Los prebióticos engordan?", "a": "La inulina aporta pocas calorías porque no se digiere como un azúcar. En el caso de Prunex1, cada porción tiene 18 kcal y 0 g de azúcares añadidos, una cantidad que pesa poco en el día." }
+  ],
+  "sources": [
+    { "label": "FAO/OMS – Probióticos en los alimentos", "url": "https://www.fao.org/" },
+    { "label": "NIH Office of Dietary Supplements – Probiotics", "url": "https://ods.od.nih.gov/factsheets/Probiotics-HealthProfessional/" },
+    { "label": "NCCIH (NIH) – Probiotics: What You Need To Know", "url": "https://www.nccih.nih.gov/health/probiotics-what-you-need-to-know" },
+    { "label": "Autoridad Europea de Seguridad Alimentaria (EFSA)", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/que-es-prunex1/prebiotico-y-microbiota/", "/comparativas-prunex1/vs-inulina-pura/", "/comparativas-prunex1/vs-flora-liv/", "/ingredientes-prunex1/inulina-de-achicoria/"]
+}

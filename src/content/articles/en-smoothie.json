@@ -1,0 +1,81 @@
+{
+  "slug": "en-smoothie",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/en-smoothie/",
+  "isPillar": false,
+  "primaryKeyword": "smoothie con Prunex1",
+  "title": "Smoothie con Prunex1: receta con papaya, plátano y aguaymanto",
+  "seoTitle": "Smoothie con Prunex1: receta con frutas peruanas",
+  "metaDescription": "Smoothie con Prunex1 paso a paso con papaya, plátano y aguaymanto: cómo evitar grumos, por qué espesa en minutos y qué cambia frente a la etiqueta.",
+  "excerpt": "Una variante casera para los días de calor: Prunex1 licuado con papaya, plátano o aguaymanto y agua. Te contamos la técnica para que no quede grumoso y por qué hay que tomarlo apenas se sirve.",
+  "quickAnswer": "Un smoothie con Prunex1 es una variante casera, no oficial: disuelves el stick en un poco de agua caliente, lo licúas con papaya, plátano o aguaymanto y agua hasta completar unos 180 ml de líquido, y lo tomas de inmediato. La fibra espesa la mezcla en pocos minutos y la fruta suma azúcares y calorías que no figuran en la etiqueta.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A tall glass of thick reddish-amber fruit smoothie on a light wooden kitchen counter, surrounded by sliced orange papaya, a ripe banana and a few golden aguaymanto (physalis) berries with their papery husks, bright summer morning light in a Lima apartment, a small blender softly blurred in the background, fresh minimal style. NO packaging, NO sachets, NO text, NO logos, NO visible faces.",
+    "alt": "Vaso de smoothie rojizo ámbar junto a papaya en trozos, un plátano maduro y aguaymantos sobre un mostrador de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "Enero en Lima: el sol pega fuerte desde temprano, la garúa se fue hasta mayo y lo último que provoca a media mañana es una taza humeante. En esos meses, más de una persona que ya conoce Prunex1 se pregunta si puede llevarlo a la licuadora, como los jugos surtidos de la juguería del mercado." },
+    { "type": "p", "text": "Se puede, con matices. En esta guía te damos una receta de **smoothie con Prunex1** con frutas que encuentras en cualquier mercado peruano —papaya, plátano y aguaymanto—, la técnica para que no quede grumoso y la regla de oro de esta preparación: tomarla apenas la sirves." },
+    { "type": "h2", "text": "¿Es oficial preparar un smoothie con Prunex1?" },
+    { "type": "p", "text": "No. La etiqueta indica una sola forma de preparación y no menciona frutas ni licuadora. Todo lo que leerás aquí es una **variante casera**: útil si el calor te quita las ganas de una bebida caliente, pero con un detalle importante: la tabla nutricional del empaque describe solo la versión con agua." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice el empaque", "text": "«Disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente, y revolver bien. Una vez preparado consumir en su totalidad.» Los valores declarados —18 kcal, 4.5 g de carbohidratos, 1.7 g de fibra dietaria y 0 g de azúcares añadidos por porción— corresponden a esa preparación." },
+    { "type": "p", "text": "Si es la primera vez que lo tomas, conviene conocer antes la versión base para tener un punto de comparación. La tienes explicada paso a paso en nuestra [guía de preparación de Prunex1](/como-preparar-prunex1/)." },
+    { "type": "h2", "text": "Frutas peruanas que combinan con el guindón" },
+    { "type": "p", "text": "El sabor de Prunex1 es de guindón, con notas de anís estrella y un fondo cítrico de limón. Buscamos frutas que lo acompañen sin taparlo y que, de paso, den cuerpo sin necesidad de azúcar:" },
+    { "type": "ul", "items": [
+      "**Papaya:** suave, dulce y muy fácil de licuar. Es la base más neutra y la que mejor deja asomar el guindón.",
+      "**Plátano:** aporta cremosidad y dulzor. Uno de seda bien maduro basta; si está verde, el sabor queda harinoso.",
+      "**Aguaymanto:** la nota ácida y aromática. Unas cuantas bayas levantan la mezcla y equilibran el anís.",
+      "**Agua:** fría o al tiempo. La usamos en lugar de leche o yogur para no sumar calorías, proteína ni alérgenos a una bebida que, según su etiqueta, ya se elabora en equipos que procesan leche, huevo y soya."
+    ] },
+    { "type": "table", "caption": "Tres combinaciones para probar (cantidades orientativas para un vaso)", "headers": ["Combinación", "Fruta sugerida", "Sabor", "Textura"], "rows": [
+      ["Papaya y aguaymanto", "1 taza de papaya picada + 6 a 8 aguaymantos", "Fresco, frutal, con acidez ligera", "Media, fácil de tomar"],
+      ["Plátano y papaya", "Medio plátano + media taza de papaya", "Dulce y redondo", "Cremosa, espesa rápido"],
+      ["Aguaymanto y plátano", "Medio plátano + 8 a 10 aguaymantos", "Ácido-dulce, muy aromático", "Cremosa, con semillitas"]
+    ] },
+    { "type": "h2", "text": "Cómo hacer el smoothie con Prunex1 paso a paso" },
+    { "type": "p", "text": "El error clásico es echar el polvo directo sobre la fruta fría: el psyllium se hidrata por fuera, queda seco por dentro y aparecen bolitas gelatinosas. Por eso proponemos disolver primero el stick en un poco de agua caliente, que es lo más cercano a lo que pide la etiqueta, y recién después licuar." },
+    { "type": "steps", "items": [
+      { "name": "Prepara la fruta", "text": "Lava, pela y pica la fruta elegida. Retira el capuchón seco del aguaymanto. Tenla lista junto a la licuadora antes de abrir el stick." },
+      { "name": "Disuelve el stick", "text": "Vierte el contenido de 1 stick (5 g) en unos 60 ml de agua caliente y revuelve de inmediato con una cuchara hasta que no queden partículas." },
+      { "name": "Licúa con el resto del agua", "text": "Pon la fruta en el vaso de la licuadora, añade la mezcla disuelta y completa con agua fría hasta sumar unos 180 ml de líquido en total. Licúa de 20 a 30 segundos." },
+      { "name": "Sirve y toma de inmediato", "text": "Vierte en un vaso y tómalo enseguida, sin dejarlo reposar. Si se espesa mientras lo tomas, añade un chorrito de agua y remueve." }
+    ] },
+    { "type": "p", "text": "¿Te quedaron grumos igual? Revisa nuestros [trucos para disolver Prunex1 sin grumos](/como-preparar-prunex1/sin-grumos/); la mayoría aplica también cuando usas licuadora." },
+    { "type": "cta", "text": "¿Te animas a probarlo con fruta de estación? Revisa el precio actualizado del doypack de 28 sticks en la tienda oficial." },
+    { "type": "h2", "text": "Por qué tienes que tomarlo apenas lo sirves" },
+    { "type": "p", "text": "Esta es la parte que más sorprende. A los pocos minutos, el smoothie empieza a cambiar: primero se pone cremoso, luego denso y, si lo olvidas en el escritorio mientras contestas un correo, puede terminar con una consistencia parecida a la mazamorra." },
+    { "type": "p", "text": "La razón está en la fórmula. El psyllium, el mucílago de linaza y la goma xantán absorben agua y forman un gel; el plátano y la pulpa de la papaya suman su propio espesor. En una taza de agua caliente se nota menos porque el líquido es más ralo; en un licuado, el efecto se multiplica." },
+    { "type": "ul", "items": [
+      "No lo prepares la noche anterior para llevarlo al trabajo en un táper o una botella.",
+      "No lo dejes en la refrigeradora «para después»: el frío no detiene la gelificación.",
+      "Lava la licuadora y el vaso enseguida; el gel seco se pega a las cuchillas y cuesta sacarlo."
+    ] },
+    { "type": "p", "text": "Además, la propia etiqueta pide consumir la preparación en su totalidad una vez lista. Lo explicamos con más detalle en [por qué no conviene dejar Prunex1 preparado](/como-preparar-prunex1/dejar-preparado/)." },
+    { "type": "h2", "text": "Lo que cambia frente a la taza con agua" },
+    { "type": "p", "text": "Un smoothie con Prunex1 deja de ser una bebida de 18 kcal. La fruta aporta sus propios azúcares naturales, calorías y algo de fibra extra, en cantidades que dependen de cuánto pongas y de lo madura que esté. No es malo en sí mismo, pero conviene tenerlo claro si llevas un registro de lo que comes." },
+    { "type": "ul", "items": [
+      "**Energía:** sube según la fruta; de las tres, el plátano es el que más suma.",
+      "**Azúcares:** los del producto siguen siendo 0.2 g, pero los de la fruta se añaden al total del vaso.",
+      "**Fibra:** el stick aporta sus 1.7 g; la fruta entera licuada conserva parte de la suya, a diferencia de un jugo colado.",
+      "**Sabor:** el guindón queda en segundo plano; si lo que te gusta es justamente ese sabor, la versión con agua es más fiel."
+    ] },
+    { "type": "p", "text": "Si lo que te tienta es mezclarlo con jugo en lugar de fruta entera, el análisis cambia bastante; lo vemos en [Prunex1 con jugo de naranja y otras bebidas](/como-preparar-prunex1/con-jugo/)." },
+    { "type": "callout", "variant": "aviso", "title": "Antes de convertirlo en costumbre", "text": "Prunex1 es un alimento, no un medicamento: no trata ni previene enfermedades. Si tienes diabetes o controlas tu glucosa, ten en cuenta el azúcar de la fruta y consulta con tu médico. Busca atención profesional si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación o cambios bruscos en tu hábito intestinal. La ficha oficial de FuXion indica que no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." },
+    { "type": "p", "text": "Cuando tengas tu combinación favorita, puedes [comprar Prunex1 original](/comprar-prunex1/) en la tienda del distribuidor autorizado en Lima. Y si un día prefieres volver a lo clásico, la taza con agua caliente sigue siendo la referencia de la etiqueta." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo usar fruta congelada?", "a": "Sí, y en verano queda más refrescante. Solo ten en cuenta que el frío intenso hace que el polvo se disperse peor, así que no te saltes el paso de disolver el stick en agua caliente antes de licuar." },
+    { "q": "¿Puedo endulzarlo con azúcar o miel?", "a": "No hace falta: el producto ya lleva estevia y sorbitol, y el plátano maduro aporta dulzor de sobra. Agregar azúcar o miel suma calorías y le quita sentido a elegir una bebida con 0 g de azúcares añadidos." },
+    { "q": "¿Licuar la mezcla daña la fibra de Prunex1?", "a": "No hay motivo para pensarlo: la licuadora solo mezcla y la fibra sigue en el vaso. Lo que sí cambia es la textura, que se vuelve más densa conforme pasan los minutos." },
+    { "q": "¿Puedo añadir avena o chía al smoothie?", "a": "Puedes, pero ambas también absorben líquido y la mezcla se volverá muy espesa casi de inmediato. Si te interesa combinarlo con avena, revisa la variante específica en [Prunex1 en avena](/como-preparar-prunex1/en-avena/)." }
+  ],
+  "sources": [
+    { "label": "NIDDK – Salud digestiva", "url": "https://www.niddk.nih.gov/" },
+    { "label": "OMS – Directriz sobre la ingesta de azúcares", "url": "https://www.who.int/" },
+    { "label": "USDA FoodData Central – composición de alimentos", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/como-preparar-prunex1/con-jugo/", "/como-preparar-prunex1/en-avena/", "/como-preparar-prunex1/dejar-preparado/", "/como-preparar-prunex1/sin-grumos/"]
+}

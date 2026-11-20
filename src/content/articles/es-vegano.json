@@ -1,0 +1,91 @@
+{
+  "slug": "es-vegano",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/es-vegano/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 vegano",
+  "title": "¿Prunex1 es vegano? Revisamos la etiqueta ingrediente por ingrediente",
+  "seoTitle": "¿Prunex1 es vegano? Carmín, trazas y opciones",
+  "metaDescription": "¿Prunex1 vegano? No del todo: lleva carmín de cochinilla y posibles trazas de lácteos y huevo. Qué implica y qué opciones hay si eres vegetariano.",
+  "excerpt": "Quince de sus dieciséis ingredientes son vegetales, minerales o de fermentación, pero uno es de origen animal. Te contamos cuál es y cómo decidir según tu tipo de alimentación.",
+  "quickAnswer": "Prunex1 no es vegano en sentido estricto: su lista de 16 ingredientes incluye color natural carmín, que se obtiene de la cochinilla, un insecto. El resto de la fórmula es de origen vegetal, mineral o de fermentación, y la etiqueta advierte posibles trazas de leche, huevo y soya. Para muchos vegetarianos puede ser aceptable; para un vegano estricto, no.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A glass cup of warm reddish-amber infusion on a light oak kitchen counter surrounded by plant foods: a halved yuca root, a few dried prunes, star anise pods, flaxseeds in a small wooden spoon and a sliced lime, morning light through a window in a bright Barranco apartment, fresh green herbs in the background, minimal natural style, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de bebida rojiza rodeada de yuca, guindones, anís estrella, linaza y limón sobre una encimera de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "Quien deja los productos animales termina leyendo etiquetas por reflejo. En el supermercado de Surco o en la bodega de la esquina, la vista busca palabras como suero, caseína, gelatina o miel antes que el precio. Con una bebida de fibras parece que no habría nada que revisar, pero en Prunex1 la pregunta tiene sentido: su tono rojizo no viene solo del guindón." },
+    { "type": "p", "text": "En esta guía revisamos los 16 ingredientes de la etiqueta según su origen, explicamos qué significa la advertencia de trazas y damos criterios claros para veganos y vegetarianos. Si buscas la función de cada componente, la tienes en la [guía completa de ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "¿Prunex1 es vegano? La respuesta corta y sus matices" },
+    { "type": "p", "text": "La respuesta corta es **no, al menos no en sentido estricto**. Según la definición más extendida del veganismo, la de The Vegan Society, se excluyen los ingredientes obtenidos de animales, y eso incluye a los insectos. Prunex1 contiene **color natural carmín**, que se extrae de la cochinilla." },
+    { "type": "p", "text": "El matiz es que se trata de **un solo ingrediente**, ubicado en el puesto 14 de 16. Como la lista se ordena de mayor a menor proporción, su cantidad por stick es pequeña, aunque no está declarada. Para un vegano estricto eso no cambia la conclusión; para otras personas sí puede pesar en la decisión." },
+    { "type": "p", "text": "Además, el empaque no lleva ningún sello vegano ni vegetariano. Los sellos que sí muestra son No GMO, sin azúcares, sin gluten, bajo en sodio y Clean Label, que explicamos en [qué significan los sellos de Prunex1](/que-es-prunex1/sellos-sin-gluten-no-gmo/). Ninguno de ellos habla del origen animal de los ingredientes." },
+    { "type": "h2", "text": "Los 16 ingredientes ordenados por su origen" },
+    { "type": "p", "text": "Esta tabla sigue el orden exacto de la etiqueta. La columna de origen es una clasificación general del tipo de materia prima; la marca no publica el detalle de cada proveedor." },
+    { "type": "table", "caption": "Origen de los ingredientes de Prunex1 según la etiqueta", "headers": ["Ingrediente", "Origen", "¿Compatible con dieta vegana?"], "rows": [
+      ["Tapioca en polvo", "Vegetal (yuca)", "Sí"],
+      ["Achicoria en polvo (inulina)", "Vegetal (raíz)", "Sí"],
+      ["Psyllium (Plantago ovata)", "Vegetal (cáscara de semilla)", "Sí"],
+      ["Anís estrella en polvo", "Vegetal (fruto)", "Sí"],
+      ["Kelp", "Alga marina", "Sí"],
+      ["Limón y guindón deshidratados", "Vegetal (fruta)", "Sí"],
+      ["Mucílago de linaza", "Vegetal (semilla)", "Sí"],
+      ["Sorbitol", "Poliol de origen vegetal", "Sí, en general"],
+      ["Saborizantes (guindón, ciruela, panela)", "Sabor; la etiqueta no detalla soportes", "Probablemente, sin confirmación"],
+      ["Cáscara de arroz en polvo", "Vegetal", "Sí"],
+      ["Goma xantán", "Fermentación microbiana", "Sí, en general"],
+      ["Magnesio", "Mineral", "Sí"],
+      ["Glicósidos de esteviol", "Vegetal (estevia)", "Sí"],
+      ["Color natural carmín", "Animal (cochinilla)", "No"],
+      ["Aceite esencial de anís estrella", "Vegetal", "Sí"],
+      ["Lecitina de girasol", "Vegetal (semilla de girasol)", "Sí"]
+    ] },
+    { "type": "p", "text": "Dos detalles suelen sorprender. La **lecitina** es de girasol, no de huevo ni de soya, que son las fuentes clásicas de este emulsionante. Y la **panela** que aparece entre los saborizantes es de caña de azúcar, no tiene nada de origen animal." },
+    { "type": "h2", "text": "Prunex1 vegano: el carmín es el único ingrediente que lo impide" },
+    { "type": "p", "text": "El carmín se obtiene de las hembras de cochinilla que crecen sobre las pencas de tuna en Ayacucho, Arequipa y otras zonas andinas. Se secan, se muelen y de ellas se extrae el ácido carmínico, el pigmento rojo. En la fórmula su papel es solo estético: dar a la taza ese color rojizo ámbar que va con el sabor a guindón." },
+    { "type": "p", "text": "No aporta fibra ni influye en el efecto de la bebida, así que no hay una razón funcional que lo haga indispensable. Simplemente es la elección de color de la fórmula actual. Sobre su seguridad como aditivo y los casos raros de alergia hablamos en [el carmín de Prunex1](/ingredientes-prunex1/carmin/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice textualmente el empaque", "text": "En la lista de ingredientes figura “Color Natural Carmín”. En las advertencias se indica: “Elaborado en equipos donde se procesan leche y productos lácteos, huevos y soya”. Ni leche, ni huevo, ni soya figuran como ingredientes de la fórmula." },
+    { "type": "h2", "text": "Trazas de leche, huevo y soya: ¿cambian algo para un vegano?" },
+    { "type": "p", "text": "La advertencia de trazas no significa que Prunex1 lleve lácteos o huevo. Indica que la planta usa las mismas líneas para otros productos que sí los contienen, y que no se puede descartar un contacto cruzado mínimo." },
+    { "type": "p", "text": "Dentro del veganismo hay dos posturas frecuentes. Muchas personas aceptan productos con este tipo de aviso, porque no se compra un ingrediente animal, sino que se comparte equipo industrial. Otras prefieren evitarlos por coherencia personal. Ambas son decisiones válidas, pero en el caso de Prunex1 el carmín ya resuelve la duda antes de llegar a las trazas." },
+    { "type": "p", "text": "Distinto es el tema de las **alergias**. Si tienes alergia a la proteína de leche o al huevo, las trazas sí importan, y lo tratamos aparte en [alérgenos de Prunex1](/ingredientes-prunex1/alergenos/)." },
+    { "type": "cta", "text": "Si tu alimentación admite el carmín, revisa el precio vigente del doypack y compra con un distribuidor autorizado." },
+    { "type": "h2", "text": "¿Y si eres vegetariano? Opciones según tu caso" },
+    { "type": "p", "text": "Vegetariano no es una sola cosa. Lo que importa es qué excluyes exactamente:" },
+    { "type": "ul", "items": [
+      "**Ovolactovegetariano** (consumes lácteos y huevo): las trazas no son un problema para ti. La única pregunta es si aceptas el carmín, que proviene de insectos.",
+      "**Vegetariano que excluye insectos y sus derivados**: el carmín te deja fuera, igual que a un vegano.",
+      "**Pescetariano o flexitariano**: en principio no hay ingredientes que choquen con tu alimentación.",
+      "**Vegetariano por motivos religiosos**: algunas tradiciones tienen reglas propias sobre insectos y colorantes; conviene consultar con tu comunidad o guía."
+    ] },
+    { "type": "p", "text": "Si decides tomarlo, la compra segura es a través de la [página para comprar Prunex1 original](/comprar-prunex1/), donde verás las presentaciones disponibles y el precio de catálogo." },
+    { "type": "h2", "text": "Alternativas si sigues una alimentación vegana estricta" },
+    { "type": "p", "text": "Si el carmín es un límite para ti, la opción honesta es buscar fibra en otras fuentes. No reemplazan a Prunex1 tal cual, porque cambian el sabor, la textura y la combinación de ingredientes, pero son vegetales:" },
+    { "type": "ul", "items": [
+      "Cáscara de psyllium sola, que se vende como fibra en polvo.",
+      "Linaza molida o su gel casero.",
+      "Semillas de chía hidratadas.",
+      "Guindones enteros o remojados, como los que se consiguen en cualquier mercado limeño.",
+      "Avena, menestras, frutas con cáscara y verduras dentro del menú diario."
+    ] },
+    { "type": "p", "text": "Comparamos la primera opción con detalle en [Prunex1 frente al psyllium genérico](/comparativas-prunex1/vs-psyllium-generico/). Recuerda revisar también la etiqueta de esos productos: algunos polvos de fibra con sabor llevan colorantes o aditivos de origen animal." },
+    { "type": "callout", "variant": "aviso", "title": "Alimentación vegana y salud digestiva", "text": "Prunex1 es un alimento, no un medicamento, y no trata ni previene enfermedades. Si llevas una dieta vegana y tienes molestias digestivas persistentes, consulta con un médico o nutricionista. Acude de inmediato si notas dolor intenso, sangre en las heces, pérdida de peso sin explicación o cambios bruscos en tu hábito intestinal. La ficha oficial indica que no es apto para embarazadas ni madres en lactancia." },
+    { "type": "h2", "text": "Lo que la etiqueta no te dice" },
+    { "type": "p", "text": "Hay dos vacíos que conviene conocer. Primero, la etiqueta no detalla los soportes de los saborizantes ni el compuesto exacto del que proviene el magnesio; lo habitual en la industria es que sean de origen vegetal o mineral, pero no está confirmado por escrito. Segundo, no existe una certificación vegana o vegetariana que respalde la fórmula." },
+    { "type": "p", "text": "Si necesitas certeza absoluta, lo más seguro es asumir que Prunex1 **no** encaja en una dieta vegana. Si tu criterio es más flexible, ya tienes los datos para decidir con conocimiento." }
+  ],
+  "faqs": [
+    { "q": "¿La lecitina de Prunex1 viene del huevo o de la soya?", "a": "No. La etiqueta indica lecitina de girasol, un emulsionante vegetal. La soya aparece solo en la advertencia de trazas por los equipos compartidos, no como ingrediente." },
+    { "q": "¿Existe una versión de Prunex1 sin carmín?", "a": "En el Perú no conocemos una presentación sin carmín. Tanto el doypack de 28 sticks como el de 7 sticks comparten la misma lista de ingredientes, así que el colorante está en ambos." },
+    { "q": "¿Prunex1 es sin gluten además de no ser vegano?", "a": "Sí, el empaque lleva el sello sin gluten. Ser sin gluten y ser vegano son cosas independientes: un producto puede cumplir una condición y no la otra, como ocurre aquí." },
+    { "q": "¿El sorbitol o la goma xantán pueden tener origen animal?", "a": "En la práctica no. El sorbitol se obtiene industrialmente a partir de azúcares vegetales y la goma xantán se produce por fermentación con una bacteria. Ambos se consideran, en general, aptos para dietas veganas." }
+  ],
+  "sources": [
+    { "label": "The Vegan Society: definición de veganismo", "url": "https://www.vegansociety.com/go-vegan/definition-veganism" },
+    { "label": "EFSA: reevaluación de la cochinilla y el carmín (E120) como aditivo alimentario", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FDA: aditivos de color exentos de certificación", "url": "https://www.fda.gov/" },
+    { "label": "FuXion: ficha oficial de Prunex1", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/carmin/", "/ingredientes-prunex1/alergenos/", "/ingredientes-prunex1/goma-xantan-y-lecitina/", "/que-es-prunex1/sellos-sin-gluten-no-gmo/"]
+}

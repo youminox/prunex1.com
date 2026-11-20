@@ -1,0 +1,72 @@
+{
+  "slug": "ninos",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/ninos/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 niños",
+  "title": "Prunex1 y niños: por qué no es para ellos y qué hacer en su lugar",
+  "seoTitle": "Prunex1 niños: ¿se les puede dar? Respuesta honesta",
+  "metaDescription": "Prunex1 y niños: por qué esta bebida con fibras está pensada para adultos, por qué consultar al pediatra y cómo guardar los sticks fuera de su alcance.",
+  "excerpt": "Prunex1 no está formulado para niños. Te explicamos por qué, qué decirle al pediatra y cómo guardar los sticks para que los chicos no los tomen.",
+  "quickAnswer": "Prunex1 y niños no son una buena combinación sin indicación del pediatra: es una bebida con fibras formulada y comunicada para adultos, su etiqueta no trae una porción infantil y contiene sorbitol, psyllium y kelp. Si tu hijo tiene molestias intestinales, la consulta pediátrica va primero; y en casa, guarda los sticks fuera de su alcance.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A warm cup of reddish-amber drink placed on a high kitchen shelf next to glass jars of dried prunes and star anise, a child's colorful cup with water visible on the countertop below, soft natural light in a bright Lima kitchen, minimal style, no packaging, no sachets, no text, no logos, no faces",
+    "alt": "Taza de bebida ámbar en una repisa alta de cocina y, más abajo, un vaso infantil con agua sobre el mostrador"
+  },
+  "blocks": [
+    { "type": "p", "text": "Es domingo, hay arroz con pollo para el almuerzo y tu hijo de seis años lleva dos días sin ir al baño y quejándose de la barriga. En la alacena está el doypack de Prunex1 que tomas tú, y la idea aparece sola: \"¿y si le preparo un poquito?\". Es una reacción comprensible, pero la respuesta honesta es que no conviene hacerlo por tu cuenta." },
+    { "type": "p", "text": "En este artículo explicamos por qué Prunex1 no está pensado para niños, qué información llevar al pediatra y cómo evitar que los más pequeños lo tomen por curiosidad. Si buscas cómo prepararlo para ti, la [guía de preparación de Prunex1](/como-preparar-prunex1/) tiene el paso a paso." },
+    { "type": "h2", "text": "¿Prunex1 es apto para niños? Lo que indica el producto" },
+    { "type": "p", "text": "FuXion orienta Prunex1 a personas adultas con molestias por tránsito intestinal lento, y su etiqueta da una sola porción: un stick de 5 g en 180 ml de agua caliente. No existe una porción infantil, ni una tabla por peso o por edad, ni una indicación pediátrica en el empaque." },
+    { "type": "p", "text": "Un detalle que a veces confunde: la tabla nutricional menciona que los valores diarios se basan en una dieta de 2000 kcal \"para mayores de 4 años\". Esa frase es el estándar de referencia con el que se calculan los porcentajes en las etiquetas, no una recomendación de uso para niños de esa edad." },
+    { "type": "callout", "variant": "aviso", "title": "Regla práctica para casa", "text": "No le des Prunex1 a un menor de edad, ni siquiera en poca cantidad, sin que el pediatra lo haya indicado expresamente. Reducir la porción a ojo no lo convierte en un producto infantil." },
+    { "type": "h2", "text": "Por qué un producto para adultos no se adapta a un niño" },
+    { "type": "p", "text": "Más allá de que no haya porción infantil, varios ingredientes de la etiqueta merecen cautela en el cuerpo de un niño, que es más pequeño y reacciona distinto:" },
+    { "type": "ul", "items": [
+      "**Sorbitol**: es un poliol con efecto osmótico. En un cuerpo pequeño puede ablandar demasiado las heces o causar diarrea y cólicos.",
+      "**Psyllium, mucílago de linaza y goma xantán**: forman una bebida algo espesa que necesita buena cantidad de líquido. Un niño que bebe poca agua puede pasarla mal con fibras que gelifican.",
+      "**Inulina de achicoria**: fermenta en el intestino y puede producir gases e hinchazón.",
+      "**Kelp**: aporta yodo de forma natural, pero la cantidad no está declarada en la etiqueta peruana.",
+      "**Trazas**: se elabora en equipos que procesan leche, huevos y soya, alérgenos frecuentes en la infancia. Además lleva carmín como colorante."
+    ] },
+    { "type": "p", "text": "Para conocer la función de cada componente, revisa la lista completa de [ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "Primero el pediatra: las molestias de un niño tienen otras causas" },
+    { "type": "p", "text": "En los chicos, el estreñimiento suele relacionarse con cambios de rutina: el inicio del nido o del colegio, aguantarse las ganas por vergüenza de usar el baño ajeno, el paso del pañal al baño o una dieta con poca fruta y mucha galleta. El pediatra evalúa todo eso y, si hace falta, indica el tratamiento y la dosis adecuados para su peso y edad." },
+    { "type": "p", "text": "Ve a consulta, y no esperes, si el niño presenta alguna de estas señales:" },
+    { "type": "ul", "items": [
+      "Dolor abdominal fuerte, vientre hinchado y duro, o vómitos.",
+      "Sangre en las heces o dolor intenso al evacuar.",
+      "Fiebre, decaimiento o falta de apetito marcada.",
+      "Bajo aumento de peso o pérdida de peso.",
+      "Molestias que se repiten o que aparecieron desde los primeros meses de vida."
+    ] },
+    { "type": "cta", "text": "¿Prunex1 es para ti, un adulto? Revisa el precio de catálogo y las presentaciones disponibles en Perú." },
+    { "type": "h2", "text": "Prunex1 niños: cómo guardarlo fuera de su alcance" },
+    { "type": "p", "text": "El sabor guindón, el dulzor de la estevia y el color rojizo hacen que la bebida preparada parezca un refresco o un jugo. Para un niño, un stick suelto puede verse como un dulce en polvo. Por eso el almacenamiento importa tanto como la decisión de no dárselo." },
+    { "type": "steps", "items": [
+      { "name": "Guárdalo en alto", "text": "Coloca el doypack en una repisa alta o en un gabinete con traba, lejos de la zona donde los chicos sacan sus galletas o su lonchera." },
+      { "name": "Cierra bien el empaque", "text": "Además de cumplir con la indicación de conservar en lugar fresco y seco, un doypack bien cerrado es menos atractivo para manos curiosas. Más detalles en [cómo conservar Prunex1](/como-preparar-prunex1/conservar-y-vencimiento/)." },
+      { "name": "No dejes sticks sueltos", "text": "Evita dejarlos en la cartera abierta, en la mesa de noche o en el auto. Si llevas alguno contigo, guárdalo en un bolsillo con cierre." },
+      { "name": "No dejes la taza a medio tomar", "text": "La etiqueta indica consumir la preparación en su totalidad. Así, además, no queda una taza dulce y rojiza al alcance de un niño." },
+      { "name": "Habla con quien cuida a tus hijos", "text": "Avisa a la abuela, la niñera o la tía que esa bebida es solo para adultos y que no deben compartirla." }
+    ] },
+    { "type": "h2", "text": "Si tu hijo tomó Prunex1 por accidente" },
+    { "type": "p", "text": "Si un niño tomó un sorbo de tu taza, lo más probable es que no pase nada importante, pero conviene observarlo. Ofrécele agua, fíjate si aparecen cólicos, gases, diarrea o algún signo de alergia (ronchas, hinchazón de labios, dificultad para respirar) y comunícate con su pediatra para contarle qué tomó y cuánto." },
+    { "type": "p", "text": "Si ingirió el polvo de uno o más sticks secos, sin agua, o si presenta tos, ahogo o dificultad para tragar, busca atención médica de inmediato. Ten a mano el empaque para que el personal de salud lea la lista de ingredientes." },
+    { "type": "h2", "text": "Lo que sí puedes hacer en casa" },
+    { "type": "p", "text": "Sin reemplazar la indicación del pediatra, hay hábitos que ayudan a toda la familia: agua disponible durante el día, frutas como papaya, mandarina o granadilla en la lonchera, menestras en el almuerzo y un horario tranquilo para ir al baño después de comer, sin apuros. Son medidas sencillas y seguras." },
+    { "type": "p", "text": "Y si eres tú quien toma Prunex1, sigue con tu rutina de adulto y cómpralo por un canal confiable. En la [página para comprar Prunex1](/comprar-prunex1/) encontrarás el acceso a la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Y un adolescente de 15 años puede tomarlo?", "a": "Prunex1 se comunica para adultos y la etiqueta no da indicaciones por edad. En adolescentes, lo prudente es consultar con el pediatra o el médico de familia, que valorará el motivo de la molestia y si conviene otra alternativa." },
+    { "q": "¿Puedo mezclar un poco de Prunex1 en el jugo de mi hijo?", "a": "No es recomendable. Esconder el producto en un jugo no cambia que esté formulado para adultos, y además dificulta saber qué causó una molestia si aparece. Cualquier producto con fibra para un niño debe indicarlo su pediatra." },
+    { "q": "¿Qué información le llevo al pediatra si quiero preguntarle por Prunex1?", "a": "Lleva el empaque o una foto clara del reverso con la lista de ingredientes, la tabla nutricional y las advertencias de alérgenos. Así el pediatra puede valorar con datos reales y no con la descripción comercial." }
+  ],
+  "sources": [
+    { "label": "NIDDK – Instituto Nacional de Diabetes y Enfermedades Digestivas y Renales (NIH)", "url": "https://www.niddk.nih.gov/" },
+    { "label": "MedlinePlus – Información de salud infantil", "url": "https://medlineplus.gov/spanish/" },
+    { "label": "FuXion – Ficha oficial de Prunex1", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/opiniones-prunex1/contraindicaciones/", "/ingredientes-prunex1/sorbitol/", "/ingredientes-prunex1/alergenos/", "/como-preparar-prunex1/conservar-y-vencimiento/"]
+}

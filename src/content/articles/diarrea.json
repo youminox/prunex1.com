@@ -1,0 +1,71 @@
+{
+  "slug": "diarrea",
+  "pillar": "opiniones-prunex1",
+  "path": "/opiniones-prunex1/diarrea/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 diarrea",
+  "title": "Prunex1 y diarrea: por qué puede ablandar de más y qué hacer",
+  "seoTitle": "Prunex1 diarrea: posibles causas y cuándo suspender",
+  "metaDescription": "Prunex1 y diarrea: cómo la fibra y el sorbitol pueden ablandar de más las deposiciones, qué hacer si te pasa y cuándo suspender y consultar al médico.",
+  "excerpt": "Heces más blandas no siempre son diarrea, y no toda diarrea viene de tu taza. Revisamos qué ingredientes de Prunex1 podrían ablandar de más, qué hacer y cuándo consultar.",
+  "quickAnswer": "Prunex1 podría causar diarrea en algunas personas: su fibra retiene agua y el sorbitol, en quienes son sensibles, puede atraer más líquido al intestino. Si tus deposiciones se vuelven demasiado sueltas, suspende la bebida, hidrátate bien y revisa otras causas. Si hay sangre, fiebre, dolor fuerte o dura más de dos días, consulta a un médico.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A simple white ceramic cup of warm reddish-amber drink next to a clear glass jug of water and a sliced lime on a light marble kitchen counter, bright summer morning light in a Lima apartment, fresh and clean atmosphere, minimal composition, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza blanca con bebida rojiza junto a una jarra de agua y limón en una cocina luminosa de verano"
+  },
+  "blocks": [
+    { "type": "p", "text": "En verano limeño, una diarrea puede tener muchos sospechosos: el cebiche del mediodía bajo el sol, el emoliente de un puesto que no conocías, un virus que anda dando vueltas en la oficina. Si justo esa semana empezaste a tomar una bebida con fibra, es natural que la mires con desconfianza." },
+    { "type": "p", "text": "Esta guía te ayuda a ordenar las piezas: qué componentes de Prunex1 podrían ablandar demasiado las deposiciones, cómo diferenciar eso de una diarrea por otra causa y en qué momento conviene dejar la bebida y pedir ayuda médica. Forma parte de nuestra sección de [opiniones y preguntas sobre Prunex1](/opiniones-prunex1/), donde no hay testimonios inventados, solo etiqueta y criterio." },
+    { "type": "h2", "text": "¿Prunex1 puede dar diarrea? Lo que dice su composición" },
+    { "type": "p", "text": "Prunex1 no contiene fármacos: su etiqueta lo define como bebida instantánea en polvo a base de fibras y extractos vegetales. Aun así, varios de sus ingredientes tienen en común algo muy simple: **trabajan con agua**. Y cuando hay más agua en el intestino, las deposiciones se ablandan. En la mayoría de casos eso es justamente lo que busca quien tiene un tránsito lento, pero en algunas personas puede pasarse de la raya." },
+    { "type": "table", "caption": "Componentes de Prunex1 que pueden influir en la consistencia de las deposiciones", "headers": ["Componente", "Mecanismo general", "Qué tener en cuenta"], "rows": [["Psyllium y mucílago de linaza", "Retienen agua y forman un gel que suaviza el contenido intestinal", "Por sí solos tienden a dar volumen, no a provocar diarrea"], ["Inulina de achicoria", "Fermenta en el colon y puede atraer algo de agua", "En personas sensibles se asocia a heces más blandas y gases"], ["Sorbitol", "Poliol que se absorbe solo en parte y arrastra agua por ósmosis", "En cantidades altas tiene un efecto laxante reconocido"], ["Guindón deshidratado", "Aporta fibra y sorbitol de forma natural", "Suma al total de polioles del día"], ["Magnesio", "Algunas sales de magnesio atraen agua al intestino en dosis altas", "Su cantidad no está declarada en la etiqueta"]] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que declara la etiqueta y lo que no", "text": "Por porción (1 stick de 5 g en 180 ml de agua caliente): 1.7 g de fibra dietaria, 0.2 g de azúcares totales y 0 g de azúcares añadidos. La etiqueta peruana no declara cuánto sorbitol, magnesio ni cuánta de cada fibra contiene un stick, así que no podemos decir qué ingrediente pesa más en tu caso." },
+    { "type": "p", "text": "Del sorbitol se sabe bastante: en Estados Unidos, la normativa exige advertir en alimentos que podrían llevar a consumir 50 g al día que «el consumo excesivo puede tener efecto laxante». Esa cifra es una referencia regulatoria general, no la cantidad de Prunex1. Si te interesa este ingrediente, lo explicamos con calma en [el sorbitol en Prunex1](/ingredientes-prunex1/sorbitol/)." },
+    { "type": "h2", "text": "Heces más blandas no es lo mismo que diarrea" },
+    { "type": "p", "text": "Vale la pena poner nombre a lo que te pasa. La Organización Mundial de la Salud define la diarrea como **tres o más deposiciones sueltas o líquidas al día**, o una frecuencia mayor de lo normal para esa persona. Una deposición algo más blanda o una ida extra al baño no encajan en esa definición." },
+    { "type": "p", "text": "Si venías con un tránsito lento y ahora tus deposiciones son más suaves y fáciles, eso es distinto a tener urgencia, líquido y cólicos. La primera situación suele ser tolerable; la segunda es una señal para parar." },
+    { "type": "h2", "text": "Otras causas que suelen coincidir en el tiempo" },
+    { "type": "p", "text": "Antes de culpar a tu taza, revisa qué más cambió en esos días. Algunas causas frecuentes de diarrea en Lima no tienen nada que ver con la fibra:" },
+    { "type": "ul", "items": [
+      "**Alimentos o agua contaminados:** pescado crudo mal conservado, ensaladas lavadas con agua no segura o comida que estuvo horas fuera de refrigeración en pleno verano.",
+      "**Virus estomacales:** se contagian con facilidad en casa, en el colegio o en la oficina.",
+      "**Antibióticos y otros medicamentos:** varios fármacos alteran el tránsito por sí mismos.",
+      "**Exceso de polioles fuera de la bebida:** chicles y caramelos «sin azúcar», mucha ciruela o fruta muy madura el mismo día.",
+      "**Café en exceso, mucho picante o comidas muy grasosas:** un pan con chicharrón contundente seguido de varias tazas de café también tiene su efecto."
+    ] },
+    { "type": "cta", "text": "Si tu tránsito es lento y quieres probar Prunex1 sabiendo qué esperar, revisa su precio y presentaciones disponibles." },
+    { "type": "h2", "text": "Qué hacer si Prunex1 te ablanda demasiado las deposiciones" },
+    { "type": "p", "text": "Si notas deposiciones claramente sueltas y sospechas de la bebida, estas son las medidas razonables. No reemplazan la opinión de un profesional; son lo básico para no empeorar las cosas." },
+    { "type": "ol", "items": [
+      "**Suspende Prunex1.** No tiene sentido seguir sumando fibra y sorbitol mientras el intestino está acelerado.",
+      "**Repón líquidos.** Toma agua a sorbos frecuentes y, si las deposiciones son muy líquidas, sales de rehidratación oral de farmacia. Evita gaseosas y jugos muy azucarados, que pueden empeorar la diarrea.",
+      "**Come simple.** Arroz, papa sancochada, plátano, pollo sin piel o sopas suaves suelen tolerarse mejor que frituras o comidas muy condimentadas.",
+      "**Revisa tu día.** Anota qué comiste y bebiste; te ayudará a identificar si había otra causa más probable.",
+      "**Antes de retomar, pregúntate si lo necesitas.** Si tu tránsito ya es normal, la ficha oficial de FuXion indica que el producto no es apto para ti. Si decides volver a tomarlo, hazlo siguiendo la etiqueta y con orientación profesional si tuviste una reacción marcada."
+    ] },
+    { "type": "p", "text": "Si además de diarrea notaste cólicos o gases fuertes, revisa también la página de [efectos secundarios de Prunex1](/opiniones-prunex1/efectos-secundarios/), donde reunimos las molestias posibles y cómo leerlas." },
+    { "type": "h2", "text": "Cuándo suspender Prunex1 y consultar a un médico" },
+    { "type": "callout", "variant": "aviso", "title": "Busca atención médica si tienes", "text": "Sangre o moco en las heces, heces negras, fiebre, dolor abdominal intenso, vómitos que no te dejan retener líquidos, signos de deshidratación (sed intensa, orina escasa y oscura, mareo, boca muy seca), diarrea que dura más de dos días en un adulto o pérdida de peso sin explicación. En adultos mayores, personas con enfermedades crónicas y quienes toman medicación habitual, consulta antes. Prunex1 es un alimento: no trata ni previene enfermedades." },
+    { "type": "p", "text": "La medicación merece una mención aparte: la diarrea puede reducir la absorción de algunos fármacos, y la fibra también puede interferir si se toman juntos. Si tomas pastillas a diario, lee nuestra guía sobre [Prunex1 y medicamentos](/como-preparar-prunex1/medicamentos/) y conversa con tu médico." },
+    { "type": "p", "text": "Si ya tienes claro que Prunex1 encaja con tu situación y quieres asegurarte de recibir un producto original y bien conservado, puedes [comprar Prunex1 con un distribuidor autorizado](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Tener deposiciones sueltas significa que Prunex1 me está «limpiando»?", "a": "No. Una diarrea no es un signo de que el cuerpo se esté depurando: es una pérdida de agua y electrolitos que conviene corregir. Prunex1 es un alimento con fibra y su objetivo, según la marca, es un adecuado tránsito intestinal, no provocar deposiciones líquidas." },
+    { "q": "¿Puedo tomar Prunex1 si tengo diarrea por otra causa?", "a": "No tiene sentido. Si ya tienes diarrea, sumar fibra fermentable y sorbitol puede aumentar las molestias. Espera a recuperarte y, si tienes dudas sobre si lo necesitas, consulta con un profesional de salud." },
+    { "q": "¿Las personas con colon irritable tienen más riesgo de diarrea con Prunex1?", "a": "Pueden ser más sensibles a la inulina y al sorbitol, ingredientes que suelen limitarse en algunas pautas para el intestino irritable. Si tienes ese diagnóstico, consulta con tu médico o nutricionista antes de probarlo y revisa nuestra página sobre colon irritable." },
+    { "q": "¿Un adulto mayor con diarrea debe suspender Prunex1?", "a": "Sí, y además vigilar la hidratación con más atención, porque en personas mayores la deshidratación avanza más rápido y puede ser peligrosa. Ante diarrea persistente, mareo o confusión, lo indicado es buscar atención médica." }
+  ],
+  "sources": [
+    { "label": "Organización Mundial de la Salud – Enfermedades diarreicas (nota descriptiva)", "url": "https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease" },
+    { "label": "NIDDK – Diarrhea", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/diarrhea" },
+    { "label": "eCFR – 21 CFR 184.1835 Sorbitol", "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-184/subpart-B/section-184.1835" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": [
+    "/ingredientes-prunex1/sorbitol/",
+    "/opiniones-prunex1/efectos-secundarios/",
+    "/opiniones-prunex1/colon-irritable/",
+    "/como-preparar-prunex1/medicamentos/"
+  ]
+}

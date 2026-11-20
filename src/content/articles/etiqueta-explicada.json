@@ -1,0 +1,99 @@
+{
+  "slug": "etiqueta-explicada",
+  "pillar": "que-es-prunex1",
+  "path": "/que-es-prunex1/etiqueta-explicada/",
+  "isPillar": false,
+  "primaryKeyword": "etiqueta de Prunex1",
+  "title": "Etiqueta de Prunex1 explicada: cómo leer el frente y el reverso",
+  "seoTitle": "Etiqueta de Prunex1: guía para leer el empaque",
+  "metaDescription": "Etiqueta de Prunex1 explicada paso a paso: denominación, peso neto, 28 sticks, modo de empleo, ingredientes, advertencias, sellos, lote y fabricante.",
+  "excerpt": "Una lectura guiada, zona por zona, del doypack de Prunex1: qué dice el frente, qué dice el reverso y qué datos conviene revisar antes de prepararlo.",
+  "quickAnswer": "La etiqueta de Prunex1 define el producto como una bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón. El frente muestra el nombre, los sellos y el contenido (140 g en 28 sticks de 5 g); el reverso reúne ingredientes, modo de empleo, advertencias, registro sanitario, lote, vencimiento y los datos de FuXion Biotech S.A.C.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "A clear glass mug of warm reddish-amber drink on a pale wooden kitchen table next to a pair of reading glasses and a small ceramic dish of dried prunes and star anise, soft diffused daylight from a window on an overcast Lima morning, calm minimal composition, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de vidrio con bebida rojiza junto a unos lentes de lectura y un platito con guindones y anís estrella sobre una mesa de madera clara"
+  },
+  "blocks": [
+    { "type": "p", "text": "Un empaque de alimento funciona como un contrato en letra pequeña: lo que la publicidad cuenta en voz alta, la etiqueta lo dice con precisión legal. En el caso de Prunex1, esa diferencia es especialmente útil, porque el nombre comercial, los mensajes de la marca y la denominación oficial no siempre usan las mismas palabras." },
+    { "type": "p", "text": "Aquí recorremos el doypack zona por zona, como si lo tuvieras sobre la mesa de la cocina. Si todavía no conoces el producto en general, empieza por nuestra guía de [qué es Prunex1 y para qué está pensado](/que-es-prunex1/)." },
+    { "type": "h2", "text": "Cómo está organizada la etiqueta de Prunex1" },
+    { "type": "p", "text": "El empaque tiene dos caras con funciones distintas. El **frente** sirve para identificar el producto de un vistazo. El **reverso** concentra la información técnica y legal, la que realmente responde a la pregunta de qué estás tomando." },
+    { "type": "table", "caption": "Mapa rápido del empaque de Prunex1", "headers": ["Zona", "Qué encontrarás", "Para qué te sirve"], "rows": [
+      ["Frente", "Marca, nombre, denominación, sabor, ingredientes destacados, sellos y contenido neto", "Confirmar que es el producto y la presentación que buscabas"],
+      ["Reverso: bloque técnico", "Lista de ingredientes, información nutricional y modo de empleo", "Saber qué contiene y cómo se prepara una porción"],
+      ["Reverso: bloque legal", "Advertencias, registro sanitario, fabricante y conservación", "Revisar precauciones y quién responde por el producto"],
+      ["Impresión de lote", "Código de lote y fecha de vencimiento", "Comprobar que el producto está vigente y es trazable"]
+    ] },
+    { "type": "h2", "text": "El frente: denominación, sabor y contenido neto" },
+    { "type": "h3", "text": "La denominación es el dato que manda" },
+    { "type": "p", "text": "Debajo o cerca del nombre aparece la descripción oficial: **bebida instantánea en polvo a base de fibras y extractos vegetales**, **sabor guindón**. Esa frase es la denominación legal del producto y es más precisa que cualquier eslogan. FuXion, en su comunicación comercial, lo presenta como “té herbal”; si te interesa esa diferencia, la explicamos en el artículo sobre [si Prunex1 es un té o no](/que-es-prunex1/es-un-te/)." },
+    { "type": "h3", "text": "Peso neto y número de sticks" },
+    { "type": "p", "text": "El doypack principal declara **140 g de contenido neto**, repartidos en **28 sticks de 5 g**. La cuenta cuadra: 28 × 5 g = 140 g. Existe también un doypack de 7 sticks con 35 g netos, que comparte la misma porción de 5 g. Un detalle que pocos notan: la etiqueta aclara que los sticks del interior **no están etiquetados para su venta individual**, así que toda la información legal está en el doypack, no en cada sobrecito." },
+    { "type": "h3", "text": "Los ingredientes destacados del frente" },
+    { "type": "p", "text": "El frente resalta seis componentes: fibra de psyllium, fibra de inulina de achicoria, guindón, kelp, anís estrella y mucílago de linaza. Destacarlos no indica cuánto hay de cada uno; esas cantidades individuales no se declaran ni siquiera en el reverso." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice el frente, en limpio", "text": "Prunex1, de FuXion. Bebida instantánea en polvo a base de fibras y extractos vegetales, sabor guindón. Doypack de 28 sticks x 5 g, contenido neto 140 g. Sellos: No GMO, sin azúcares, sin gluten, bajo en sodio y Clean Label." },
+    { "type": "h2", "text": "Los sellos: qué afirman y qué no" },
+    { "type": "p", "text": "Los sellos son atajos visuales, útiles pero resumidos. Conviene leerlos junto con el resto de la etiqueta:" },
+    { "type": "ul", "items": [
+      "**Sin azúcares**: la porción tiene 0 g de azúcares añadidos, aunque sí registra 0.2 g de azúcares totales. El dulzor viene de la estevia y del sorbitol.",
+      "**Sin gluten**: coherente con una base de tapioca y cáscara de arroz, ingredientes que no tienen gluten de forma natural.",
+      "**Bajo en sodio**: 2.0 mg de sodio por porción.",
+      "**No GMO** y **Clean Label**: declaraciones de la marca sobre el origen y el perfil de los ingredientes."
+    ] },
+    { "type": "p", "text": "Un sello “sin gluten” no dice nada sobre otros alérgenos, y por eso la advertencia de trazas del reverso sigue siendo importante. Profundizamos en cada distintivo en la guía de [sellos sin gluten, No GMO y Clean Label](/que-es-prunex1/sellos-sin-gluten-no-gmo/)." },
+    { "type": "cta", "text": "¿Prefieres revisar la etiqueta con el empaque original en la mano? Mira el precio vigente y pide tu doypack sellado en la tienda oficial." },
+    { "type": "h2", "text": "El reverso: ingredientes en orden de proporción" },
+    { "type": "p", "text": "Por norma general de rotulado, los ingredientes se listan de mayor a menor proporción. Por eso es revelador que el primero sea la **tapioca en polvo**, que actúa como base del polvo. La lista completa tiene 16 componentes:" },
+    { "type": "ol", "items": [
+      "Tapioca en polvo",
+      "Achicoria en polvo (fuente de inulina)",
+      "Deshidratado de *Plantago ovata* (psyllium)",
+      "Anís estrella en polvo",
+      "Alga deshidratada (kelp)",
+      "Deshidratado de frutas (limón, guindón)",
+      "Mucílago de linaza",
+      "Sorbitol",
+      "Saborizantes (guindón, ciruela, panela)",
+      "Cáscara de arroz en polvo",
+      "Espesante (goma xantán)",
+      "Magnesio",
+      "Edulcorante (glicósidos de esteviol de estevia)",
+      "Color natural carmín",
+      "Aceite esencial de anís estrella",
+      "Emulsionante (lecitina de girasol)"
+    ] },
+    { "type": "p", "text": "Junto a la lista está la tabla nutricional. En resumen, cada porción aporta 18 kcal y 1.7 g de fibra dietaria; si quieres leerla fila por fila, con valores por 100 ml y porcentajes, revisa la [información nutricional de Prunex1](/ingredientes-prunex1/tabla-nutricional/). Lo que la etiqueta peruana **no** declara es la cantidad de cada fibra, de guindón, de sorbitol, de magnesio ni del yodo que el kelp aporta de forma natural." },
+    { "type": "h2", "text": "Modo de empleo: una sola instrucción, bien clara" },
+    { "type": "p", "text": "El texto de la etiqueta es breve: “Disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente, y revolver bien. Una vez preparado consumir en su totalidad. Conservar en un lugar fresco y seco.” Tres ideas se desprenden de ahí:" },
+    { "type": "ul", "items": [
+      "La porción es **1 stick de 5 g en 180 ml**, más o menos una taza estándar.",
+      "Se toma completo y recién preparado, porque las fibras espesan la bebida con los minutos.",
+      "El polvo es sensible a la humedad, algo a tener en cuenta en el invierno húmedo de Lima: cierra bien el doypack después de sacar cada stick."
+    ] },
+    { "type": "p", "text": "La etiqueta no indica horarios ni un número de días de uso; solo define la porción." },
+    { "type": "h2", "text": "Advertencias, lote, vencimiento y fabricante" },
+    { "type": "p", "text": "Es el bloque menos leído y uno de los más importantes:" },
+    { "type": "ul", "items": [
+      "**Trazas**: elaborado en equipos donde se procesan leche y productos lácteos, huevos y soya. Relevante si tienes alergias.",
+      "**Naturaleza del producto**: FuXion aclara que sus productos son fórmulas alimenticias que no pretenden tratar ni prevenir enfermedades.",
+      "**Venta individual**: los sticks no están etiquetados para venderse sueltos.",
+      "**Ficha oficial**: FuXion indica además que no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal."
+    ] },
+    { "type": "p", "text": "El fabricante es **FuXion Biotech S.A.C.**, con dirección en Calle Los Eucaliptos Lt. 1 C2, Urb. Santa Genoveva, Lurín, Lima. En el doypack de 7 sticks vigente (versión 2025) figura el registro sanitario P2963923N NAFXBO; como puede variar según la versión del envase, verifica siempre el que trae tu empaque. Te explicamos cómo hacerlo en la guía del [registro sanitario de Prunex1](/que-es-prunex1/registro-sanitario/)." },
+    { "type": "p", "text": "El lote y la fecha de vencimiento van impresos directamente sobre el envase. Deben verse nítidos, sin borrones, raspaduras ni stickers pegados encima. Si compras en un puesto del mercado o por redes y estos datos no se leen bien, es mejor no arriesgarse." },
+    { "type": "callout", "variant": "aviso", "title": "La etiqueta informa, no diagnostica", "text": "Prunex1 es un alimento, no un medicamento. Si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación, cambios bruscos en tu hábito intestinal, sospecha de obstrucción, tomas medicación o tienes una enfermedad crónica, consulta a un médico antes de usarlo." },
+    { "type": "p", "text": "Leer bien el empaque es la mejor forma de comprar con criterio. Si ya tienes claro qué contiene y quieres un doypack original con su lote legible, puedes [comprar Prunex1 en la tienda oficial del distribuidor](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Por qué la etiqueta no dice cuántos gramos de psyllium o inulina tiene cada stick?", "a": "La tabla nutricional peruana declara la fibra dietaria total, sin desglose por tipo de fibra: 1.7 g por porción. Cualquier cifra individual que circule en internet no proviene de la etiqueta peruana." },
+    { "q": "¿El doypack de 7 sticks trae la misma información que el de 28?", "a": "Comparte la porción de 5 g, el modo de empleo y la fórmula, pero su contenido neto es de 35 g. El registro sanitario puede figurar con un código propio o actualizado según la versión del envase, así que revísalo en el empaque que tengas." },
+    { "q": "¿Qué hago si el doypack llega abierto o con la fecha ilegible?", "a": "No lo consumas y comunícate con el vendedor para solicitar el cambio. Un envase sin sello íntegro o sin lote y vencimiento legibles no permite comprobar que el producto se haya conservado correctamente." }
+  ],
+  "sources": [
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria (MINSA)", "url": "https://www.digesa.minsa.gob.pe/" },
+    { "label": "Codex Alimentarius (FAO/OMS) – normas de etiquetado de alimentos", "url": "https://www.fao.org/fao-who-codexalimentarius/" }
+  ],
+  "related": ["/que-es-prunex1/registro-sanitario/", "/ingredientes-prunex1/tabla-nutricional/", "/que-es-prunex1/sellos-sin-gluten-no-gmo/", "/que-es-prunex1/original-vs-falsificado/"]
+}

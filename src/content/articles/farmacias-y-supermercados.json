@@ -1,0 +1,85 @@
+{
+  "slug": "farmacias-y-supermercados",
+  "pillar": "precio-prunex1-peru",
+  "path": "/precio-prunex1-peru/farmacias-y-supermercados/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 en farmacias",
+  "title": "Prunex1 en farmacias y supermercados: ¿dónde se vende de verdad?",
+  "seoTitle": "Prunex1 en farmacias: ¿se vende en boticas o súper?",
+  "metaDescription": "¿Buscas Prunex1 en farmacias o supermercados? Te explicamos por qué FuXion no lo vende ahí, qué riesgos tienen los revendedores y cómo comprarlo original.",
+  "excerpt": "Por qué no encontrarás Prunex1 en el anaquel de una botica ni en el súper, qué significa verlo en tiendas por departamento o marketplaces y cuál es el canal oficial.",
+  "quickAnswer": "Prunex1 en farmacias, boticas o supermercados no forma parte del canal oficial: FuXion lo comercializa a través de distribuidores independientes y sus tiendas online. Si lo ves en un anaquel, una tienda por departamento o un marketplace, se trata de un revendedor tercero. Para comprarlo original, usa la tienda del distribuidor y revisa sello, lote y vencimiento.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A ceramic cup of warm reddish-amber infusion on a light marble kitchen counter beside a small bowl of dried prunes, two star anise pods and a folded linen napkin, soft natural morning light from a window in a Lima apartment, shallow depth of field, calm minimal style, no packaging, no sachets, no text, no logos, no people",
+    "alt": "Taza de bebida rojiza sobre una encimera clara junto a guindones secos y anís estrella con luz de mañana"
+  },
+  "blocks": [
+    { "type": "p", "text": "Es sábado por la mañana, estás en una botica de Jesús María con la lista de compras en el celular y le preguntas al técnico por Prunex1. Revisa el sistema, mira el anaquel de fibras y termina ofreciéndote otra cosa. No es que se haya agotado: ese simplemente no es el lugar donde FuXion pone su producto." },
+    { "type": "p", "text": "En esta guía te explico por qué pasa, qué significa encontrarlo en otros sitios y cómo comprarlo sin exponerte a productos mal almacenados o de procedencia dudosa." },
+    { "type": "h2", "text": "¿Hay Prunex1 en farmacias y boticas del Perú?" },
+    { "type": "p", "text": "La respuesta corta es no, al menos no por la vía oficial. FuXion es una empresa peruana (FuXion Biotech S.A.C., con planta en Lurín) que vende sus productos mediante una red de distribuidores independientes, cada uno con su tienda online dentro de la plataforma de la marca. No usa las cadenas de boticas ni los supermercados como punto de venta de Prunex1." },
+    { "type": "p", "text": "Eso explica una confusión frecuente: Prunex1 se parece en formato a los productos de fibra que sí se ven en farmacia (polvo en sticks), pero su camino hasta tu casa es distinto. Además, por su etiqueta es un alimento, no un medicamento, así que no necesita receta ni sigue la lógica de dispensación de una botica." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que dice el empaque", "text": "La etiqueta define a Prunex1 como «bebida instantánea en polvo a base de fibras y extractos vegetales», sabor guindón, con tapioca en polvo como primer ingrediente. El doypack trae 28 sticks de 5 g (140 g) y cada porción se prepara en 180 ml de agua caliente. Es un alimento: no trata ni previene enfermedades." },
+    { "type": "h2", "text": "Por qué no lo verás en el supermercado: así distribuye FuXion" },
+    { "type": "p", "text": "El modelo de FuXion es de venta directa. Cada distribuidor autorizado tiene una tienda virtual con el catálogo, los precios oficiales y el pago en línea. Cuando compras ahí, el pedido se registra en el sistema de la marca y el producto sale de su propia cadena logística, no de la bodega de un intermediario." },
+    { "type": "p", "text": "Para ti, como cliente, esto tiene tres consecuencias prácticas:" },
+    { "type": "ul", "items": [
+      "**Precio de catálogo uniforme**: el doypack de 28 sticks figura a S/ 76.00 (S/ 2.71 por stick) y el de 7 sticks a S/ 21.00, sin importar qué distribuidor elijas.",
+      "**Trazabilidad**: el producto llega desde el fabricante con su lote y fecha de vencimiento intactos, sin pasar meses en un depósito ajeno.",
+      "**Respaldo**: si algo llega mal, tienes a quién reclamar, en lugar de un vendedor anónimo que dejó de contestar."
+    ] },
+    { "type": "p", "text": "Si quieres ver el detalle de presentaciones, puntos y cómo se calcula el envío, lo tienes en la [guía del precio de Prunex1 en Perú](/precio-prunex1-peru/)." },
+    { "type": "h2", "text": "¿Y si lo encuentro en una tienda por departamento o en un marketplace?" },
+    { "type": "p", "text": "Puede pasar. A veces aparece en la sección de salud de una tienda por departamento online, en un marketplace, en una publicación de redes sociales o en un puesto de una galería del Centro de Lima. En esos casos se trata de revendedores terceros: personas o negocios que compraron el producto y lo revenden por su cuenta." },
+    { "type": "p", "text": "Eso no significa automáticamente que el producto sea falso, pero sí que asumes riesgos que en la tienda oficial no existen: no sabes cuánto tiempo estuvo guardado, si pasó por un almacén húmedo o si el doypack fue abierto. Los desarrollamos a fondo en [los riesgos de comprar en marketplaces](/precio-prunex1-peru/riesgos-de-comprar-en-marketplaces/). Aquí va un resumen:" },
+    { "type": "table", "caption": "Dónde puede aparecer Prunex1 y qué implica para el comprador", "headers": ["Lugar", "¿Canal oficial?", "Qué debes vigilar"], "rows": [
+      ["Tienda online FuXion de un distribuidor autorizado", "Sí", "Que la web pertenezca al dominio de FuXion y que el precio coincida con el catálogo"],
+      ["Boticas y cadenas de farmacias", "No", "Normalmente no lo tienen; si te lo ofrecen, pregunta por la procedencia"],
+      ["Supermercados", "No", "No son punto de venta de FuXion; desconfía de exhibiciones sin respaldo"],
+      ["Tiendas por departamento online", "No", "Suelen ser vendedores externos dentro de la plataforma; revisa quién vende realmente"],
+      ["Marketplaces y redes sociales", "No", "Sticks sueltos, precios demasiado bajos, fotos genéricas o vencimiento que no se muestra"]
+    ] },
+    { "type": "cta", "text": "Ahórrate la búsqueda entre anaqueles: revisa el precio oficial y pide el doypack sellado desde la tienda del distribuidor." },
+    { "type": "h2", "text": "Cómo comprar Prunex1 por el canal oficial" },
+    { "type": "p", "text": "Hacer el pedido en línea toma menos tiempo que recorrer tres boticas preguntando. El proceso general es este:" },
+    { "type": "ol", "items": [
+      "Entra a la página de [compra de Prunex1](/comprar-prunex1/) o directamente a la [tienda oficial del distribuidor](https://carlos-lingan.site.fuxion.com/prunex1/).",
+      "Elige la presentación: doypack de 28 sticks o de 7 sticks.",
+      "Añade al carrito, ingresa tu dirección de entrega y revisa el costo de envío que calcula el sistema antes de confirmar.",
+      "Paga en la pasarela de la tienda y guarda el correo de confirmación con tu número de pedido."
+    ] },
+    { "type": "p", "text": "Si todavía estás comparando opciones de compra, en [dónde comprar Prunex1 original](/precio-prunex1-peru/donde-comprar-original/) encontrarás el panorama completo del canal oficial frente a los revendedores." },
+    { "type": "h2", "text": "Lo que sí puedes hacer en la farmacia: consultar" },
+    { "type": "p", "text": "Que Prunex1 no esté en el anaquel no quiere decir que la botica no te sirva. El químico farmacéutico es una excelente persona para hacerle una pregunta importante: si tomas medicamentos, la fibra puede retrasar la absorción de algunos de ellos y conviene separar las tomas." },
+    { "type": "p", "text": "Lleva una foto de la lista de ingredientes del empaque y tus recetas, y pregunta con calma. Tienes más contexto en [Prunex1 y medicamentos](/como-preparar-prunex1/medicamentos/)." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo consultar a un médico", "text": "Prunex1 aporta 1.7 g de fibra dietaria por porción; es un alimento, no un tratamiento. Si tienes dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación, cambios bruscos en tu hábito intestinal o una enfermedad crónica, acude a un médico antes de tomar cualquier producto con fibra. La ficha oficial de FuXion indica que no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." },
+    { "type": "h2", "text": "Si ya lo compraste fuera del canal oficial, revisa esto" },
+    { "type": "p", "text": "Si conseguiste un doypack en otra tienda, no hace falta botarlo de inmediato, pero sí revisarlo con calma antes de abrirlo:" },
+    { "type": "ul", "items": [
+      "Que el doypack esté sellado, sin cortes y con el cierre sin señales de manipulación.",
+      "Lote y fecha de vencimiento impresos y legibles.",
+      "Registro sanitario en el reverso (en el empaque vigente de 7 sticks, versión 2025, figura P2963923N NAFXBO; compáralo con el de tu propio envase).",
+      "Lista de 16 ingredientes que empieza por tapioca en polvo y termina con lecitina de girasol.",
+      "Polvo suelto dentro del stick, no apelmazado ni con olor a humedad."
+    ] },
+    { "type": "p", "text": "Un detalle que delata reventas dudosas: los sticks no están etiquetados para venta individual. Si alguien te ofrece sticks sueltos, mejor pasa. La guía para distinguir [un Prunex1 original de uno falsificado](/que-es-prunex1/original-vs-falsificado/) amplía cada punto." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo pedir que una botica me consiga Prunex1 por encargo?", "a": "No es lo habitual, porque las boticas no tienen acceso al sistema de distribución de FuXion. Si te lo consiguen, lo harán a través de un revendedor, con los mismos riesgos de procedencia. Es más simple que lo pidas tú mismo en la tienda oficial." },
+    { "q": "¿Es normal ver Prunex1 más barato en una tienda por departamento?", "a": "Puede ocurrir y es una señal para revisar con lupa. El precio de catálogo es S/ 76.00 por 28 sticks; una oferta muy por debajo puede esconder un producto próximo a vencer, mal almacenado o de origen incierto." },
+    { "q": "¿Por qué otros productos de fibra sí están en farmacia y Prunex1 no?", "a": "Depende de la estrategia de cada fabricante. Muchos suplementos de fibra se distribuyen por cadenas de farmacia, mientras que FuXion eligió la venta directa mediante distribuidores independientes. Es una diferencia de canal de venta, no de calidad." },
+    { "q": "¿Comprar online sale más caro por el envío?", "a": "El envío se calcula en el checkout según tu dirección, así que conviene revisarlo antes de pagar. Pon en la balanza ese costo frente al tiempo y los pasajes que gastarías buscándolo, y la tranquilidad de recibir un doypack sellado que viene directo del fabricante." }
+  ],
+  "sources": [
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" },
+    { "label": "DIGESA – Dirección General de Salud Ambiental e Inocuidad Alimentaria", "url": "https://www.digesa.minsa.gob.pe/" },
+    { "label": "Indecopi – protección al consumidor", "url": "https://www.gob.pe/indecopi" }
+  ],
+  "related": [
+    "/precio-prunex1-peru/donde-comprar-original/",
+    "/precio-prunex1-peru/riesgos-de-comprar-en-marketplaces/",
+    "/que-es-prunex1/original-vs-falsificado/",
+    "/precio-prunex1-peru/precio-por-stick/"
+  ]
+}

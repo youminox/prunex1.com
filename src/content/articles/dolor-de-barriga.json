@@ -1,0 +1,86 @@
+{
+  "slug": "dolor-de-barriga",
+  "pillar": "opiniones-prunex1",
+  "path": "/opiniones-prunex1/dolor-de-barriga/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 dolor de estómago",
+  "title": "Prunex1 y dolor de estómago: cólicos al empezar y qué hacer",
+  "seoTitle": "Prunex1 dolor de estómago: por qué pasa y qué hacer",
+  "metaDescription": "¿Prunex1 te da dolor de estómago? Por qué la fibra puede causar cólicos al empezar, cómo actuar ante molestias leves y qué señales indican suspenderlo.",
+  "excerpt": "Los cólicos al empezar suelen venir de la fermentación de la fibra. Te explicamos qué es adaptación, qué no lo es y cuándo suspender.",
+  "quickAnswer": "Un dolor de estómago leve al empezar Prunex1 suele relacionarse con la fermentación de sus fibras, como la inulina de achicoria, y con el sorbitol, que pueden generar gases y cólicos mientras el intestino se adapta. Toma suficiente agua y no aumentes la porción. Si el dolor es intenso, persistente o viene con sangre o fiebre, suspende y consulta.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A warm cup of reddish-amber infusion resting on a wooden side table next to a folded wool blanket and a glass of water, a small saucer with star anise, soft late-afternoon light in a quiet Lima living room during humid winter, comforting mood, minimal style. No packaging, no sachets, no text, no logos, no visible faces.",
+    "alt": "Taza de infusión rojiza junto a una manta doblada y un vaso de agua en una sala tranquila con luz de tarde"
+  },
+  "blocks": [
+    { "type": "p", "text": "Es domingo, almorzaste arroz con pato en casa de la familia y ese mismo día estrenaste tu doypack de Prunex1. Al día siguiente, en lugar de sentirte más liviano, notas la barriga tensa y unos retortijones que van y vienen. ¿Es el producto? ¿Es normal? ¿Tienes que dejarlo?" },
+    { "type": "p", "text": "Las molestias abdominales al incorporar fibra a la rutina son relativamente comunes y, en la mayoría de casos, leves y pasajeras. Pero que sean comunes no significa que haya que aguantarlas sin más. Aquí te explicamos por qué pueden aparecer, qué puedes hacer y qué señales indican que debes suspender. Para el panorama general, revisa nuestra [guía de opiniones de Prunex1](/opiniones-prunex1/)." },
+    { "type": "h2", "text": "¿Por qué Prunex1 puede dar dolor de estómago al empezar?" },
+    { "type": "p", "text": "La etiqueta lista 16 ingredientes. Varios de ellos son fibras o compuestos que interactúan con las bacterias del intestino grueso, y ahí está la explicación más probable de esos cólicos iniciales." },
+    { "type": "h3", "text": "La fermentación de la fibra" },
+    { "type": "p", "text": "La **inulina de achicoria** es una fibra prebiótica: no se digiere en el intestino delgado y llega al colon, donde las bacterias la fermentan. Ese proceso produce gases como hidrógeno y dióxido de carbono. Si tu dieta habitual tiene poca fibra, tu intestino no está acostumbrado a ese aporte y el gas extra puede sentirse como presión, hinchazón o cólicos. Tienes más detalles en el artículo sobre la [inulina de achicoria en Prunex1](/ingredientes-prunex1/inulina-de-achicoria/)." },
+    { "type": "h3", "text": "El sorbitol y el volumen del psyllium" },
+    { "type": "p", "text": "El sorbitol es un poliol que se absorbe de forma incompleta; en cantidades altas atrae agua hacia el intestino y también puede fermentar. La etiqueta no declara cuánto sorbitol contiene cada stick, así que no es posible saber cuánto influye en tu caso. A esto se suma el psyllium, que absorbe agua y aumenta el volumen del contenido intestinal: si tomas poca agua durante el día, esa masa puede resultar incómoda." },
+    { "type": "table", "caption": "Ingredientes de la etiqueta que pueden relacionarse con molestias", "headers": ["Ingrediente", "Qué hace", "Molestia posible"], "rows": [
+      ["Inulina de achicoria", "Fibra soluble fermentable (prebiótica)", "Gases, hinchazón, cólicos leves"],
+      ["Psyllium (Plantago ovata)", "Absorbe agua y forma gel", "Pesadez si falta agua"],
+      ["Mucílago de linaza", "Fibra viscosa", "Pesadez en personas sensibles"],
+      ["Sorbitol", "Poliol de sabor dulce", "Gases o heces blandas en cantidades altas"]
+    ] },
+    { "type": "p", "text": "La tabla describe lo que se sabe de cada ingrediente en general. La cantidad de cada fibra por stick no está declarada; lo único que figura en la etiqueta es la fibra dietaria total: **1.7 g por porción**." },
+    { "type": "h2", "text": "Qué molestias son de adaptación y cuáles no" },
+    { "type": "p", "text": "Distinguir una incomodidad pasajera de un problema real es lo más importante de este artículo. Usa esta comparación como orientación, no como diagnóstico." },
+    { "type": "table", "caption": "Orientación general", "headers": ["Probablemente adaptación", "Motivo para suspender y consultar"], "rows": [
+      ["Gases y algo de hinchazón", "Dolor intenso, punzante o que te despierta"],
+      ["Cólicos leves que ceden al evacuar o eliminar gases", "Dolor que no cede o empeora con las tomas"],
+      ["Molestia que va disminuyendo", "Sangre en las heces, heces negras o fiebre"],
+      ["Ruidos intestinales", "Vómitos, abdomen duro o imposibilidad de eliminar gases"],
+      ["Deposiciones algo más blandas", "Diarrea persistente o signos de deshidratación"]
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Suspende y busca atención si...", "text": "El dolor es intenso o va en aumento, aparece sangre en las heces, tienes fiebre o vómitos, el abdomen se pone duro o no puedes eliminar gases. También si notas hinchazón de labios o lengua, ronchas o dificultad para respirar, porque podría ser una reacción alérgica: el producto contiene carmín y se elabora en equipos que procesan leche, huevos y soya." },
+    { "type": "cta", "text": "¿Quieres conocer el precio actual de Prunex1 y comprarlo por un canal autorizado? Revísalo aquí." },
+    { "type": "h2", "text": "Cómo actuar si tienes molestias leves" },
+    { "type": "p", "text": "Si lo que sientes encaja en la columna de adaptación, estas medidas generales suelen ayudar. No son un esquema de uso, sino sentido común para cualquier persona que suma fibra a su alimentación." },
+    { "type": "ul", "items": [
+      "**Reparte el agua durante el día.** La fibra con poco líquido es la combinación perfecta para la pesadez. Ten a mano una botella o un termo con una infusión sin azúcar, sobre todo en la oficina.",
+      "**No aumentes la porción.** La etiqueta indica 1 stick por porción; tomar más «para que haga efecto» suele empeorar los gases. Si quieres modificar la cantidad, coméntalo antes con un profesional.",
+      "**Prepáralo como indica la etiqueta.** Un stick en 180 ml de agua caliente, bien revuelto y consumido completo.",
+      "**Revisa qué más comiste.** Menestras, cebolla, camote, gaseosas o un almuerzo muy abundante también producen gas; a veces el dolor coincide con la taza, pero no viene de ella.",
+      "**Muévete.** Una caminata suave después de comer ayuda a que los gases avancen.",
+      "**Dale margen a tu cuerpo, pero con límite.** Si la molestia leve no disminuye en las siguientes tomas, detente y consulta."
+    ] },
+    { "type": "p", "text": "Si los gases son tu molestia principal, tenemos un artículo dedicado a [por qué Prunex1 puede dar gases y cómo reducirlos](/opiniones-prunex1/da-gases/)." },
+    { "type": "h2", "text": "Quiénes deberían tener más cuidado" },
+    { "type": "p", "text": "Hay perfiles en los que un dolor de estómago no debería atribuirse a la adaptación sin consultar antes:" },
+    { "type": "ul", "items": [
+      "Personas con **síndrome de intestino irritable**: la inulina y el sorbitol forman parte de los FODMAP y pueden empeorar los síntomas. Lo explicamos en [Prunex1 y colon irritable](/opiniones-prunex1/colon-irritable/).",
+      "Personas con antecedentes de cirugía abdominal, estrechez intestinal o sospecha de obstrucción.",
+      "Quienes tienen dificultad para tragar.",
+      "Personas con enfermedades crónicas o que toman medicación diaria.",
+      "Embarazadas y madres en lactancia: la ficha oficial de FuXion indica que no es apto.",
+      "Personas con tránsito intestinal normal: según la misma ficha, tampoco es apto."
+    ] },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion comunica que Prunex1 ayuda a sentirte más liviano sin las molestias de la hinchazón abdominal. Es una afirmación comercial: la tolerancia es individual y algunas personas pueden notar gases o cólicos al inicio, como ocurre con muchas fuentes de fibra." },
+    { "type": "p", "text": "Cuando decidas probarlo, hazlo con un producto original y bien sellado. En [nuestra página para comprar Prunex1](/comprar-prunex1/) tienes el precio de catálogo y el acceso a la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿El dolor significa que Prunex1 ya me está haciendo efecto?", "a": "No necesariamente. Los cólicos suelen reflejar gas por fermentación, no una señal de que esté funcionando. Una buena respuesta debería sentirse cómoda; si duele, algo no encaja." },
+    { "q": "¿Puedo tomar algo para los gases y seguir con Prunex1?", "a": "Consulta con tu médico o farmacéutico antes de combinarlo con cualquier medicamento, porque la fibra puede retrasar la absorción de algunos fármacos. Si necesitas medicación para tolerarlo, quizá no es el producto adecuado para ti." },
+    { "q": "¿Tomarlo con el estómago vacío da más molestias?", "a": "La etiqueta no indica un momento del día. Algunas personas sensibles toleran mejor las bebidas con fibra junto con las comidas; observa cómo responde tu cuerpo y, si las molestias siguen, consulta." },
+    { "q": "¿El anís estrella de la fórmula alivia los cólicos?", "a": "El anís estrella tiene un uso tradicional digestivo, pero la etiqueta no declara su cantidad y no hay estudios del producto que lo respalden. No conviene esperar que compense las molestias que pueda causar la fibra." }
+  ],
+  "sources": [
+    { "label": "EFSA – Scientific Opinion on chicory inulin and bowel function (2015)", "url": "https://www.efsa.europa.eu/en/efsajournal/pub/3951" },
+    { "label": "NIDDK – Gas in the digestive tract", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/gas-digestive-tract" },
+    { "label": "Monash University – FODMAP", "url": "https://www.monashfodmap.com/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": [
+    "/opiniones-prunex1/da-gases/",
+    "/opiniones-prunex1/efectos-secundarios/",
+    "/opiniones-prunex1/diarrea/",
+    "/ingredientes-prunex1/sorbitol/"
+  ]
+}

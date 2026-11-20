@@ -1,0 +1,78 @@
+{
+  "slug": "envio-a-provincias",
+  "pillar": "precio-prunex1-peru",
+  "path": "/precio-prunex1-peru/envio-a-provincias/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 envío provincias",
+  "title": "Prunex1 envío a provincias: cómo pedirlo desde tu ciudad",
+  "seoTitle": "Prunex1 envío a provincias: compra desde tu región",
+  "metaDescription": "Prunex1 con envío a provincias: cómo pedirlo desde Arequipa, Trujillo, Piura, Cusco o Iquitos en la tienda oficial y ver costo y plazo antes de pagar.",
+  "excerpt": "Guía para pedir Prunex1 desde cualquier región del Perú en la tienda oficial: dirección, costo y plazo en el checkout, y cómo recibirlo y guardarlo según el clima de tu ciudad.",
+  "quickAnswer": "El envío de Prunex1 a provincias se gestiona desde la tienda oficial del distribuidor: eliges la presentación, escribes tu dirección en Arequipa, Trujillo, Piura, Cusco, Chiclayo, Huancayo, Iquitos u otra ciudad, y el checkout te muestra el costo y el plazo antes de pagar. No necesitas viajar a Lima ni recurrir a revendedores.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clay mug of warm reddish-amber drink on a rustic wooden table next to an open window with white volcanic stone arches, Andean mountains softly blurred in the background, bright clear morning light, a few dried prunes on a small ceramic plate, peaceful provincial Peruvian home atmosphere, no packaging, no sachets, no text, no logos, no people",
+    "alt": "Taza de bebida color ámbar junto a una ventana de sillar con montañas andinas al fondo"
+  },
+  "blocks": [
+    { "type": "p", "text": "Durante años, conseguir un producto FuXion fuera de la capital dependía de un familiar que viajaba a Lima o de un encargo que llegaba por la terminal de buses, con suerte bien envuelto. Hoy el camino es más corto: la misma tienda online que usa alguien en Surco sirve para quien vive en Piura, en Huancayo o en Iquitos." },
+    { "type": "p", "text": "Aquí te cuento cómo funciona el pedido desde provincias, qué datos conviene escribir para que el paquete no se pierda en el camino y qué revisar cuando llega a tu puerta." },
+    { "type": "h2", "text": "¿Cómo funciona el envío de Prunex1 a provincias?" },
+    { "type": "p", "text": "Prunex1 se vende por la tienda online de los distribuidores autorizados de FuXion. Tú haces el pedido, el sistema de la marca lo procesa y el despacho sale desde su logística hacia la dirección que indicaste. No hay un precio distinto por región: el doypack de 28 sticks figura a S/ 76.00 de catálogo y el de 7 sticks a S/ 21.00, vivas donde vivas." },
+    { "type": "p", "text": "Lo que sí cambia según el destino es el costo de envío y el tiempo de entrega. Ambos se calculan automáticamente cuando ingresas tu dirección y aparecen en el resumen del pedido antes de pagar. Para ver cómo encaja eso en el gasto total, revisa la [guía de precios de Prunex1 en Perú](/precio-prunex1-peru/)." },
+    { "type": "h2", "text": "Paso a paso para pedir desde tu ciudad" },
+    { "type": "steps", "items": [
+      { "name": "Entra a la tienda", "text": "Abre la [página para comprar Prunex1](/comprar-prunex1/) o ve directo a la [tienda oficial del distribuidor](https://carlos-lingan.site.fuxion.com/prunex1/)." },
+      { "name": "Elige la presentación", "text": "Selecciona el doypack de 28 sticks o el de 7 sticks y agrégalo al carrito." },
+      { "name": "Completa la dirección", "text": "Indica departamento, provincia y distrito, calle o jirón, número, una referencia clara y un celular que contestes." },
+      { "name": "Revisa costo y plazo", "text": "Antes de pagar, mira el resumen: ahí figuran el subtotal, el envío calculado para tu zona y el tiempo estimado." },
+      { "name": "Paga y guarda la confirmación", "text": "Completa el pago y conserva el correo con el número de pedido; te servirá para cualquier consulta." }
+    ] },
+    { "type": "callout", "variant": "tip", "title": "La referencia vale oro", "text": "En urbanizaciones nuevas, asentamientos o zonas donde la numeración no es correlativa, una referencia concreta (frente al parque, a media cuadra del mercado, portón verde de dos pisos) ahorra llamadas y reprogramaciones. Escríbela como se la explicarías a un mototaxista que no conoce la zona." },
+    { "type": "h2", "text": "Desde qué ciudades puedes pedirlo y qué tener en cuenta" },
+    { "type": "p", "text": "El pedido se hace igual desde cualquier ciudad. Lo que varía es el clima en el que vas a guardar el doypack, y eso sí importa: la etiqueta pide conservarlo en un lugar fresco y seco. Algunos ejemplos prácticos:" },
+    { "type": "table", "caption": "Pedir Prunex1 desde distintas ciudades: cuidados al recibir y guardar", "headers": ["Ciudad", "Clima a considerar", "Cómo guardarlo al llegar"], "rows": [
+      ["Arequipa", "Sol fuerte y ambiente seco", "En una alacena cerrada, lejos de ventanas con sol directo"],
+      ["Trujillo", "Humedad costera", "Cierra bien el zip del doypack después de cada uso"],
+      ["Piura", "Calor intenso buena parte del año", "Nunca dentro del auto ni al costado de la cocina"],
+      ["Chiclayo", "Calor y viento con arena", "En un mueble cerrado para evitar polvo y temperatura alta"],
+      ["Cusco", "Altura, frío seco y lluvias estacionales", "En un lugar seco; ojo con la condensación si lo mueves de un ambiente frío a uno caliente"],
+      ["Huancayo", "Frío y temporada de lluvias", "Lejos de paredes húmedas; mejor en una repisa alta"],
+      ["Iquitos", "Humedad amazónica alta todo el año", "Doypack bien cerrado y, si puedes, dentro de un recipiente hermético"]
+    ] },
+    { "type": "p", "text": "En el caso de Iquitos, al no tener conexión por carretera con el resto del país, es razonable que el costo y el plazo del envío difieran de los de otras ciudades. No lo supongas: el checkout te muestra la cifra exacta para tu dirección." },
+    { "type": "cta", "text": "Escribe tu dirección en la tienda oficial y revisa el costo de envío a tu ciudad antes de confirmar el pedido." },
+    { "type": "h2", "text": "Costo y plazo: por qué no los publicamos aquí" },
+    { "type": "p", "text": "Podríamos poner una tabla con tarifas por región, pero estaríamos inventando o, en el mejor de los casos, publicando datos que caducan pronto. El costo de envío depende del destino, del tamaño del pedido y de las tarifas vigentes del operador logístico. La única cifra confiable es la que ves en el resumen del pedido." },
+    { "type": "p", "text": "Lo que sí podemos decirte es cómo pensar el gasto. Como el envío se paga por pedido, el doypack de 28 sticks reparte ese costo entre más porciones: a precio de catálogo sale S/ 2.71 por stick, frente a S/ 3.00 en el de 7 sticks. Tienes el cálculo completo en [el precio por stick de Prunex1](/precio-prunex1-peru/precio-por-stick/)." },
+    { "type": "h2", "text": "Al recibir el pedido en provincia" },
+    { "type": "p", "text": "Antes de firmar o despedir al repartidor, dedica un minuto a revisar el paquete:" },
+    { "type": "ul", "items": [
+      "Caja o bolsa de envío sin roturas ni signos de haberse mojado.",
+      "Doypack sellado, con el cierre intacto.",
+      "Lote y fecha de vencimiento legibles en el empaque.",
+      "Polvo suelto al palpar los sticks, sin bloques duros por humedad."
+    ] },
+    { "type": "p", "text": "Si algo no está bien, toma fotos antes de abrir el doypack y escribe por la página de [contacto](/contacto/) con tu número de pedido. Y una vez en casa, sigue las pautas de [conservación y vencimiento de Prunex1](/como-preparar-prunex1/conservar-y-vencimiento/), sobre todo si vives en una zona húmeda." },
+    { "type": "h2", "text": "¿Por qué no comprarlo a un revendedor de tu ciudad?" },
+    { "type": "p", "text": "En muchas ciudades hay quien ofrece Prunex1 por redes sociales o en una tienda naturista. A veces parece más rápido, pero no sabes cuánto tiempo estuvo guardado ni en qué condiciones, algo crítico en climas como el de Iquitos o Piura. Los riesgos más comunes están explicados en [comprar en marketplaces y redes](/precio-prunex1-peru/riesgos-de-comprar-en-marketplaces/)." },
+    { "type": "callout", "variant": "aviso", "title": "Antes de empezar a tomarlo", "text": "Prunex1 es un alimento con fibra (1.7 g por porción), no un medicamento. Si tomas medicación, tienes una enfermedad crónica o notas dolor intenso, sangre en las heces o cambios bruscos en tu hábito intestinal, consulta primero con un médico. La ficha oficial de FuXion indica que no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." }
+  ],
+  "faqs": [
+    { "q": "¿El precio de Prunex1 es más alto si vivo fuera de Lima?", "a": "No. El precio de catálogo es el mismo en todo el país: S/ 76.00 el doypack de 28 sticks y S/ 21.00 el de 7. Lo único que varía según tu ciudad es el costo de envío, que ves en el checkout." },
+    { "q": "¿Puedo hacer el pedido para mis padres que viven en Chiclayo?", "a": "Sí. Haz la compra desde tu cuenta y escribe la dirección y el celular de quien va a recibir. Avísales con anticipación para que estén atentos a la llamada del repartidor." },
+    { "q": "¿Llega a distritos alejados o zonas rurales?", "a": "Depende de la cobertura del servicio de despacho en ese punto. Al ingresar la dirección, el sistema te indica si hay envío disponible y en qué condiciones; si tu zona no aparece, escríbenos antes de pagar." },
+    { "q": "¿Qué hago si el paquete llega abierto o golpeado?", "a": "No abras el doypack, toma fotos del paquete y del empaque, y comunícate con tu número de pedido. Así se puede gestionar el reclamo con evidencia clara." }
+  ],
+  "sources": [
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" },
+    { "label": "Indecopi – protección al consumidor", "url": "https://www.gob.pe/indecopi" },
+    { "label": "DIGESA – inocuidad alimentaria", "url": "https://www.digesa.minsa.gob.pe/" }
+  ],
+  "related": [
+    "/precio-prunex1-peru/delivery-lima/",
+    "/precio-prunex1-peru/donde-comprar-original/",
+    "/precio-prunex1-peru/formas-de-pago/",
+    "/como-preparar-prunex1/conservar-y-vencimiento/"
+  ]
+}

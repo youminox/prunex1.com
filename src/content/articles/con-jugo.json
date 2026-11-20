@@ -1,0 +1,78 @@
+{
+  "slug": "con-jugo",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/con-jugo/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 con jugo",
+  "title": "Prunex1 con jugo de naranja u otras bebidas: ¿conviene?",
+  "seoTitle": "Prunex1 con jugo: azúcar, sabor y textura",
+  "metaDescription": "¿Prunex1 con jugo de naranja? Qué cambia en azúcar, sabor y textura, qué pasa con chicha morada o emoliente y por qué la etiqueta indica agua caliente.",
+  "excerpt": "Mezclar Prunex1 con jugo de naranja o chicha morada es posible, pero suma azúcar, cambia el sabor y altera la textura. Te explicamos cuándo tiene sentido y por qué el agua caliente sigue siendo la mejor base.",
+  "quickAnswer": "Tomar Prunex1 con jugo es posible como variante casera, pero no es lo que indica la etiqueta, que pide 180 ml de agua caliente. El jugo de naranja suma azúcares de la fruta y varias veces más calorías que las 18 kcal de la porción, cambia el sabor guindón y espesa de forma irregular en frío.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A warm ceramic cup of reddish-amber drink next to a halved orange and a small glass of fresh orange juice on a marble counter of a bright Lima kitchen, morning sunlight, a few dried prunes on a small plate, clean minimal composition, shallow depth of field. NO packaging, NO sachets, NO text, NO logos, NO visible faces.",
+    "alt": "Taza con bebida rojiza ámbar al lado de una naranja partida y un vaso pequeño de jugo sobre un mostrador claro"
+  },
+  "blocks": [
+    { "type": "p", "text": "En el desayuno peruano el jugo es casi sagrado: el de naranja de la juguería del mercado, el de papaya con un toque de limón o el surtido de los domingos. Con ese hábito tan arraigado, la duda aparece sola: si ya voy a tomar un jugo, ¿por qué no disolver ahí el stick y ahorrarme una taza?" },
+    { "type": "p", "text": "Tiene lógica práctica, pero mezclar **Prunex1 con jugo** cambia más cosas de las que parece. Vamos por partes: qué dice la etiqueta, cuánta azúcar sumas, qué pasa con el sabor y por qué la textura se comporta distinto en un líquido frío y con pulpa." },
+    { "type": "h2", "text": "¿Se puede tomar Prunex1 con jugo?" },
+    { "type": "p", "text": "Nada en el empaque lo prohíbe, pero tampoco lo indica. La etiqueta es clara: un stick de 5 g en una taza de **180 ml de agua caliente**, revolver bien y tomar toda la preparación. Cualquier otra base, sea jugo, leche o chicha, es una **variante no oficial**, y los datos nutricionales declarados dejan de describir lo que realmente estás tomando." },
+    { "type": "callout", "variant": "etiqueta", "title": "La referencia oficial", "text": "Modo de empleo: «Disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente, y revolver bien. Una vez preparado consumir en su totalidad». La tabla nutricional (18 kcal, 4.5 g de carbohidratos, 0.2 g de azúcares totales) corresponde a esa preparación con agua." },
+    { "type": "p", "text": "Si quieres repasar la preparación base con todos sus detalles, la encuentras en nuestra [guía para preparar Prunex1 correctamente](/como-preparar-prunex1/)." },
+    { "type": "h2", "text": "Azúcar extra: lo que más cambia al usar jugo" },
+    { "type": "p", "text": "Prunex1 lleva el sello sin azúcares: **0 g de azúcares añadidos** y apenas 0.2 g de azúcares totales por porción, con un dulzor que viene de la estevia y el sorbitol. Un vaso de jugo de naranja, aunque sea recién exprimido, cambia ese panorama por completo." },
+    { "type": "table", "caption": "Comparación aproximada por taza de 180 ml (los datos del jugo son referencias generales, no del producto)", "headers": ["Preparación", "Energía aproximada", "Azúcares", "Comentario"], "rows": [
+      ["Prunex1 en agua caliente", "18 kcal", "0.2 g totales, 0 g añadidos", "Lo que declara la etiqueta"],
+      ["Prunex1 en jugo de naranja natural", "Alrededor de 100 kcal", "Unos 15 g de la fruta", "El jugo aporta casi todo el azúcar y la energía"],
+      ["Prunex1 en jugo envasado o néctar", "Variable, suele ser mayor", "Puede incluir azúcar añadida", "Revisa los octógonos y la etiqueta del jugo"]
+    ] },
+    { "type": "p", "text": "Hay un matiz importante: la Organización Mundial de la Salud considera **azúcares libres** también a los presentes de forma natural en los jugos de fruta, porque al exprimir la fruta se pierde buena parte de su estructura. Es decir, que el jugo sea natural no lo convierte en neutro. Si te interesa el detalle del dulzor del producto, lo explicamos en [qué azúcares tiene Prunex1](/ingredientes-prunex1/tiene-azucar/)." },
+    { "type": "h2", "text": "Sabor: qué jugos combinan con el guindón" },
+    { "type": "p", "text": "El perfil de Prunex1 es de guindón con notas de anís estrella y limón. Algunas frutas lo acompañan y otras chocan con él:" },
+    { "type": "ul", "items": [
+      "**Naranja:** su acidez compite con el anís; a algunas personas les resulta interesante y a otras, extraño. Mejor probar con poca cantidad.",
+      "**Manzana:** dulce y neutra, es de las combinaciones más amables con la fruta seca.",
+      "**Maracuyá:** muy intensa; tapa casi por completo el sabor original.",
+      "**Papaya:** combina bien, pero ya espesa por sí sola. Si buscas una textura cremosa, mira nuestra versión de [smoothie con Prunex1](/como-preparar-prunex1/en-smoothie/), que trata ese caso aparte."
+    ] },
+    { "type": "cta", "text": "Si prefieres quedarte con la preparación de la etiqueta, revisa el precio vigente del doypack de 28 sticks en la tienda oficial." },
+    { "type": "h2", "text": "Textura: por qué en jugo frío se espesa distinto" },
+    { "type": "p", "text": "El psyllium y la goma xantán de la fórmula absorben líquido y forman un gel suave. En agua caliente, revolviendo de inmediato, el polvo se dispersa de manera pareja. En un jugo frío y con pulpa la historia cambia: el polvo tiende a flotar, se aglutina en bolitas y en pocos minutos la mezcla puede quedar espesa en el fondo y aguada arriba." },
+    { "type": "p", "text": "Si aun así decides probar, hay un truco sencillo que respeta mejor la proporción. No reemplaza la indicación de la etiqueta, pero reduce los grumos:" },
+    { "type": "steps", "items": [
+      { "name": "Disuelve primero en agua caliente", "text": "Vierte el stick en unos 80 a 100 ml de agua caliente y revuelve de inmediato hasta que no queden partículas." },
+      { "name": "Completa con jugo", "text": "Añade jugo hasta llegar a los 180 ml en total. Así no duplicas el volumen ni diluyes de más el producto." },
+      { "name": "Revuelve otra vez", "text": "Integra bien ambos líquidos. Si notas grumos, revisa nuestros [trucos para disolverlo sin grumos](/como-preparar-prunex1/sin-grumos/)." },
+      { "name": "Tómalo enseguida", "text": "No lo dejes reposar: la mezcla sigue espesando y, como pide la etiqueta, debe consumirse en su totalidad." }
+    ] },
+    { "type": "h2", "text": "¿Y con chicha morada, emoliente, leche o gaseosa?" },
+    { "type": "p", "text": "La pregunta no se limita a la naranja. Estas son las bebidas que más se mencionan en casa y lo que conviene saber de cada una:" },
+    { "type": "ul", "items": [
+      "**Chicha morada:** casi siempre se prepara con azúcar, así que sumas dulzor y calorías. El color queda parecido, pero el sabor del maíz morado domina.",
+      "**Emoliente:** es caliente, sí, pero suele llevar azúcar y muchas veces linaza u otras semillas que ya espesan. Con el stick encima puede quedar demasiado denso.",
+      "**Leche o bebidas vegetales:** cambian el sabor y suman calorías y proteína que el producto no tiene. Ten presente además la advertencia de la etiqueta sobre trazas de leche, huevo y soya.",
+      "**Gaseosas o agua con gas:** el gas reacciona con el polvo, hace espuma y se rebalsa; además aportan azúcar o edulcorantes extra.",
+      "**Bebidas rehidratantes:** añaden azúcares y sales sin ningún beneficio para la preparación."
+    ] },
+    { "type": "h2", "text": "Por qué preferimos lo que indica la etiqueta" },
+    { "type": "p", "text": "No es por purismo. Con agua caliente sabes exactamente qué tomas: los 18 kcal, los 1.7 g de fibra dietaria y los 0 g de azúcares añadidos que figuran en la tabla. Con jugo, esos números se mezclan con los de otra bebida y es más difícil saber qué te cae bien y qué no." },
+    { "type": "p", "text": "Además, el agua es lo único que la fibra necesita para hacer su trabajo, y ya la tienes en el caño o el hervidor. Si el problema es el sabor, una opción intermedia es tomar la taza preparada con agua y dejar tu jugo para el desayuno, por separado. Así no renuncias a ninguno de los dos." },
+    { "type": "callout", "variant": "aviso", "title": "Si cuidas tu glucosa o tomas medicación", "text": "Sumar jugo puede ser relevante si tienes diabetes, resistencia a la insulina o controlas tus azúcares por indicación médica. Revisa lo que explicamos sobre [Prunex1 en personas con diabetes](/opiniones-prunex1/diabeticos/) y consulta con tu médico. Prunex1 es un alimento, no un medicamento; ante dolor intenso, sangre en las heces o cambios bruscos del hábito intestinal, acude a un profesional." },
+    { "type": "p", "text": "Cuando tengas claro cómo prefieres tomarlo, puedes [comprar Prunex1 en la tienda oficial](/comprar-prunex1/) del distribuidor autorizado en Lima; el costo de envío a Lima o provincias se calcula al pagar." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo usar jugo de caja en lugar de jugo natural?", "a": "Puedes, pero suele ser la peor opción: muchos jugos envasados y néctares llevan azúcar añadida o concentrados. Si lo haces, revisa la etiqueta del jugo y sus octógonos, porque los valores de Prunex1 ya no describirán tu bebida." },
+    { "q": "¿El jugo de naranja anula la fibra de Prunex1?", "a": "No hay razón para pensar que la fibra desaparezca: el stick sigue aportando lo mismo. El problema no es que se anule, sino que añades azúcares y calorías que el producto no tiene, y que la textura queda irregular." },
+    { "q": "¿Puedo dejar la mezcla con jugo lista en la refrigeradora para la mañana?", "a": "No es buena idea. La etiqueta indica consumir la preparación en su totalidad una vez hecha, y con las horas la fibra forma un gel espeso que resulta difícil de tomar. Prepárala al momento." },
+    { "q": "¿Y si la mezclo con jugo de guindones?", "a": "El producto ya contiene guindón deshidratado y sorbitol. Un jugo de guindones suma más sorbitol y azúcares naturales, lo que en algunas personas puede ablandar de más las deposiciones. Si quieres intensificar el sabor, es preferible hacerlo con cautela y en poca cantidad." }
+  ],
+  "sources": [
+    { "label": "OMS – Directriz sobre la ingesta de azúcares", "url": "https://www.who.int/" },
+    { "label": "USDA FoodData Central – composición de alimentos", "url": "https://fdc.nal.usda.gov/" },
+    { "label": "NIDDK – Salud digestiva", "url": "https://www.niddk.nih.gov/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/como-preparar-prunex1/con-infusiones/", "/como-preparar-prunex1/en-smoothie/", "/ingredientes-prunex1/tiene-azucar/", "/como-preparar-prunex1/errores-al-prepararlo/"]
+}

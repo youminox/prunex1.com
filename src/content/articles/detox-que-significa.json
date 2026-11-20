@@ -1,0 +1,78 @@
+{
+  "slug": "detox-que-significa",
+  "pillar": "que-es-prunex1",
+  "path": "/que-es-prunex1/detox-que-significa/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 detox",
+  "title": "Prunex1 detox: qué significa la palabra y qué hace de verdad",
+  "seoTitle": "Prunex1 detox: qué significa y qué no promete",
+  "metaDescription": "Prunex1 detox explicado sin humo: qué quiere decir la Línea Limpieza y Detox, qué hacen tu hígado y riñones y cómo leer 'liberarte de desechos'.",
+  "excerpt": "La palabra detox vende mucho, pero no significa lo mismo en un catálogo que en un libro de fisiología. Te explicamos qué hay detrás de la etiqueta de Prunex1.",
+  "quickAnswer": "Prunex1 detox es una etiqueta comercial: FuXion lo ubica en su Línea Limpieza y Detox, pero el producto es una bebida en polvo con fibras y extractos vegetales (1.7 g de fibra por porción). No reemplaza la labor de tu hígado y riñones, que son los órganos que realmente depuran el organismo; su papel razonable está en el tránsito intestinal.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass mug of warm reddish-amber infusion on a white marble kitchen counter beside a cutting board with a halved lemon, a few dried prunes and two star anise pods, soft grey morning light from a window on a misty winter day in Lima, calm minimal style, no packaging, no sachets, no text, no logos, no people",
+    "alt": "Taza de vidrio con bebida ámbar rojiza junto a limón partido, guindones y anís estrella en una mañana nublada"
+  },
+  "blocks": [
+    { "type": "p", "text": "Basta pasear por los anaqueles de cualquier tienda en Lima, o revisar el feed después de las fiestas de fin de año, para encontrar la palabra *detox* en jugos verdes, tés, cápsulas y hasta en cremas. Se ha vuelto una especie de comodín: sugiere limpieza, ligereza y un nuevo comienzo, pero casi nunca explica qué sale, por dónde ni en qué cantidad." },
+    { "type": "p", "text": "Con **Prunex1 detox** pasa algo parecido. FuXion lo ubica en su *Línea Limpieza y Detox*, y surgen preguntas legítimas: ¿limpia la sangre?, ¿sirve para \"resetear\" el cuerpo tras un fin de semana de excesos? Aquí separamos el lenguaje de catálogo de lo que hace tu cuerpo y de lo que dice la etiqueta." },
+    { "type": "h2", "text": "Qué quiere decir \"detox\" cuando lo usa el marketing" },
+    { "type": "p", "text": "En publicidad, *detox* no es un término técnico. Es una categoría que agrupa productos asociados a la idea de \"limpiar\" o \"aligerar\": bebidas con fibra, infusiones, programas. Ordena un catálogo, pero no describe un mecanismo fisiológico concreto." },
+    { "type": "p", "text": "Por eso conviene leer el nombre de la línea como lo que es: un **paraguas comercial**. Que Prunex1 esté bajo ese paraguas te dice en qué estantería lo colocó la marca, no que extraiga sustancias tóxicas de tus órganos." },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion presenta Prunex1 como un \"té herbal a base de mix de fibras solubles y extracto de guindón\" y le atribuye tres beneficios: tener un adecuado tránsito intestinal; sentirte más liviano sin las molestias de la hinchazón abdominal; y liberarte de desechos perjudiciales para tu organismo. Son afirmaciones comerciales del fabricante." },
+    { "type": "h2", "text": "Qué significa desintoxicar en fisiología: hígado y riñones" },
+    { "type": "p", "text": "En medicina, *desintoxicación* tiene un sentido mucho más preciso: tratar una intoxicación real (por ejemplo, con alcohol, medicamentos o sustancias químicas), algo que se hace en un servicio de salud. En el día a día, en cambio, la depuración es un trabajo continuo que tu cuerpo hace por su cuenta." },
+    { "type": "ul", "items": [
+      "**Hígado:** transforma muchas sustancias (restos del metabolismo, alcohol, fármacos) en formas que el cuerpo puede eliminar, en parte a través de la bilis.",
+      "**Riñones:** filtran la sangre de forma constante y eliminan desechos y exceso de líquido por la orina.",
+      "**Pulmones:** expulsan dióxido de carbono con cada respiración.",
+      "**Intestino:** además de absorber nutrientes, elimina lo que no se digiere y parte de lo que llega con la bilis, a través de las heces."
+    ] },
+    { "type": "p", "text": "Ninguna bebida en polvo sustituye ese sistema ni lo \"recarga\". Lo que sí lo favorece es poco glamoroso: dormir bien, tomar agua, comer frutas, verduras y menestras, moderar el alcohol y no automedicarse. El NCCIH de Estados Unidos señala que hay poca evidencia de calidad que respalde los programas *detox*." },
+    { "type": "h2", "text": "Lectura honesta de \"liberarte de desechos\"" },
+    { "type": "p", "text": "Si se lee con calma, la frase de FuXion apunta al intestino, no al hígado. El \"desecho\" del que tiene sentido hablar con una bebida de fibras es la materia fecal. La fibra soluble que absorbe agua y forma un gel, como el psyllium que figura en la lista de ingredientes, ayuda en términos generales a que las heces tengan más volumen y una consistencia más fácil de evacuar." },
+    { "type": "p", "text": "Dicho de otro modo: la interpretación razonable de \"liberarte de desechos\" es **acompañar el tránsito intestinal**, que es justamente el primer beneficio que comunica la marca. Lo que no cabe en esa frase es la idea de que la bebida neutraliza venenos, limpia la sangre o depura órganos. Si quieres ver cómo encaja la fibra en ese proceso, lo desarrollamos en el artículo sobre [fibra y tránsito intestinal](/que-es-prunex1/fibra-y-transito-intestinal/)." },
+    { "type": "table", "caption": "Detox de catálogo frente a depuración del cuerpo", "headers": ["Aspecto", "Lenguaje de marketing", "Lo que ocurre en el organismo"], "rows": [
+      ["Quién depura", "La bebida o el programa", "Hígado, riñones, pulmones e intestino, todos los días"],
+      ["Qué se elimina", "\"Toxinas\" sin especificar", "Desechos concretos: urea, bilis, CO2, heces"],
+      ["Papel de Prunex1", "Producto de la Línea Limpieza y Detox", "Aporta 1.7 g de fibra por porción que acompaña el tránsito intestinal"],
+      ["Promesa de plazo", "Frecuente en anuncios", "La etiqueta no indica plazos ni resultados"]
+    ] },
+    { "type": "h2", "text": "Qué hay realmente en una taza de Prunex1" },
+    { "type": "p", "text": "La etiqueta peruana es más sobria que cualquier eslogan. Define el producto como \"bebida instantánea en polvo a base de fibras y extractos vegetales\", sabor guindón, y su primer ingrediente es la tapioca en polvo. Siguen achicoria (inulina), psyllium, anís estrella, kelp, limón y guindón deshidratados, mucílago de linaza y otros componentes de sabor y textura. Puedes revisar la lista completa en nuestra guía de [ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "callout", "variant": "etiqueta", "title": "Por porción (1 stick de 5 g en 180 ml de agua caliente)", "text": "18 kcal, 0 g de grasa, 4.5 g de carbohidratos, 1.7 g de fibra dietaria, 0.2 g de azúcares totales, 0 g de azúcares añadidos y 2.0 mg de sodio. La etiqueta no declara la cantidad de cada fibra ni de guindón por stick." },
+    { "type": "p", "text": "Ninguno de esos componentes está pensado para retirar metales o contaminantes. Es una mezcla de fibras con pocas calorías y sello sin azúcares (endulzada con estevia y sorbitol): su valor está en la practicidad, no en una limpieza interna." },
+    { "type": "cta", "text": "Si buscas una bebida de fibras práctica y quieres conocer el precio actualizado, revisa las opciones de compra oficiales." },
+    { "type": "h2", "text": "Prunex1 detox y las expectativas: lo que no deberías esperar" },
+    { "type": "p", "text": "Para no inflar expectativas, ten claro lo que esta bebida no es:" },
+    { "type": "ul", "items": [
+      "**No es un medicamento**: no trata, no previene ni sana enfermedades del hígado, los riñones o el intestino.",
+      "**No es una herramienta para bajar de peso**: con 18 kcal no quema grasa, y sentirte menos hinchado no equivale a perder grasa. Lo explicamos en [Prunex1 y los mitos sobre adelgazar](/que-es-prunex1/adelgaza-mitos/).",
+      "**No compensa los excesos**: una taza no \"borra\" la noche de pollo a la brasa con gaseosa ni el exceso de alcohol de un matrimonio.",
+      "**No es un laxante estimulante** por su composición: trabaja con fibras, que necesitan agua y una dieta razonable para cumplir su función."
+    ] },
+    { "type": "p", "text": "Si comparas con jugos verdes o tés *detox* de supermercado, notarás que el criterio útil no es el nombre, sino la etiqueta: cuánta fibra real aportan, cuánto azúcar llevan y qué prometen. Hicimos ese ejercicio en la comparativa con [bebidas detox de supermercado](/comparativas-prunex1/vs-bebidas-detox-de-supermercado/)." },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo ir al médico en lugar de buscar un detox", "text": "Si tienes piel u ojos amarillentos, orina muy oscura, hinchazón de piernas, dolor abdominal intenso, sangre en las heces, pérdida de peso sin explicación o cambios bruscos en tu hábito intestinal, consulta a un médico. Estas señales no se resuelven con una bebida. Según la ficha oficial, Prunex1 no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal; si tomas medicamentos o tienes una enfermedad crónica, consulta antes." },
+    { "type": "h2", "text": "Entonces, ¿tiene sentido para ti?" },
+    { "type": "p", "text": "Puede tenerlo si lo que buscas es sumar algo de fibra de forma cómoda porque tu alimentación diaria se queda corta, por ejemplo cuando el menú del día en la oficina de San Isidro rara vez trae ensalada o frutas. En ese escenario, una taza caliente en una tarde de garúa es una forma práctica de acompañar el tránsito intestinal, siempre junto con agua y comida real." },
+    { "type": "p", "text": "No tiene sentido si esperas una depuración de órganos, una solución a molestias persistentes o un atajo para bajar de talla. Para ver el producto completo, sin la etiqueta *detox* de por medio, empieza por nuestra guía de [qué es Prunex1](/que-es-prunex1/) y, si decides probarlo, compra en el canal oficial desde la página de [comprar Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Prunex1 limpia el hígado o los riñones?", "a": "No hay base para decirlo. El hígado y los riñones depuran el organismo por sí mismos, y la etiqueta de Prunex1 no declara ningún efecto sobre ellos. Su composición de fibras se relaciona con el tránsito intestinal." },
+    { "q": "¿Por qué FuXion lo incluye en la Línea Limpieza y Detox?", "a": "Es una forma de agrupar productos en su catálogo. El nombre de la línea es una categoría comercial y no describe un mecanismo fisiológico; para saber qué contiene el producto, lo que manda es la etiqueta." },
+    { "q": "¿Hacer un 'detox' con esta bebida reemplaza comer frutas y verduras?", "a": "No. Una porción aporta 1.7 g de fibra, una fracción pequeña de los 25 a 30 g diarios que suelen recomendarse para adultos. Las frutas, verduras, menestras y granos enteros siguen siendo la base." },
+    { "q": "¿Es normal sentirse 'más liviano'?", "a": "Es lo que comunica la marca, y la percepción varía entre personas. Cuando aparece, se relaciona con el tránsito intestinal, no con perder grasa. Si notas molestias que no ceden, suspende y consulta." }
+  ],
+  "sources": [
+    { "label": "NCCIH (NIH) – Detoxes and cleanses: what you need to know", "url": "https://www.nccih.nih.gov/health/detoxes-and-cleanses-what-you-need-to-know" },
+    { "label": "NIDDK – Your kidneys and how they work", "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": [
+    "/que-es-prunex1/adelgaza-mitos/",
+    "/que-es-prunex1/fibra-y-transito-intestinal/",
+    "/comparativas-prunex1/vs-bebidas-detox-de-supermercado/",
+    "/que-es-prunex1/es-laxante/"
+  ]
+}

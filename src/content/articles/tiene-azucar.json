@@ -1,0 +1,87 @@
+{
+  "slug": "tiene-azucar",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/tiene-azucar/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 tiene azúcar",
+  "title": "¿Prunex1 tiene azúcar? Lo que dice su etiqueta, gramo a gramo",
+  "seoTitle": "¿Prunex1 tiene azúcar? 0.2 g totales y 0 g añadidos",
+  "metaDescription": "¿Prunex1 tiene azúcar? Revisamos la etiqueta: 0.2 g de azúcares totales, 0 g añadidos, el sello sin azúcares y por qué la estevia y el sorbitol lo endulzan.",
+  "excerpt": "Leemos la tabla nutricional de Prunex1 para separar azúcares totales, azúcares añadidos y edulcorantes, y explicamos qué garantiza realmente el sello “sin azúcares”.",
+  "quickAnswer": "Prunex1 tiene azúcar solo en cantidad mínima: cada porción (1 stick de 5 g en 180 ml de agua) aporta 0.2 g de azúcares totales y 0 g de azúcares añadidos, de ahí su sello “sin azúcares”. Su dulzor viene de la estevia y del sorbitol, un poliol que no se cuenta como azúcar en la tabla, pero que tiene sus propios matices.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A clear glass mug of warm reddish-amber drink on a white marble kitchen counter beside a small wooden spoon, a few dried prunes and a fresh green stevia sprig, soft late-afternoon light through a window with a grey Lima winter sky, clean minimal composition, no packaging, no sachets, no sugar bowl labels, no text, no logos, no visible faces",
+    "alt": "Taza de vidrio con bebida ámbar rojiza junto a una ramita de estevia y guindones sobre una encimera blanca"
+  },
+  "blocks": [
+    { "type": "p", "text": "Desde que los octógonos negros aparecieron en los empaques peruanos, mucha gente da vuelta al producto antes de pasarlo por caja. La pregunta sobre el azúcar se volvió casi automática, y con razón: una bebida “saludable” puede esconder varias cucharaditas en cada vaso." },
+    { "type": "p", "text": "Con Prunex1 la duda aparece por un motivo concreto: sabe dulce y a guindón. Si no lleva azúcar, ¿de dónde sale ese sabor? Aquí respondemos con la etiqueta en la mano, sin exagerar en ninguna dirección. Si quieres ver la lista completa de componentes, la tienes en la guía de [ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "¿Prunex1 tiene azúcar? La respuesta corta, con números" },
+    { "type": "p", "text": "Según la información nutricional oficial de FuXion Perú, una porción equivale a 1 stick de 5 g disuelto en 180 ml de agua caliente. Estos son los valores que importan para hablar de azúcar:" },
+    { "type": "table", "caption": "Azúcares y carbohidratos de Prunex1 según la etiqueta", "headers": ["Componente", "Por porción (180 ml)", "Por 100 ml"], "rows": [
+      ["Azúcares totales", "0.2 g", "0.1 g"],
+      ["Azúcares añadidos", "0 g", "0 g"],
+      ["Carbohidratos totales", "4.5 g", "2.5 g"],
+      ["Fibra dietaria", "1.7 g", "0.9 g"],
+      ["Energía", "18 kcal", "10 kcal"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que figura en el empaque", "text": "Tabla nutricional: 0.2 g de azúcares totales y 0 g de azúcares añadidos por porción. Sellos del producto: No GMO, sin azúcares, sin gluten, bajo en sodio y Clean Label. Edulcorante declarado: glicósidos de esteviol de estevia. El sorbitol aparece en la lista de ingredientes." },
+    { "type": "p", "text": "Dicho en simple: **sí hay una pizca de azúcar**, pero tan pequeña que en la práctica no cambia nada en tu día. Para que te hagas una idea, una cucharadita rasa de azúcar pesa alrededor de 4 g, es decir, unas veinte veces más que lo que trae una taza preparada." },
+    { "type": "h2", "text": "Azúcares totales y azúcares añadidos no son lo mismo" },
+    { "type": "p", "text": "La tabla separa dos líneas y conviene leerlas por separado. Los **azúcares totales** suman todo el azúcar presente en el producto, venga de donde venga, incluido el que traen de forma natural las frutas deshidratadas. Los **azúcares añadidos** son solo los que el fabricante incorpora como tal durante la elaboración: sacarosa, jarabes, miel o panela usada como endulzante." },
+    { "type": "p", "text": "Que los añadidos marquen 0 g significa que no se endulzó con azúcar. Que los totales marquen 0.2 g significa que algún ingrediente aporta trazas naturales." },
+    { "type": "h3", "text": "¿De dónde salen esos 0.2 g?" },
+    { "type": "p", "text": "La etiqueta no lo desglosa, así que solo podemos razonar con la lista de ingredientes. Los candidatos lógicos son el guindón y el limón deshidratados, que como toda fruta contienen azúcares propios, y los saborizantes. Que uno de ellos tenga nota de panela no convierte a la panela en endulzante del producto: es un perfil de sabor, y el total declarado sigue siendo 0.2 g. Lo explicamos con más detalle en el artículo sobre [el limón y los saborizantes de la fórmula](/ingredientes-prunex1/limon-y-saborizantes/)." },
+    { "type": "h2", "text": "Qué garantiza el sello “sin azúcares” y qué no" },
+    { "type": "p", "text": "Un sello “sin azúcares” no exige cero absoluto. En las directrices del Codex Alimentarius, que sirven de referencia a muchos países, esta declaración se admite cuando un líquido no supera 0.5 g de azúcares por cada 100 ml. Prunex1 declara 0.1 g por 100 ml, así que queda holgadamente por debajo." },
+    { "type": "ul", "items": [
+      "**Sí garantiza** que el contenido de azúcares es mínimo y que no se usó azúcar como endulzante.",
+      "**No significa** que no tenga carbohidratos: trae 4.5 g por porción, en buena parte de la tapioca, que es su primer ingrediente.",
+      "**No significa** que no tenga calorías: son 18 kcal por taza, poco, pero no cero.",
+      "**No significa** que no tenga sabor dulce: lo tiene, gracias a los edulcorantes."
+    ] },
+    { "type": "h2", "text": "Si no lleva azúcar, ¿por qué es dulce? Estevia y sorbitol" },
+    { "type": "p", "text": "El dulzor de Prunex1 descansa en dos ingredientes de naturaleza muy distinta. Entenderlos evita sorpresas, sobre todo si cuidas tu glucosa o tienes un intestino sensible." },
+    { "type": "h3", "text": "Estevia: dulzor sin calorías" },
+    { "type": "p", "text": "Los glicósidos de esteviol se extraen de la hoja de *Stevia rebaudiana* y son cientos de veces más dulces que el azúcar, por eso basta una cantidad muy pequeña. No aportan calorías relevantes ni cuentan como azúcar en la tabla. Algunas personas perciben un ligero regusto herbal; en esta fórmula lo disimulan el guindón y el anís. Más detalles en el artículo sobre [la estevia en Prunex1](/ingredientes-prunex1/stevia/)." },
+    { "type": "h3", "text": "Sorbitol: el matiz que casi nadie lee" },
+    { "type": "p", "text": "El sorbitol es un **poliol**, también llamado alcohol de azúcar. El nombre confunde, pero químicamente no es azúcar y no se suma en la línea de azúcares. Está presente de forma natural en el guindón y, además, figura como ingrediente en la lista. Aporta algo de energía, menos que el azúcar común, y en cantidades altas tiene un efecto osmótico conocido: atrae agua hacia el intestino." },
+    { "type": "p", "text": "La etiqueta peruana **no declara cuánto sorbitol hay por stick**, así que no podemos darte una cifra. Lo que sí sabemos es que algunas personas toleran mal los polioles. Lo desarrollamos en la página dedicada al [sorbitol de la fórmula](/ingredientes-prunex1/sorbitol/)." },
+    { "type": "cta", "text": "¿Buscas una bebida con fibra sin azúcares añadidos? Revisa el precio actualizado y las presentaciones disponibles de Prunex1." },
+    { "type": "h2", "text": "Una taza de Prunex1 frente a lo que sueles tomar" },
+    { "type": "p", "text": "Pon el dato en contexto con escenas muy limeñas. No buscamos satanizar ninguna bebida, solo comparar el azúcar de cada taza:" },
+    { "type": "table", "caption": "Comparación orientativa de azúcar por taza (valores aproximados)", "headers": ["Bebida", "Azúcar aproximada", "Comentario"], "rows": [
+      ["Prunex1 preparado (180 ml)", "0.2 g totales, 0 g añadidos", "Dato de etiqueta"],
+      ["Manzanilla con 2 cucharaditas de azúcar", "Unos 8 g añadidos", "Depende de cuánto endulces"],
+      ["Café pasado con 1 cucharadita", "Unos 4 g añadidos", "Típico del desayuno en la oficina"],
+      ["Jugo de fruta casero sin azúcar", "Varía según la fruta", "Azúcares naturales de la fruta"]
+    ] },
+    { "type": "p", "text": "El matiz importante: si preparas Prunex1 con jugo o le echas azúcar o miel, el cálculo cambia por completo. La etiqueta indica disolverlo en agua caliente, y así es como aplican los valores de la tabla." },
+    { "type": "h2", "text": "Matices que conviene tener claros antes de sacar conclusiones" },
+    { "type": "ul", "items": [
+      "**Carbohidratos no son azúcares.** Los 4.5 g incluyen la fibra y, sobre todo, el almidón de la tapioca. Según las normas de rotulado, los polioles como el sorbitol también pueden estar dentro de esa cifra.",
+      "**“Sin azúcares” no equivale a apto para cualquier dieta.** En dietas cetogénicas estrictas, por ejemplo, esos carbohidratos cuentan.",
+      "**Diabetes o prediabetes:** la cantidad es pequeña, pero cada caso es distinto. Revisa nuestro análisis sobre [Prunex1 en personas con diabetes](/opiniones-prunex1/diabeticos/) y consúltalo con tu médico.",
+      "**Intestino sensible a polioles:** si los chicles sin azúcar o los caramelos dietéticos te caen mal, presta atención a cómo toleras el sorbitol."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Cuándo hablar con un profesional", "text": "Prunex1 es un alimento, no un medicamento: no trata ni previene enfermedades. Si tienes diabetes, usas insulina o hipoglucemiantes, tienes una enfermedad intestinal diagnosticada o notas dolor intenso, sangre en las heces o cambios bruscos del hábito intestinal, consulta a tu médico antes de incorporarlo." },
+    { "type": "h2", "text": "En resumen: poco azúcar, pero lee la etiqueta completa" },
+    { "type": "p", "text": "Prunex1 es una opción coherente si quieres evitar el azúcar añadido en una bebida caliente: 0 g añadidos, 0.2 g totales y un sello que se sostiene con los números. El dulzor llega por la estevia y el sorbitol, y es ese segundo ingrediente el que merece tu atención si eres sensible a los polioles." },
+    { "type": "p", "text": "Si ya lo tienes claro y quieres probarlo, en la página para [comprar Prunex1 original](/comprar-prunex1/) encontrarás el precio de catálogo y el acceso a la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo endulzar Prunex1 con azúcar o miel?", "a": "Puedes, pero dejaría de ser una bebida sin azúcares añadidos y cada cucharadita sumaría unos 4 g de azúcar. La fórmula ya viene endulzada con estevia y sorbitol, así que la mayoría de personas no necesita agregar nada." },
+    { "q": "¿El sorbitol aparece en la tabla nutricional?", "a": "No tiene una línea propia en la tabla peruana y su cantidad no está declarada. Solo figura en la lista de ingredientes, en el octavo lugar. Por eso no es correcto calcular su aporte por stick." },
+    { "q": "¿Prunex1 sirve en una dieta baja en carbohidratos?", "a": "En una dieta moderada, una taza con 4.5 g de carbohidratos suele encajar sin problema. En una dieta cetogénica estricta conviene contarlos, porque “sin azúcares” no significa “sin carbohidratos”." },
+    { "q": "¿Una persona con resistencia a la insulina puede tomarlo?", "a": "El aporte de azúcar es mínimo, pero la tapioca suma carbohidratos y cada organismo responde distinto. Lo prudente es comentarlo con tu médico o nutricionista, sobre todo si llevas medicación para la glucosa." }
+  ],
+  "sources": [
+    { "label": "Codex Alimentarius – Directrices para el uso de declaraciones nutricionales y saludables (CXG 23-1997)", "url": "https://www.fao.org/fao-who-codexalimentarius/" },
+    { "label": "FDA – Added Sugars on the Nutrition Facts Label", "url": "https://www.fda.gov/food/nutrition-facts-label/added-sugars-nutrition-facts-label" },
+    { "label": "OMS – Directriz sobre la ingesta de azúcares para adultos y niños", "url": "https://www.who.int/publications/i/item/9789241549028" },
+    { "label": "EFSA – Edulcorantes", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FuXion – Información oficial del producto", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/stevia/", "/ingredientes-prunex1/sorbitol/", "/ingredientes-prunex1/calorias/", "/opiniones-prunex1/diabeticos/"]
+}

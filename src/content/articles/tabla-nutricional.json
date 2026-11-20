@@ -1,0 +1,91 @@
+{
+  "slug": "tabla-nutricional",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/tabla-nutricional/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 información nutricional",
+  "title": "Prunex1 información nutricional: tabla completa y cómo leerla",
+  "seoTitle": "Prunex1 información nutricional: tabla y %VD",
+  "metaDescription": "Prunex1 información nutricional completa: valores por 100 ml y por porción de 180 ml, %VD y una guía práctica para leer cada línea de la tabla sin errores.",
+  "excerpt": "La tabla nutricional de Prunex1, línea por línea: valores por 100 ml y por taza de 180 ml, qué significa el %VD y qué datos no aparecen en el empaque.",
+  "quickAnswer": "La información nutricional de Prunex1 indica, por porción de 5 g en 180 ml, 18 kcal, 0 g de grasa, 2.0 mg de sodio, 4.5 g de carbohidratos, 1.7 g de fibra dietaria, 0.2 g de azúcares totales, 0 g de azúcares añadidos y 0 g de proteína. Todos sus %VD están por debajo del 2 %.",
+  "readingMinutes": 7,
+  "image": {
+    "prompt": "Top-down view of a white ceramic cup filled with reddish-amber drink on a pale marble desk, next to an open notebook with blank pages, a pencil and a pair of reading glasses, soft daylight from a window of an office in San Isidro, Lima, calm minimal composition. NO packaging, NO sachets, NO text, NO numbers, NO logos, NO visible faces.",
+    "alt": "Vista cenital de una taza con bebida rojiza junto a un cuaderno en blanco, un lápiz y unos lentes de lectura"
+  },
+  "blocks": [
+    { "type": "p", "text": "La tabla nutricional es como el recibo de luz: llega a todas las casas, pero pocos se detienen a entender cada línea. En una bebida con fibra, sin embargo, ese recuadro del reverso responde casi todas las dudas importantes: cuánta energía aporta, cuánta fibra trae y si tiene azúcar." },
+    { "type": "p", "text": "En esta guía reproducimos la tabla oficial completa y te enseñamos a leerla, columna por columna. Si te interesa también qué hace cada ingrediente, empieza por [la guía de ingredientes de Prunex1](/ingredientes-prunex1/) y vuelve aquí para los números." },
+    { "type": "h2", "text": "Tabla completa de la información nutricional de Prunex1" },
+    { "type": "p", "text": "Estos son los valores declarados para la bebida preparada según el modo de empleo: 1 stick de 5 g disuelto en una taza de 180 ml de agua caliente. El doypack de 28 sticks contiene 28 porciones." },
+    { "type": "table", "caption": "Información nutricional de Prunex1 preparado (ficha oficial FuXion Perú)", "headers": ["Nutriente", "Por 100 ml", "Por porción (180 ml)", "%VD por porción"], "rows": [
+      ["Energía", "10 kcal (42.6 kJ)", "18 kcal (76.7 kJ)", "0.9 %"],
+      ["Grasa total", "0 g", "0 g", "0 %"],
+      ["Grasa saturada", "0 g", "0 g", "0 %"],
+      ["Grasa trans", "0 g", "0 g", "No indicado"],
+      ["Colesterol", "0 mg", "0 mg", "0 %"],
+      ["Sodio", "1.1 mg", "2.0 mg", "0.1 %"],
+      ["Carbohidratos totales", "2.5 g", "4.5 g", "1.6 %"],
+      ["Fibra dietaria", "0.9 g", "1.7 g", "0 % (así figura en la ficha)"],
+      ["Azúcares totales", "0.1 g", "0.2 g", "No indicado"],
+      ["Azúcares añadidos", "0 g", "0 g", "0 %"],
+      ["Proteína", "0 g", "0 g", "0 %"]
+    ] },
+    { "type": "callout", "variant": "etiqueta", "title": "De dónde salen estos datos", "text": "Los valores corresponden a la información nutricional oficial de FuXion Perú (ficha IN_PE_6458, enero 2024). Los %VD se basan en una dieta de 2000 kcal (8380 kJ) para mayores de 4 años, según CODEX y FDA. Compáralos siempre con el reverso de tu propio empaque." },
+    { "type": "h2", "text": "Por qué la tabla tiene dos columnas: 100 ml y 180 ml" },
+    { "type": "p", "text": "La columna **por 100 ml** sirve para comparar bebidas entre sí con una misma medida, aunque sus envases sean distintos. La columna **por porción** te dice lo que realmente tomas en una taza preparada como indica la etiqueta." },
+    { "type": "p", "text": "Si multiplicas los valores por 100 ml por 1.8 obtienes, aproximadamente, los de la porción: 2.5 g de carbohidratos se convierten en 4.5 g y 10 kcal en 18 kcal. En la fibra el cálculo da 1.62 g y la tabla dice 1.7 g; esa pequeña diferencia es normal, porque los fabricantes calculan con valores sin redondear y redondean al final." },
+    { "type": "p", "text": "Un detalle práctico: los 180 ml corresponden a una taza estándar, más pequeña que muchas tazas de café que usamos en casa o en la oficina. Si la tuya es más grande, el total del stick no cambia; solo la bebida queda más diluida." },
+    { "type": "h2", "text": "Cómo leer el %VD sin complicarte" },
+    { "type": "p", "text": "El **porcentaje del valor diario** indica qué parte de la referencia diaria de un nutriente cubre una porción, tomando como base una dieta de 2000 kcal. La FDA propone una regla sencilla para interpretarlo:" },
+    { "type": "ul", "items": [
+      "**5 % o menos**: aporte bajo de ese nutriente.",
+      "**20 % o más**: aporte alto de ese nutriente.",
+      "**Entre ambos**: aporte moderado."
+    ] },
+    { "type": "p", "text": "Aplicada a Prunex1, la conclusión es clara: **todos los valores son bajos**. La energía cubre el 0.9 % de la referencia diaria, los carbohidratos el 1.6 % y el sodio apenas el 0.1 %." },
+    { "type": "p", "text": "El caso de la fibra merece una aclaración. La ficha oficial muestra 0 % de VD, aunque declara 1.7 g por porción. Como referencia orientativa, y no como dato de la etiqueta, las recomendaciones generales hablan de 25 a 30 g de fibra al día; frente a esa meta, 1.7 g representan una fracción pequeña, del orden del 6 %. El tipo de fibra que aporta lo explicamos en [la fibra soluble e insoluble de Prunex1](/ingredientes-prunex1/fibra-soluble-e-insoluble/)." },
+    { "type": "cta", "text": "¿Ya tienes claros los números? Revisa el precio de catálogo y las presentaciones disponibles en la tienda oficial." },
+    { "type": "h2", "text": "Qué te dice cada línea de la tabla" },
+    { "type": "h3", "text": "Energía" },
+    { "type": "p", "text": "18 kcal por taza es un valor muy bajo. Lo analizamos con comparaciones y su encaje en distintas dietas en [las calorías de Prunex1](/ingredientes-prunex1/calorias/)." },
+    { "type": "h3", "text": "Grasas, colesterol y proteína" },
+    { "type": "p", "text": "Todas en cero. La lecitina de girasol que figura como emulsionante está en una cantidad tan pequeña que no llega a sumar grasa declarable." },
+    { "type": "h3", "text": "Sodio" },
+    { "type": "p", "text": "2.0 mg por porción, coherente con el sello **bajo en sodio** del empaque. Para tener una idea, es una cantidad mínima frente a la sal de un pan con chicharrón." },
+    { "type": "h3", "text": "Carbohidratos, fibra y azúcares" },
+    { "type": "p", "text": "Los 4.5 g de carbohidratos incluyen los 1.7 g de fibra y los 0.2 g de azúcares totales. Si restas ambos, quedan unos 2.6 g que la etiqueta no desglosa; lo esperable es que provengan sobre todo de la tapioca, el primer ingrediente, y del sorbitol. Sobre el azúcar, el detalle está en [si Prunex1 tiene azúcar](/ingredientes-prunex1/tiene-azucar/)." },
+    { "type": "h2", "text": "Lo que la información nutricional no muestra" },
+    { "type": "p", "text": "Una tabla nutricional peruana sigue un formato fijo y deja fuera varios datos que muchas personas buscan:" },
+    { "type": "ul", "items": [
+      "La cantidad de cada fibra por separado: psyllium, inulina de achicoria y mucílago de linaza.",
+      "Cuánto guindón deshidratado lleva cada stick.",
+      "La cantidad de sorbitol, aunque figura en la lista de ingredientes.",
+      "La cantidad de magnesio y de yodo, este último aportado de forma natural por el alga kelp."
+    ] },
+    { "type": "p", "text": "Si encuentras cifras de esos componentes en otras páginas, no provienen de la etiqueta peruana. Para ubicar dónde está cada sección del empaque, revisa [la etiqueta de Prunex1 explicada](/que-es-prunex1/etiqueta-explicada/)." },
+    { "type": "h2", "text": "Errores frecuentes al interpretar la tabla" },
+    { "type": "ol", "items": [
+      "**Confundir las columnas.** Los 10 kcal son por 100 ml, no por taza.",
+      "**Pensar que 0 % de VD en fibra significa que no hay fibra.** La tabla declara 1.7 g por porción.",
+      "**Creer que 0 g de azúcares añadidos equivale a cero dulzor.** La bebida es dulce por la estevia y el sorbitol.",
+      "**Olvidar lo que agregas.** Si le pones azúcar, miel o la mezclas con jugo, los valores de la tabla dejan de representar lo que tomas."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Si sigues una dieta indicada por un médico", "text": "Prunex1 es un alimento, no un medicamento. Si tienes diabetes, enfermedad renal, una condición digestiva o tomas medicación de forma habitual, lleva esta tabla a tu médico o nutricionista para que evalúe si encaja en tu plan." },
+    { "type": "p", "text": "Entender la tabla te permite decidir con datos y no con frases de marketing. Si después de revisarla quieres el producto original, entra a [comprar Prunex1](/comprar-prunex1/) y verás las presentaciones vigentes." }
+  ],
+  "faqs": [
+    { "q": "¿Dónde encuentro la tabla en el empaque?", "a": "Está en el reverso del doypack, junto a la lista de ingredientes y el modo de empleo. Los sticks individuales no traen tabla porque no están etiquetados para su venta individual." },
+    { "q": "¿La presentación de 7 sticks tiene los mismos valores por porción?", "a": "La porción es la misma, 1 stick de 5 g en 180 ml, así que los valores por taza se refieren a la misma cantidad de producto. Aun así, verifica la tabla impresa en tu empaque, porque los envases pueden actualizarse." },
+    { "q": "¿Qué significa que los valores se basen en una dieta de 2000 kcal?", "a": "Es una referencia estándar para calcular los porcentajes. Si tus necesidades son mayores o menores, el %VD real para ti cambia, pero los gramos y miligramos declarados siguen siendo los mismos." },
+    { "q": "¿Por qué la tabla no menciona vitaminas?", "a": "Porque el producto no está formulado como fuente de vitaminas y la etiqueta no declara ninguna. Su aporte principal, según la tabla, es la fibra dietaria." }
+  ],
+  "sources": [
+    { "label": "FDA – How to Understand and Use the Nutrition Facts Label", "url": "https://www.fda.gov/food/nutrition-facts-label/how-understand-and-use-nutrition-facts-label" },
+    { "label": "FDA – Daily Value on the Nutrition and Supplement Facts Labels", "url": "https://www.fda.gov/food/nutrition-facts-label/daily-value-nutrition-and-supplement-facts-labels" },
+    { "label": "Codex Alimentarius (FAO/OMS)", "url": "https://www.fao.org/fao-who-codexalimentarius/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/calorias/", "/ingredientes-prunex1/tiene-azucar/", "/que-es-prunex1/etiqueta-explicada/", "/ingredientes-prunex1/fibra-soluble-e-insoluble/"]
+}

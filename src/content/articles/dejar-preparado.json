@@ -1,0 +1,72 @@
+{
+  "slug": "dejar-preparado",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/dejar-preparado/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 preparado con anticipación",
+  "title": "Prunex1 preparado con anticipación: ¿se puede dejar listo?",
+  "seoTitle": "Prunex1 preparado con anticipación: ¿se puede?",
+  "metaDescription": "¿Sirve dejar Prunex1 preparado con anticipación? La etiqueta pide tomarlo todo al prepararlo. Te explicamos por qué espesa y cómo adelantar sin errores.",
+  "excerpt": "Dejar la taza lista desde la mañana parece práctico, pero la etiqueta y la química de las fibras dicen otra cosa. Aquí verás qué pasa con la bebida en reposo y cómo ganar tiempo sin prepararla antes.",
+  "quickAnswer": "Dejar Prunex1 preparado con anticipación no es buena idea. La etiqueta indica que, una vez preparado, se consuma en su totalidad, y en la práctica el psyllium, el mucílago de linaza y la goma xantán siguen absorbiendo agua: en reposo la bebida espesa hasta volverse un gel difícil de tomar. Lo práctico es adelantar el agua caliente y la taza, no la mezcla.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A stainless steel thermos and an empty white ceramic mug with a teaspoon ready on a light wood kitchen counter at early morning, next to it a second mug with a freshly stirred reddish-amber drink with gentle steam, a small plate with dried prunes, soft blue morning light from a window in a Lima apartment, calm minimal style. NO packaging, NO sachets, NO text, NO logos, NO visible faces.",
+    "alt": "Termo de acero junto a una taza vacía y otra con bebida rojiza ámbar recién preparada sobre una encimera de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "La escena es conocida: son las seis de la mañana, hay que dejar listo el lonche, alistar a los chicos y salir antes de que la Vía Expresa se llene. En ese apuro, más de una persona se pregunta si podría preparar su Prunex1 la noche anterior, o en la mañana, y tomarlo horas después en la oficina." },
+    { "type": "p", "text": "La respuesta corta es que no conviene, y no por capricho. Hay una instrucción clara en la etiqueta y hay una explicación física que puedes comprobar con tus propios ojos. Abajo verás ambas y, sobre todo, alternativas para ganar tiempo sin cambiar la forma de preparar que indica el fabricante, resumida en nuestra [guía completa para preparar Prunex1](/como-preparar-prunex1/)." },
+    { "type": "h2", "text": "¿Se puede tener Prunex1 preparado con anticipación?" },
+    { "type": "p", "text": "No es lo recomendable. Tener **Prunex1 preparado con anticipación** va contra lo que dice el propio modo de empleo, que pide disolver el stick, revolver bien y tomar todo en ese momento. La bebida está pensada para consumirse recién hecha, cuando todavía es líquida y fácil de tomar." },
+    { "type": "callout", "variant": "etiqueta", "title": "La instrucción del empaque", "text": "\"Disolver el contenido de un stick (5 g) en una taza (180 ml) de agua caliente, y revolver bien. Una vez preparado consumir en su totalidad.\" La etiqueta no contempla guardar la bebida ya preparada ni dividirla en varias tomas." },
+    { "type": "h2", "text": "Por qué la bebida espesa y se gelifica en reposo" },
+    { "type": "p", "text": "Si alguna vez dejaste la taza sobre la mesa mientras contestabas un mensaje, ya lo viste: a los pocos minutos la bebida está más densa, y si te olvidas un buen rato puede tomar la consistencia de una gelatina blanda. No es que el producto se haya malogrado; es que sus fibras están haciendo exactamente lo que hacen." },
+    { "type": "p", "text": "Entre los [ingredientes de Prunex1](/ingredientes-prunex1/) hay varios que forman gel al hidratarse:" },
+    { "type": "ul", "items": [
+      "**Psyllium (*Plantago ovata*)**: su cáscara retiene muchas veces su peso en agua y forma un gel viscoso. Es el principal responsable del espesor. Más detalles en [qué aporta el psyllium en Prunex1](/ingredientes-prunex1/psyllium/).",
+      "**Mucílago de linaza**: es la sustancia resbalosa que aparece cuando remojas linaza; también suma viscosidad con el tiempo.",
+      "**Goma xantán**: la etiqueta la declara como espesante. Se usa justamente para dar cuerpo a los líquidos.",
+      "**Tapioca en polvo**: es el primer ingrediente de la lista y aporta textura a la base del polvo."
+    ] },
+    { "type": "p", "text": "Al principio, el agua caliente y el movimiento de la cuchara mantienen las fibras dispersas. En reposo, siguen hidratándose y se enlazan entre sí. Cuanto más tiempo pasa, más espesa queda la mezcla, y al enfriarse la sensación de densidad aumenta todavía más." },
+    { "type": "table", "caption": "Qué le pasa a la bebida según el tiempo de espera (referencia general, varía con la temperatura y el revuelto)", "headers": ["Momento", "Textura habitual", "¿Qué hacer?"], "rows": [
+      ["Recién revuelta", "Líquida, con algo de cuerpo", "Es el momento ideal para tomarla"],
+      ["Unos minutos después", "Más espesa, aún bebible", "Revuelve de nuevo y tómala sin demora"],
+      ["Un rato largo en la mesa", "Densa, con partes gelatinosas", "Cuesta tomarla completa; la próxima vez prepárala justo al momento"],
+      ["Horas o de un día para otro", "Gel compacto y frío", "No la tomes; descártala y prepara una nueva"]
+    ] },
+    { "type": "cta", "text": "Si quieres tener siempre sticks a mano para prepararlos al momento, revisa el precio actual del doypack de 28 sticks." },
+    { "type": "h2", "text": "Otros motivos para no guardar la bebida preparada" },
+    { "type": "p", "text": "Más allá de la textura, hay razones prácticas y de higiene. Una bebida preparada con agua y polvos de origen vegetal, que pasa horas a temperatura ambiente en una mochila o en el escritorio, deja de ser la misma bebida que se pensó en el empaque. Como con cualquier preparación casera, lo prudente es no dejarla mucho tiempo fuera." },
+    { "type": "ul", "items": [
+      "**Se toma a medias**: si está demasiado espesa, es fácil dejar la mitad en el vaso, y la porción que indica la etiqueta es la taza completa.",
+      "**La refrigeradora no lo resuelve**: el frío espesa aún más el gel y la etiqueta habla de agua caliente, no de una bebida fría guardada.",
+      "**El tomatodo se ensucia**: el gel de psyllium se adhiere a las paredes y a las tapas con pico, y cuesta limpiarlo."
+    ] },
+    { "type": "h2", "text": "Cómo adelantar la preparación sin preparar la bebida" },
+    { "type": "p", "text": "La clave está en separar lo que sí se puede dejar listo (el agua, la taza, el stick) de lo que no (la mezcla). Con un poco de orden, preparar la taza toma menos de un minuto en cualquier lugar." },
+    { "type": "steps", "items": [
+      { "name": "Deja el kit armado", "text": "Coloca la taza, una cuchara o un batidor pequeño y el stick en un mismo lugar de la cocina o del escritorio, lejos del vapor para que el stick siga seco." },
+      { "name": "Adelanta el agua, no la mezcla", "text": "Si vas a estar fuera de casa, lleva agua caliente en un termo. Así tendrás los 180 ml listos donde estés, sin depender del dispensador." },
+      { "name": "Mide antes de abrir el stick", "text": "Sirve primero los 180 ml de agua caliente en la taza; si no tienes medidor, revisa [cómo calcular 180 ml en casa](/como-preparar-prunex1/cuanto-es-180-ml/)." },
+      { "name": "Disuelve y revuelve de inmediato", "text": "Vierte el polvo en forma de lluvia sobre el agua y revuelve sin pausa hasta que no queden grumos." },
+      { "name": "Tómala completa en ese momento", "text": "Bebe la taza entera mientras está líquida, como indica la etiqueta. Después lava la taza enseguida para que el gel no se pegue." }
+    ] },
+    { "type": "p", "text": "Si tu rutina incluye un trabajo de oficina en Miraflores o San Isidro, en el artículo sobre [preparar Prunex1 en la oficina](/como-preparar-prunex1/en-la-oficina/) encontrarás ideas para hacerlo con el dispensador de agua caliente y con discreción." },
+    { "type": "callout", "variant": "aviso", "title": "Recuerda que es un alimento", "text": "Prunex1 es una bebida en polvo, no un medicamento, y no sirve para tratar enfermedades. Si tomas medicamentos, tienes una enfermedad crónica o notas dolor intenso, sangre en las heces o cambios bruscos en tu hábito intestinal, consulta con un médico antes de seguir usándolo." },
+    { "type": "p", "text": "En resumen: lo único que debe esperar es el agua caliente, nunca la mezcla. Si necesitas reponer sticks, puedes ver las opciones en la [página para comprar Prunex1](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo preparar dos sticks juntos en una jarra para toda la familia?", "a": "No es lo indicado. La etiqueta habla de un stick en una taza de 180 ml, y en una jarra la mezcla espesaría antes de que todos se sirvan. Si en casa lo toman dos personas, que cada una prepare su propia taza al momento." },
+    { "q": "Me distraje y la bebida quedó espesa, ¿la boto?", "a": "Si pasaron solo unos minutos, revuélvela con energía y tómala; seguirá siendo bebible, aunque más densa. Si ya tiene consistencia de gelatina o pasó mucho tiempo, es preferible prepararte una nueva y la próxima vez tomarla apenas la revuelvas." },
+    { "q": "¿Sirve dejar el polvo en la taza y echar el agua después?", "a": "Puedes dejar la taza y el stick cerrado juntos, pero no vacíes el polvo en la taza con anticipación, porque capta la humedad del ambiente y se forman grumos al agregar el agua. Lo que mejor funciona es echar primero el agua caliente y luego el polvo." },
+    { "q": "¿El sabor cambia si la bebida se enfría?", "a": "El aroma a guindón y anís se percibe más con la bebida caliente, y al enfriarse la textura se siente más pesada. Por eso la experiencia suele ser mejor cuando se toma recién hecha. Si quieres saber más del sabor, revisa el artículo sobre sabor y textura." }
+  ],
+  "sources": [
+    { "label": "FuXion – Prunex1 (información oficial del producto)", "url": "https://www.fuxion.com/" },
+    { "label": "NIDDK – Constipation: eating, diet and nutrition", "url": "https://www.niddk.nih.gov/" },
+    { "label": "EFSA – Dietary reference values for carbohydrates and dietary fibre", "url": "https://www.efsa.europa.eu/" }
+  ],
+  "related": ["/como-preparar-prunex1/sin-grumos/", "/como-preparar-prunex1/en-la-oficina/", "/como-preparar-prunex1/conservar-y-vencimiento/", "/que-es-prunex1/sabor-y-textura/"]
+}

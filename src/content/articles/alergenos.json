@@ -1,0 +1,84 @@
+{
+  "slug": "alergenos",
+  "pillar": "ingredientes-prunex1",
+  "path": "/ingredientes-prunex1/alergenos/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 alérgenos",
+  "title": "Prunex1 alérgenos: trazas, gluten y carmín, explicados sin rodeos",
+  "seoTitle": "Prunex1 alérgenos: leche, huevo, soya, gluten y carmín",
+  "metaDescription": "Prunex1 alérgenos: qué significa la advertencia de leche, huevo y soya, qué cubre su sello sin gluten, por qué importa el carmín y qué hacer si tienes alergias.",
+  "excerpt": "Revisamos la advertencia de alérgenos de Prunex1 punto por punto: trazas posibles, sello sin gluten, carmín y los pasos sensatos si tienes una alergia alimentaria.",
+  "quickAnswer": "Prunex1 y sus alérgenos: ninguno de los grandes alérgenos figura como ingrediente, pero la etiqueta advierte que se elabora en equipos donde se procesan leche y lácteos, huevos y soya, así que puede haber trazas. Lleva sello sin gluten, su emulsionante es lecitina de girasol y contiene carmín, un colorante que en casos raros provoca alergia.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A ceramic cup of warm reddish-amber drink on a light oak table next to reading glasses, a small notebook with a pencil and a few star anise pods, natural daylight from a large window in a quiet Lima apartment, calm and careful mood, minimal style, no packaging, no sachets, no text, no logos, no visible faces",
+    "alt": "Taza de bebida rojiza junto a unos lentes de lectura y una libreta sobre una mesa de madera clara"
+  },
+  "blocks": [
+    { "type": "p", "text": "Quien vive con una alergia alimentaria aprende a leer etiquetas con la misma atención con que un contador revisa una factura. No basta con mirar la lista de ingredientes: también cuentan las letras pequeñas del reverso, esas que hablan de equipos compartidos y posibles trazas." },
+    { "type": "p", "text": "En esta página hacemos ese ejercicio con Prunex1. Separamos lo que es ingrediente de lo que es riesgo de contacto cruzado, explicamos qué cubre el sello sin gluten y nos detenemos en el carmín, el componente que más dudas genera. Para la descripción de cada componente, consulta la guía completa de [ingredientes de Prunex1](/ingredientes-prunex1/)." },
+    { "type": "h2", "text": "Prunex1 alérgenos: qué dice exactamente la advertencia" },
+    { "type": "p", "text": "El reverso del empaque incluye una advertencia que conviene leer literal, porque cada palabra importa:" },
+    { "type": "callout", "variant": "etiqueta", "title": "Texto de la etiqueta", "text": "“Elaborado en equipos donde se procesan leche y productos lácteos, huevos y soya.” La ficha oficial de FuXion repite esta advertencia junto con sus restricciones de uso." },
+    { "type": "p", "text": "Esto **no significa** que Prunex1 contenga leche, huevo o soya como ingredientes. Ninguno de los 16 componentes de la lista pertenece a esos grupos. Lo que comunica es que la planta usa las mismas líneas para otros productos que sí los llevan, y que no se puede descartar al cien por ciento que queden restos mínimos." },
+    { "type": "table", "caption": "Alérgenos frecuentes frente a la etiqueta de Prunex1", "headers": ["Alérgeno", "¿Es ingrediente?", "¿Advertencia de trazas?"], "rows": [
+      ["Leche y lácteos", "No", "Sí"],
+      ["Huevo", "No", "Sí"],
+      ["Soya", "No (la lecitina es de girasol)", "Sí"],
+      ["Gluten (trigo, cebada, centeno)", "No; lleva sello sin gluten", "No se menciona"],
+      ["Maní y frutos secos", "No", "No se menciona"],
+      ["Pescado y mariscos", "No (el kelp es un alga)", "No se menciona"],
+      ["Carmín (cochinilla)", "Sí, como colorante", "No aplica"]
+    ] },
+    { "type": "h2", "text": "Contacto cruzado: cuánto debería preocuparte" },
+    { "type": "p", "text": "La advertencia de equipos compartidos es una medida de precaución. La etiqueta no indica cantidades, y por eso nadie puede decirte con honestidad cuánta traza podría haber en un stick concreto. Lo que sí se puede hacer es valorar el riesgo según tu caso." },
+    { "type": "ul", "items": [
+      "**Alergia grave o antecedente de anafilaxia** a la leche, el huevo o la soya: la advertencia es relevante y lo prudente es no consumirlo sin el visto bueno de tu alergólogo.",
+      "**Alergia leve diagnosticada:** depende de tu umbral de reacción, algo que solo tu especialista puede orientar.",
+      "**Intolerancia a la lactosa:** no es una alergia. Las trazas por contacto cruzado suelen ser irrelevantes para la intolerancia, aunque si eres muy sensible conviene comentarlo.",
+      "**Evitas lácteos o huevo por convicción y no por salud:** es una decisión personal; lo analizamos en la página sobre [si Prunex1 es vegano](/ingredientes-prunex1/es-vegano/)."
+    ] },
+    { "type": "h2", "text": "Sin gluten: qué cubre el sello y qué no" },
+    { "type": "p", "text": "Prunex1 lleva el sello **sin gluten**. Tiene sentido viendo su fórmula: la base es tapioca, que viene de la yuca, y el resto son fibras vegetales, frutas deshidratadas, cáscara de arroz, algas y aditivos que no proceden del trigo, la cebada ni el centeno." },
+    { "type": "p", "text": "Para una persona celíaca, el sello es la señal clave. Aun así, te recomendamos comprobarlo en el empaque que tienes en la mano, porque los envases cambian de versión con el tiempo. Explicamos qué garantiza cada distintivo en la página sobre [los sellos sin gluten y No GMO](/que-es-prunex1/sellos-sin-gluten-no-gmo/)." },
+    { "type": "h2", "text": "El carmín: un colorante natural que no es para todos" },
+    { "type": "p", "text": "El color rojizo de la bebida se debe en parte al **color natural carmín**, también conocido como E120. Se obtiene de la cochinilla, un insecto que vive sobre las tunas, y el Perú es uno de sus grandes productores en zonas como Ayacucho o Arequipa." },
+    { "type": "p", "text": "Es un colorante de uso alimentario autorizado y ampliamente utilizado en yogures, embutidos y golosinas. Sin embargo, se han descrito reacciones alérgicas, poco frecuentes pero en ocasiones intensas, sobre todo en personas sensibilizadas. Si alguna vez reaccionaste a un alimento o cosmético teñido de rojo, menciónalo a tu médico. Profundizamos en su origen y seguridad en el artículo sobre [el carmín en Prunex1](/ingredientes-prunex1/carmin/)." },
+    { "type": "cta", "text": "Si la etiqueta encaja con tus necesidades, revisa el precio de catálogo y las presentaciones de Prunex1 en la tienda del distribuidor autorizado." },
+    { "type": "h2", "text": "Otros ingredientes que vale la pena mirar si eres alérgico" },
+    { "type": "p", "text": "Fuera de los alérgenos de declaración habitual, cualquier vegetal puede causar reacciones en personas sensibilizadas. No es lo común, pero conviene conocer la lista:" },
+    { "type": "ul", "items": [
+      "**Psyllium:** se han documentado alergias, en especial en personas que manipulan el polvo con frecuencia y lo inhalan. Al abrir el stick, viértelo con calma para no levantar polvo.",
+      "**Achicoria:** pertenece a la familia de las asteráceas; quienes reaccionan a plantas de esa familia pueden preguntar a su especialista.",
+      "**Anís estrella y su aceite esencial:** las especias aromáticas pueden dar reacciones en personas con sensibilidad conocida.",
+      "**Kelp:** es un alga, no un marisco. La idea de que la alergia al marisco es una “alergia al yodo” es un mito extendido, pero si tienes dudas, consúltalas.",
+      "**Lecitina de girasol:** se eligió en lugar de la lecitina de soya; si tienes alergia a las semillas de girasol, tenlo presente."
+    ] },
+    { "type": "h2", "text": "Qué hacer si tienes alergias y quieres probar Prunex1" },
+    { "type": "ol", "items": [
+      "**Lee el reverso de tu propio empaque.** La lista de ingredientes y la advertencia pueden variar entre versiones del envase.",
+      "**Identifica tu alérgeno** en la tabla de arriba: ¿es ingrediente, posible traza o no aparece?",
+      "**Consulta con tu alergólogo** si tienes una alergia diagnosticada, sobre todo si has tenido reacciones graves. Lleva una foto de la etiqueta para que la revise.",
+      "**Sigue sus indicaciones** y no improvises pruebas por tu cuenta si tu alergia es severa.",
+      "**Ten a mano tu plan de acción** (antihistamínico o autoinyector, si te lo han indicado) cuando incorpores cualquier alimento nuevo."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Señales de una reacción alérgica", "text": "Ronchas, picazón intensa, hinchazón de labios, lengua o párpados, dificultad para respirar, mareo o vómitos tras tomar cualquier alimento requieren atención inmediata. Ante síntomas respiratorios o desmayo, llama al SAMU (106) o acude a emergencias. Prunex1 es un alimento, no un medicamento; para otras condiciones revisa también sus [contraindicaciones y precauciones](/opiniones-prunex1/contraindicaciones/)." },
+    { "type": "h2", "text": "En resumen" },
+    { "type": "p", "text": "Prunex1 no incluye leche, huevo, soya ni gluten entre sus ingredientes, pero comparte equipos con productos que contienen los tres primeros y lleva carmín. Para la mayoría de personas eso no supone un problema; para quien tiene una alergia seria, es información que debe pasar por su especialista antes de la primera taza." },
+    { "type": "p", "text": "Si después de revisarlo todo decides probarlo, en la página para [comprar Prunex1](/comprar-prunex1/) verás el precio vigente y cómo pedirlo con respaldo del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Dónde aparece la advertencia de alérgenos en el empaque?", "a": "Está en el reverso del doypack, cerca de la lista de ingredientes y del modo de empleo. Léela siempre en tu propio envase, porque el texto puede actualizarse entre versiones." },
+    { "q": "¿La palabra “trazas” quiere decir que siempre hay restos de leche o huevo?", "a": "No. Indica que existe la posibilidad, no la certeza. Es una advertencia preventiva porque la línea de producción se comparte, y su utilidad principal es proteger a quienes reaccionan con cantidades muy pequeñas." },
+    { "q": "¿Puede tomarlo una persona celíaca?", "a": "La fórmula no lleva ingredientes con gluten y el producto tiene sello sin gluten, que es lo que una persona celíaca necesita verificar. Si además tienes otras alergias o una celiaquía de difícil control, coméntalo con tu gastroenterólogo." },
+    { "q": "¿El carmín puede manchar o cambiar el color de las heces?", "a": "La cantidad usada como colorante es pequeña y su función es dar tono a la bebida. Si notas cambios de color en las heces que te preocupan, sobre todo tonos rojos o negros, no lo atribuyas al producto sin más y consulta a un médico." }
+  ],
+  "sources": [
+    { "label": "FDA – Food Allergies", "url": "https://www.fda.gov/food/food-labeling-nutrition/food-allergies" },
+    { "label": "NIAID – Food Allergy", "url": "https://www.niaid.nih.gov/diseases-conditions/food-allergy" },
+    { "label": "NIDDK – Celiac Disease", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease" },
+    { "label": "EFSA – Aditivos alimentarios", "url": "https://www.efsa.europa.eu/" },
+    { "label": "FuXion – Información oficial del producto", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/carmin/", "/que-es-prunex1/sellos-sin-gluten-no-gmo/", "/ingredientes-prunex1/es-vegano/", "/opiniones-prunex1/contraindicaciones/"]
+}

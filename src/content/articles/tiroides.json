@@ -1,0 +1,63 @@
+{
+  "slug": "tiroides",
+  "pillar": "opiniones-prunex1",
+  "path": "/opiniones-prunex1/tiroides/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 tiroides",
+  "title": "Prunex1 y tiroides: kelp, yodo y levotiroxina",
+  "seoTitle": "Prunex1 y tiroides: el yodo del kelp y la levotiroxina",
+  "metaDescription": "Prunex1 y tiroides: su kelp aporta yodo natural en cantidad no declarada. Qué considerar con hipotiroidismo, hipertiroidismo o si tomas levotiroxina.",
+  "excerpt": "Prunex1 contiene kelp, un alga con yodo natural, y mucha fibra. Te explicamos por qué eso importa si tienes un problema de tiroides o tomas levotiroxina.",
+  "quickAnswer": "Prunex1 y tiroides merecen una conversación con tu endocrinólogo: el producto contiene kelp, un alga que aporta yodo de forma natural, y la etiqueta no declara cuánto. Si tienes hipotiroidismo, hipertiroidismo o nódulos, o tomas levotiroxina, consúltalo antes y sepáralo de tu medicación, porque la fibra puede interferir con su absorción.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A small stoneware cup of warm reddish-amber drink on a windowsill beside a folded linen napkin and a few pieces of dried seaweed in a tiny wooden bowl, soft diffused light of an overcast Lima morning with drizzle on the glass, serene minimal style. No packaging, no sachets, no pills, no text, no logos, no people.",
+    "alt": "Taza de bebida rojiza junto a un pequeño bowl con alga seca en una ventana con garúa limeña"
+  },
+  "blocks": [
+    { "type": "p", "text": "Quien toma levotiroxina conoce bien la rutina: la pastilla apenas se levanta, con agua sola, y luego esperar antes del café con pan. Es una de las medicinas más sensibles a lo que se consume cerca de ella, y por eso cualquier producto nuevo despierta dudas. Con Prunex1 hay dos motivos concretos para prestar atención: uno de sus ingredientes es un alga y toda la fórmula gira alrededor de la fibra." },
+    { "type": "p", "text": "Vamos por partes. Prunex1 es una bebida en polvo a base de fibras y extractos vegetales, no un medicamento, y no tiene ningún efecto declarado sobre la tiroides. Lo que sigue es información para que llegues a tu consulta con las preguntas correctas." },
+    { "type": "h2", "text": "Prunex1 y tiroides: por qué el kelp importa" },
+    { "type": "p", "text": "El kelp es un alga parda que ocupa el quinto lugar entre los 16 ingredientes. Las algas marinas concentran el yodo del agua de mar, y el kelp está entre las que más pueden contener. El problema es la variabilidad: según la especie, el origen y el procesamiento, el contenido de yodo de un alga cambia muchísimo, y la etiqueta peruana de Prunex1 no informa cuánto aporta cada stick." },
+    { "type": "callout", "variant": "etiqueta", "title": "Lo que la etiqueta dice y lo que no dice", "text": "Dice: “Alga deshidratada (kelp)” dentro de la lista de ingredientes. No dice: la cantidad de kelp por stick ni la cantidad de yodo. Cualquier cifra de yodo que veas atribuida a Prunex1 en redes o foros no proviene de la tabla nutricional oficial." },
+    { "type": "p", "text": "Hay un dato que matiza: el stick completo pesa 5 g y el kelp aparece después de la tapioca, la achicoria, el psyllium y el anís estrella. Pero matizar no es descartar. Para una tiroides sana, una pequeña fuente adicional de yodo rara vez importa; para alguien con enfermedad tiroidea, sí puede contar. Si quieres conocer el ingrediente a fondo, revisa nuestro artículo sobre el [kelp en Prunex1](/ingredientes-prunex1/kelp/)." },
+    { "type": "p", "text": "En el Perú, además, la principal fuente de yodo de la población es la sal yodada, presente en casi todas las cocinas desde hace décadas, a la que se suman los pescados y mariscos del cebiche o la parihuela. Es decir, muchas personas ya cubren su necesidad de yodo sin productos adicionales." },
+    { "type": "h2", "text": "Si tienes hipotiroidismo o hipertiroidismo" },
+    { "type": "p", "text": "El yodo es indispensable para fabricar hormona tiroidea, pero cuando la glándula está enferma la relación no es lineal: tanto la falta como el exceso pueden causar problemas. Estas son las situaciones en las que más conviene consultar:" },
+    { "type": "ul", "items": [
+      "**Hipotiroidismo, por ejemplo por tiroiditis de Hashimoto:** en algunas personas susceptibles, un aporte alto y sostenido de yodo puede empeorar el funcionamiento de la glándula. No significa que una taza lo haga, pero es la razón por la que tu endocrinólogo debe saberlo.",
+      "**Hipertiroidismo, enfermedad de Graves, bocio o nódulos:** el yodo extra puede estimular todavía más la producción de hormona. Aquí la prudencia es mayor.",
+      "**Tratamiento con yodo radiactivo o estudios con yodo:** antes de estos procedimientos se suele indicar una dieta baja en yodo, y los productos con algas suelen estar en la lista de lo que conviene evitar.",
+      "**Después de una cirugía de tiroides:** el manejo depende del motivo de la operación, así que pregunta antes de incorporar cualquier producto con algas."
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Habla con tu endocrinólogo antes", "text": "Si tienes cualquier enfermedad de la tiroides, nódulos o estás en control por una TSH alterada, consulta antes de tomar Prunex1. Si lo empiezas, avísale para que lo tenga en cuenta al interpretar tus próximos análisis. Consulta también ante palpitaciones, temblor, cansancio inusual o cambios de peso sin explicación." },
+    { "type": "cta", "text": "¿Tu endocrinólogo te dio el visto bueno? Consulta el precio y las presentaciones de Prunex1 en la tienda del distribuidor autorizado." },
+    { "type": "h2", "text": "Levotiroxina y fibra: separar las tomas" },
+    { "type": "p", "text": "Aquí el tema ya no es el kelp, sino la fibra. La levotiroxina se absorbe mejor con el estómago vacío, y se sabe que la fibra dietaria, el café, el calcio o el hierro tomados cerca de ella pueden reducir su absorción. El psyllium, la inulina y el mucílago de linaza de Prunex1 forman un gel que podría retener parte del fármaco si coinciden en el intestino." },
+    { "type": "p", "text": "La recomendación prudente es **no tomar Prunex1 junto con la levotiroxina** y dejar varias horas de separación. La referencia general para fibra y medicamentos es de al menos dos horas, pero algunos endocrinólogos piden más margen con la levotiroxina; sigue lo que te indique el tuyo. Ampliamos esta pauta en [cómo separar Prunex1 de tus medicamentos](/como-preparar-prunex1/medicamentos/)." },
+    { "type": "ol", "items": [
+      "Toma tu levotiroxina como te indicó tu médico, con agua sola.",
+      "Elige para Prunex1 un momento alejado de la pastilla y mantenlo constante, para que la absorción del fármaco sea estable de un día a otro.",
+      "Si empiezas o dejas de tomar Prunex1, coméntalo en tu siguiente control: un cambio sostenido en la fibra diaria puede justificar revisar tu TSH.",
+      "Aplica el mismo criterio con el metimazol u otros medicamentos para la tiroides: pregunta antes de combinarlos."
+    ] },
+    { "type": "h2", "text": "Lo que Prunex1 no hace por tu tiroides" },
+    { "type": "callout", "variant": "fabricante", "title": "Lo que comunica la marca", "text": "FuXion presenta Prunex1 como apoyo para un adecuado tránsito intestinal y para sentirte más liviano sin las molestias de la hinchazón abdominal. No lo comunica como un producto para la tiroides ni como fuente de yodo." },
+    { "type": "p", "text": "Vale la pena decirlo porque circula la idea de que las algas activan la tiroides o ayudan a bajar de peso por esa vía. No hay base para atribuirle eso a Prunex1. El estreñimiento sí es una molestia frecuente en el hipotiroidismo, y es comprensible que alguien en esa situación busque una bebida con fibra; justamente por eso conviene decidir con información y con el endocrinólogo al tanto." },
+    { "type": "p", "text": "Recuerda también que, según la ficha oficial, el producto no está pensado para personas con tránsito intestinal normal. Para el resto de dudas de seguridad, revisa [quiénes deben evitar o consultar antes de tomar Prunex1](/opiniones-prunex1/contraindicaciones/) y la guía general de [opiniones sobre Prunex1](/opiniones-prunex1/). Si ya tienes luz verde, puedes [pedir Prunex1 original aquí](/comprar-prunex1/)." }
+  ],
+  "faqs": [
+    { "q": "¿Cuánto yodo tiene un stick de Prunex1?", "a": "No se sabe con certeza, porque la etiqueta peruana no lo declara. Solo se informa que contiene kelp, que aporta yodo de forma natural. Si necesitas el dato para tu control, puedes solicitarlo directamente al fabricante, FuXion Biotech S.A.C." },
+    { "q": "¿Puedo tomarlo si mi tiroides está controlada y estable?", "a": "Depende de tu diagnóstico, de tu dosis y de tus análisis recientes, así que la decisión es de tu endocrinólogo. Lo que aplica siempre es no tomarlo junto con la levotiroxina y mantener un horario constante si te lo autorizan." },
+    { "q": "¿El yodo de la sal y el del kelp se suman?", "a": "Sí. El cuerpo no distingue el origen del yodo, por lo que todas las fuentes cuentan para tu ingesta total: sal yodada, pescados, mariscos, lácteos, suplementos y productos con algas. Por eso es útil que tu médico conozca todo lo que consumes." },
+    { "q": "¿Existe alguna versión de Prunex1 sin kelp?", "a": "No. La fórmula vigente en el Perú incluye kelp entre sus 16 ingredientes. Si tu endocrinólogo te pide evitar las algas, lo prudente es no tomar Prunex1 y buscar con él otras fuentes de fibra." }
+  ],
+  "sources": [
+    { "label": "NIH Office of Dietary Supplements – Iodine (Fact Sheet for Consumers)", "url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer/" },
+    { "label": "American Thyroid Association", "url": "https://www.thyroid.org/" },
+    { "label": "MedlinePlus – Levotiroxina", "url": "https://medlineplus.gov/spanish/druginfo/meds/a682461-es.html" },
+    { "label": "Organización Mundial de la Salud (OMS)", "url": "https://www.who.int/" },
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/ingredientes-prunex1/kelp/", "/como-preparar-prunex1/medicamentos/", "/opiniones-prunex1/hipertension/", "/opiniones-prunex1/contraindicaciones/"]
+}

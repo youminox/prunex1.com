@@ -1,0 +1,72 @@
+{
+  "slug": "packs-con-prunex1",
+  "pillar": "precio-prunex1-peru",
+  "path": "/precio-prunex1-peru/packs-con-prunex1/",
+  "isPillar": false,
+  "primaryKeyword": "packs FuXion con Prunex1",
+  "title": "Packs FuXion con Prunex1: cuáles lo incluyen y cuándo conviene",
+  "seoTitle": "Packs FuXion con Prunex1: Detox 5 Días y packs 5/14",
+  "metaDescription": "Packs FuXion con Prunex1: qué programas del catálogo lo incluyen, cómo compararlos con la compra suelta y cuándo conviene más llevar solo el doypack.",
+  "excerpt": "Prunex1 aparece solo y dentro de algunos packs del catálogo FuXion. Te explicamos cuáles son, cómo compararlos y cuándo tiene más sentido comprar únicamente el doypack.",
+  "quickAnswer": "Los packs FuXion con Prunex1 más conocidos son el Programa Detox 5 Días y los packs 5/14, que combinan Prunex1 con otros productos de la marca. Su contenido, precio y puntos se revisan en la tienda oficial. Si solo te interesa una bebida con fibra, comprar el doypack de 28 sticks (S/ 76.00) o el de 7 (S/ 21.00) suele ser lo más simple.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "Two warm reddish-amber drinks in clear glass cups on a rustic wooden table beside a ceramic bowl of dried prunes, a few lemon slices and star anise pods, a woven basket with fresh fruit from a Lima market softly blurred in the background, natural late-morning light, minimal style, no packaging, no sachets, no boxes, no text, no logos, no visible faces",
+    "alt": "Dos vasos de bebida ámbar rojiza con guindones, limón y anís estrella sobre una mesa de madera"
+  },
+  "blocks": [
+    { "type": "p", "text": "Entras a la tienda online buscando Prunex1 y, además del doypack, aparecen cajas con nombres como «Programa Detox» o números como 5/14. La pregunta es inmediata: ¿me conviene llevar el pack o solo lo que vine a buscar?" },
+    { "type": "p", "text": "Esta página es la excepción del sitio en la que nombramos otros productos de FuXion, porque es imposible hablar de packs sin hacerlo. Aun así, el eje sigue siendo Prunex1: qué papel tiene dentro de cada combinación y en qué casos sale mejor comprarlo por separado." },
+    { "type": "h2", "text": "Qué packs FuXion con Prunex1 hay en el catálogo" },
+    { "type": "p", "text": "Prunex1 forma parte de la **Línea Limpieza y Detox** del catálogo FuXion Perú. Por eso aparece, en términos generales, en dos tipos de combinaciones:" },
+    { "type": "table", "caption": "Packs del catálogo que incluyen Prunex1 (descripción general; el contenido exacto se confirma en la tienda)", "headers": ["Opción", "Qué es, en términos generales", "Qué revisar en la tienda"], "rows": [
+      ["Programa Detox 5 Días", "Pack de la línea Limpieza y Detox que combina Prunex1 con otras bebidas de la marca y una guía propia", "Lista de productos, número de sticks de cada uno, precio y puntos"],
+      ["Packs 5/14", "Combinaciones que unen la etapa detox con otro programa del catálogo; el nombre alude a etapas de 5 y de 14 días", "Qué productos incluye cada versión y si Prunex1 viene en doypack o en sticks contados"],
+      ["Prunex1 solo", "Doypack de 28 sticks (S/ 76.00) o de 7 sticks (S/ 21.00)", "Presentación disponible y costo de envío"]
+    ] },
+    { "type": "p", "text": "Versiones del Programa Detox han incluido, junto a Prunex1, bebidas como Alpha Balance o Flora Liv, pero la composición de los packs puede cambiar entre ediciones. No te guíes por una foto vieja de redes sociales: revisa la ficha del pack en la tienda el día que compras." },
+    { "type": "callout", "variant": "fabricante", "title": "Cada pack trae sus propias indicaciones", "text": "Los programas de FuXion vienen con una guía de uso propia. En este sitio no desarrollamos esos protocolos. Lo que sí podemos repetir es lo que dice la etiqueta de Prunex1: disolver un stick (5 g) en una taza de 180 ml de agua caliente, revolver bien y consumir la preparación en su totalidad." },
+    { "type": "h2", "text": "Cuándo conviene comprar Prunex1 solo" },
+    { "type": "p", "text": "Para la mayoría de personas que llegan buscando específicamente Prunex1, el doypack individual es la compra más lógica. Estos son los casos más claros:" },
+    { "type": "ul", "items": [
+      "**Solo te interesa la bebida con fibra.** Si no tenías pensado usar los demás productos del pack, pagarías por cosas que quizá se queden en la alacena.",
+      "**Es tu primera vez.** Con el doypack de 7 sticks a S/ 21.00 conoces el sabor guindón y la textura sin un gasto mayor. Lo detallamos en el artículo del [doypack de 7 sticks y su precio](/precio-prunex1-peru/doypack-7-sticks-precio/).",
+      "**Quieres saber cómo te cae.** Con un solo producto es más fácil identificar si algo no te sienta bien. Si empiezas con varios a la vez, no sabrás cuál fue.",
+      "**Tienes restricciones o alergias.** Cada producto adicional es una etiqueta más que revisar. Prunex1, por ejemplo, contiene carmín y se elabora en equipos que procesan leche, huevos y soya; lo explicamos en [los alérgenos de Prunex1](/ingredientes-prunex1/alergenos/).",
+      "**Quieres controlar tu presupuesto.** Un doypack es un gasto acotado y previsible; puedes proyectarlo con los ejemplos de [cuánto gastar al mes en Prunex1](/precio-prunex1-peru/presupuesto-mensual/)."
+    ] },
+    { "type": "cta", "text": "Revisa el doypack de Prunex1 y, si te interesa, compara con los packs en la tienda oficial." },
+    { "type": "h2", "text": "Cuándo puede tener sentido un pack" },
+    { "type": "p", "text": "Un pack tiene lógica cuando ya conoces y tenías intención de comprar los otros productos que incluye. En ese caso, el formato combinado puede ser más cómodo: un solo pedido, un solo envío y todo organizado en la misma caja." },
+    { "type": "p", "text": "Lo que no conviene es dejarse llevar por el nombre. «Detox» es un término de marketing con el que conviene tener cuidado: el cuerpo ya tiene órganos, como el hígado y los riñones, que se encargan de procesar y eliminar desechos. Si quieres entender qué hay detrás de la palabra, revisa [qué significa detox en Prunex1](/que-es-prunex1/detox-que-significa/)." },
+    { "type": "h2", "text": "Cómo comparar un pack con la compra suelta" },
+    { "type": "p", "text": "Antes de decidir, haz esta comparación con la ficha del pack abierta en una pestaña y los precios individuales en otra. Toma cinco minutos y evita sorpresas:" },
+    { "type": "steps", "items": [
+      { "name": "Lista el contenido", "text": "Anota cada producto del pack y cuántos sticks o porciones trae de cada uno, incluido Prunex1." },
+      { "name": "Busca los precios individuales", "text": "Revisa en la misma tienda cuánto costaría cada producto por separado en su presentación más parecida." },
+      { "name": "Compara totales y puntos", "text": "Suma los precios individuales y compáralos con el precio del pack. Mira también los puntos, aunque no sean un descuento directo." },
+      { "name": "Revisa cada etiqueta", "text": "Lee ingredientes y advertencias de todos los productos, no solo de Prunex1, sobre todo si tienes alergias o tomas medicamentos." },
+      { "name": "Sé honesto con el uso", "text": "Pregúntate si de verdad usarás todo el contenido antes del vencimiento. Un pack a medio usar no es un ahorro." }
+    ] },
+    { "type": "callout", "variant": "aviso", "title": "Más productos, más motivos para consultar", "text": "Prunex1 es un alimento, no un medicamento, y no trata ni previene enfermedades. Si tomas medicación, tienes una enfermedad crónica, problemas de tiroides o renales, o presentas dolor intenso, sangre en las heces o cambios bruscos del hábito intestinal, consulta con tu médico antes de empezar cualquier pack. Según la ficha oficial de FuXion, Prunex1 no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." },
+    { "type": "h2", "text": "Dónde ver los packs y el precio de Prunex1" },
+    { "type": "p", "text": "Los packs, su contenido y sus precios vigentes se ven en la tienda online del distribuidor: https://carlos-lingan.site.fuxion.com/prunex1/. Si prefieres ir directo al producto individual, en la página para [comprar Prunex1 en la tienda oficial](/comprar-prunex1/) tienes las presentaciones disponibles, y en la guía de [precio de Prunex1 en Perú](/precio-prunex1-peru/) encontrarás el resumen de precios, puntos y envío." }
+  ],
+  "faqs": [
+    { "q": "¿El Prunex1 que viene en un pack es igual al del doypack?", "a": "Es el mismo producto de FuXion, pero en un pack puede venir en un número distinto de sticks que el doypack de 28. Revisa en la ficha cuántas porciones de Prunex1 incluye cada pack para comparar bien." },
+    { "q": "¿Puedo armar mi propio pack con Prunex1 y otros productos?", "a": "Puedes añadir varios productos al mismo carrito de la tienda oficial, pero eso no lo convierte en un pack del catálogo con su precio y puntos. Compara siempre el total de tu carrito con el precio del pack equivalente." },
+    { "q": "¿Los packs con Prunex1 se envían a provincias?", "a": "La tienda oficial realiza envíos a Lima y provincias; el costo y el plazo se calculan en el checkout según tu dirección. Un pack más voluminoso puede tener un costo de envío distinto al de un solo doypack." },
+    { "q": "¿Necesito ser socio para comprar un pack?", "a": "No es necesario: los packs del catálogo se pueden comprar como cliente. Si te interesa entender qué cambia al registrarte, revisa la guía de precio de socio frente a cliente en esta misma sección." }
+  ],
+  "sources": [
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" },
+    { "label": "Tienda online del distribuidor autorizado – Prunex1", "url": "https://carlos-lingan.site.fuxion.com/prunex1/" },
+    { "label": "NIDDK – Your Digestive System & How It Works", "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/digestive-system-how-it-works" }
+  ],
+  "related": [
+    "/precio-prunex1-peru/precio-socio-vs-cliente/",
+    "/precio-prunex1-peru/doypack-7-sticks-precio/",
+    "/que-es-prunex1/detox-que-significa/",
+    "/precio-prunex1-peru/presupuesto-mensual/"
+  ]
+}

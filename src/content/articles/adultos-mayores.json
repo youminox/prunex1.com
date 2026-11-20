@@ -1,0 +1,75 @@
+{
+  "slug": "adultos-mayores",
+  "pillar": "como-preparar-prunex1",
+  "path": "/como-preparar-prunex1/adultos-mayores/",
+  "isPillar": false,
+  "primaryKeyword": "Prunex1 adultos mayores",
+  "title": "Prunex1 en adultos mayores: hidratación, medicamentos y deglución",
+  "seoTitle": "Prunex1 adultos mayores: qué tener en cuenta",
+  "metaDescription": "Prunex1 en adultos mayores: cómo cuidar la hidratación, separar los medicamentos, qué pasa si cuesta tragar y cuándo hablar primero con el médico.",
+  "excerpt": "Guía práctica para preparar Prunex1 a un adulto mayor con seguridad: agua, pastillas, textura de la bebida y señales para ir al médico.",
+  "quickAnswer": "Prunex1 en adultos mayores puede formar parte de la rutina solo si el médico de cabecera está de acuerdo, sobre todo cuando hay varias pastillas diarias, enfermedades crónicas o dificultad para tragar. Se prepara igual que para cualquier adulto (1 stick en 180 ml de agua caliente), pero exige vigilar la hidratación del día y la textura de la bebida.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A ceramic mug with a sturdy handle holding a warm reddish-amber drink on a lace tablecloth, next to a weekly pill organizer slightly out of focus and a glass of water, soft morning light through a window of a traditional Lima home, warm and calm atmosphere, no packaging, no sachets, no text, no logos, no faces",
+    "alt": "Taza con asa firme con bebida color ámbar junto a un vaso de agua y un pastillero semanal en una mesa familiar"
+  },
+  "blocks": [
+    { "type": "p", "text": "En muchas casas limeñas la escena se repite: la hija o el nieto compra algo para \"ayudar a la abuela con la barriga\" y lo deja sobre la mesa del comedor, al lado del pastillero de la semana. Antes de servirle la primera taza de Prunex1 a un adulto mayor conviene detenerse un momento, porque a partir de los 65 o 70 años entran en juego factores que en un adulto joven casi no pesan." },
+    { "type": "p", "text": "Este artículo no reemplaza la consulta médica. Su objetivo es que llegues a esa consulta con las preguntas correctas y que, si el médico da luz verde, la preparación sea segura y cómoda para tu familiar. El modo de empleo general está en la [guía completa para preparar Prunex1](/como-preparar-prunex1/)." },
+    { "type": "h2", "text": "Prunex1 en adultos mayores: lo que dice (y lo que no dice) la etiqueta" },
+    { "type": "p", "text": "La etiqueta no trae indicaciones específicas por edad. Indica disolver un stick de 5 g en una taza de 180 ml de agua caliente, revolver bien y consumirlo en su totalidad. La ficha oficial de FuXion añade que no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." },
+    { "type": "p", "text": "Que no exista una advertencia expresa para personas mayores no significa que sea automáticamente adecuado para todas. Es un alimento, no un medicamento: no trata ni previene enfermedades, y en esta etapa de la vida un cambio en el ritmo intestinal puede tener causas que merecen un diagnóstico antes que una bebida con fibra." },
+    { "type": "callout", "variant": "etiqueta", "title": "Datos de la etiqueta útiles para el cuidador", "text": "Por porción (5 g en 180 ml): 18 kcal, 1.7 g de fibra dietaria, 2.0 mg de sodio, 4.5 g de carbohidratos, 0.2 g de azúcares totales y 0 g de azúcares añadidos. Contiene sorbitol y estevia. Elaborado en equipos que procesan leche, huevos y soya. La cantidad de magnesio y de yodo (que el kelp aporta de forma natural) no está declarada." },
+    { "type": "h2", "text": "Hidratación: el punto que más se descuida" },
+    { "type": "p", "text": "Con los años la sensación de sed disminuye y muchas personas mayores toman poca agua, a veces a propósito para no levantarse tanto al baño. El problema es que la fibra del psyllium, la inulina y el mucílago de linaza funciona reteniendo agua: si el resto del día la persona apenas bebe, la fibra puede resultar incómoda en lugar de útil." },
+    { "type": "ul", "items": [
+      "Respeta los 180 ml de agua por stick; no lo prepares más concentrado para que \"sea menos\" líquido.",
+      "Reparte el agua del día en tomas pequeñas y frecuentes: un vaso con el desayuno, otro a media mañana, una sopa en el almuerzo.",
+      "En el invierno húmedo de Lima se toma menos agua fría; las infusiones tibias y los caldos también cuentan como líquidos.",
+      "Si tu familiar tiene indicación médica de restringir líquidos (por ejemplo, por insuficiencia cardiaca o renal), la decisión de usar una bebida con fibra corresponde exclusivamente a su médico."
+    ] },
+    { "type": "p", "text": "Para orientarte sobre el agua a lo largo de la jornada, revisa el artículo sobre [cuánta agua acompañar a Prunex1](/como-preparar-prunex1/cuanta-agua-tomar/)." },
+    { "type": "h2", "text": "Medicamentos: separar tomas y avisar al médico" },
+    { "type": "p", "text": "Es habitual que un adulto mayor tome cuatro, cinco o más medicamentos al día. Las fibras que forman gel pueden retrasar o disminuir la absorción de algunos fármacos, por eso la recomendación general es separar la bebida de las pastillas. El detalle de cómo hacerlo está en [Prunex1 y medicamentos](/como-preparar-prunex1/medicamentos/)." },
+    { "type": "p", "text": "Hay grupos que merecen una consulta específica antes de empezar: anticoagulantes, medicación para la tiroides (además, el kelp aporta yodo en cantidad no declarada), tratamientos para la diabetes, diuréticos y medicamentos para el corazón. Lleva a la consulta la lista completa de lo que toma tu familiar, incluidos los productos naturales." },
+    { "type": "cta", "text": "Si el médico de tu familiar aprueba su uso, revisa el precio de catálogo y las presentaciones disponibles de Prunex1." },
+    { "type": "h2", "text": "Dificultad para tragar: cuidado con las bebidas que espesan" },
+    { "type": "p", "text": "Este es el punto más delicado. Prunex1 contiene psyllium, mucílago de linaza y goma xantán, ingredientes que con el agua forman una textura algo viscosa, y que se vuelve más espesa si la taza se deja reposar. En una persona sin problemas para deglutir es solo una cuestión de gusto, pero en alguien con disfagia la textura cambia de forma poco predecible." },
+    { "type": "p", "text": "Las fibras tipo psyllium tomadas con poco líquido se asocian a riesgo de atragantamiento en personas con dificultad para tragar. Si tu familiar tose al beber, se le \"va por otro lado\" el agua, ya usa líquidos espesados con indicación profesional o tuvo un derrame cerebral, no le ofrezcas Prunex1 sin la evaluación de su médico o de un especialista en deglución." },
+    { "type": "callout", "variant": "aviso", "title": "No improvises con la textura", "text": "No intentes adaptar Prunex1 como si fuera un espesante, ni lo diluyas en menos agua para que sea más fácil de tomar. La etiqueta indica 180 ml por stick y consumirlo en su totalidad una vez preparado. Si existe disfagia, la textura segura la define un profesional de salud." },
+    { "type": "h2", "text": "Cómo preparar la taza de forma segura para un adulto mayor" },
+    { "type": "steps", "items": [
+      { "name": "Elige la taza adecuada", "text": "Usa una taza con asa firme y algo pesada, que no se voltee fácilmente. Si hay temblor en las manos, una taza con tapa y boquilla ayuda." },
+      { "name": "Mide los 180 ml", "text": "Marca con plumón indeleble el nivel de 180 ml en la taza de siempre para no calcular a ojo cada vez." },
+      { "name": "Cuida la temperatura", "text": "La etiqueta pide agua caliente, no hirviendo. Prepárala tú y espera a que esté tibia y agradable antes de entregarla, para evitar quemaduras." },
+      { "name": "Abre el stick por él o ella", "text": "Con artritis abrir un stick pequeño cuesta; córtalo con tijera y vierte el polvo sobre el agua." },
+      { "name": "Revuelve y sirve de inmediato", "text": "Mezcla bien y ofrécela recién hecha, sentado y sin apuro. Si se deja reposar, espesa; puedes ver trucos para evitar grumos en [Prunex1 sin grumos](/como-preparar-prunex1/sin-grumos/)." }
+    ] },
+    { "type": "h2", "text": "Señales para no empezar o para suspender y consultar" },
+    { "type": "p", "text": "En personas mayores, un cambio en el hábito intestinal no siempre es algo menor. Antes de buscar una bebida con fibra, o si ya la están tomando, consulta con el médico ante cualquiera de estas situaciones:" },
+    { "type": "ul", "items": [
+      "Cambio brusco y reciente del ritmo intestinal sin explicación clara.",
+      "Sangre en las heces o heces negras.",
+      "Pérdida de peso que no se explica o falta de apetito persistente.",
+      "Dolor abdominal intenso, vientre muy distendido o vómitos (posible obstrucción).",
+      "Diarrea o heces muy blandas: el sorbitol y la fibra pueden ablandarlas en exceso, y en edad avanzada eso favorece la deshidratación."
+    ] },
+    { "type": "p", "text": "Para revisar con calma quiénes no deberían tomarlo, consulta las [contraindicaciones de Prunex1](/opiniones-prunex1/contraindicaciones/)." },
+    { "type": "h2", "text": "El rol del cuidador: rutina, observación y sentido común" },
+    { "type": "p", "text": "Quien cuida a un adulto mayor suele ser el que mejor detecta los cambios. Si el médico aprueba Prunex1, anota en una libreta o en el celular cómo se siente tu familiar, cuánta agua toma y cualquier molestia, como gases o hinchazón. Esa información vale oro en el siguiente control." },
+    { "type": "p", "text": "Recuerda también que la bebida no sustituye lo básico: comidas con verduras y frutas de estación, una caminata corta por el parque si su movilidad lo permite y horarios de baño tranquilos. Si decides comprarlo, hazlo por un canal confiable; en [dónde comprar Prunex1](/comprar-prunex1/) encontrarás el acceso directo a la tienda del distribuidor autorizado." }
+  ],
+  "faqs": [
+    { "q": "¿Mi papá de 80 años puede tomar Prunex1?", "a": "La etiqueta no fija un límite de edad, pero a esa edad lo prudente es que lo decida su médico. Influyen sus medicamentos, su capacidad para tragar, cuánta agua toma y sus enfermedades de base." },
+    { "q": "¿Prunex1 tiene mucho sodio para alguien con presión alta?", "a": "Según la etiqueta aporta 2.0 mg de sodio por porción y lleva el sello bajo en sodio. Aun así, en hipertensión conviene revisar el conjunto de la medicación con el médico; puedes leer más en el artículo sobre Prunex1 e hipertensión." },
+    { "q": "¿Puedo dárselo con una cañita a una persona postrada?", "a": "No es recomendable sin indicación profesional. Una persona postrada suele tener más riesgo de atragantamiento y de deshidratación, y la textura de la bebida espesa con el tiempo; consulta primero con su médico o especialista en deglución." },
+    { "q": "¿Se puede preparar en la mañana y dárselo en la tarde?", "a": "No. La etiqueta indica que, una vez preparado, se consuma en su totalidad. Además, con las horas la bebida se vuelve más espesa, lo que es justamente lo que conviene evitar en una persona mayor." }
+  ],
+  "sources": [
+    { "label": "NIDDK – Instituto Nacional de Diabetes y Enfermedades Digestivas y Renales (NIH)", "url": "https://www.niddk.nih.gov/" },
+    { "label": "MedlinePlus – Información de salud para adultos mayores", "url": "https://medlineplus.gov/spanish/" },
+    { "label": "FuXion – Ficha oficial de Prunex1", "url": "https://www.fuxion.com/" }
+  ],
+  "related": ["/como-preparar-prunex1/medicamentos/", "/como-preparar-prunex1/cuanta-agua-tomar/", "/opiniones-prunex1/contraindicaciones/", "/opiniones-prunex1/hipertension/"]
+}

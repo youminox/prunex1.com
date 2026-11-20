@@ -1,0 +1,76 @@
+{
+  "slug": "formas-de-pago",
+  "pillar": "precio-prunex1-peru",
+  "path": "/precio-prunex1-peru/formas-de-pago/",
+  "isPillar": false,
+  "primaryKeyword": "comprar Prunex1 con tarjeta",
+  "title": "Comprar Prunex1 con tarjeta: medios de pago y checkout seguro",
+  "seoTitle": "Comprar Prunex1 con tarjeta: pago seguro paso a paso",
+  "metaDescription": "Cómo comprar Prunex1 con tarjeta Visa, Mastercard, American Express o Diners en la tienda oficial: checkout paso a paso, seguridad y comprobante de compra.",
+  "excerpt": "Qué tarjetas acepta la tienda oficial de Prunex1, cómo es el checkout paso a paso, cómo pagar sin caer en estafas y qué comprobante recibes al terminar.",
+  "quickAnswer": "Para comprar Prunex1 con tarjeta, usa la tienda oficial del distribuidor: acepta Visa, Mastercard, American Express y Diners Club, y cualquier otro medio disponible aparece en la pantalla de pago. Eliges la presentación, ingresas tu dirección, revisas el total con envío, pagas en la pasarela y recibes la confirmación del pedido por correo.",
+  "readingMinutes": 6,
+  "image": {
+    "prompt": "A white ceramic cup of warm reddish-amber drink on a tidy home office desk next to a closed laptop, a small potted succulent and a notebook with a pen, soft late afternoon light through sheer curtains in a Lima apartment, clean minimal composition, no packaging, no sachets, no screens with text, no text, no logos, no people",
+    "alt": "Taza de bebida rojiza junto a una laptop cerrada y una libreta en un escritorio de casa"
+  },
+  "blocks": [
+    { "type": "p", "text": "Pagar por internet todavía genera desconfianza, y con razón: los mensajes por WhatsApp con supuestos links de pago y las páginas que imitan tiendas conocidas están a la orden del día. La buena noticia es que comprar Prunex1 en la tienda oficial es un proceso estándar, parecido al de cualquier comercio electrónico serio, y se puede hacer con total tranquilidad si sabes qué mirar." },
+    { "type": "p", "text": "En esta guía repasamos qué tarjetas se aceptan, cómo es cada paso del checkout, cómo reconocer que estás en el sitio correcto y qué comprobante te queda al final." },
+    { "type": "h2", "text": "¿Qué tarjetas acepta la tienda oficial de Prunex1?" },
+    { "type": "p", "text": "La tienda online del distribuidor, dentro de la plataforma de FuXion, trabaja con las principales marcas de tarjeta que se usan en el Perú. Este es el panorama:" },
+    { "type": "table", "caption": "Medios de pago para comprar Prunex1 en la tienda oficial", "headers": ["Medio de pago", "¿Se acepta?", "Comentario"], "rows": [
+      ["Visa", "Sí", "Crédito; las de débito funcionan si tu banco tiene habilitadas las compras por internet"],
+      ["Mastercard", "Sí", "Mismo criterio: revisa que las compras online estén activas en tu app bancaria"],
+      ["American Express", "Sí", "Ten a mano el código de seguridad de cuatro dígitos del frente de la tarjeta"],
+      ["Diners Club", "Sí", "Verifica tu línea disponible antes de pagar"],
+      ["Otros medios (billeteras digitales, efectivo, transferencia)", "Se confirman al pagar", "Lo que aparezca en la pantalla de pago es lo vigente; no lo des por sentado"]
+    ] },
+    { "type": "p", "text": "El monto se cobra en soles: S/ 76.00 por el doypack de 28 sticks o S/ 21.00 por el de 7, más el envío que se calcula según tu dirección. El detalle de precios y presentaciones está en la [guía del precio de Prunex1 en Perú](/precio-prunex1-peru/)." },
+    { "type": "h2", "text": "Checkout paso a paso para comprar Prunex1 con tarjeta" },
+    { "type": "steps", "items": [
+      { "name": "Entra a la tienda", "text": "Hazlo desde la [página de compra de Prunex1](/comprar-prunex1/) o escribiendo tú mismo la dirección de la [tienda oficial](https://carlos-lingan.site.fuxion.com/prunex1/)." },
+      { "name": "Elige la presentación y la cantidad", "text": "Selecciona el doypack de 28 o de 7 sticks y pulsa agregar al carrito." },
+      { "name": "Revisa el carrito", "text": "Confirma producto, cantidad y subtotal. Si te equivocaste, ajusta aquí antes de seguir." },
+      { "name": "Completa tus datos y la dirección", "text": "Nombre, documento, correo, celular y dirección de entrega con referencia." },
+      { "name": "Mira el total final", "text": "El sistema suma el envío a tu zona. Ese es el monto que se cargará a tu tarjeta." },
+      { "name": "Ingresa la tarjeta en la pasarela", "text": "Número, fecha de vencimiento, código de seguridad y nombre del titular. Tu banco puede pedirte una validación adicional en su app o por mensaje." },
+      { "name": "Guarda la confirmación", "text": "Al aprobarse el pago verás una pantalla de confirmación y recibirás un correo con el número de pedido." }
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Antes de pagar, revisa tu app bancaria", "text": "Muchos rechazos ocurren porque la tarjeta tiene desactivadas las compras por internet o un límite bajo para ese tipo de consumo. Actívalas en la app de tu banco unos minutos antes; luego puedes volver a desactivarlas si lo prefieres." },
+    { "type": "cta", "text": "Revisa el precio oficial y completa tu compra con tarjeta en la tienda del distribuidor." },
+    { "type": "h2", "text": "Cómo saber que estás pagando en el sitio correcto" },
+    { "type": "p", "text": "La regla más importante es sencilla: los datos de tu tarjeta solo se escriben en la pasarela de pago de la tienda, nunca en un chat. Ni el distribuidor ni FuXion necesitan que les mandes el número de tu tarjeta o su código de seguridad por WhatsApp, Messenger o correo." },
+    { "type": "ul", "items": [
+      "Comprueba que la dirección en el navegador sea la de la tienda dentro del dominio site.fuxion.com y que empiece con https.",
+      "Desconfía de enlaces acortados o de páginas con el nombre de la marca mal escrito.",
+      "Si alguien te ofrece Prunex1 con un precio muy por debajo del catálogo a cambio de un depósito previo, no pagues.",
+      "Evita pagar desde redes wifi públicas, como la de un centro comercial o un café; usa tus datos móviles."
+    ] },
+    { "type": "p", "text": "Comprar en la tienda oficial también protege lo que recibes: un doypack sellado que sale directamente de la logística del fabricante." },
+    { "type": "h2", "text": "El comprobante de tu compra" },
+    { "type": "p", "text": "Al terminar te quedan, como mínimo, dos registros: el correo de confirmación con el número de pedido, el detalle del producto y el monto pagado, y el movimiento en tu estado de cuenta. Guarda ambos hasta recibir el pedido." },
+    { "type": "p", "text": "Si necesitas un tipo de comprobante específico, por ejemplo factura con RUC para tu empresa, revisa si el checkout muestra un campo para indicarlo. Si no lo ves, consulta antes de pagar a través de la página de [contacto](/contacto/); así evitas tener que corregirlo después." },
+    { "type": "h2", "text": "Si tu pago es rechazado" },
+    { "type": "p", "text": "Un rechazo no significa que haya un problema con la tienda. Las causas más frecuentes son de la propia tarjeta: compras online desactivadas, línea insuficiente, un dato mal escrito o una validación del banco que no se completó a tiempo." },
+    { "type": "p", "text": "Antes de reintentar, entra a la app de tu banco y revisa si quedó algún cargo pendiente, para no duplicar el pedido. Si el problema sigue, prueba con otra tarjeta o comunícate con tu banco. Una vez aprobado el pago, el envío sigue su curso: en Lima, revisa [cómo funciona el delivery](/precio-prunex1-peru/delivery-lima/), y fuera de la capital, [el envío a provincias](/precio-prunex1-peru/envio-a-provincias/)." },
+    { "type": "callout", "variant": "aviso", "title": "Lo que compras es un alimento", "text": "Prunex1 es una bebida en polvo con 1.7 g de fibra por porción, no un medicamento. Si tomas medicación, tienes una enfermedad crónica o notas dolor intenso, sangre en las heces o cambios bruscos en tu hábito intestinal, consulta con un médico antes de tomarlo. Según la ficha oficial de FuXion, no es apto para embarazadas, madres en lactancia ni personas con tránsito intestinal normal." }
+  ],
+  "faqs": [
+    { "q": "¿Puedo pagar Prunex1 en cuotas?", "a": "Si la pasarela ofrece cuotas, lo verás al momento de ingresar tu tarjeta de crédito. Si no aparece, algunos bancos permiten convertir una compra en cuotas desde su app; consulta las condiciones e intereses directamente con tu banco." },
+    { "q": "¿Me cobran en soles o en dólares?", "a": "Los precios de la tienda están en soles. Si pagas con una tarjeta emitida fuera del Perú o en dólares, tu banco hará la conversión según su tipo de cambio y sus comisiones." },
+    { "q": "¿Puedo usar la tarjeta de un familiar?", "a": "Solo con su autorización y, de preferencia, con el titular presente para completar la validación del banco. Lo más sencillo es que la compra la haga el titular y escriba tu dirección como lugar de entrega." },
+    { "q": "¿Es obligatorio guardar mi tarjeta en la tienda?", "a": "No. Si la pantalla de pago ofrece recordar la tarjeta, es opcional. Evita marcar esa opción si estás usando una computadora compartida, como la de la oficina." }
+  ],
+  "sources": [
+    { "label": "FuXion – sitio oficial", "url": "https://www.fuxion.com/" },
+    { "label": "Indecopi – protección al consumidor", "url": "https://www.gob.pe/indecopi" },
+    { "label": "SUNAT – comprobantes de pago", "url": "https://www.sunat.gob.pe/" }
+  ],
+  "related": [
+    "/precio-prunex1-peru/delivery-lima/",
+    "/precio-prunex1-peru/envio-a-provincias/",
+    "/precio-prunex1-peru/donde-comprar-original/",
+    "/precio-prunex1-peru/precio-por-stick/"
+  ]
+}
