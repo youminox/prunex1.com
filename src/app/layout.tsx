@@ -25,6 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: { card: "summary_large_image" },
   robots: { index: true, follow: true, googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1 } },
+  verification: { google: "yiX9xpZK7w8QUmwa8tUklptWr7dH-hE37F4xH_DrKbA" },
   formatDetection: { telephone: false },
 };
 
