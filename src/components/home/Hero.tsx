@@ -189,22 +189,21 @@ export default function Hero() {
               Cómo se prepara →
             </Link>
           </div>
-          <dl className="mt-10 grid max-w-lg grid-cols-3 gap-2.5 sm:gap-3">
+          <ul className="mt-10 grid max-w-lg grid-cols-3 gap-2.5 sm:gap-3" aria-label="Datos por porción según la etiqueta">
             {[
               ["18", "kcal", "por taza"],
               ["1.7 g", "", "de fibra"],
               ["0 g", "", "azúcares añadidos"],
             ].map(([v, u, l], i) => (
-              <div key={l} className="glass px-3 py-3 sm:px-4" style={{ animation: `fadeup .8s ${0.85 + i * 0.1}s cubic-bezier(.2,.8,.2,1) both` }}>
-                <dt className="sr-only">{l}</dt>
-                <dd className="font-display text-xl font-extrabold text-white sm:text-2xl">
+              <li key={l} className="glass px-3 py-3 sm:px-4" style={{ animation: `fadeup .8s ${0.85 + i * 0.1}s cubic-bezier(.2,.8,.2,1) both` }}>
+                <p className="font-display text-xl font-extrabold text-white sm:text-2xl">
                   {v}
                   {u && <span className="ml-1 text-sm font-bold text-white/70">{u}</span>}
-                </dd>
-                <p className="text-[0.72rem] leading-tight text-white/60 sm:text-xs">{l}</p>
-              </div>
+                </p>
+                <p className="text-[0.72rem] leading-tight text-white/70 sm:text-xs">{l}</p>
+              </li>
             ))}
-          </dl>
+          </ul>
         </div>
 
         <div className="tilt-stage relative z-10 mx-auto w-full max-w-[580px]">

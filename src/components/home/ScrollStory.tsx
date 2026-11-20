@@ -42,7 +42,7 @@ export default function ScrollStory() {
           .to(q(".water"), { attr: { y: 205, height: 185 }, duration: 1 }, 0)
           .to(q(".pour"), { opacity: 1, duration: 0.15 }, 0)
           .to(q(".pour"), { opacity: 0, duration: 0.15 }, 0.9)
-          .to(q(".step-0"), { opacity: 0.45, duration: 0.2 }, 1.05)
+          .to(q(".step-0"), { opacity: 0.8, duration: 0.2 }, 1.05)
           .fromTo(q(".stick"), { opacity: 0, x: 120, y: -80, rotate: -10 }, { opacity: 1, x: 0, y: 0, rotate: -38, transformOrigin: "50% 50%", duration: 0.45, ease: "power2.out" }, 1)
           .to(q(".step-1"), { opacity: 1, duration: 0.2 }, 1)
           .to(q(".step-1 .dot"), { backgroundColor: "#7A1F3D", color: "#fff", duration: 0.2 }, 1)
@@ -50,7 +50,7 @@ export default function ScrollStory() {
           .to(q(".powder"), { opacity: 0, duration: 0.15, stagger: 0.025 }, 1.75)
           .to(q(".drink"), { opacity: 1, duration: 0.7 }, 1.6)
           .to(q(".stick"), { opacity: 0, y: -60, duration: 0.3 }, 2.1)
-          .to(q(".step-1"), { opacity: 0.45, duration: 0.2 }, 2.2)
+          .to(q(".step-1"), { opacity: 0.8, duration: 0.2 }, 2.2)
           .to(q(".step-2"), { opacity: 1, duration: 0.2 }, 2.2)
           .to(q(".step-2 .dot"), { backgroundColor: "#8CC63F", color: "#1f3105", duration: 0.2 }, 2.2)
           .to(q(".swirl"), { opacity: 0.9, duration: 0.2 }, 2.2)
@@ -96,11 +96,11 @@ export default function ScrollStory() {
             </div>
             <ol className="mt-6 space-y-3 sm:mt-8 sm:space-y-5">
               {STEPS.map((s, i) => (
-                <li key={s.n} className={`step step-${i} flex gap-4`} style={{ opacity: 0.45 }}>
+                <li key={s.n} className={`step step-${i} flex gap-4`} style={{ opacity: 0.8 }}>
                   <span className="dot grid h-11 w-11 shrink-0 place-items-center rounded-2xl bg-white font-display font-extrabold text-fxink shadow-md">{s.n}</span>
                   <div>
                     <p className="font-display text-lg font-bold sm:text-xl">{s.t}</p>
-                    <p className="text-sm text-[var(--muted)] sm:text-base">{s.d}</p>
+                    <p className="text-sm text-[#46545f] sm:text-base">{s.d}</p>
                   </div>
                 </li>
               ))}

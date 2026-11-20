@@ -54,7 +54,8 @@ export default function ProductGallery({ images }: { images: GalleryImage[] }) {
           alt={cur.alt}
           fill
           priority={i === 0}
-          sizes="(max-width:1024px) 100vw, 560px"
+          fetchPriority={i === 0 ? "high" : undefined}
+          sizes="(max-width:640px) 92vw, (max-width:1024px) 70vw, 560px"
           className={cur.contain ? "object-contain p-4" : "object-cover"}
           style={{ animation: "wordup .4s ease both" }}
         />

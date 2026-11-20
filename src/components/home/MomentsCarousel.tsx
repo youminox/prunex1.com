@@ -30,7 +30,7 @@ export default function MomentsCarousel({ items }: { items: Moment[] }) {
           </button>
         ))}
       </div>
-      <div ref={track} className="no-scrollbar -mx-4 flex snap-x snap-mandatory gap-5 overflow-x-auto scroll-smooth px-4 pb-4" data-lenis-prevent-horizontal>
+      <div ref={track} className="no-scrollbar -mx-4 flex snap-x snap-mandatory scroll-px-4 gap-5 overflow-x-auto scroll-smooth px-4 pb-4" data-lenis-prevent-horizontal>
         {items.map((m, i) => (
           <Link
             key={m.t}

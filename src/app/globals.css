@@ -219,17 +219,14 @@ html.lenis body {
     position: absolute;
     inset: -25%;
     z-index: -2;
-    background: conic-gradient(
-      from 0deg at 60% 50%,
-      rgba(0, 147, 221, 0),
-      rgba(0, 147, 221, 0.38),
-      rgba(122, 31, 61, 0.5),
-      rgba(140, 198, 63, 0.28),
-      rgba(0, 147, 221, 0)
-    );
-    filter: blur(90px);
-    animation: aurora 22s linear infinite;
-    opacity: 0.85;
+    /* Degradados radiales (suaves por sí mismos): sin filter blur para no recalcular píxeles en cada frame */
+    background:
+      radial-gradient(32% 30% at 70% 40%, rgba(0, 147, 221, 0.32), transparent 70%),
+      radial-gradient(30% 34% at 38% 62%, rgba(122, 31, 61, 0.42), transparent 70%),
+      radial-gradient(26% 26% at 58% 72%, rgba(140, 198, 63, 0.2), transparent 70%);
+    animation: aurora 26s linear infinite;
+    will-change: transform;
+    opacity: 0.9;
   }
   @keyframes aurora {
     to {
@@ -267,7 +264,8 @@ html.lenis body {
   /* Palabras del H1 con reveal + degradado animado */
   .hw {
     display: inline-block;
-    opacity: 0;
+    /* 0.01 (no 0): Chrome ignora para LCP los elementos con opacity 0 */
+    opacity: 0.01;
     transform: translateY(0.45em) rotate(3deg);
     background: linear-gradient(100deg, #d4f59c 0%, var(--fx-lime) 25%, #5cc8ff 55%, #ffb08a 80%, var(--drink-light) 100%);
     -webkit-background-clip: text;
@@ -282,7 +280,7 @@ html.lenis body {
   }
   .reveal-word > span {
     display: inline-block;
-    opacity: 0;
+    opacity: 0.01;
     transform: translateY(0.4em);
     animation: wordup 0.9s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
   }
@@ -314,7 +312,6 @@ html.lenis body {
     inset: 10% 8%;
     border-radius: 50%;
     background: radial-gradient(circle, rgba(224, 122, 79, 0.55) 0%, rgba(122, 31, 61, 0.35) 40%, rgba(0, 147, 221, 0.2) 60%, transparent 72%);
-    filter: blur(40px);
     transform: translateZ(-90px);
     animation: pulse 5s ease-in-out infinite;
   }
@@ -791,6 +788,22 @@ html.lenis body {
   }
   .no-scrollbar::-webkit-scrollbar {
     display: none;
+  }
+}
+
+@media (max-width: 768px) {
+  .glass,
+  .chip,
+  .btn-glass {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+  .glass {
+    background: rgba(11, 24, 32, 0.55);
+  }
+  .chip,
+  .btn-glass {
+    background: rgba(255, 255, 255, 0.12);
   }
 }
 
